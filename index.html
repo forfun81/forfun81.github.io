@@ -46,7 +46,7 @@ h2{
   margin-bottom:20px;
 }
 
-/* TRGNA LINIJATA KAJ IMPRESSUM */
+/* Trgnata linija samo za Impressum */
 #impressum h2{
   border-left:none;
   padding-left:0;
@@ -200,7 +200,7 @@ RSS aggregation for informational purposes only.
 
 <script>
 const RSS2JSON="https://api.rss2json.com/v1/api.json?rss_url=";
-const MAX_ITEMS=6;
+const MAX_ITEMS=6; // max items per feed
 
 const FEEDS={
   games:['https://www.gamesradar.com/feeds.xml'],
@@ -210,9 +210,10 @@ const FEEDS={
   various:['https://gizmodo.com/feed']
 };
 
+// Функција за вчитување на RSS и auto-cleanup
 function loadFeed(cat, urls){
   const container=document.getElementById(cat+'-cards');
-  container.innerHTML='';
+  container.innerHTML=''; // clean container before adding new cards
   urls.forEach(url=>{
     fetch(RSS2JSON + encodeURIComponent(url))
     .then(res=>res.json())
@@ -231,10 +232,11 @@ function loadFeed(cat, urls){
         container.appendChild(card);
       });
     })
-    .catch(e=>console.log(e));
+    .catch(e=>console.log('Error loading RSS for '+cat, e));
   });
 }
 
+// Вчитување на сите секции
 Object.keys(FEEDS).forEach(k=>loadFeed(k,FEEDS[k]));
 </script>
 
