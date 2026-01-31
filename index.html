@@ -1,157 +1,82 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>ForFun81 News Aggregator</title>
-<style>
-body {
-    font-family: Arial, sans-serif;
-    background: #f0f2f5;
-    margin: 0;
-    color: #333;
-}
-header {
-    background: linear-gradient(90deg, #0073e6, #00aaff);
-    color: #fff;
-    padding: 10px;
-    text-align: center;
-}
-header h1 {
-    margin: 0;
-    font-size: 1.5em;
-}
-nav {
-    text-align: center;
-    margin: 10px 0;
-}
-nav a {
-    margin: 0 15px;
-    color: #fff;
-    text-decoration: none;
-    font-weight: bold;
-}
-nav a:hover {
-    color: #ffcc00;
-}
-section {
-    max-width: 900px;
-    margin: 20px auto;
-    padding: 0 10px;
-}
-iframe {
-    width: 100%;
-    height: 400px;
-    border: 1px solid #ccc;
-    border-radius: 8px;
-    margin-bottom: 30px;
-}
-h2 {
-    color: #0073e6;
-    margin-bottom: 10px;
-}
-ul {
-    list-style-type: none;
-    padding: 0;
-}
-ul li {
-    margin-bottom: 8px;
-}
-ul li a {
-    color: #0073e6;
-    text-decoration: none;
-}
-ul li a:hover {
-    text-decoration: underline;
-}
-</style>
-</head>
-<body>
-
-<header>
-  <h1>ForFun81 News Aggregator</h1>
-</header>
-
-<nav>
-  <a href="#games">Video Games</a>
-  <a href="#movies">Movies</a>
-  <a href="#tech">Computer Tech</a>
-  <a href="#crypto">Crypto News</a>
-</nav>
-
-<section id="games">
-<h2>Video Games</h2>
-<iframe src="https://www.ign.com/" title="Video Games"></iframe>
-</section>
-
-<section id="movies">
-<h2>Movies</h2>
-<iframe src="https://www.rottentomatoes.com/" title="Movies"></iframe>
-</section>
-
-<section id="tech">
-<h2>Computer Tech</h2>
-<iframe src="https://www.techradar.com/" title="Computer Tech"></iframe>
-</section>
-
 <section id="crypto">
 <h2>Crypto News</h2>
-<ul id="crypto-list">
-  <li>Loading news...</li>
-</ul>
+<div id="crypto-cards" style="display:flex; flex-wrap:wrap; gap:15px;"></div>
 </section>
 
 <script>
-// CONFIG
 const rssURL = 'https://cointelegraph.com/rss';
 const apiURL = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(rssURL)}`;
 const CACHE_KEY = 'cryptoNewsCache';
-const CACHE_TIME = 30 * 60 * 1000; // 30 minutes
+const CACHE_TIME = 30*60*1000; // 30 min
 
-function loadCryptoNews() {
+function renderCard(item) {
+    const div = document.createElement('div');
+    div.style.border = '1px solid #ccc';
+    div.style.borderRadius = '8px';
+    div.style.width = '280px';
+    div.style.padding = '10px';
+    div.style.background = '#fff';
+    div.style.cursor = 'pointer';
+    div.style.boxShadow = '0 2px 5px rgba(0,0,0,0.1)';
+    div.style.display = 'flex';
+    div.style.flexDirection = 'column';
+    div.style.transition = 'all 0.3s ease';
+    
+    div.onmouseover = () => div.style.boxShadow = '0 5px 15px rgba(0,0,0,0.2)';
+    div.onmouseout = () => div.style.boxShadow = '0 2px 5px rgba(0,0,0,0.1)';
+    
+    let imgSrc = item.enclosure?.link || item.thumbnail || ''; // some feeds have image
+    let imgTag = imgSrc ? `<img src="${imgSrc}" style="width:100%; height:150px; object-fit:cover; border-radius:5px 5px 0 0;">` : '';
+    
+    div.innerHTML = `
+        ${imgTag}
+        <h3 style="font-size:1.1em; margin:10px 0;">${item.title}</h3>
+        <div class="desc" style="display:none; font-size:0.95em; color:#333;">${item.description}</div>
+    `;
+    
+    div.addEventListener('click', () => {
+        const descDiv = div.querySelector('.desc');
+        descDiv.style.display = descDiv.style.display === 'none' ? 'block' : 'none';
+        div.scrollIntoView({behavior:'smooth'});
+    });
+    
+    return div;
+}
+
+function loadCrypto() {
     const cached = localStorage.getItem(CACHE_KEY);
     if(cached) {
         const obj = JSON.parse(cached);
-        const now = new Date().getTime();
-        if(now - obj.time < CACHE_TIME) {
-            renderNews(obj.items);
-            return; // use cached
+        if(new Date().getTime() - obj.time < CACHE_TIME) {
+            renderCrypto(obj.items);
+            return;
         }
     }
-
+    
     fetch(apiURL)
-    .then(response => response.json())
+    .then(res => res.json())
     .then(data => {
-        const items = data.items.slice(0, 10); // prvih 10
-        localStorage.setItem(CACHE_KEY, JSON.stringify({time: new Date().getTime(), items: items}));
-        renderNews(items);
+        const items = data.items.slice(0,10);
+        localStorage.setItem(CACHE_KEY, JSON.stringify({time:new Date().getTime(), items:items}));
+        renderCrypto(items);
     })
     .catch(err => {
-        console.error('Error loading RSS feed', err);
-        document.getElementById('crypto-list').innerHTML = '<li>Could not load Crypto News.</li>';
+        console.error(err);
+        document.getElementById('crypto-cards').innerHTML = 'Could not load Crypto News.';
     });
 }
 
-function renderNews(items) {
-    const list = document.getElementById('crypto-list');
-    list.innerHTML = ''; // clear old
+function renderCrypto(items) {
+    const container = document.getElementById('crypto-cards');
+    container.innerHTML = '';
     items.forEach(item => {
-        const li = document.createElement('li');
-        li.innerHTML = `<a href="${item.link}" target="_blank">${item.title}</a>`;
-        list.appendChild(li);
+        container.appendChild(renderCard(item));
     });
 }
 
-// initial load
-loadCryptoNews();
-
-// Optional: refresh every CACHE_TIME automatically
-setInterval(() => {
-    localStorage.removeItem(CACHE_KEY); // delete old cache
-    loadCryptoNews();
+loadCrypto();
+setInterval(()=>{
+    localStorage.removeItem(CACHE_KEY);
+    loadCrypto();
 }, CACHE_TIME);
-
 </script>
-
-</body>
-</html>
