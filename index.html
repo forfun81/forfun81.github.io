@@ -127,21 +127,14 @@ footer{
 <header>
   <h1>ForFun81 News Aggregator</h1>
   <nav>
-    <a href="#crypto">Crypto</a>
     <a href="#games">Games</a>
+    <a href="#movies">Movies</a>
     <a href="#tech">Tech</a>
-    <a href="#movies">Movie News</a>
-    <a href="#movies2">Movie News 2</a>
+    <a href="#crypto">Crypto</a>
     <a href="#various">Various</a>
     <a href="#impressum">Impressum</a>
   </nav>
 </header>
-
-<!-- CRYPTO -->
-<section id="crypto">
-<h2>🪙 Crypto News</h2>
-<div class="cards" id="crypto-cards">Loading…</div>
-</section>
 
 <!-- GAMES -->
 <section id="games">
@@ -149,21 +142,22 @@ footer{
 <div class="cards" id="games-cards">Loading…</div>
 </section>
 
-<!-- TECH -->
-<section id="tech">
-<h2>💻 Tech</h2>
-<div class="cards" id="tech-cards">Loading…</div>
-</section>
-
 <!-- MOVIES -->
 <section id="movies">
-<h2>🎬 Movie News</h2>
+<h2>🎬 Movies</h2>
 <div class="cards" id="movies-cards">Loading…</div>
 </section>
 
-<section id="movies2">
-<h2>🎬 Movie News 2</h2>
-<div class="cards" id="movies2-cards">Loading…</div>
+<!-- TECH -->
+<section id="tech">
+<h2>💻 Computer Tech</h2>
+<div class="cards" id="tech-cards">Loading…</div>
+</section>
+
+<!-- CRYPTO -->
+<section id="crypto">
+<h2>🪙 Crypto News</h2>
+<div class="cards" id="crypto-cards">Loading…</div>
 </section>
 
 <!-- VARIOUS -->
@@ -203,14 +197,10 @@ const RSS2JSON="https://api.rss2json.com/v1/api.json?rss_url=";
 const MAX_ITEMS=6;
 
 const FEEDS={
-  crypto:[
-    'https://cointelegraph.com/rss',
-    'https://www.coindesk.com/tag/rss'
-  ],
   games:['https://www.gamesradar.com/feeds.xml'],
-  tech:['https://www.tomshardware.com/feeds.xml','https://gizmodo.com/feed'],
   movies:['https://fandangofilm.de/feed/','https://www.hollywood.com/feed'],
-  movies2:['https://www.hollywood.com/feed'],
+  tech:['https://www.tomshardware.com/feeds.xml','https://gizmodo.com/feed'],
+  crypto:['https://cointelegraph.com/rss','https://www.coindesk.com/tag/rss'],
   various:['https://gizmodo.com/feed']
 };
 
