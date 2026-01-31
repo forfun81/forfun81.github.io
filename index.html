@@ -55,11 +55,6 @@ h2{
   margin-bottom:20px;
 }
 
-#impressum h2{
-  border-left:none;
-  padding-left:0;
-}
-
 .cards{
   display:grid;
   grid-template-columns:repeat(auto-fill,minmax(250px,1fr));
@@ -132,6 +127,14 @@ h2{
   max-width:100%;
   height:auto;
   border-radius:8px;
+  display:block;
+  margin:0 auto;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.ad-banner img:hover{
+  transform:scale(1.05);
+  box-shadow:0 4px 15px rgba(0,0,0,.3);
 }
 
 .back-top{
@@ -194,12 +197,12 @@ footer{
 <div class="cards" id="games-cards">Loading…</div>
 </section>
 
-<!-- Demo Banner 1 помеѓу Games и Movies -->
-<section class="ad-banner">
+<!-- Banner 1 -->
+<div class="ad-banner">
   <a href="#" target="_blank">
     <img src="https://placehold.co/728x90/000/FFF?text=Your+Ad+Here" alt="Your Ad Here">
   </a>
-</section>
+</div>
 
 <!-- MOVIES -->
 <section id="movies">
@@ -225,12 +228,12 @@ footer{
 <div class="cards" id="various-cards">Loading…</div>
 </section>
 
-<!-- Demo Banner 2 над footer -->
-<section class="ad-banner">
+<!-- Banner 2 -->
+<div class="ad-banner">
   <a href="#" target="_blank">
     <img src="https://placehold.co/728x90/222/FFF?text=Your+Ad+Here" alt="Your Ad Here">
   </a>
-</section>
+</div>
 
 <div class="back-top">
   <a href="#top">⬆ Back to top</a>
