@@ -201,6 +201,7 @@ RSS aggregation for informational purposes only.
 <script>
 const RSS2JSON="https://api.rss2json.com/v1/api.json?rss_url=";
 const MAX_ITEMS=6; // max items per feed
+const REFRESH_INTERVAL=300000; // 5 минути = 300000 ms
 
 const FEEDS={
   games:['https://www.gamesradar.com/feeds.xml'],
@@ -210,7 +211,6 @@ const FEEDS={
   various:['https://gizmodo.com/feed']
 };
 
-// Функција за вчитување на RSS и auto-cleanup
 function loadFeed(cat, urls){
   const container=document.getElementById(cat+'-cards');
   container.innerHTML=''; // clean container before adding new cards
@@ -237,7 +237,15 @@ function loadFeed(cat, urls){
 }
 
 // Вчитување на сите секции
-Object.keys(FEEDS).forEach(k=>loadFeed(k,FEEDS[k]));
+function loadAllFeeds(){
+  Object.keys(FEEDS).forEach(k=>loadFeed(k,FEEDS[k]));
+}
+
+// Првично вчитување
+loadAllFeeds();
+
+// Auto-refresh секции на секои REFRESH_INTERVAL милисекунди
+setInterval(loadAllFeeds, REFRESH_INTERVAL);
 </script>
 
 </body>
