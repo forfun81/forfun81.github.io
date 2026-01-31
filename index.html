@@ -7,6 +7,13 @@
 <meta name="description" content="Aggregated news for games, movies, tech, crypto, and various topics. Stay updated with the latest headlines.">
 <meta name="google-site-verification" content="zaFjkdmT2xTeCtDZbR1wla9ZcUco5Wb7lR14xD1lQBk">
 
+<!-- Open Graph for social media -->
+<meta property="og:title" content="ForFun81 – News Aggregator">
+<meta property="og:description" content="Aggregated news for games, movies, tech, crypto, and various topics. Stay updated with the latest headlines.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://forfun81.github.io/">
+<meta property="og:image" content="https://placehold.co/400x200/000/FFF?text=News+Aggregator">
+
 <style>
 html { scroll-behavior: smooth; }
 
@@ -118,7 +125,7 @@ h2{
 
 .ad-banner{
   text-align:center;
-  margin:30px 0;
+  margin:40px 0;
 }
 
 .ad-banner img{
@@ -187,12 +194,12 @@ footer{
 <div class="cards" id="games-cards">Loading…</div>
 </section>
 
-<!-- Demo Banner 1 -->
-<div class="ad-banner">
+<!-- Demo Banner 1 помеѓу Games и Movies -->
+<section class="ad-banner">
   <a href="#" target="_blank">
-    <img src="https://placehold.co/728x90/000/FFF?text=Your+Ad+Here" alt="Demo Ad">
+    <img src="https://placehold.co/728x90/000/FFF?text=Your+Ad+Here" alt="Your Ad Here">
   </a>
-</div>
+</section>
 
 <!-- MOVIES -->
 <section id="movies">
@@ -219,11 +226,11 @@ footer{
 </section>
 
 <!-- Demo Banner 2 над footer -->
-<div class="ad-banner">
+<section class="ad-banner">
   <a href="#" target="_blank">
-    <img src="https://placehold.co/728x90/222/FFF?text=Your+Ad+Here" alt="Demo Ad">
+    <img src="https://placehold.co/728x90/222/FFF?text=Your+Ad+Here" alt="Your Ad Here">
   </a>
-</div>
+</section>
 
 <div class="back-top">
   <a href="#top">⬆ Back to top</a>
@@ -265,7 +272,6 @@ const FEEDS={
 
 let refreshTimer = null;
 
-// Load individual feed
 function loadFeed(cat, urls){
   const container=document.getElementById(cat+'-cards');
   container.innerHTML='';
@@ -278,7 +284,7 @@ function loadFeed(cat, urls){
         const card=document.createElement('div');
         card.className='card';
         card.innerHTML=`
-          <img src="${img}">
+          <img src="${img}" alt="${item.title}">
           <div class="card-content">
             <h3>${item.title}</h3>
             <p>${item.description?.replace(/<[^>]*>/g,'').slice(0,120)+'...' || ''}</p>
@@ -291,22 +297,19 @@ function loadFeed(cat, urls){
   });
 }
 
-// Load all feeds
 function loadAllFeeds(){
   Object.keys(FEEDS).forEach(k=>loadFeed(k,FEEDS[k]));
   const now = new Date();
   document.getElementById('refreshStatus').textContent = `Last refresh: ${now.toLocaleTimeString()}`;
 }
 
-// Auto-refresh
 function startAutoRefresh(interval){
   if(refreshTimer) clearInterval(refreshTimer);
   refreshTimer = setInterval(loadAllFeeds, interval);
 }
 
-// Initial load
 loadAllFeeds();
-startAutoRefresh(300000); // default 5 min
+startAutoRefresh(300000);
 
 document.getElementById('refreshSelect').addEventListener('change', function(){
   const interval = parseInt(this.value);
