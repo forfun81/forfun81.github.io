@@ -99,6 +99,22 @@ h2{
   font-weight:bold;
 }
 
+.refresh-control{
+  text-align:center;
+  margin:20px 0;
+}
+
+.refresh-control select{
+  padding:5px 10px;
+  font-size:1em;
+}
+
+#refreshStatus{
+  margin-left:15px;
+  font-size:.9em;
+  color:#000;
+}
+
 .back-top{
   text-align:center;
   margin:60px 0;
@@ -141,6 +157,17 @@ footer{
     <a href="#impressum">Impressum</a>
   </nav>
 </header>
+
+<div class="refresh-control">
+  <label for="refreshSelect">Auto-refresh interval: </label>
+  <select id="refreshSelect">
+    <option value="300000">5 min</option>
+    <option value="600000">10 min</option>
+    <option value="900000">15 min</option>
+    <option value="1800000">30 min</option>
+  </select>
+  <span id="refreshStatus">Last refresh: never</span>
+</div>
 
 <!-- GAMES -->
 <section id="games">
@@ -200,8 +227,7 @@ RSS aggregation for informational purposes only.
 
 <script>
 const RSS2JSON="https://api.rss2json.com/v1/api.json?rss_url=";
-const MAX_ITEMS=6; // max items per feed
-const REFRESH_INTERVAL=300000; // 5 минути = 300000 ms
+const MAX_ITEMS=6;
 
 const FEEDS={
   games:['https://www.gamesradar.com/feeds.xml'],
@@ -211,9 +237,12 @@ const FEEDS={
   various:['https://gizmodo.com/feed']
 };
 
+let refreshTimer = null;
+
+// Вчитување на feed
 function loadFeed(cat, urls){
   const container=document.getElementById(cat+'-cards');
-  container.innerHTML=''; // clean container before adding new cards
+  container.innerHTML=''; // auto-cleanup
   urls.forEach(url=>{
     fetch(RSS2JSON + encodeURIComponent(url))
     .then(res=>res.json())
@@ -239,13 +268,27 @@ function loadFeed(cat, urls){
 // Вчитување на сите секции
 function loadAllFeeds(){
   Object.keys(FEEDS).forEach(k=>loadFeed(k,FEEDS[k]));
+  // Ажурирање на индикаторот
+  const now = new Date();
+  document.getElementById('refreshStatus').textContent = `Last refresh: ${now.toLocaleTimeString()}`;
 }
 
-// Првично вчитување
-loadAllFeeds();
+// Стартер за авто-refresh
+function startAutoRefresh(interval){
+  if(refreshTimer) clearInterval(refreshTimer);
+  refreshTimer = setInterval(loadAllFeeds, interval);
+}
 
-// Auto-refresh секции на секои REFRESH_INTERVAL милисекунди
-setInterval(loadAllFeeds, REFRESH_INTERVAL);
+// Прво вчитување
+loadAllFeeds();
+startAutoRefresh(300000); // default 5 мин
+
+// Контрол за dropdown
+document.getElementById('refreshSelect').addEventListener('change', function(){
+  const interval = parseInt(this.value);
+  startAutoRefresh(interval);
+  loadAllFeeds(); // refresh веднаш при промена
+});
 </script>
 
 </body>
