@@ -13,6 +13,7 @@ body{
   font-family: Arial, sans-serif;
   background:#f5f5f5;
   color:#111;
+  padding-bottom:110px; /* space for the sticky ad at the bottom */
 }
 header{
   background:#000;
@@ -31,17 +32,13 @@ nav a{
 }
 nav a:hover{ text-decoration:underline; }
 
-/* Rumble Банер Стилизирање */
-.rumble-link {
-  color: #85c441 !important;
-}
+.rumble-link { color: #85c441 !important; }
 
 .rumble-banner-container {
   max-width: 1100px;
   margin: 25px auto 10px auto;
   padding: 0 20px;
 }
-
 .rumble-banner {
   display: flex;
   align-items: center;
@@ -54,24 +51,12 @@ nav a:hover{ text-decoration:underline; }
   box-shadow: 0 4px 15px rgba(133, 196, 65, 0.2);
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
-
 .rumble-banner:hover {
   transform: translateY(-3px);
   box-shadow: 0 6px 20px rgba(133, 196, 65, 0.4);
 }
-
-.rumble-banner-text h3 {
-  margin: 0 0 6px 0;
-  color: #ffffff;
-  font-size: 1.4em;
-}
-
-.rumble-banner-text p {
-  margin: 0;
-  color: #aaaaaa;
-  font-size: 0.95em;
-}
-
+.rumble-banner-text h3 { margin: 0 0 6px 0; color: #ffffff; font-size: 1.4em; }
+.rumble-banner-text p { margin: 0; color: #aaaaaa; font-size: 0.95em; }
 .rumble-btn {
   background: #85c441;
   color: #000000;
@@ -81,23 +66,12 @@ nav a:hover{ text-decoration:underline; }
   border-radius: 8px;
   white-space: nowrap;
 }
-
 @media (max-width: 600px) {
-  .rumble-banner {
-    flex-direction: column;
-    text-align: center;
-    gap: 15px;
-  }
+  .rumble-banner { flex-direction: column; text-align: center; gap: 15px; }
 }
 
-section{
-  max-width:1100px;
-  margin:30px auto;
-  padding:0 20px;
-}
-h2{
-  margin-bottom:20px;
-}
+section{ max-width:1100px; margin:30px auto; padding:0 20px; }
+h2{ margin-bottom:20px; }
 .cards{
   display:grid;
   grid-template-columns:repeat(auto-fill,minmax(250px,1fr));
@@ -111,26 +85,11 @@ h2{
   box-shadow:0 2px 6px rgba(0,0,0,.15);
   transition:.3s;
 }
-.card:hover{
-  transform:translateY(-4px);
-}
-.card img{
-  width:100%;
-  height:160px;
-  object-fit:cover;
-}
-.card-content{
-  padding:15px;
-}
-.card-content h3{
-  font-size:1em;
-  margin:0 0 10px;
-  color:#111;
-}
-.card-content p{
-  font-size:.9em;
-  color:#444;
-}
+.card:hover{ transform:translateY(-4px); }
+.card img{ width:100%; height:160px; object-fit:cover; display:block; background:#ddd; }
+.card-content{ padding:15px; }
+.card-content h3{ font-size:1em; margin:0 0 10px; color:#111; }
+.card-content p{ font-size:.9em; color:#444; }
 .card-content a{
   display:inline-block;
   margin-top:10px;
@@ -138,35 +97,13 @@ h2{
   color:#000;
   font-weight:bold;
 }
-.card-content a:hover{
-  text-decoration: underline;
-}
-.refresh-control{
-  text-align:center;
-  margin:20px 0;
-}
-.refresh-control select{
-  padding:5px 10px;
-  font-size:1em;
-}
-#refreshStatus{
-  margin-left:15px;
-  font-size:.9em;
-  color:#000;
-}
-.back-top{
-  text-align:center;
-  margin:60px 0;
-}
-.back-top a{
-  text-decoration:none;
-  font-weight:bold;
-  color:#000;
-}
-#impressum{
-  text-align:center;
-  padding:40px 20px;
-}
+.card-content a:hover{ text-decoration: underline; }
+.refresh-control{ text-align:center; margin:20px 0; }
+.refresh-control select{ padding:5px 10px; font-size:1em; }
+#refreshStatus{ margin-left:15px; font-size:.9em; color:#000; }
+.back-top{ text-align:center; margin:60px 0; }
+.back-top a{ text-decoration:none; font-weight:bold; color:#000; }
+#impressum{ text-align:center; padding:40px 20px; }
 footer{
   background:#000;
   color:#888;
@@ -174,30 +111,41 @@ footer{
   padding:20px;
   font-size:.9em;
 }
+
+/* Sticky ad at the bottom (does not cover the header) */
+#adWrap{
+  position:fixed;
+  left:0; right:0; bottom:0;
+  z-index:999;
+  text-align:center;
+  font-size:0;
+  background:rgba(255,255,255,.0);
+}
+#adWrap iframe{
+  border:0;
+  padding:0;
+  width:70%;
+  min-height:90px;
+  overflow:hidden;
+  margin:auto;
+  display:block;
+}
+#adClose{
+  position:absolute;
+  top:4px; right:24px;
+  border-radius:4px;
+  background:rgba(248,248,249,.85);
+  padding:4px;
+  z-index:1000;
+  cursor:pointer;
+  line-height:0;
+}
+#adToggle{ display:none; }
+#adToggle:checked ~ #adWrap{ display:none; }
 </style>
 </head>
 
 <body>
-
-<!-- BEGIN AADS AD UNIT 2459701 -->
-<div style="position: absolute; z-index: 99999">
-      <input autocomplete="off" type="checkbox" id="aadsstickymvm2pqgw" hidden />
-      <div style="padding-top: auto; padding-bottom: 0;">
-        <div style="width:100%;height:auto;position:fixed;text-align:center;font-size:0;top:0;left:0;right:0;margin:auto">
-          <label for="aadsstickymvm2pqgw" style="top: 50%;transform: translateY(-50%);right:24px;; position: absolute;border-radius: 4px; background: rgba(248, 248, 249, 0.70); padding: 4px;z-index: 99999;cursor:pointer">
-            <svg fill="#000000" height="16px" width="16px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 490">
-              <polygon points="456.851,0 245,212.564 33.149,0 0.708,32.337 212.669,245.004 0.708,457.678 33.149,490 245,277.443 456.851,490 489.292,457.678 277.331,245.004 489.292,32.337 "/>
-            </svg>
-          </label>
-          <div id="frame" style="width: 100%;margin: auto;position: relative; z-index: 99998;"><iframe data-aa=2459701 src=//acceptable.a-ads.com/2459701/?size=Adaptive style='border:0; padding:0; width:70%; height:auto; overflow:hidden; margin: auto'></iframe></div>
-        </div>
-        <style>
-      #aadsstickymvm2pqgw:checked + div {
-        display: none;
-      }
-    </style>
-    </div></div>
-<!-- END AADS AD UNIT 2459701 -->
 
 <div id="top"></div>
 
@@ -209,21 +157,18 @@ footer{
     <a href="#tech">Tech</a>
     <a href="#crypto">Crypto</a>
     <a href="#various">Various</a>
-    <a href="https://rumble.com/user/LaboskiYane" target="_blank" class="rumble-link">▶ Rumble Channel</a>
+    <a href="https://rumble.com/user/LaboskiYane" target="_blank" rel="noopener" class="rumble-link">▶ Rumble Channel</a>
     <a href="#impressum">Impressum</a>
   </nav>
 </header>
 
-<!-- РАМКА ЗА РУМБЛ БАНЕР -->
 <div class="rumble-banner-container">
-  <a href="https://rumble.com/user/LaboskiYane" target="_blank" class="rumble-banner">
+  <a href="https://rumble.com/user/LaboskiYane" target="_blank" rel="noopener" class="rumble-banner">
     <div class="rumble-banner-text">
       <h3>🎮 Watch Live Gameplay Streams!</h3>
       <p>Follow my gameplay and PS5 live streams on Rumble.</p>
     </div>
-    <div class="rumble-btn">
-      Watch Now ▶
-    </div>
+    <div class="rumble-btn">Watch Now ▶</div>
   </a>
 </div>
 
@@ -238,31 +183,26 @@ footer{
   <span id="refreshStatus">Last refresh: never</span>
 </div>
 
-<!-- GAMES -->
 <section id="games">
   <h2>🎮 Games</h2>
   <div class="cards" id="games-cards"></div>
 </section>
 
-<!-- MOVIES -->
 <section id="movies">
   <h2>🎬 Movies</h2>
   <div class="cards" id="movies-cards"></div>
 </section>
 
-<!-- TECH -->
 <section id="tech">
   <h2>💻 Computer Tech</h2>
   <div class="cards" id="tech-cards"></div>
 </section>
 
-<!-- CRYPTO -->
 <section id="crypto">
   <h2>🪙 Crypto News</h2>
   <div class="cards" id="crypto-cards"></div>
 </section>
 
-<!-- VARIOUS -->
 <section id="various">
   <h2>📰 Various</h2>
   <div class="cards" id="various-cards"></div>
@@ -279,25 +219,32 @@ footer{
     Private non-commercial project<br>
     Germany
   </p>
-
-  <p>
-    Contact: csservice858@gmail.com
-  </p>
-
+  <p>Contact: csservice858@gmail.com</p>
   <p>
     All content belongs to respective owners.<br>
     RSS aggregation for informational purposes only.
   </p>
 </section>
 
-<footer>
-© 2026 ForFun81
-</footer>
+<footer>© 2026 ForFun81</footer>
+
+<!-- BEGIN AADS AD UNIT 2459701 (sticky, bottom) -->
+<input autocomplete="off" type="checkbox" id="adToggle" hidden>
+<div id="adWrap">
+  <label for="adToggle" id="adClose" title="Close ad">
+    <svg fill="#000000" height="16" width="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 490">
+      <polygon points="456.851,0 245,212.564 33.149,0 0.708,32.337 212.669,245.004 0.708,457.678 33.149,490 245,277.443 456.851,490 489.292,457.678 277.331,245.004 489.292,32.337"/>
+    </svg>
+  </label>
+  <iframe data-aa="2459701" src="https://acceptable.a-ads.com/2459701/?size=Adaptive" title="Advertisement"></iframe>
+</div>
+<!-- END AADS AD UNIT 2459701 -->
 
 <script>
 const MAX_STORIES = 6;
+const FALLBACK_IMG = 'https://images.unsplash.com/photo-1511512578047-dfb367046420?w=400';
 
-// Резервни стории за да се појават веднаш (никогаш нема да е празно)
+// Default stories so the page is never empty
 const DEFAULT_STORIES = {
   games: [
     { title: "PS5 Pro & Latest Gaming Hardware Updates", link: "https://www.gamespot.com", desc: "Explore the newest game announcements, trailers, and reviews from top platforms.", img: "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=400" },
@@ -317,29 +264,6 @@ const DEFAULT_STORIES = {
   ]
 };
 
-function renderStories(category, items) {
-  const container = document.getElementById(category + '-cards');
-  container.innerHTML = '';
-  items.forEach(story => {
-    const card = document.createElement('div');
-    card.className = 'card';
-    card.innerHTML = `
-      <img src="${story.img}" alt="${story.title}" onerror="this.src='https://images.unsplash.com/photo-1511512578047-dfb367046420?w=400'">
-      <div class="card-content">
-        <h3>${story.title}</h3>
-        <p>${story.desc}</p>
-        <a href="${story.link}" target="_blank">Read more &rarr;</a>
-      </div>`;
-    container.appendChild(card);
-  });
-}
-
-// Прво ги ставаме сториите веднаш да се појават
-Object.keys(DEFAULT_STORIES).forEach(cat => {
-  renderStories(cat, DEFAULT_STORIES[cat]);
-});
-
-// Живи RSS извори за во позадина
 const FEEDS = {
   games: 'https://www.gamespot.com/feeds/news/',
   movies: 'https://www.cinemablend.com/rss/topic/news/movies',
@@ -348,42 +272,169 @@ const FEEDS = {
   various: 'https://gizmodo.com/feed'
 };
 
-function fetchLiveStories() {
-  Object.keys(FEEDS).forEach(cat => {
-    const rssUrl = FEEDS[cat];
-    const apiUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(rssUrl)}`;
-
-    fetch(apiUrl)
-      .then(res => res.json())
-      .then(data => {
-        if (data.status === 'ok' && data.items && data.items.length > 0) {
-          let liveList = [];
-          data.items.slice(0, MAX_STORIES).forEach(story => {
-            let img = story.thumbnail || (story.enclosure && story.enclosure.link) || 'https://images.unsplash.com/photo-1511512578047-dfb367046420?w=400';
-            let title = story.title || "Untitled Story";
-            let link = story.link || "#";
-            let desc = story.description ? story.description.replace(/<[^>]*>/g, '').slice(0, 100) + '...' : '';
-            liveList.push({ title, link, desc, img });
-          });
-          if (liveList.length > 0) {
-            renderStories(cat, liveList);
-          }
-        }
-      })
-      .catch(err => console.log('Background feed fetch skipped for ' + cat));
-  });
-
-  const now = new Date();
-  document.getElementById('refreshStatus').textContent = `Last refresh: ${now.toLocaleTimeString()}`;
+function safeUrl(u) {
+  return /^https?:\/\//i.test(u || '') ? u : '#';
 }
 
-// Повлечи живи стории во позадина по 1 секунда
-setTimeout(fetchLiveStories, 1000);
-setInterval(fetchLiveStories, 300000);
+function renderStories(category, items) {
+  const container = document.getElementById(category + '-cards');
+  container.innerHTML = '';
+  items.forEach(story => {
+    const card = document.createElement('div');
+    card.className = 'card';
 
-document.getElementById('refreshSelect').addEventListener('change', function() {
+    const img = document.createElement('img');
+    img.src = story.img || FALLBACK_IMG;
+    img.alt = story.title;
+    img.loading = 'lazy';
+    img.referrerPolicy = 'no-referrer';
+    img.onerror = function () { this.onerror = null; this.src = FALLBACK_IMG; };
+
+    const content = document.createElement('div');
+    content.className = 'card-content';
+
+    const h3 = document.createElement('h3');
+    h3.textContent = story.title;
+
+    const p = document.createElement('p');
+    p.textContent = story.desc;
+
+    const a = document.createElement('a');
+    a.href = safeUrl(story.link);
+    a.target = '_blank';
+    a.rel = 'noopener';
+    a.textContent = 'Read more →';
+
+    content.append(h3, p, a);
+    card.append(img, content);
+    container.appendChild(card);
+  });
+}
+
+Object.keys(DEFAULT_STORIES).forEach(cat => renderStories(cat, DEFAULT_STORIES[cat]));
+
+// ---------- Feed loading with fallbacks ----------
+
+function stripHtml(html) {
+  const d = document.createElement('div');
+  d.innerHTML = html || '';
+  return (d.textContent || '').trim();
+}
+
+function firstImgFromHtml(html) {
+  const m = /<img[^>]+src=["']([^"']+)["']/i.exec(html || '');
+  return m ? m[1] : '';
+}
+
+function makeDesc(html) {
+  const t = stripHtml(html);
+  return t.length > 100 ? t.slice(0, 100) + '...' : t;
+}
+
+// Method 1: rss2json (returns JSON)
+async function viaRss2Json(rssUrl) {
+  const res = await fetch('https://api.rss2json.com/v1/api.json?rss_url=' + encodeURIComponent(rssUrl));
+  const data = await res.json();
+  if (data.status !== 'ok' || !data.items || !data.items.length) throw new Error('rss2json empty');
+  return data.items.slice(0, MAX_STORIES).map(s => ({
+    title: s.title || 'Untitled Story',
+    link: s.link || '#',
+    desc: makeDesc(s.description || s.content),
+    img: s.thumbnail || (s.enclosure && s.enclosure.link) || firstImgFromHtml(s.content || s.description) || FALLBACK_IMG
+  }));
+}
+
+// Methods 2 and 3: CORS proxies that return raw XML, parsed in the browser
+function parseRssXml(text) {
+  const doc = new DOMParser().parseFromString(text, 'text/xml');
+  if (doc.querySelector('parsererror')) throw new Error('bad xml');
+  const nodes = Array.from(doc.querySelectorAll('item, entry')).slice(0, MAX_STORIES);
+  if (!nodes.length) throw new Error('no items');
+
+  const txt = (n, tag) => { const e = n.getElementsByTagName(tag)[0]; return e ? e.textContent : ''; };
+
+  return nodes.map(n => {
+    let link = txt(n, 'link');
+    const linkEl = n.getElementsByTagName('link')[0];
+    if (linkEl && linkEl.getAttribute('href')) link = linkEl.getAttribute('href');
+
+    const descHtml = txt(n, 'description') || txt(n, 'summary') || txt(n, 'content:encoded') || txt(n, 'content');
+
+    let img = '';
+    const mt = n.getElementsByTagName('media:thumbnail')[0];
+    const mc = n.getElementsByTagName('media:content')[0];
+    const en = n.getElementsByTagName('enclosure')[0];
+    if (mt) img = mt.getAttribute('url');
+    else if (mc) img = mc.getAttribute('url');
+    else if (en && /image/i.test(en.getAttribute('type') || 'image')) img = en.getAttribute('url');
+    if (!img) img = firstImgFromHtml(txt(n, 'content:encoded') || descHtml);
+
+    return {
+      title: (txt(n, 'title') || 'Untitled Story').trim(),
+      link: (link || '#').trim(),
+      desc: makeDesc(descHtml),
+      img: img || FALLBACK_IMG
+    };
+  });
+}
+
+async function viaProxy(proxyBuilder, rssUrl) {
+  const res = await fetch(proxyBuilder(rssUrl));
+  if (!res.ok) throw new Error('proxy http ' + res.status);
+  return parseRssXml(await res.text());
+}
+
+const METHODS = [
+  viaRss2Json,
+  url => viaProxy(u => 'https://api.allorigins.win/raw?url=' + encodeURIComponent(u), url),
+  url => viaProxy(u => 'https://corsproxy.io/?' + encodeURIComponent(u), url)
+];
+
+async function loadFeed(rssUrl) {
+  for (const method of METHODS) {
+    try {
+      const items = await method(rssUrl);
+      if (items && items.length) return items;
+    } catch (e) { /* try next method */ }
+  }
+  return null;
+}
+
+let refreshing = false;
+
+async function fetchLiveStories() {
+  if (refreshing) return;
+  refreshing = true;
+  const status = document.getElementById('refreshStatus');
+  status.textContent = 'Refreshing...';
+
+  let ok = 0;
+  await Promise.all(Object.keys(FEEDS).map(async cat => {
+    const items = await loadFeed(FEEDS[cat]);
+    if (items) { renderStories(cat, items); ok++; }
+  }));
+
+  const total = Object.keys(FEEDS).length;
+  status.textContent = `Last refresh: ${new Date().toLocaleTimeString()} (${ok}/${total} feeds loaded)`;
+  refreshing = false;
+}
+
+// ---------- Auto refresh with working interval selector ----------
+const select = document.getElementById('refreshSelect');
+let timer = null;
+
+function scheduleRefresh() {
+  if (timer) clearInterval(timer);
+  timer = setInterval(fetchLiveStories, parseInt(select.value, 10));
+}
+
+select.addEventListener('change', () => {
+  scheduleRefresh();
   fetchLiveStories();
 });
+
+setTimeout(fetchLiveStories, 500);
+scheduleRefresh();
 </script>
 
 </body>
