@@ -244,26 +244,6 @@ footer{
 const MAX_STORIES = 6;
 const FALLBACK_IMG = 'https://images.unsplash.com/photo-1511512578047-dfb367046420?w=400';
 
-// Default stories so the page is never empty
-const DEFAULT_STORIES = {
-  games: [
-    { title: "PS5 Pro & Latest Gaming Hardware Updates", link: "https://www.gamespot.com", desc: "Explore the newest game announcements, trailers, and reviews from top platforms.", img: "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=400" },
-    { title: "Top Upcoming Open World RPG Releases", link: "https://www.gamespot.com", desc: "Everything you need to know about the most anticipated games launching soon.", img: "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=400" }
-  ],
-  movies: [
-    { title: "Blockbuster Movie Trailers & Streaming Hits", link: "https://www.cinemablend.com", desc: "Catch up on the latest cinematic releases and actor interviews.", img: "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=400" }
-  ],
-  tech: [
-    { title: "Next-Gen PC Hardware & GPU Benchmarks", link: "https://www.tomshardware.com", desc: "In-depth reviews on processors, graphics cards, and custom builds.", img: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400" }
-  ],
-  crypto: [
-    { title: "Bitcoin Market Trends & Blockchain Tech", link: "https://cointelegraph.com", desc: "Stay informed with daily updates on digital currencies and Web3.", img: "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=400" }
-  ],
-  various: [
-    { title: "Trending Entertainment & Pop Culture", link: "https://www.ign.com", desc: "General news, internet culture, and trending discussions.", img: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=400" }
-  ]
-};
-
 const FEEDS = {
   games: 'https://www.gamespot.com/feeds/news/',
   movies: 'https://www.cinemablend.com/rss/topic/news/movies',
@@ -311,7 +291,14 @@ function renderStories(category, items) {
   });
 }
 
-Object.keys(DEFAULT_STORIES).forEach(cat => renderStories(cat, DEFAULT_STORIES[cat]));
+function showMessage(cat, text) {
+  const c = document.getElementById(cat + '-cards');
+  c.innerHTML = '';
+  const p = document.createElement('p');
+  p.textContent = text;
+  c.appendChild(p);
+}
+Object.keys({games:1,movies:1,tech:1,crypto:1,various:1}).forEach(cat => showMessage(cat, 'Loading stories...'));
 
 // ---------- Feed loading with fallbacks ----------
 
@@ -402,20 +389,32 @@ async function loadFeed(rssUrl) {
 
 let refreshing = false;
 
+async function loadLocalJson() {
+  try {
+    const res = await fetch('news.json?t=' + Date.now(), { cache: 'no-store' });
+    if (!res.ok) return null;
+    return await res.json();
+  } catch (e) { return null; }
+}
+
 async function fetchLiveStories() {
   if (refreshing) return;
   refreshing = true;
   const status = document.getElementById('refreshStatus');
   status.textContent = 'Refreshing...';
 
+  const local = await loadLocalJson();
   let ok = 0;
-  await Promise.all(Object.keys(FEEDS).map(async cat => {
-    const items = await loadFeed(FEEDS[cat]);
+  const cats = Object.keys(FEEDS);
+
+  await Promise.all(cats.map(async cat => {
+    let items = local && local[cat] && local[cat].length ? local[cat].slice(0, MAX_STORIES) : null;
+    if (!items) items = await loadFeed(FEEDS[cat]);
     if (items) { renderStories(cat, items); ok++; }
+    else if (!document.querySelector('#' + cat + '-cards .card')) showMessage(cat, 'Could not load stories right now.');
   }));
 
-  const total = Object.keys(FEEDS).length;
-  status.textContent = `Last refresh: ${new Date().toLocaleTimeString()} (${ok}/${total} feeds loaded)`;
+  status.textContent = `Last refresh: ${new Date().toLocaleTimeString()} (${ok}/${cats.length} sections loaded)`;
   refreshing = false;
 }
 
