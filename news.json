@@ -151,5 +151,42 @@
       "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MPBY5231GNMGE2Q9V1FYVN/hi-crypto-offers-russia-no-way-out-from-western-sanctions2-1.jpg"
     }
   ],
-  "various": []
+  "various": [
+    {
+      "title": "France prepares for day of protest a week after nationwide riots",
+      "link": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
+      "desc": "Hundreds of thousands are expected to turn out, as more than 70,000 police officers are to be deploy...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f26/live/2a059180-cf74-11f1-aaa0-39a3560003e9.jpg"
+    },
+    {
+      "title": "Met investigates reports of letter detailing claims about Meghan's father",
+      "link": "https://www.bbc.co.uk/news/articles/cmlylkkzl2neo?at_medium=RSS&at_campaign=rss",
+      "desc": "Scotland Yard opens an inquiry after the Duchess of Sussex said she was sent a letter containing \"di...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4388/live/9cae2750-cf48-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+      "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+      "desc": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43e7/live/343404d0-cf00-11f1-accf-3309656ad0bb.jpg"
+    },
+    {
+      "title": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
+      "link": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss",
+      "desc": "Kaylub Giamanco, has been hailed as a hero for killing a teenager who fatally shot three children an...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2348/live/e4a29f10-cf42-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "title": "Arrest made after fire at Hitler's famed Eagle's Nest retreat",
+      "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+      "desc": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residen...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b513/live/b8fe52a0-cf7e-11f1-ae2e-3fbb7ae6bffe.jpg"
+    },
+    {
+      "title": "Celebrity Traitors left on a knife edge after a trip to the field of screams",
+      "link": "https://www.bbc.co.uk/news/articles/c6jdmrz00v7lo?at_medium=RSS&at_campaign=rss",
+      "desc": "A newly earned special power left one contestant with a big decision to make in Friday's episode.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d961/live/a03e74a0-cf35-11f1-b4af-39e764734ae7.jpg"
+    }
+  ]
 }
