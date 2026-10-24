@@ -39,6 +39,12 @@
   ],
   "movies": [
     {
+      "title": "Why The Twist In The Sixth Sense Is Still The Best In Cinema History",
+      "link": "https://www.cinemablend.com/movies/why-twist-in-the-sixth-sense-still-best-cinema-history-bruce-willis",
+      "desc": "He's a g-g-g-g-ghost!",
+      "img": "https://cdn.mos.cms.futurecdn.net/Z5tpakuh86BZqXNbmSoAtF-1920-80.jpg"
+    },
+    {
       "title": "I Keep Thinking About Haymitch's New Hair In Sunrise On The Reaping, And Joseph Zada's Take On It Is Hilarious",
       "link": "https://www.cinemablend.com/movies/keep-thinking-about-haymitchs-new-hair-sunrise-on-the-reaping-joseph-zada-take-hilarious-woody-harrelson",
       "desc": "I need to know the hairy details.",
@@ -67,50 +73,44 @@
       "link": "https://www.cinemablend.com/movies/dirty-dancing-sequels-writer-made-patrick-swayze-promise-relieved",
       "desc": "Nobody put Johnny in the corner…of this movie.",
       "img": "https://cdn.mos.cms.futurecdn.net/EWdNRiF8yqgo9d42GyWPUm-1920-80.jpg"
-    },
-    {
-      "title": "Helen Mirren Stepping Out In A Corset At 81 Is So Iconic To Me",
-      "link": "https://www.cinemablend.com/movies/helen-mirren-corset-81-iconic-a-talent-for-murder-premiere",
-      "desc": "Dame, fashion is ageless!",
-      "img": "https://cdn.mos.cms.futurecdn.net/WmmPkLKtiLQ2zDFjLXtBjc-1920-80.png"
     }
   ],
   "tech": [
     {
-      "title": "Razer Basilisk V4 Pro Review: Tried and true and now with AI",
-      "link": "https://www.tomshardware.com/peripherals/gaming-mice/razer-basilisk-v4-pro-review",
-      "desc": "Razer's Basilisk V4 Pro gaming mouse features an ergonomic shape, a lighter weight, and a couple of ...",
-      "img": "https://cdn.mos.cms.futurecdn.net/WLV3Dh2bAiKLgohuRRaYY9-1920-80.jpg"
+      "title": "This week on Tom's Hardware Premium: October 24, 2026",
+      "link": "https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-october-24-2026-tp-links-fcc-saga-file-semantic-ssds-and-unlocking-better-gaming-performance-from-rtx-spark",
+      "desc": "We give you a glimpse at some of the biggest stories we've published over on Tom's Hardware Premium ...",
+      "img": "https://cdn.mos.cms.futurecdn.net/8WSsunfcqRpAWD8nfjXSFA-1920-80.jpg"
     },
     {
-      "title": "Micron's next-generation 3D NAND to double bit density with over 400 layers, offering extreme performance",
-      "link": "https://www.tomshardware.com/pc-components/ssds/microns-next-generation-3d-nand-to-double-bit-density-with-over-400-layers-offering-extreme-performance-g11-3d-nand-promises-42-gb-mm2-and-5-400-mt-s-interface-speed",
-      "desc": "Micron's G11 3D NAND promises 42 Gb/mm2 and 5,400 MT/s interface speed, enabling SSDs with extreme c...",
-      "img": "https://cdn.mos.cms.futurecdn.net/hqoAiqThZxXuVYGCkexprU-1920-80.jpg"
+      "title": "Valve adds CD-ROM drive support to Steam Frame kernel, took less than ten minutes",
+      "link": "https://www.tomshardware.com/virtual-reality/valve-adds-cd-rom-drive-support-to-steam-frame-kernel-took-less-than-ten-minutes-update-comes-one-day-after-user-requests-for-capability-in-the-steam-community-forum",
+      "desc": "Valve practically just flipped a switch to give gamers the ability to read optical drives directly f...",
+      "img": "https://cdn.mos.cms.futurecdn.net/GREi4LEjsga68aPho9Xe6B-1920-80.jpg"
     },
     {
-      "title": "Solidigm confirms plans to build a fab in the US, abandons IPO plans",
-      "link": "https://www.tomshardware.com/pc-components/ssds/solidigm-confirms-plans-to-build-a-fab-in-the-us-abandons-ipo-plans-unfavorable-stock-market-conditions-and-semiconductor-share-price-trends-reasons-given",
-      "desc": "SK hynix abandons IPO plans for Solidigm, confirms plans to build a Solidigm 3D NAND fab in the U.S.",
-      "img": "https://cdn.mos.cms.futurecdn.net/vdguSryvDxvr9spm9qGncn-1920-80.jpg"
+      "title": "Use your 3D printer to customize this new Stage Tour guitar PC controller",
+      "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/use-your-3d-printer-to-customize-this-new-stage-tour-guitar-controller-drakongs-infinakore-fender-telecaster-peripheral-is-a-modders-dream",
+      "desc": "A new customizable rhythm game controller that's compatible with the new Stage Tour and pre-existing...",
+      "img": "https://cdn.mos.cms.futurecdn.net/3vMUJ5KTyqeuFFdRhBGLSe-1920-80.jpg"
     },
     {
-      "title": "Gigabyte Z890M Aorus Elite WiFi7 Motherboard Review: Icy-white SFF board offers full-size features for Intel",
-      "link": "https://www.tomshardware.com/pc-components/motherboards/gigabyte-z890m-aorus-elite-wifi7-motherboard-review",
-      "desc": "The $209 Gigabyte Z890M Aorus Elite Wifi 7 Ice is one of the better-looking Micro ATX boards, with a...",
-      "img": "https://cdn.mos.cms.futurecdn.net/3H68kTuxq7PEgdfpZT2XPm-1920-80.jpg"
+      "title": "Texas has suspended 17 data center construction permits and shut down automated portal that rubber-stamped projects",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/texas-has-suspended-17-data-center-construction-permits-and-shut-down-automated-portal-used-to-approve-them-site-was-left-running-for-a-month-after-greg-abbott-called-for-a-pause-on-approvals",
+      "desc": "Texas has suspended 17 data center construction permits and shut down the automated portal used to a...",
+      "img": "https://cdn.mos.cms.futurecdn.net/wZHrQo3SV2tfx5VmDhzVC8-1920-80.jpg"
     },
     {
-      "title": "OLED on a budget, save $50 now on the Acer Predator XB27OU at Best Buy",
-      "link": "https://www.tomshardware.com/monitors/gaming-monitors/oled-on-a-budget-save-usd50-now-on-the-acer-predator-xb27ou-at-best-buy-only-usd329-for-a-stunning-qd-oled-gaming-monitor-with-a-superfast-240hz-refresh-rate",
-      "desc": "Upgrade your gaming monitor with this fantastic $329 deal on the Acer XB27OU 27-inch QD-OLED gaming ...",
-      "img": "https://cdn.mos.cms.futurecdn.net/fatQgHJ9y43qLx2NorwgNe-1920-80.jpg"
+      "title": "Leaked video exposes how industrial-scale Chinese factories are dismantling RTX 5090s by the thousands to fuel AI servers",
+      "link": "https://www.tomshardware.com/pc-components/gpus/leaked-video-exposes-how-chinese-factories-are-stripping-rtx-5090s-to-fuel-ai-custom-partner-cards-to-nvidia-founders-editions-on-the-chopping-block",
+      "desc": "Wondering why RTX 5090s are so hard to find? Leaked footage shows thousands of consumer GPUs, includ...",
+      "img": "https://cdn.mos.cms.futurecdn.net/bBGEYE8htq38xZgt4xCdTQ-1920-80.jpg"
     },
     {
-      "title": "Amazon bows to local backlash over AI data centers, scraps plans to build four new facilities in Northern Virginia",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/amazon-bows-to-local-backlash-over-ai-data-centers-scraps-plans-to-build-four-new-facilities-in-northern-virginia-site-to-be-repurposed-for-mixed-use-and-residential-development",
-      "desc": "Amazon has ditched its plans to build four new data centers in Loudoun County, Northern Virginia, fo...",
-      "img": "https://cdn.mos.cms.futurecdn.net/eUBbKqSoTbmPLiP7oLHcvh-1920-80.jpg"
+      "title": "Russia deploys 3D-printed cruise missiles with US electronics in Ukraine, can hit 500mph with a 745-mile range",
+      "link": "https://www.tomshardware.com/3d-printing/russia-deploys-3d-printed-cruise-missiles-in-ukraine-can-hit-500mph-with-a-745-mile-range-fears-high-that-cheap-filin-missile-will-be-used-for-missile-spam-tactics",
+      "desc": "The Filin missile, which was deployed between late September and early October of this year, reporte...",
+      "img": "https://cdn.mos.cms.futurecdn.net/pVq3CChwFLHDhnJgdAt7WC-1920-80.png"
     }
   ],
   "crypto": [
@@ -153,40 +153,40 @@
   ],
   "various": [
     {
-      "title": "France prepares for day of protest a week after nationwide riots",
-      "link": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
-      "desc": "Hundreds of thousands are expected to turn out, as more than 70,000 police officers are to be deploy...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f26/live/2a059180-cf74-11f1-aaa0-39a3560003e9.jpg"
+      "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
+      "link": "https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss",
+      "desc": "The Met said it passed information to the duchess but did not share it with other law enforcement ag...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4575/live/f5d47870-cfa2-11f1-aadb-297fd0a130b9.jpg"
     },
     {
-      "title": "Met investigates reports of letter detailing claims about Meghan's father",
-      "link": "https://www.bbc.co.uk/news/articles/cmlylkkzl2neo?at_medium=RSS&at_campaign=rss",
-      "desc": "Scotland Yard opens an inquiry after the Duchess of Sussex said she was sent a letter containing \"di...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4388/live/9cae2750-cf48-11f1-93e1-3b657b665bcf.jpg"
+      "title": "Plan for Northern Olympics to get £7m in Healey's Budget",
+      "link": "https://www.bbc.co.uk/news/articles/cv98z92ekg9zo?at_medium=RSS&at_campaign=rss",
+      "desc": "The full feasibility study will look in detail at how hosting the Games in northern England could wo...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a8f/live/392d7fd0-cf81-11f1-aa4c-d1ae926e8a30.jpg"
     },
     {
-      "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
-      "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
-      "desc": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43e7/live/343404d0-cf00-11f1-accf-3309656ad0bb.jpg"
+      "title": "Between quick wins and big dreams lies Burnham's biggest test",
+      "link": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss",
+      "desc": "The prime minister might be dreaming of gold medals in 2040, but he must first navigate the difficul...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f09/live/d22fe040-ceed-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "title": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
-      "link": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss",
-      "desc": "Kaylub Giamanco, has been hailed as a hero for killing a teenager who fatally shot three children an...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2348/live/e4a29f10-cf42-11f1-93e1-3b657b665bcf.jpg"
+      "title": "Mum dies after trying to rescue sons swept away at sea in Bahamas",
+      "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
+      "desc": "The children were subsequently rescued from the water, police say.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74f9/live/3c3ce1b0-cf8c-11f1-bef0-7f8eb636c50b.jpg"
     },
     {
-      "title": "Arrest made after fire at Hitler's famed Eagle's Nest retreat",
-      "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-      "desc": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residen...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b513/live/b8fe52a0-cf7e-11f1-ae2e-3fbb7ae6bffe.jpg"
+      "title": "Infantino tells BBC Sport he is backed by 'vast majority' of world football",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6q8nd9g9n72o?at_medium=RSS&at_campaign=rss",
+      "desc": "Fifa president Gianni Infantino laughs off questions about whether he considered resigning over the ...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cac2/live/51c70760-cf99-11f1-b441-2b33b063138f.png"
     },
     {
-      "title": "Celebrity Traitors left on a knife edge after a trip to the field of screams",
-      "link": "https://www.bbc.co.uk/news/articles/c6jdmrz00v7lo?at_medium=RSS&at_campaign=rss",
-      "desc": "A newly earned special power left one contestant with a big decision to make in Friday's episode.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d961/live/a03e74a0-cf35-11f1-b4af-39e764734ae7.jpg"
+      "title": "Strictly's new presenters - after mixed reviews have they found their feet?",
+      "link": "https://www.bbc.co.uk/news/articles/c5zjxp1rjne8o?at_medium=RSS&at_campaign=rss",
+      "desc": "Josh Widdicombe, Emma Willis and Johannes Radebe have split opinion but are getting into the groove,...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95c4/live/e591c730-ced8-11f1-8507-45cb00a1c41c.jpg"
     }
   ]
 }
