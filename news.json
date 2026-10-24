@@ -39,6 +39,24 @@
   ],
   "movies": [
     {
+      "title": "Wicker's Alexander Skarsgård And Olivia Colman Settle The Debate After The Internet Can't Stop Asking About Splinters",
+      "link": "https://www.cinemablend.com/movies/wicker-alexander-skarsgard-olivia-colman-settle-debate-splinters",
+      "desc": "Don't worry, we asked them about it.",
+      "img": "https://cdn.mos.cms.futurecdn.net/DJ6iXgVBxTxswysknMC6Kf-1920-80.jpg"
+    },
+    {
+      "title": "Pedro Pascal Doesn’t Hold Back About Taking ‘A Lot Of S--t’ In Hollywood Before Becoming A Star",
+      "link": "https://www.cinemablend.com/movies/pedro-pascal-doesnt-hold-back-about-struggles-hollywood-before-stardom",
+      "desc": "He started from the bottom now he's here.",
+      "img": "https://cdn.mos.cms.futurecdn.net/e5yVZ4oADhcderDAGHXZK4-1920-80.jpg"
+    },
+    {
+      "title": "I'm Really Bummed Jenna Ortega's New Movie Falls In Line With A 'Rotten' Trend She's On With Critics",
+      "link": "https://www.cinemablend.com/movies/bummed-jenna-ortega-klara-and-the-sun-rotten-trend-critics",
+      "desc": "I don't like this.",
+      "img": "https://cdn.mos.cms.futurecdn.net/FqpwAw9yEBPxLcebCzFoeM-1920-80.png"
+    },
+    {
       "title": "I Waited And Waited To See What Clayface Would Look Like, And That Ending Was So Unexpected And Cryptic",
       "link": "https://www.cinemablend.com/movies/clayface-ending-look-unexpected-cryptic-james-watkins-interview",
       "desc": "What a chilling finale for the DCU flick.",
@@ -55,24 +73,6 @@
       "link": "https://www.cinemablend.com/movies/alexandra-daddario-tried-rehearse-sexy-scene-with-her-mom",
       "desc": "Awkward family moment, much?",
       "img": "https://cdn.mos.cms.futurecdn.net/NHyDeBeGXNV37odBiDF4G7-1920-80.jpg"
-    },
-    {
-      "title": "Some Fans Got To See The First 17 Minutes Of Brad Pitt's Cliff Booth Spinoff. Now, I Have One Big Question",
-      "link": "https://www.cinemablend.com/movies/some-fans-saw-first-17-minutes-brad-pitts-cliff-booth-spinoff-question",
-      "desc": "I'm both envious and curious.",
-      "img": "https://cdn.mos.cms.futurecdn.net/C6JMY6WQHHnCjKScFsKhKQ-1920-80.jpg"
-    },
-    {
-      "title": "I Just Found Out Another A-List Actress Was Also Involved With You Can See Everything",
-      "link": "https://www.cinemablend.com/movies/just-found-out-another-a-list-actress-involved-you-can-see-everything-emma-stone",
-      "desc": "Not one, but two big-time actresses are involved in the hit.",
-      "img": "https://cdn.mos.cms.futurecdn.net/XUoLJEUELQBnyxK5sQfF36-1920-80.jpg"
-    },
-    {
-      "title": "Why The Twist In The Sixth Sense Is Still The Best In Cinema History",
-      "link": "https://www.cinemablend.com/movies/why-twist-in-the-sixth-sense-still-best-cinema-history-bruce-willis",
-      "desc": "He's a g-g-g-g-ghost!",
-      "img": "https://cdn.mos.cms.futurecdn.net/Z5tpakuh86BZqXNbmSoAtF-1920-80.jpg"
     }
   ],
   "tech": [
@@ -153,22 +153,22 @@
   ],
   "various": [
     {
+      "title": "Watch: BBC in Paris as police charge protesters and use tear gas during unrest",
+      "link": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
+      "desc": "Europe correspondent Nick Beake reports from Paris where mostly peaceful protests turned into unrest...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4f2/live/c78fb360-cfe5-11f1-b441-2b33b063138f.jpg"
+    },
+    {
       "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
       "link": "https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss",
       "desc": "The Met said it passed information to the duchess but did not share it with other law enforcement ag...",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb37/live/1f328a50-cfa7-11f1-aadb-297fd0a130b9.jpg"
     },
     {
-      "title": "UK braces for worst of Storm Boelo as amber warnings due to come into force",
+      "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
       "link": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
       "desc": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest w...",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7559/live/33cbd240-cfb2-11f1-9012-0172b9f73a72.jpg"
-    },
-    {
-      "title": "Between quick wins and big dreams lies Burnham's biggest test",
-      "link": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss",
-      "desc": "The prime minister might be dreaming of gold medals in 2040, but he must first navigate the difficul...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f09/live/d22fe040-ceed-11f1-b441-2b33b063138f.jpg"
     },
     {
       "title": "Mum who died trying to save sons swept away in Bahamas was hero, husband says",
@@ -177,16 +177,16 @@
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b9f/live/09596b60-cfc8-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
+      "title": "Between quick wins and big dreams lies Burnham's biggest test",
+      "link": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss",
+      "desc": "The prime minister might be dreaming of gold medals in 2040, but he must first navigate the difficul...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f09/live/d22fe040-ceed-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
       "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
       "desc": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and ...",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b86/live/6920a5d0-cfba-11f1-9012-0172b9f73a72.jpg"
-    },
-    {
-      "title": "Infantino tells BBC Sport he is backed by 'vast majority' of world football",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6q8nd9g9n72o?at_medium=RSS&at_campaign=rss",
-      "desc": "Fifa president Gianni Infantino laughs off questions about whether he considered resigning over the ...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cac2/live/51c70760-cf99-11f1-b441-2b33b063138f.png"
     }
   ]
 }
