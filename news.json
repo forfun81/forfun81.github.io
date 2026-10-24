@@ -39,6 +39,18 @@
   ],
   "movies": [
     {
+      "title": "I Waited And Waited To See What Clayface Would Look Like, And That Ending Was So Unexpected And Cryptic",
+      "link": "https://www.cinemablend.com/movies/clayface-ending-look-unexpected-cryptic-james-watkins-interview",
+      "desc": "What a chilling finale for the DCU flick.",
+      "img": "https://cdn.mos.cms.futurecdn.net/H4JnAbmKwfz2yWerCTzDx3-1920-80.jpg"
+    },
+    {
+      "title": "New Avengers: Doomsday Footage Reveals A Captain America Joke, And I’m Shook Over How It’s Dividing Fans",
+      "link": "https://www.cinemablend.com/movies/avengers-doomsday-footage-reveals-captain-america-ant-man-joke-dividing-fans",
+      "desc": "Could we even call this MCU fan debate a... civil war?",
+      "img": "https://cdn.mos.cms.futurecdn.net/skTjqHsDEhgZEiM5yPwMnY-1920-80.jpg"
+    },
+    {
       "title": "Alexandra Daddario Tried To Rehearse A Sexy Scene With Her Mom. It Did Not Go Well",
       "link": "https://www.cinemablend.com/movies/alexandra-daddario-tried-rehearse-sexy-scene-with-her-mom",
       "desc": "Awkward family moment, much?",
@@ -61,18 +73,6 @@
       "link": "https://www.cinemablend.com/movies/why-twist-in-the-sixth-sense-still-best-cinema-history-bruce-willis",
       "desc": "He's a g-g-g-g-ghost!",
       "img": "https://cdn.mos.cms.futurecdn.net/Z5tpakuh86BZqXNbmSoAtF-1920-80.jpg"
-    },
-    {
-      "title": "I Keep Thinking About Haymitch's New Hair In Sunrise On The Reaping, And Joseph Zada's Take On It Is Hilarious",
-      "link": "https://www.cinemablend.com/movies/keep-thinking-about-haymitchs-new-hair-sunrise-on-the-reaping-joseph-zada-take-hilarious-woody-harrelson",
-      "desc": "I need to know the hairy details.",
-      "img": "https://cdn.mos.cms.futurecdn.net/hwvnUBxK6oSQi2oKyaGjC4-1920-80.jpg"
-    },
-    {
-      "title": "Sylvester Stallone Was Told His Movie With Dolly Parton Was A ‘Career Killer.’ Why He Still Loved It",
-      "link": "https://www.cinemablend.com/movies/sylvester-stallone-told-movie-with-dolly-parton-career-killer-why-still-loved-it-rhinestone",
-      "desc": "This was a chance he was going to take.",
-      "img": "https://cdn.mos.cms.futurecdn.net/fjPZCzYdJuAQQhV2XzYjS9-1920-80.jpg"
     }
   ],
   "tech": [
@@ -159,10 +159,10 @@
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb37/live/1f328a50-cfa7-11f1-aadb-297fd0a130b9.jpg"
     },
     {
-      "title": "Plan for Northern Olympics to get £7m in Healey's Budget",
-      "link": "https://www.bbc.co.uk/news/articles/cv98z92ekg9zo?at_medium=RSS&at_campaign=rss",
-      "desc": "The full feasibility study will look in detail at how hosting the Games in northern England could wo...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a8f/live/392d7fd0-cf81-11f1-aa4c-d1ae926e8a30.jpg"
+      "title": "UK braces for worst of Storm Boelo as amber warnings due to come into force",
+      "link": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
+      "desc": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest w...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7559/live/33cbd240-cfb2-11f1-9012-0172b9f73a72.jpg"
     },
     {
       "title": "Between quick wins and big dreams lies Burnham's biggest test",
@@ -171,22 +171,22 @@
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f09/live/d22fe040-ceed-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "title": "Mum dies after trying to rescue sons swept away at sea in Bahamas",
+      "title": "Mum who died trying to save sons swept away in Bahamas was hero, husband says",
       "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
-      "desc": "The children were subsequently rescued from the water, police say.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74f9/live/3c3ce1b0-cf8c-11f1-bef0-7f8eb636c50b.jpg"
+      "desc": "Nathan Gregory says the loss of childhood sweetheart Leanne \"is unimaginable for our family\".",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b9f/live/09596b60-cfc8-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
+      "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+      "desc": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and ...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b86/live/6920a5d0-cfba-11f1-9012-0172b9f73a72.jpg"
     },
     {
       "title": "Infantino tells BBC Sport he is backed by 'vast majority' of world football",
       "link": "https://www.bbc.co.uk/sport/football/articles/c6q8nd9g9n72o?at_medium=RSS&at_campaign=rss",
       "desc": "Fifa president Gianni Infantino laughs off questions about whether he considered resigning over the ...",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cac2/live/51c70760-cf99-11f1-b441-2b33b063138f.png"
-    },
-    {
-      "title": "Strictly's new presenters - after mixed reviews have they found their feet?",
-      "link": "https://www.bbc.co.uk/news/articles/c5zjxp1rjne8o?at_medium=RSS&at_campaign=rss",
-      "desc": "Josh Widdicombe, Emma Willis and Johannes Radebe have split opinion but are getting into the groove,...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95c4/live/e591c730-ced8-11f1-8507-45cb00a1c41c.jpg"
     }
   ]
 }
