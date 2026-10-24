@@ -13,7 +13,6 @@ body{
   font-family: Arial, sans-serif;
   background:#f5f5f5;
   color:#111;
-  padding-bottom:110px; /* space for the sticky ad at the bottom */
 }
 header{
   background:#000;
@@ -112,14 +111,13 @@ footer{
   font-size:.9em;
 }
 
-/* Sticky ad at the bottom (does not cover the header) */
+/* Ad at the top of the page */
 #adWrap{
-  position:fixed;
-  left:0; right:0; bottom:0;
-  z-index:999;
+  position:relative;
   text-align:center;
   font-size:0;
-  background:rgba(255,255,255,.0);
+  background:#fff;
+  z-index:1001;
 }
 #adWrap iframe{
   border:0;
@@ -136,16 +134,29 @@ footer{
   border-radius:4px;
   background:rgba(248,248,249,.85);
   padding:4px;
-  z-index:1000;
+  z-index:1002;
   cursor:pointer;
   line-height:0;
 }
 #adToggle{ display:none; }
-#adToggle:checked ~ #adWrap{ display:none; }
+#adToggle:checked + #adWrap{ display:none; }
 </style>
 </head>
 
 <body>
+
+<!-- BEGIN AADS AD UNIT 2459701 (top) -->
+<input autocomplete="off" type="checkbox" id="adToggle" hidden>
+<div id="adWrap">
+  <label for="adToggle" id="adClose" title="Close ad">
+    <svg fill="#000000" height="16" width="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 490">
+      <polygon points="456.851,0 245,212.564 33.149,0 0.708,32.337 212.669,245.004 0.708,457.678 33.149,490 245,277.443 456.851,490 489.292,457.678 277.331,245.004 489.292,32.337"/>
+    </svg>
+  </label>
+  <iframe data-aa="2459701" src="https://acceptable.a-ads.com/2459701/?size=Adaptive" title="Advertisement"></iframe>
+</div>
+<!-- END AADS AD UNIT 2459701 -->
+
 
 <div id="top"></div>
 
@@ -228,17 +239,6 @@ footer{
 
 <footer>© 2026 ForFun81</footer>
 
-<!-- BEGIN AADS AD UNIT 2459701 (sticky, bottom) -->
-<input autocomplete="off" type="checkbox" id="adToggle" hidden>
-<div id="adWrap">
-  <label for="adToggle" id="adClose" title="Close ad">
-    <svg fill="#000000" height="16" width="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 490">
-      <polygon points="456.851,0 245,212.564 33.149,0 0.708,32.337 212.669,245.004 0.708,457.678 33.149,490 245,277.443 456.851,490 489.292,457.678 277.331,245.004 489.292,32.337"/>
-    </svg>
-  </label>
-  <iframe data-aa="2459701" src="https://acceptable.a-ads.com/2459701/?size=Adaptive" title="Advertisement"></iframe>
-</div>
-<!-- END AADS AD UNIT 2459701 -->
 
 <script>
 const MAX_STORIES = 6;
@@ -300,6 +300,13 @@ function showMessage(cat, text) {
 }
 Object.keys({games:1,movies:1,tech:1,crypto:1,various:1}).forEach(cat => showMessage(cat, 'Loading stories...'));
 
+// fetch with timeout so a slow proxy can never leave the page stuck on "Loading"
+function fetchT(url, opts = {}, ms = 8000) {
+  const ctrl = new AbortController();
+  const t = setTimeout(() => ctrl.abort(), ms);
+  return fetch(url, { ...opts, signal: ctrl.signal }).finally(() => clearTimeout(t));
+}
+
 // ---------- Feed loading with fallbacks ----------
 
 function stripHtml(html) {
@@ -320,7 +327,7 @@ function makeDesc(html) {
 
 // Method 1: rss2json (returns JSON)
 async function viaRss2Json(rssUrl) {
-  const res = await fetch('https://api.rss2json.com/v1/api.json?rss_url=' + encodeURIComponent(rssUrl));
+  const res = await fetchT('https://api.rss2json.com/v1/api.json?rss_url=' + encodeURIComponent(rssUrl));
   const data = await res.json();
   if (data.status !== 'ok' || !data.items || !data.items.length) throw new Error('rss2json empty');
   return data.items.slice(0, MAX_STORIES).map(s => ({
@@ -366,7 +373,7 @@ function parseRssXml(text) {
 }
 
 async function viaProxy(proxyBuilder, rssUrl) {
-  const res = await fetch(proxyBuilder(rssUrl));
+  const res = await fetchT(proxyBuilder(rssUrl));
   if (!res.ok) throw new Error('proxy http ' + res.status);
   return parseRssXml(await res.text());
 }
@@ -391,7 +398,7 @@ let refreshing = false;
 
 async function loadLocalJson() {
   try {
-    const res = await fetch('news.json?t=' + Date.now(), { cache: 'no-store' });
+    const res = await fetchT('news.json?t=' + Date.now(), { cache: 'no-store' }, 5000);
     if (!res.ok) return null;
     return await res.json();
   } catch (e) { return null; }
