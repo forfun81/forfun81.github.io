@@ -39,6 +39,24 @@
   ],
   "movies": [
     {
+      "title": "Alexandra Daddario Tried To Rehearse A Sexy Scene With Her Mom. It Did Not Go Well",
+      "link": "https://www.cinemablend.com/movies/alexandra-daddario-tried-rehearse-sexy-scene-with-her-mom",
+      "desc": "Awkward family moment, much?",
+      "img": "https://cdn.mos.cms.futurecdn.net/NHyDeBeGXNV37odBiDF4G7-1920-80.jpg"
+    },
+    {
+      "title": "Some Fans Got To See The First 17 Minutes Of Brad Pitt's Cliff Booth Spinoff. Now, I Have One Big Question",
+      "link": "https://www.cinemablend.com/movies/some-fans-saw-first-17-minutes-brad-pitts-cliff-booth-spinoff-question",
+      "desc": "I'm both envious and curious.",
+      "img": "https://cdn.mos.cms.futurecdn.net/C6JMY6WQHHnCjKScFsKhKQ-1920-80.jpg"
+    },
+    {
+      "title": "I Just Found Out Another A-List Actress Was Also Involved With You Can See Everything",
+      "link": "https://www.cinemablend.com/movies/just-found-out-another-a-list-actress-involved-you-can-see-everything-emma-stone",
+      "desc": "Not one, but two big-time actresses are involved in the hit.",
+      "img": "https://cdn.mos.cms.futurecdn.net/XUoLJEUELQBnyxK5sQfF36-1920-80.jpg"
+    },
+    {
       "title": "Why The Twist In The Sixth Sense Is Still The Best In Cinema History",
       "link": "https://www.cinemablend.com/movies/why-twist-in-the-sixth-sense-still-best-cinema-history-bruce-willis",
       "desc": "He's a g-g-g-g-ghost!",
@@ -55,27 +73,27 @@
       "link": "https://www.cinemablend.com/movies/sylvester-stallone-told-movie-with-dolly-parton-career-killer-why-still-loved-it-rhinestone",
       "desc": "This was a chance he was going to take.",
       "img": "https://cdn.mos.cms.futurecdn.net/fjPZCzYdJuAQQhV2XzYjS9-1920-80.jpg"
-    },
-    {
-      "title": "I Just Realized Leighton Meester And Jared Padalecki's New Rom-Com Is Based On A Book I Loved",
-      "link": "https://www.cinemablend.com/movies/realized-leighton-meester-jared-padalecki-rom-com-based-on-book-guarding-stars",
-      "desc": "And the trailer looks great!",
-      "img": "https://cdn.mos.cms.futurecdn.net/sLuX3GvmgArAMTDQoVN9tg-1920-80.jpg"
-    },
-    {
-      "title": "I Still Think Poltergeist II Has The Scariest Moment From Any Horror Movie Ever",
-      "link": "https://www.cinemablend.com/movies/still-think-poltergeist-ii-scariest-moment-any-horror-movie",
-      "desc": "This scene still gives me nightmares.",
-      "img": "https://cdn.mos.cms.futurecdn.net/yxCzzg9tiMsdxVhxJp8KER-1920-80.jpg"
-    },
-    {
-      "title": "Dirty Dancing Sequel’s Producer Just Made A Patrick Swayze-Related Promise, And I’m Relieved",
-      "link": "https://www.cinemablend.com/movies/dirty-dancing-sequels-writer-made-patrick-swayze-promise-relieved",
-      "desc": "Nobody put Johnny in the corner…of this movie.",
-      "img": "https://cdn.mos.cms.futurecdn.net/EWdNRiF8yqgo9d42GyWPUm-1920-80.jpg"
     }
   ],
   "tech": [
+    {
+      "title": "Save up to $800 on Acer’s ultra-slim RTX 5070 Ti gaming laptop — pay $2225 for the 16GB RAM model or upgrade to 32GB for $2400",
+      "link": "https://www.tomshardware.com/laptops/gaming-laptops/save-up-to-usd800-on-acers-ultra-slim-rtx-5070-ti-gaming-laptop-pay-usd2225-for-the-16gb-ram-model-or-upgrade-to-32gb-for-usd2400",
+      "desc": "The Acer Predator Helios Neo 16S AI combines a 240 Hz QHD+ OLED display with Intel’s 24-core Core Ul...",
+      "img": "https://cdn.mos.cms.futurecdn.net/nxPejVNdz8iABWsEJKshM8-1920-80.jpg"
+    },
+    {
+      "title": "Proton hosts Flock map revealing over 300,000 cameras, defying cease-and-desist threats against creator",
+      "link": "https://www.tomshardware.com/software/maps/proton-hosts-flock-map-revealing-over-300-000-cameras-defying-cease-and-desist-threats-against-creator-privacy-focused-company-hosts-site-on-swiss-servers-says-users-have-the-right-to-know-whos-recording-them",
+      "desc": "Privacy-focused firm Proton AG just decided to host the Flock camera map that a security researcher ...",
+      "img": "https://cdn.mos.cms.futurecdn.net/4diaf8rSLo53HumAAQtfag-1920-80.png"
+    },
+    {
+      "title": "Edifier Hecate G2000 Pro Review: Clear and Colorful",
+      "link": "https://www.tomshardware.com/speakers/edifier-hecate-g2000-pro-review",
+      "desc": "The Edifier Hecate G2000 Pro speakers offer a uniquely designed RGB experience, all within a set of ...",
+      "img": "https://cdn.mos.cms.futurecdn.net/mk5dzLPDwxhpnFxe7f2SYN-1920-80.jpg"
+    },
     {
       "title": "This week on Tom's Hardware Premium: October 24, 2026",
       "link": "https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-october-24-2026-tp-links-fcc-saga-file-semantic-ssds-and-unlocking-better-gaming-performance-from-rtx-spark",
@@ -93,24 +111,6 @@
       "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/use-your-3d-printer-to-customize-this-new-stage-tour-guitar-controller-drakongs-infinakore-fender-telecaster-peripheral-is-a-modders-dream",
       "desc": "A new customizable rhythm game controller that's compatible with the new Stage Tour and pre-existing...",
       "img": "https://cdn.mos.cms.futurecdn.net/3vMUJ5KTyqeuFFdRhBGLSe-1920-80.jpg"
-    },
-    {
-      "title": "Texas has suspended 17 data center construction permits and shut down automated portal that rubber-stamped projects",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/texas-has-suspended-17-data-center-construction-permits-and-shut-down-automated-portal-used-to-approve-them-site-was-left-running-for-a-month-after-greg-abbott-called-for-a-pause-on-approvals",
-      "desc": "Texas has suspended 17 data center construction permits and shut down the automated portal used to a...",
-      "img": "https://cdn.mos.cms.futurecdn.net/wZHrQo3SV2tfx5VmDhzVC8-1920-80.jpg"
-    },
-    {
-      "title": "Leaked video exposes how industrial-scale Chinese factories are dismantling RTX 5090s by the thousands to fuel AI servers",
-      "link": "https://www.tomshardware.com/pc-components/gpus/leaked-video-exposes-how-chinese-factories-are-stripping-rtx-5090s-to-fuel-ai-custom-partner-cards-to-nvidia-founders-editions-on-the-chopping-block",
-      "desc": "Wondering why RTX 5090s are so hard to find? Leaked footage shows thousands of consumer GPUs, includ...",
-      "img": "https://cdn.mos.cms.futurecdn.net/bBGEYE8htq38xZgt4xCdTQ-1920-80.jpg"
-    },
-    {
-      "title": "Russia deploys 3D-printed cruise missiles with US electronics in Ukraine, can hit 500mph with a 745-mile range",
-      "link": "https://www.tomshardware.com/3d-printing/russia-deploys-3d-printed-cruise-missiles-in-ukraine-can-hit-500mph-with-a-745-mile-range-fears-high-that-cheap-filin-missile-will-be-used-for-missile-spam-tactics",
-      "desc": "The Filin missile, which was deployed between late September and early October of this year, reporte...",
-      "img": "https://cdn.mos.cms.futurecdn.net/pVq3CChwFLHDhnJgdAt7WC-1920-80.png"
     }
   ],
   "crypto": [
@@ -156,7 +156,7 @@
       "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
       "link": "https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss",
       "desc": "The Met said it passed information to the duchess but did not share it with other law enforcement ag...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4575/live/f5d47870-cfa2-11f1-aadb-297fd0a130b9.jpg"
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb37/live/1f328a50-cfa7-11f1-aadb-297fd0a130b9.jpg"
     },
     {
       "title": "Plan for Northern Olympics to get £7m in Healey's Budget",
