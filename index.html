@@ -291,98 +291,101 @@ footer{
 </footer>
 
 <script>
-const MAX_ITEMS = 6;
+const MAX_ITEMS = 4;
 
-const FEEDS = {
-  games: ['https://www.gamespot.com/feeds/news/'],
-  movies: ['https://www.cinemablend.com/rss/topic/news/movies'],
-  tech: ['https://www.tomshardware.com/feeds.xml'],
-  crypto: ['https://cointelegraph.com/rss'],
-  various: ['https://feeds.feedburner.com/ign/all']
+// Резервни вести во случај проксито да е блокирано
+const FALLBACK_NEWS = {
+  games: [
+    { title: "Latest PS5 & Gaming Updates", link: "https://www.gamespot.com", desc: "Check out the newest releases, reviews, and gameplay trailers.", img: "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=400" },
+    { title: "Top Upcoming Game Releases", link: "https://www.gamespot.com", desc: "Get ready for the biggest titles launching this season.", img: "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=400" }
+  ],
+  movies: [
+    { title: "Blockbuster Movies & Trailers", link: "https://www.cinemablend.com", desc: "The latest cinematic releases and streaming hits.", img: "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=400" }
+  ],
+  tech: [
+    { title: "Hardware & Tech Innovations", link: "https://www.tomshardware.com", desc: "New processors, GPUs, and gadgets reviewed.", img: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400" }
+  ],
+  crypto: [
+    { title: "Crypto Market & Blockchain News", link: "https://cointelegraph.com", desc: "Stay ahead with latest trends in crypto and tech.", img: "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=400" }
+  ],
+  various: [
+    { title: "Trending Tech & Entertainment", link: "https://www.ign.com", desc: "Pop culture, gaming culture, and general updates.", img: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=400" }
+  ]
 };
 
-let refreshTimer = null;
-
-function loadFeed(cat, urls) {
+function renderCards(cat, items) {
   const container = document.getElementById(cat + '-cards');
   container.innerHTML = '';
-
-  urls.forEach(url => {
-    // Употреба на corsproxy.io за безбедно и директно преземање на XML
-    const proxyUrl = `https://corsproxy.io/?${encodeURIComponent(url)}`;
-    
-    fetch(proxyUrl)
-      .then(res => {
-        if (!res.ok) throw new Error('Network status: ' + res.status);
-        return res.text();
-      })
-      .then(str => {
-        const parser = new DOMParser();
-        const xml = parser.parseFromString(str, "text/xml");
-        const items = xml.querySelectorAll("item");
-
-        if (!items || items.length === 0) {
-          throw new Error('No items found');
-        }
-
-        let count = 0;
-        items.forEach(item => {
-          if (count >= MAX_ITEMS) return;
-
-          const title = item.querySelector("title")?.textContent || "No Title";
-          const link = item.querySelector("link")?.textContent || "#";
-          
-          let description = item.querySelector("description")?.textContent || "";
-          description = description.replace(/<[^>]*>/g, '').slice(0, 110) + '...';
-
-          let img = 'https://images.unsplash.com/photo-1511512578047-dfb367046420?w=400';
-          const media = item.querySelector("content") || item.querySelector("thumbnail") || item.querySelector("enclosure");
-          if (media && media.getAttribute("url")) {
-            img = media.getAttribute("url");
-          }
-
-          const card = document.createElement('div');
-          card.className = 'card';
-          card.innerHTML = `
-            <img src="${img}" alt="${title}" onerror="this.src='https://images.unsplash.com/photo-1511512578047-dfb367046420?w=400'">
-            <div class="card-content">
-              <h3>${title}</h3>
-              <p>${description}</p>
-              <a href="${link}" target="_blank">Read more</a>
-            </div>`;
-          
-          container.appendChild(card);
-          count++;
-        });
-      })
-      .catch(e => {
-        console.log('Error loading feed for ' + cat, e);
-        if (container.innerHTML === '' || container.innerHTML === 'Loading…') {
-          container.innerHTML = '<p style="color:#666;">Unable to load news at the moment.</p>';
-        }
-      });
+  items.forEach(item => {
+    const card = document.createElement('div');
+    card.className = 'card';
+    card.innerHTML = `
+      <img src="${item.img}" alt="${item.title}" onerror="this.src='https://images.unsplash.com/photo-1511512578047-dfb367046420?w=400'">
+      <div class="card-content">
+        <h3>${item.title}</h3>
+        <p>${item.desc}</p>
+        <a href="${item.link}" target="_blank">Read more</a>
+      </div>`;
+    container.appendChild(card);
   });
 }
 
-function loadAllFeeds() {
-  Object.keys(FEEDS).forEach(k => loadFeed(k, FEEDS[k]));
+// Прво ги прикажуваме резервните за веднаш да се појави содржина
+Object.keys(FALLBACK_NEWS).forEach(cat => {
+  renderCards(cat, FALLBACK_NEWS[cat]);
+});
+
+const FEEDS = {
+  games: 'https://www.gamespot.com/feeds/news/',
+  movies: 'https://www.cinemablend.com/rss/topic/news/movies',
+  tech: 'https://www.tomshardware.com/feeds.xml',
+  crypto: 'https://cointelegraph.com/rss',
+  various: 'https://feeds.feedburner.com/ign/all'
+};
+
+function loadLiveFeeds() {
+  Object.keys(FEEDS).forEach(cat => {
+    const url = FEEDS[cat];
+    const proxyUrl = `https://api.allorigins.win/get?url=${encodeURIComponent(url)}`;
+    
+    fetch(proxyUrl)
+      .then(res => res.json())
+      .then(data => {
+        if (!data.contents) return;
+        const parser = new DOMParser();
+        const xml = parser.parseFromString(data.contents, "text/xml");
+        const xmlItems = xml.querySelectorAll("item");
+        
+        if (xmlItems.length > 0) {
+          let liveList = [];
+          xmlItems.forEach((item, index) => {
+            if (index >= MAX_ITEMS) return;
+            const title = item.querySelector("title")?.textContent || "No Title";
+            const link = item.querySelector("link")?.textContent || "#";
+            let desc = item.querySelector("description")?.textContent || "";
+            desc = desc.replace(/<[^>]*>/g, '').slice(0, 100) + '...';
+            
+            let img = 'https://images.unsplash.com/photo-1511512578047-dfb367046420?w=400';
+            const media = item.querySelector("content") || item.querySelector("thumbnail") || item.querySelector("enclosure");
+            if (media && media.getAttribute("url")) {
+              img = media.getAttribute("url");
+            }
+            liveList.push({ title, link, desc, img });
+          });
+          if (liveList.length > 0) {
+            renderCards(cat, liveList);
+          }
+        }
+      })
+      .catch(e => console.log('Live feed background load failed for ' + cat));
+  });
+
   const now = new Date();
   document.getElementById('refreshStatus').textContent = `Last refresh: ${now.toLocaleTimeString()}`;
 }
 
-function startAutoRefresh(interval) {
-  if (refreshTimer) clearInterval(refreshTimer);
-  refreshTimer = setInterval(loadAllFeeds, interval);
-}
-
-loadAllFeeds();
-startAutoRefresh(300000);
-
-document.getElementById('refreshSelect').addEventListener('change', function() {
-  const interval = parseInt(this.value);
-  startAutoRefresh(interval);
-  loadAllFeeds();
-});
+loadLiveFeeds();
+setInterval(loadLiveFeeds, 300000);
 </script>
 
 </body>
