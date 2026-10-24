@@ -5,24 +5,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Latest News</title>
 <meta name="description" content="News for games, movies, tech, crypto, and various topics. Stay updated with the latest headlines.">
-<meta name="google-site-verification" content="zaFjkdmT2xTeCtDZbR1wla9ZcUco5Wb7lR14xD1lQBk">
-
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-KSKTDKH9');</script>
-<!-- End Google Tag Manager -->
-
-<!-- Google Ads / GA4 gtag.js -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-17918448289"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'AW-17918448289');
-</script>
 
 <style>
 html { scroll-behavior: smooth; }
@@ -43,14 +25,74 @@ header{
 }
 nav a{
   color:#fff;
-  margin:0 12px;
+  margin:0 10px;
   text-decoration:none;
   font-weight:bold;
 }
 nav a:hover{ text-decoration:underline; }
+
+/* Rumble Банер Стилизирање */
+.rumble-link {
+  color: #85c441 !important;
+}
+
+.rumble-banner-container {
+  max-width: 1100px;
+  margin: 25px auto 10px auto;
+  padding: 0 20px;
+}
+
+.rumble-banner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: linear-gradient(135deg, #111111 0%, #1e2d10 100%);
+  border: 2px solid #85c441;
+  border-radius: 12px;
+  padding: 20px 30px;
+  text-decoration: none;
+  box-shadow: 0 4px 15px rgba(133, 196, 65, 0.2);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.rumble-banner:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 20px rgba(133, 196, 65, 0.4);
+}
+
+.rumble-banner-text h3 {
+  margin: 0 0 6px 0;
+  color: #ffffff;
+  font-size: 1.4em;
+}
+
+.rumble-banner-text p {
+  margin: 0;
+  color: #aaaaaa;
+  font-size: 0.95em;
+}
+
+.rumble-btn {
+  background: #85c441;
+  color: #000000;
+  font-weight: bold;
+  font-size: 1.1em;
+  padding: 12px 24px;
+  border-radius: 8px;
+  white-space: nowrap;
+}
+
+@media (max-width: 600px) {
+  .rumble-banner {
+    flex-direction: column;
+    text-align: center;
+    gap: 15px;
+  }
+}
+
 section{
   max-width:1100px;
-  margin:40px auto;
+  margin:30px auto;
   padding:0 20px;
 }
 h2{
@@ -110,18 +152,10 @@ h2{
 }
 .ad-banner{
   text-align:center;
-  margin:40px 0;
-  padding:20px;
-  border-radius:8px;
+  margin:40px auto;
+  max-width:1100px;
+  padding:10px;
 }
-.ad-banner a{
-  text-decoration:none;
-  font-weight:bold;
-  font-size:20px;
-  color:#fff;
-}
-.ad-banner-dark{ background:#333; }
-.ad-banner-light{ background:#555; }
 .back-top{
   text-align:center;
   margin:60px 0;
@@ -147,11 +181,6 @@ footer{
 
 <body>
 
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KSKTDKH9"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-
 <div id="top"></div>
 
 <header>
@@ -162,9 +191,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <a href="#tech">Tech</a>
     <a href="#crypto">Crypto</a>
     <a href="#various">Various</a>
+    <a href="https://rumble.com/user/LaboskiYane" target="_blank" class="rumble-link">▶ Rumble Channel</a>
     <a href="#impressum">Impressum</a>
   </nav>
 </header>
+
+<!-- РАМКА ЗА РУМБЛ БАНЕР -->
+<div class="rumble-banner-container">
+  <a href="https://rumble.com/user/LaboskiYane" target="_blank" class="rumble-banner">
+    <div class="rumble-banner-text">
+      <h3>🎮 Watch Live Gameplay Streams!</h3>
+      <p>Follow my gameplay and PS5 live streams on Rumble.</p>
+    </div>
+    <div class="rumble-btn">
+      Watch Now ▶
+    </div>
+  </a>
+</div>
 
 <div class="refresh-control">
   <label for="refreshSelect">Auto-refresh interval: </label>
@@ -179,42 +222,42 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <!-- GAMES -->
 <section id="games">
-<h2>🎮 Games</h2>
-<div class="cards" id="games-cards">Loading…</div>
+  <h2>🎮 Games</h2>
+  <div class="cards" id="games-cards">Loading…</div>
 </section>
 
-<!-- Banner 1 -->
-<div class="ad-banner ad-banner-dark">
-  <a href="#" target="_blank">Your Ad Here</a>
+<!-- Banner 1 (A-ADS) -->
+<div class="ad-banner">
+  <!-- ТУКА ЗАЛЕПИ ГО ПРВИОТ КОД ОД A-ADS -->
 </div>
 
 <!-- MOVIES -->
 <section id="movies">
-<h2>🎬 Movies</h2>
-<div class="cards" id="movies-cards">Loading…</div>
+  <h2>🎬 Movies</h2>
+  <div class="cards" id="movies-cards">Loading…</div>
 </section>
 
 <!-- TECH -->
 <section id="tech">
-<h2>💻 Computer Tech</h2>
-<div class="cards" id="tech-cards">Loading…</div>
+  <h2>💻 Computer Tech</h2>
+  <div class="cards" id="tech-cards">Loading…</div>
 </section>
 
 <!-- CRYPTO -->
 <section id="crypto">
-<h2>🪙 Crypto News</h2>
-<div class="cards" id="crypto-cards">Loading…</div>
+  <h2>🪙 Crypto News</h2>
+  <div class="cards" id="crypto-cards">Loading…</div>
 </section>
 
 <!-- VARIOUS -->
 <section id="various">
-<h2>📰 Various</h2>
-<div class="cards" id="various-cards">Loading…</div>
+  <h2>📰 Various</h2>
+  <div class="cards" id="various-cards">Loading…</div>
 </section>
 
-<!-- Banner 2 -->
-<div class="ad-banner ad-banner-light">
-  <a href="#" target="_blank">Your Ad Here</a>
+<!-- Banner 2 (A-ADS) -->
+<div class="ad-banner">
+  <!-- ТУКА ЗАЛЕПИ ГО ВТОРИОТ КОД ОД A-ADS -->
 </div>
 
 <div class="back-top">
@@ -222,21 +265,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </div>
 
 <section id="impressum">
-<h2>Impressum</h2>
-<p>
-ForFun81 News Aggregator<br>
-Private non-commercial project<br>
-Germany
-</p>
+  <h2>Impressum</h2>
+  <p>
+    ForFun81 News Aggregator<br>
+    Private non-commercial project<br>
+    Germany
+  </p>
 
-<p>
-Contact: csservice858@gmail.com
-</p>
+  <p>
+    Contact: csservice858@gmail.com
+  </p>
 
-<p>
-All content belongs to respective owners.<br>
-RSS aggregation for informational purposes only.
-</p>
+  <p>
+    All content belongs to respective owners.<br>
+    RSS aggregation for informational purposes only.
+  </p>
 </section>
 
 <footer>
@@ -244,59 +287,90 @@ RSS aggregation for informational purposes only.
 </footer>
 
 <script>
-const RSS2JSON="https://api.rss2json.com/v1/api.json?rss_url=";
-const MAX_ITEMS=6;
+const MAX_ITEMS = 6;
 
-const FEEDS={
-  games:['https://www.gamesradar.com/feeds.xml'],
-  movies:['https://fandangofilm.de/feed/','https://www.hollywood.com/feed'],
-  tech:['https://www.tomshardware.com/feeds.xml','https://gizmodo.com/feed'],
-  crypto:['https://cointelegraph.com/rss','https://www.coindesk.com/tag/rss'],
-  various:['https://gizmodo.com/feed']
+const FEEDS = {
+  games: ['https://www.gamesradar.com/feeds.xml'],
+  movies: ['https://fandangofilm.de/feed/', 'https://www.hollywood.com/feed'],
+  tech: ['https://www.tomshardware.com/feeds.xml', 'https://gizmodo.com/feed'],
+  crypto: ['https://cointelegraph.com/rss', 'https://www.coindesk.com/tag/rss'],
+  various: ['https://gizmodo.com/feed']
 };
 
 let refreshTimer = null;
 
-function loadFeed(cat, urls){
-  const container=document.getElementById(cat+'-cards');
-  container.innerHTML='';
-  urls.forEach(url=>{
-    fetch(RSS2JSON + encodeURIComponent(url))
-    .then(res=>res.json())
-    .then(data=>{
-      data.items.slice(0,MAX_ITEMS).forEach(item=>{
-        const img=item.thumbnail || item.enclosure?.link || 'https://placehold.co/400x200/000/FFF?text=News';
-        const card=document.createElement('div');
-        card.className='card';
-        card.innerHTML=`
-          <img src="${img}" alt="${item.title}">
-          <div class="card-content">
-            <h3>${item.title}</h3>
-            <p>${item.description?.replace(/<[^>]*>/g,'').slice(0,120)+'...' || ''}</p>
-            <a href="${item.link}" target="_blank">Read more</a>
-          </div>`;
-        container.appendChild(card);
+function loadFeed(cat, urls) {
+  const container = document.getElementById(cat + '-cards');
+  container.innerHTML = '';
+
+  urls.forEach(url => {
+    // Нов, побрз CORS прокси сервис
+    const proxyUrl = `https://corsproxy.io/?${encodeURIComponent(url)}`;
+    
+    fetch(proxyUrl)
+      .then(res => {
+        if (!res.ok) throw new Error('Network error');
+        return res.text();
+      })
+      .then(str => {
+        const parser = new DOMParser();
+        const xml = parser.parseFromString(str, "text/xml");
+        const items = xml.querySelectorAll("item");
+
+        let count = 0;
+        items.forEach(item => {
+          if (count >= MAX_ITEMS) return;
+
+          const title = item.querySelector("title")?.textContent || "No Title";
+          const link = item.querySelector("link")?.textContent || "#";
+          
+          let description = item.querySelector("description")?.textContent || "";
+          description = description.replace(/<[^>]*>/g, '').slice(0, 120) + '...';
+
+          let img = 'https://placehold.co/400x200/000/FFF?text=News';
+          const mediaContent = item.querySelector("content") || item.querySelector("thumbnail") || item.querySelector("enclosure");
+          if (mediaContent && mediaContent.getAttribute("url")) {
+            img = mediaContent.getAttribute("url");
+          }
+
+          const card = document.createElement('div');
+          card.className = 'card';
+          card.innerHTML = `
+            <img src="${img}" alt="${title}">
+            <div class="card-content">
+              <h3>${title}</h3>
+              <p>${description}</p>
+              <a href="${link}" target="_blank">Read more</a>
+            </div>`;
+          
+          container.appendChild(card);
+          count++;
+        });
+      })
+      .catch(e => {
+        console.log('Error loading RSS for ' + cat, e);
+        if (container.innerHTML === '') {
+          container.innerHTML = '<p>Unable to load news right now.</p>';
+        }
       });
-    })
-    .catch(e=>console.log('Error loading RSS for '+cat, e));
   });
 }
 
-function loadAllFeeds(){
-  Object.keys(FEEDS).forEach(k=>loadFeed(k,FEEDS[k]));
+function loadAllFeeds() {
+  Object.keys(FEEDS).forEach(k => loadFeed(k, FEEDS[k]));
   const now = new Date();
   document.getElementById('refreshStatus').textContent = `Last refresh: ${now.toLocaleTimeString()}`;
 }
 
-function startAutoRefresh(interval){
-  if(refreshTimer) clearInterval(refreshTimer);
+function startAutoRefresh(interval) {
+  if (refreshTimer) clearInterval(refreshTimer);
   refreshTimer = setInterval(loadAllFeeds, interval);
 }
 
 loadAllFeeds();
 startAutoRefresh(300000);
 
-document.getElementById('refreshSelect').addEventListener('change', function(){
+document.getElementById('refreshSelect').addEventListener('change', function() {
   const interval = parseInt(this.value);
   startAutoRefresh(interval);
   loadAllFeeds();
