@@ -39,6 +39,18 @@
   ],
   "movies": [
     {
+      "title": "The Insane Number Of Facial Expressions Wildwood's Creators Had To Make For LAIKA's Longest Movie",
+      "link": "https://www.cinemablend.com/movies/insane-number-facial-expressions-wildwood-laika-longest-travis-knight-awkwafina-jake-johnson-interview",
+      "desc": "The work on this movie is breathtaking.",
+      "img": "https://cdn.mos.cms.futurecdn.net/a4mXBz2pPyYTULQJBTT7XG-1920-80.png"
+    },
+    {
+      "title": "One Concern Jennifer Lopez’s Friends (Allegedly) Have Amid Brett Goldstein Dating Rumors",
+      "link": "https://www.cinemablend.com/movies/jennifer-lopez-friends-allegedly-have-concern-amid-brett-goldstein-dating-rumors",
+      "desc": "JLo reportedly has a new man in her life.",
+      "img": "https://cdn.mos.cms.futurecdn.net/292idXEEd42XYSfrDpBk9d-1920-80.jpg"
+    },
+    {
       "title": "Wicker's Alexander Skarsgård And Olivia Colman Settle The Debate After The Internet Can't Stop Asking About Splinters",
       "link": "https://www.cinemablend.com/movies/wicker-alexander-skarsgard-olivia-colman-settle-debate-splinters",
       "desc": "Don't worry, we asked them about it.",
@@ -61,18 +73,6 @@
       "link": "https://www.cinemablend.com/movies/clayface-ending-look-unexpected-cryptic-james-watkins-interview",
       "desc": "What a chilling finale for the DCU flick.",
       "img": "https://cdn.mos.cms.futurecdn.net/H4JnAbmKwfz2yWerCTzDx3-1920-80.jpg"
-    },
-    {
-      "title": "New Avengers: Doomsday Footage Reveals A Captain America Joke, And I’m Shook Over How It’s Dividing Fans",
-      "link": "https://www.cinemablend.com/movies/avengers-doomsday-footage-reveals-captain-america-ant-man-joke-dividing-fans",
-      "desc": "Could we even call this MCU fan debate a... civil war?",
-      "img": "https://cdn.mos.cms.futurecdn.net/skTjqHsDEhgZEiM5yPwMnY-1920-80.jpg"
-    },
-    {
-      "title": "Alexandra Daddario Tried To Rehearse A Sexy Scene With Her Mom. It Did Not Go Well",
-      "link": "https://www.cinemablend.com/movies/alexandra-daddario-tried-rehearse-sexy-scene-with-her-mom",
-      "desc": "Awkward family moment, much?",
-      "img": "https://cdn.mos.cms.futurecdn.net/NHyDeBeGXNV37odBiDF4G7-1920-80.jpg"
     }
   ],
   "tech": [
@@ -153,16 +153,16 @@
   ],
   "various": [
     {
+      "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+      "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+      "desc": "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d00/live/edf93830-cffb-11f1-b444-6fb1f13f8d87.jpg"
+    },
+    {
       "title": "Watch: BBC in Paris as police charge protesters and use tear gas during unrest",
       "link": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
       "desc": "Europe correspondent Nick Beake reports from Paris where mostly peaceful protests turned into unrest...",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4f2/live/c78fb360-cfe5-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
-      "link": "https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss",
-      "desc": "The Met said it passed information to the duchess but did not share it with other law enforcement ag...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb37/live/1f328a50-cfa7-11f1-aadb-297fd0a130b9.jpg"
     },
     {
       "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
@@ -171,22 +171,22 @@
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7559/live/33cbd240-cfb2-11f1-9012-0172b9f73a72.jpg"
     },
     {
-      "title": "Mum who died trying to save sons swept away in Bahamas was hero, husband says",
-      "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
-      "desc": "Nathan Gregory says the loss of childhood sweetheart Leanne \"is unimaginable for our family\".",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b9f/live/09596b60-cfc8-11f1-b441-2b33b063138f.jpg"
+      "title": "Ukraine depends on Starlink - can Europe plug the gap?",
+      "link": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss",
+      "desc": "Ukraine needs another satellite internet service, but a decent alternative to Elon Musk's network do...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7151/live/1593e210-cfa6-11f1-aadb-297fd0a130b9.jpg"
+    },
+    {
+      "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
+      "link": "https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss",
+      "desc": "The Met said it passed information to the duchess but did not share it with other law enforcement ag...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb37/live/1f328a50-cfa7-11f1-aadb-297fd0a130b9.jpg"
     },
     {
       "title": "Between quick wins and big dreams lies Burnham's biggest test",
       "link": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss",
       "desc": "The prime minister might be dreaming of gold medals in 2040, but he must first navigate the difficul...",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f09/live/d22fe040-ceed-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
-      "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
-      "desc": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and ...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b86/live/6920a5d0-cfba-11f1-9012-0172b9f73a72.jpg"
     }
   ]
 }
