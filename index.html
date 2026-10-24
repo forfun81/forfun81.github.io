@@ -150,12 +150,6 @@ h2{
   font-size:.9em;
   color:#000;
 }
-.ad-banner{
-  text-align:center;
-  margin:40px auto;
-  max-width:1100px;
-  padding:10px;
-}
 .back-top{
   text-align:center;
   margin:60px 0;
@@ -299,12 +293,13 @@ footer{
 <script>
 const MAX_ITEMS = 6;
 
+// Ревидирани и стабилни RSS линкови
 const FEEDS = {
-  games: ['https://www.gamesradar.com/feeds.xml'],
-  movies: ['https://fandangofilm.de/feed/', 'https://www.hollywood.com/feed'],
-  tech: ['https://www.tomshardware.com/feeds.xml', 'https://gizmodo.com/feed'],
-  crypto: ['https://cointelegraph.com/rss', 'https://www.coindesk.com/tag/rss'],
-  various: ['https://gizmodo.com/feed']
+  games: ['https://www.gamespot.com/feeds/news/'],
+  movies: ['https://www.cinemablend.com/rss/topic/news/movies'],
+  tech: ['https://www.tomshardware.com/feeds.xml'],
+  crypto: ['https://cointelegraph.com/rss'],
+  various: ['https://feeds.feedburner.com/ign/all']
 };
 
 let refreshTimer = null;
@@ -314,52 +309,39 @@ function loadFeed(cat, urls) {
   container.innerHTML = '';
 
   urls.forEach(url => {
-    const proxyUrl = `https://corsproxy.io/?${encodeURIComponent(url)}`;
-    
-    fetch(proxyUrl)
-      .then(res => {
-        if (!res.ok) throw new Error('Network error');
-        return res.text();
-      })
-      .then(str => {
-        const parser = new DOMParser();
-        const xml = parser.parseFromString(str, "text/xml");
-        const items = xml.querySelectorAll("item");
+    // Користиме директна JSONP претворба преку api.rss2json.com со резервни линкови
+    const apiUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(url)}`;
 
-        let count = 0;
-        items.forEach(item => {
-          if (count >= MAX_ITEMS) return;
+    fetch(apiUrl)
+      .then(res => res.json())
+      .then(data => {
+        if (data.status === 'ok' && data.items) {
+          data.items.slice(0, MAX_ITEMS).forEach(item => {
+            let img = item.thumbnail || (item.enclosure && item.enclosure.link) || 'https://images.unsplash.com/photo-1511512578047-dfb367046420?w=400';
+            let title = item.title || "No Title";
+            let link = item.link || "#";
+            let desc = item.description ? item.description.replace(/<[^>]*>/g, '').slice(0, 110) + '...' : '';
 
-          const title = item.querySelector("title")?.textContent || "No Title";
-          const link = item.querySelector("link")?.textContent || "#";
-          
-          let description = item.querySelector("description")?.textContent || "";
-          description = description.replace(/<[^>]*>/g, '').slice(0, 120) + '...';
-
-          let img = 'https://placehold.co/400x200/000/FFF?text=News';
-          const mediaContent = item.querySelector("content") || item.querySelector("thumbnail") || item.querySelector("enclosure");
-          if (mediaContent && mediaContent.getAttribute("url")) {
-            img = mediaContent.getAttribute("url");
-          }
-
-          const card = document.createElement('div');
-          card.className = 'card';
-          card.innerHTML = `
-            <img src="${img}" alt="${title}">
-            <div class="card-content">
-              <h3>${title}</h3>
-              <p>${description}</p>
-              <a href="${link}" target="_blank">Read more</a>
-            </div>`;
-          
-          container.appendChild(card);
-          count++;
-        });
+            const card = document.createElement('div');
+            card.className = 'card';
+            card.innerHTML = `
+              <img src="${img}" alt="${title}" onerror="this.src='https://images.unsplash.com/photo-1511512578047-dfb367046420?w=400'">
+              <div class="card-content">
+                <h3>${title}</h3>
+                <p>${desc}</p>
+                <a href="${link}" target="_blank">Read more</a>
+              </div>`;
+            
+            container.appendChild(card);
+          });
+        } else {
+          throw new Error('API returned status: ' + data.status);
+        }
       })
       .catch(e => {
-        console.log('Error loading RSS for ' + cat, e);
-        if (container.innerHTML === '') {
-          container.innerHTML = '<p>Unable to load news right now.</p>';
+        console.log('Error loading feed for ' + cat, e);
+        if (container.innerHTML === '' || container.innerHTML === 'Loading…') {
+          container.innerHTML = '<p style="color:#666;">Unable to load news at the moment.</p>';
         }
       });
   });
