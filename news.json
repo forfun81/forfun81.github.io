@@ -77,43 +77,49 @@
   ],
   "tech": [
     {
+      "title": "New CD players keep launching, but a drive shortage could make them unfixable",
+      "link": "https://www.tomshardware.com/peripherals/new-cd-players-keep-launching-but-a-drive-shortage-could-make-them-unfixable-almost-nobody-makes-the-drives-anymore",
+      "desc": "The lack of optical drive manufacturers is raising questions about the repairability and longevity o...",
+      "img": "https://cdn.mos.cms.futurecdn.net/477Pst2PY8oMP9NJizdqmL-1920-80.jpg"
+    },
+    {
+      "title": "OpenAI's isolated red-team agents built a hidden CPU cache channel to talk with no network or shared files",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-isolated-red-team-ai-agents-built-a-hidden-cpu-cache-channel-to-talk-with-no-network-or-shared-files-exploited-cpu-cache-timing-to-bypass-microvm-sandboxes",
+      "desc": "OpenAI’s red-team agents passed hidden messages through the CPU cache, a covert trick already shown ...",
+      "img": "https://cdn.mos.cms.futurecdn.net/zj2rCLfrU42mkGH93V5iU-1920-80.png"
+    },
+    {
+      "title": "AMD CEO Lisa Su proposed bringing back the Ryzen 7 5800X3D, set plan in motion before DDR5 shortages",
+      "link": "https://www.tomshardware.com/pc-components/cpus/amd-ceo-lisa-su-proposed-bringing-back-the-ryzen-7-5800x3d-set-plan-in-motion-before-ddr5-shortages-am4-cpu-considered-a-final-gift-to-loyal-fans-of-the-decade-old-socket",
+      "desc": "AMD Director Travis Kirsch confirmed the rationale for relaunching the first X3D chip and explained ...",
+      "img": "https://cdn.mos.cms.futurecdn.net/p3Kjz2uFDawbqt4hPoaDaW-1920-80.jpg"
+    },
+    {
+      "title": "Nvidia eyes converting old nuclear plants into massive AI data centers",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-eyes-converting-old-nuclear-plants-into-massive-ai-data-centers-reusing-shut-down-german-energy-sites-could-reduce-the-cost-and-timeline-of-building-from-scratch",
+      "desc": "Nvidia and PreussenElektra are studying whether decommissioned sites of German nuclear power plants ...",
+      "img": "https://cdn.mos.cms.futurecdn.net/VYgWPsFZJjcK3K3NUpVbj7-1920-80.jpg"
+    },
+    {
+      "title": "Cybersecurity bounty hunter says Samsung TVs use AI to record audio and screenshots for ads",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/hacker-finds-own-samsung-tv-collecting-scary-amounts-of-user-information-and-gets-banned-by-openai-for-cyber-abuse-tv-runs-an-ai-model-that-collects-audio-screenshots-and-plenty-of-other-user-data-for-ad-targeting",
+      "desc": "A hacker reverse-engineered his own Samsung TV and found alarming spying activity, including code th...",
+      "img": "https://cdn.mos.cms.futurecdn.net/EiDyWR9Yo8wN9DnMZqQdJ4-1920-80.jpg"
+    },
+    {
       "title": "Save up to $800 on Acer’s ultra-slim RTX 5070 Ti gaming laptop — pay $2225 for the 16GB RAM model or upgrade to 32GB for $2400",
       "link": "https://www.tomshardware.com/laptops/gaming-laptops/save-up-to-usd800-on-acers-ultra-slim-rtx-5070-ti-gaming-laptop-pay-usd2225-for-the-16gb-ram-model-or-upgrade-to-32gb-for-usd2400",
       "desc": "The Acer Predator Helios Neo 16S AI combines a 240 Hz QHD+ OLED display with Intel’s 24-core Core Ul...",
       "img": "https://cdn.mos.cms.futurecdn.net/nxPejVNdz8iABWsEJKshM8-1920-80.jpg"
-    },
-    {
-      "title": "Proton hosts Flock map revealing over 300,000 cameras, defying cease-and-desist threats against creator",
-      "link": "https://www.tomshardware.com/software/maps/proton-hosts-flock-map-revealing-over-300-000-cameras-defying-cease-and-desist-threats-against-creator-privacy-focused-company-hosts-site-on-swiss-servers-says-users-have-the-right-to-know-whos-recording-them",
-      "desc": "Privacy-focused firm Proton AG just decided to host the Flock camera map that a security researcher ...",
-      "img": "https://cdn.mos.cms.futurecdn.net/4diaf8rSLo53HumAAQtfag-1920-80.png"
-    },
-    {
-      "title": "Edifier Hecate G2000 Pro Review: Clear and Colorful",
-      "link": "https://www.tomshardware.com/speakers/edifier-hecate-g2000-pro-review",
-      "desc": "The Edifier Hecate G2000 Pro speakers offer a uniquely designed RGB experience, all within a set of ...",
-      "img": "https://cdn.mos.cms.futurecdn.net/mk5dzLPDwxhpnFxe7f2SYN-1920-80.jpg"
-    },
-    {
-      "title": "This week on Tom's Hardware Premium: October 24, 2026",
-      "link": "https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-october-24-2026-tp-links-fcc-saga-file-semantic-ssds-and-unlocking-better-gaming-performance-from-rtx-spark",
-      "desc": "We give you a glimpse at some of the biggest stories we've published over on Tom's Hardware Premium ...",
-      "img": "https://cdn.mos.cms.futurecdn.net/8WSsunfcqRpAWD8nfjXSFA-1920-80.jpg"
-    },
-    {
-      "title": "Valve adds CD-ROM drive support to Steam Frame kernel, took less than ten minutes",
-      "link": "https://www.tomshardware.com/virtual-reality/valve-adds-cd-rom-drive-support-to-steam-frame-kernel-took-less-than-ten-minutes-update-comes-one-day-after-user-requests-for-capability-in-the-steam-community-forum",
-      "desc": "Valve practically just flipped a switch to give gamers the ability to read optical drives directly f...",
-      "img": "https://cdn.mos.cms.futurecdn.net/GREi4LEjsga68aPho9Xe6B-1920-80.jpg"
-    },
-    {
-      "title": "Use your 3D printer to customize this new Stage Tour guitar PC controller",
-      "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/use-your-3d-printer-to-customize-this-new-stage-tour-guitar-controller-drakongs-infinakore-fender-telecaster-peripheral-is-a-modders-dream",
-      "desc": "A new customizable rhythm game controller that's compatible with the new Stage Tour and pre-existing...",
-      "img": "https://cdn.mos.cms.futurecdn.net/3vMUJ5KTyqeuFFdRhBGLSe-1920-80.jpg"
     }
   ],
   "crypto": [
+    {
+      "title": "Netanyahu floats use of blockchain as solution to potential financial sanctions",
+      "link": "https://cointelegraph.com/news/netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Ahead of elections, Prime Minister Benjamin Netanyahu said Israel could turn to blockchain and crypt...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5SCA4VS7NKA06DYBPJVW2FM/benjamin-netanyahu.png"
+    },
     {
       "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
       "link": "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -143,21 +149,9 @@
       "link": "https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The SEC’s latest priorities highlight tokenization as an emerging market risk, while cryptocurrencie...",
       "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MP9HHR5PTKGP6MBRZ5FNFH/hi-irs-joins-the-j5-international-crypto-tax-enforcement-coming-next1.png"
-    },
-    {
-      "title": "Bitcoin seeks support above $81K as Brent crude oil hits highest level since March",
-      "link": "https://cointelegraph.com/markets/bitcoin-seeks-support-above-81k-as-brent-crude-oil-hits-highest-level-since-march?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Bitcoin dipped below $81,000 as stocks fell and Brent crude hit its highest level since March, leavi...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MPBY5231GNMGE2Q9V1FYVN/hi-crypto-offers-russia-no-way-out-from-western-sanctions2-1.jpg"
     }
   ],
   "various": [
-    {
-      "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
-      "link": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
-      "desc": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest w...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7559/live/33cbd240-cfb2-11f1-9012-0172b9f73a72.jpg"
-    },
     {
       "title": "Meghan broke contact with father in letter citing abuse claims",
       "link": "https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&at_campaign=rss",
@@ -165,28 +159,34 @@
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e831/live/b27def00-cff9-11f1-b0ff-614e4f91e969.jpg"
     },
     {
+      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+      "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
+      "desc": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for mili...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58a8/live/4afd15d0-d04f-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
       "title": "Burnham open to 'honest discussion' on EU free movement",
       "link": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
-      "desc": "The PM said he wants a \"factual\" and \"evidence-based debate\" about returning to free movement betwee...",
+      "desc": "The PM says he wants a \"factual\" and \"evidence-based debate\" about returning to free movement betwee...",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae77/live/377c49c0-cff7-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "title": "Four ways Labour could raise money in the Budget without hiking income tax",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
-      "desc": "Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines wh...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4709/live/59ef3fb0-ceff-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "title": "Ukraine depends on Starlink - can Europe plug the gap?",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss",
-      "desc": "Ukraine needs another satellite internet service, but a decent alternative to Elon Musk's network do...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7151/live/1593e210-cfa6-11f1-aadb-297fd0a130b9.jpg"
-    },
-    {
-      "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+      "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
       "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
       "desc": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in othe...",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d00/live/edf93830-cffb-11f1-b444-6fb1f13f8d87.jpg"
+    },
+    {
+      "title": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
+      "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
+      "desc": "Flávio Bolsonaro, the son of Brazil's imprisoned ex-president, is challenging Lula, who is seeking a...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a07/live/abd8a9d0-d06a-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "Why the King's Caribbean tour could be 'biggest risk of his reign'",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd6gvg1r2jo?at_medium=RSS&at_campaign=rss",
+      "desc": "The meticulously-planned visit takes in three countries in nine days - but is not without jeopardy.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf6c/live/d973bcb0-cefb-11f1-accf-3309656ad0bb.jpg"
     }
   ]
 }
