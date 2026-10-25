@@ -39,6 +39,24 @@
   ],
   "movies": [
     {
+      "title": "Clayface Squeaked Out The Top Spot Over You Can See Everything, But I'm Worried About One Movie's Big Box Office Drop",
+      "link": "https://www.cinemablend.com/movies/box-office/clayface-tops-you-can-see-everything-street-fighter-box-office-drop",
+      "desc": "This was quite a decline.",
+      "img": "https://cdn.mos.cms.futurecdn.net/7pJsgBCTnKNNPoihbWsFoc-1920-80.jpg"
+    },
+    {
+      "title": "The Surprising Number Of Times Jennifer Lawrence Peeing Under Weird Circumstances Has Come Up",
+      "link": "https://www.cinemablend.com/movies/surprising-number-times-jennifer-lawrence-peed-under-weird-circumstances",
+      "desc": "When you gotta go, you gotta go.",
+      "img": "https://cdn.mos.cms.futurecdn.net/fhi9VpnhbcJx9n66xmnne-1920-80.jpg"
+    },
+    {
+      "title": "I Wondered Why Street Fighter Gave Jordan Peele A Special Thanks In The Credits, And Now We Have An Answer",
+      "link": "https://www.cinemablend.com/movies/reason-street-fighter-gave-jordan-peele-special-thanks-credits-ken-ryu",
+      "desc": "Turns out Peele had thoughts on two key characters.",
+      "img": "https://cdn.mos.cms.futurecdn.net/CHyFqiajTFmoF2dHNUqw2o-1920-80.png"
+    },
+    {
       "title": "I Knew The Resident Evil Ending Was Coming, But I Still Have Mixed Feelings About It",
       "link": "https://www.cinemablend.com/movies/knew-resident-evil-ending-was-coming-still-have-mixed-feelings",
       "desc": "I loved it, but also hated it, if that makes sense.",
@@ -55,24 +73,6 @@
       "link": "https://www.cinemablend.com/movies/florence-pugh-hollywood-diet-growing-thighs-bums-boobs",
       "desc": "And how she stood up for herself.",
       "img": "https://cdn.mos.cms.futurecdn.net/JhBVhjW8tsoiasRpntciNn-1920-80.jpg"
-    },
-    {
-      "title": "The Insane Number Of Facial Expressions Wildwood's Creators Had To Make For LAIKA's Longest Movie",
-      "link": "https://www.cinemablend.com/movies/insane-number-facial-expressions-wildwood-laika-longest-travis-knight-awkwafina-jake-johnson-interview",
-      "desc": "The work on this movie is breathtaking.",
-      "img": "https://cdn.mos.cms.futurecdn.net/a4mXBz2pPyYTULQJBTT7XG-1920-80.png"
-    },
-    {
-      "title": "One Concern Jennifer Lopez’s Friends (Allegedly) Have Amid Brett Goldstein Dating Rumors",
-      "link": "https://www.cinemablend.com/movies/jennifer-lopez-friends-allegedly-have-concern-amid-brett-goldstein-dating-rumors",
-      "desc": "JLo reportedly has a new man in her life.",
-      "img": "https://cdn.mos.cms.futurecdn.net/292idXEEd42XYSfrDpBk9d-1920-80.jpg"
-    },
-    {
-      "title": "Wicker's Alexander Skarsgård And Olivia Colman Settle The Debate After The Internet Can't Stop Asking About Splinters",
-      "link": "https://www.cinemablend.com/movies/wicker-alexander-skarsgard-olivia-colman-settle-debate-splinters",
-      "desc": "Don't worry, we asked them about it.",
-      "img": "https://cdn.mos.cms.futurecdn.net/DJ6iXgVBxTxswysknMC6Kf-1920-80.jpg"
     }
   ],
   "tech": [
@@ -159,34 +159,34 @@
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae77/live/377c49c0-cff7-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "title": "Couple were celebrating anniversary before Bahamas tragedy",
-      "link": "https://www.bbc.co.uk/news/articles/c623drpx31xzo?at_medium=RSS&at_campaign=rss",
-      "desc": "Leanne Gregory, from Stapleford in Nottinghamshire, died trying to save her sons swept out to sea.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7903/live/3762a6d0-d071-11f1-afcb-6b9b9432d8fc.jpg"
+      "title": "Letter making claims about Meghan's father written by his first wife, BBC understands",
+      "link": "https://www.bbc.co.uk/news/articles/c60qk44w9wglo?at_medium=RSS&at_campaign=rss",
+      "desc": "Roslyn Loveless, who has since died, divorced Meghan's father in 1975. Meghan said she had been info...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec0f/live/9f405020-d096-11f1-93e1-3b657b665bcf.jpg"
     },
     {
       "title": "Venezuelan opposition leader María Machado returns after months in exile",
       "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
       "desc": "Machado had left the country just a month before the US government seized Venezuelan President Nicol...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png"
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/116f/live/8cce05e0-d096-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "title": "Why the charts are full of old songs - and so are your playlists",
-      "link": "https://www.bbc.co.uk/news/articles/c6kg50nnj0x4o?at_medium=RSS&at_campaign=rss",
-      "desc": "The chart is full of old music and classic songs are dominating streaming services. But why?",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f863/live/cc5e7710-ce04-11f1-bc2e-018d645d8d21.jpg"
+      "title": "Carrick future under major threat - can he survive?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/crgj9wnpd1lvo?at_medium=RSS&at_campaign=rss",
+      "desc": "Michael Carrick's future as Manchester United manager is under major threat following the home loss ...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e80/live/e11e5170-d08e-11f1-92f6-357f3b0f345f.jpg"
     },
     {
-      "title": "The bitter row over military service that could shape Israel's future",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss",
-      "desc": "The ultra-Orthodox community is resisting being drafted into the Israeli army. But will they now bri...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8e2/live/495ec3b0-ced1-11f1-b441-2b33b063138f.jpg"
+      "title": "Board of Deputies of British Jews declares Greens to be racist party",
+      "link": "https://www.bbc.co.uk/news/articles/ckx2qyd17eqvo?at_medium=RSS&at_campaign=rss",
+      "desc": "The Jewish body's vote comes in response to the Green Party passing a \"Zionism is racism\" policy mot...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e509/live/27badc80-d098-11f1-b7fd-31adcdf71225.jpg"
     },
     {
-      "title": "Why the King's Caribbean tour could be 'biggest risk of his reign'",
-      "link": "https://www.bbc.co.uk/news/articles/ckzd6gvg1r2jo?at_medium=RSS&at_campaign=rss",
-      "desc": "The meticulously-planned visit takes in three countries in nine days - but is not without jeopardy.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf6c/live/d973bcb0-cefb-11f1-accf-3309656ad0bb.jpg"
+      "title": "Couple were celebrating anniversary before Bahamas tragedy",
+      "link": "https://www.bbc.co.uk/news/articles/c623drpx31xzo?at_medium=RSS&at_campaign=rss",
+      "desc": "Leanne Gregory, from Stapleford in Nottinghamshire, died trying to save her sons swept out to sea.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7903/live/3762a6d0-d071-11f1-afcb-6b9b9432d8fc.jpg"
     }
   ]
 }
