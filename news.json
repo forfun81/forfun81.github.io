@@ -39,6 +39,18 @@
   ],
   "movies": [
     {
+      "title": "Why Edward James Olmos Says He Owes His Battlestar Galactica Legacy To Blade Runner",
+      "link": "https://www.cinemablend.com/television/why-edward-james-olmos-owes-battlestar-galactica-legacy-blade-runner",
+      "desc": "The actor has carved out quite a legacy.",
+      "img": "https://cdn.mos.cms.futurecdn.net/9qsXNDfw8W5CFFT75mxTS7-1920-80.jpg"
+    },
+    {
+      "title": "One Note Kristen Bell Gave On Frozen I Think Fully Makes Her Character",
+      "link": "https://www.cinemablend.com/movies/note-kristen-bell-gave-frozen-fully-makes-character-anna",
+      "desc": "No wonder Anna is so awesome.",
+      "img": "https://cdn.mos.cms.futurecdn.net/9WqUeU34mES9Px9XYuGttb-1920-80.jpg"
+    },
+    {
       "title": "After Engagement Rumors, Where Do Sydney Sweeney And Scooter Braun Stand?",
       "link": "https://www.cinemablend.com/movies/where-sydney-sweeney-scooter-braun-stand-after-engagement-rumors",
       "desc": "Are these two lovebirds taking the big step?",
@@ -61,18 +73,6 @@
       "link": "https://www.cinemablend.com/movies/karen-gillan-hilariously-posts-wearing-jumanji-shorts-and-crop-top-final-time",
       "desc": "Time to say goodbye to Ruby Roundhouse.",
       "img": "https://cdn.mos.cms.futurecdn.net/GpUAN98WyYxhqQKNf79xTN-1920-80.jpg"
-    },
-    {
-      "title": "Clayface Squeaked Out The Top Spot Over You Can See Everything, But I'm Worried About One Movie's Big Box Office Drop",
-      "link": "https://www.cinemablend.com/movies/box-office/clayface-tops-you-can-see-everything-street-fighter-box-office-drop",
-      "desc": "This was quite a decline.",
-      "img": "https://cdn.mos.cms.futurecdn.net/7pJsgBCTnKNNPoihbWsFoc-1920-80.jpg"
-    },
-    {
-      "title": "The Surprising Number Of Times Jennifer Lawrence Peeing Under Weird Circumstances Has Come Up",
-      "link": "https://www.cinemablend.com/movies/surprising-number-times-jennifer-lawrence-peed-under-weird-circumstances",
-      "desc": "When you gotta go, you gotta go.",
-      "img": "https://cdn.mos.cms.futurecdn.net/fhi9VpnhbcJx9n66xmnne-1920-80.jpg"
     }
   ],
   "tech": [
@@ -115,6 +115,12 @@
   ],
   "crypto": [
     {
+      "title": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Similar to the Hugging Face hack, Ethereum researchers have set up an AI Agent message board to help...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5TEA8K047VPRWAXPGMZR148/final-collage-oct-23-png.png"
+    },
+    {
       "title": "ECB official sees digital euro as key to protecting EU ‘sovereignty’",
       "link": "https://cointelegraph.com/news/ecb-official-sees-digital-euro-tool-to-protect-eu-sovereignty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Piero Cipollone said the bloc is on track to test real transactions in 2027 and roll out a digital e...",
@@ -143,17 +149,11 @@
       "link": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The blockchain suspended its layer-1 network and rollups after security researchers identified unaut...",
       "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MZKF3C8AJPVBYK5JQWCAWW/hi-got-crypto-losses-wallet.png"
-    },
-    {
-      "title": "US senator probes Tether after reported deal with ex-Trump crypto adviser",
-      "link": "https://cointelegraph.com/news/us-senator-probe-bo-hines-trump-crypto-adviser-tether-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The Democratic ranking member of the Senate Permanent Subcommittee on Investigations asked Paolo Ard...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MWKYVWPGFNQZJ4EMBSGH91/hi-probe-crypto-senator.jpg"
     }
   ],
   "various": [
     {
-      "title": "Man killed by falling tree as Storm Boelo leaves 160,000 properties without power",
+      "title": "Two men killed by falling trees as Storm Boelo leaves 160,000 properties without power",
       "link": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
       "desc": "An amber wind warning has now expired after severe weather sweeps across the UK.",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3454/live/c15b5b00-d0af-11f1-84bc-f3a33719a550.jpg"
@@ -162,13 +162,13 @@
       "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
       "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
       "desc": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as ...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79e5/live/ec88c6f0-d0b9-11f1-93e1-3b657b665bcf.jpg"
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e676/live/8534e970-d0c8-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "title": "Burnham open to 'honest discussion' on EU free movement",
-      "link": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
-      "desc": "The PM says he wants a \"factual\" and \"evidence-based debate\" about returning to free movement betwee...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae77/live/377c49c0-cff7-11f1-a701-fddedf244c16.jpg"
+      "title": "Funding set to double for plan to get rough sleepers off streets by Christmas",
+      "link": "https://www.bbc.co.uk/news/articles/c3n04yxn2yqro?at_medium=RSS&at_campaign=rss",
+      "desc": "Burnham made ending rough sleeping his first pledge when entering Downing Street in July.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b131/live/cedc9340-d071-11f1-afcb-6b9b9432d8fc.png"
     },
     {
       "title": "Letter making claims about Meghan's father written by his first wife, BBC understands",
@@ -177,16 +177,16 @@
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec0f/live/9f405020-d096-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-      "title": "Venezuelan opposition leader María Machado returns after months in exile",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-      "desc": "Machado had left the country just a month before the US government seized Venezuelan President Nicol...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/116f/live/8cce05e0-d096-11f1-b441-2b33b063138f.jpg"
+      "title": "Deeply divided Israel braces for pivotal election",
+      "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+      "desc": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Willi...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c38d/live/19e08ff0-d0a3-11f1-adbe-cd0eaeb0fff9.jpg"
     },
     {
-      "title": "Board of Deputies of British Jews declares Greens to be racist party",
-      "link": "https://www.bbc.co.uk/news/articles/ckx2qyd17eqvo?at_medium=RSS&at_campaign=rss",
-      "desc": "The Jewish body's vote comes in response to the Green Party passing a \"Zionism is racism\" policy mot...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e509/live/27badc80-d098-11f1-b7fd-31adcdf71225.jpg"
+      "title": "End approaching for Carrick but Man Utd fans make clear who they blame",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwm24jk9743yo?at_medium=RSS&at_campaign=rss",
+      "desc": "Manchester United's fans sang their support for Michael Carrick during the 3-0 home defeat by Bourne...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6b1/live/b4ad99d0-d0b5-11f1-960c-a30ffadcd9ea.jpg"
     }
   ]
 }
