@@ -39,6 +39,24 @@
   ],
   "movies": [
     {
+      "title": "I Knew The Resident Evil Ending Was Coming, But I Still Have Mixed Feelings About It",
+      "link": "https://www.cinemablend.com/movies/knew-resident-evil-ending-was-coming-still-have-mixed-feelings",
+      "desc": "I loved it, but also hated it, if that makes sense.",
+      "img": "https://cdn.mos.cms.futurecdn.net/JU7VRpHCWpG8S6hTFi7D4G-1920-80.jpg"
+    },
+    {
+      "title": "I’m Cringing Over Why X-Men’s New Professor X Actor Said Casting Reveal Was A ‘Nightmare’",
+      "link": "https://www.cinemablend.com/movies/im-cringing-x-mens-new-professor-x-casting-reveal-nightmare-christopher-abbott",
+      "desc": "This sounds pretty brutal.",
+      "img": "https://cdn.mos.cms.futurecdn.net/DenLxmEy25YgiZWnvK6LBE-1920-80.jpg"
+    },
+    {
+      "title": "Florence Pugh On The Time Hollywood Told Her To Diet After ‘Growing Thighs And Bums, And Boobs’",
+      "link": "https://www.cinemablend.com/movies/florence-pugh-hollywood-diet-growing-thighs-bums-boobs",
+      "desc": "And how she stood up for herself.",
+      "img": "https://cdn.mos.cms.futurecdn.net/JhBVhjW8tsoiasRpntciNn-1920-80.jpg"
+    },
+    {
       "title": "The Insane Number Of Facial Expressions Wildwood's Creators Had To Make For LAIKA's Longest Movie",
       "link": "https://www.cinemablend.com/movies/insane-number-facial-expressions-wildwood-laika-longest-travis-knight-awkwafina-jake-johnson-interview",
       "desc": "The work on this movie is breathtaking.",
@@ -55,65 +73,53 @@
       "link": "https://www.cinemablend.com/movies/wicker-alexander-skarsgard-olivia-colman-settle-debate-splinters",
       "desc": "Don't worry, we asked them about it.",
       "img": "https://cdn.mos.cms.futurecdn.net/DJ6iXgVBxTxswysknMC6Kf-1920-80.jpg"
-    },
-    {
-      "title": "Pedro Pascal Doesn’t Hold Back About Taking ‘A Lot Of S--t’ In Hollywood Before Becoming A Star",
-      "link": "https://www.cinemablend.com/movies/pedro-pascal-doesnt-hold-back-about-struggles-hollywood-before-stardom",
-      "desc": "He started from the bottom now he's here.",
-      "img": "https://cdn.mos.cms.futurecdn.net/e5yVZ4oADhcderDAGHXZK4-1920-80.jpg"
-    },
-    {
-      "title": "I'm Really Bummed Jenna Ortega's New Movie Falls In Line With A 'Rotten' Trend She's On With Critics",
-      "link": "https://www.cinemablend.com/movies/bummed-jenna-ortega-klara-and-the-sun-rotten-trend-critics",
-      "desc": "I don't like this.",
-      "img": "https://cdn.mos.cms.futurecdn.net/FqpwAw9yEBPxLcebCzFoeM-1920-80.png"
-    },
-    {
-      "title": "I Waited And Waited To See What Clayface Would Look Like, And That Ending Was So Unexpected And Cryptic",
-      "link": "https://www.cinemablend.com/movies/clayface-ending-look-unexpected-cryptic-james-watkins-interview",
-      "desc": "What a chilling finale for the DCU flick.",
-      "img": "https://cdn.mos.cms.futurecdn.net/H4JnAbmKwfz2yWerCTzDx3-1920-80.jpg"
     }
   ],
   "tech": [
     {
-      "title": "New CD players keep launching, but a drive shortage could make them unfixable",
-      "link": "https://www.tomshardware.com/peripherals/new-cd-players-keep-launching-but-a-drive-shortage-could-make-them-unfixable-almost-nobody-makes-the-drives-anymore",
-      "desc": "The lack of optical drive manufacturers is raising questions about the repairability and longevity o...",
-      "img": "https://cdn.mos.cms.futurecdn.net/477Pst2PY8oMP9NJizdqmL-1920-80.jpg"
+      "title": "Big Tech is cashing in on AI while the rest of corporate America sees no financial returns",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/big-tech-is-cashing-in-on-ai-while-the-rest-of-corporate-america-sees-no-financial-returns-report-outlines-how-rising-token-costs-threaten-to-squeeze-corporate-profit-margins",
+      "desc": "Revenue per employee at the Magnificent Seven has outpaced the S&P 493, and a new comparison highlig...",
+      "img": "https://cdn.mos.cms.futurecdn.net/eUsopxGWaQRSbUiwq7RUch-1920-80.jpg"
     },
     {
-      "title": "OpenAI's isolated red-team agents built a hidden CPU cache channel to talk with no network or shared files",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-isolated-red-team-ai-agents-built-a-hidden-cpu-cache-channel-to-talk-with-no-network-or-shared-files-exploited-cpu-cache-timing-to-bypass-microvm-sandboxes",
-      "desc": "OpenAI’s red-team agents passed hidden messages through the CPU cache, a covert trick already shown ...",
-      "img": "https://cdn.mos.cms.futurecdn.net/zj2rCLfrU42mkGH93V5iU-1920-80.png"
+      "title": "IQUNIX MQ80 low profile mechanical keyboard review",
+      "link": "https://www.tomshardware.com/peripherals/mechanical-keyboards/iqunix-mq80-low-profile-mechanical-keyboard-review",
+      "desc": "The IQUNIX MQ80 is well-made and super stylish, but it’s not quite the instant sell it used to be. C...",
+      "img": "https://cdn.mos.cms.futurecdn.net/4oJY6iBXVgcFg3SLCjdzNa-1920-80.jpg"
     },
     {
-      "title": "AMD CEO Lisa Su proposed bringing back the Ryzen 7 5800X3D, set plan in motion before DDR5 shortages",
-      "link": "https://www.tomshardware.com/pc-components/cpus/amd-ceo-lisa-su-proposed-bringing-back-the-ryzen-7-5800x3d-set-plan-in-motion-before-ddr5-shortages-am4-cpu-considered-a-final-gift-to-loyal-fans-of-the-decade-old-socket",
-      "desc": "AMD Director Travis Kirsch confirmed the rationale for relaunching the first X3D chip and explained ...",
-      "img": "https://cdn.mos.cms.futurecdn.net/p3Kjz2uFDawbqt4hPoaDaW-1920-80.jpg"
+      "title": "Ukrainian drone attacks hammer Russia's finance ministry data center, damaged facility reportedly holds tax databases",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/ukrainian-drone-attacks-hammer-russias-finance-ministry-data-center-damaged-facility-reportedly-holds-tax-databases-facility-also-holds-other-important-state-registry-data",
+      "desc": "Reports say that this is one of three data centers that the Russian finance ministry operated.",
+      "img": "https://cdn.mos.cms.futurecdn.net/wmDc2qYAL4pCfWnSCMvJnd-1920-80.jpg"
     },
     {
-      "title": "Nvidia eyes converting old nuclear plants into massive AI data centers",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-eyes-converting-old-nuclear-plants-into-massive-ai-data-centers-reusing-shut-down-german-energy-sites-could-reduce-the-cost-and-timeline-of-building-from-scratch",
-      "desc": "Nvidia and PreussenElektra are studying whether decommissioned sites of German nuclear power plants ...",
-      "img": "https://cdn.mos.cms.futurecdn.net/VYgWPsFZJjcK3K3NUpVbj7-1920-80.jpg"
+      "title": "Samsung's new 2TB 990 SSD is 38% off at Amazon today",
+      "link": "https://www.tomshardware.com/pc-components/ssds/samsungs-new-2tb-990-ssd-is-38-percent-off-at-amazon-today-get-usd200-off-this-pcie-4-0-all-rounder-drive-for-a-limited-time",
+      "desc": "Get 38% off the new Samsung 990 2TB SSD, a $200 saving.",
+      "img": "https://cdn.mos.cms.futurecdn.net/fYpehnm6N84pSGsXhp2HdS-1920-80.jpg"
     },
     {
-      "title": "Cybersecurity bounty hunter says Samsung TVs use AI to record audio and screenshots for ads",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/hacker-finds-own-samsung-tv-collecting-scary-amounts-of-user-information-and-gets-banned-by-openai-for-cyber-abuse-tv-runs-an-ai-model-that-collects-audio-screenshots-and-plenty-of-other-user-data-for-ad-targeting",
-      "desc": "A hacker reverse-engineered his own Samsung TV and found alarming spying activity, including code th...",
-      "img": "https://cdn.mos.cms.futurecdn.net/EiDyWR9Yo8wN9DnMZqQdJ4-1920-80.jpg"
+      "title": "Nvidia discusses $2,000-per-GPU annual fee for software that 'runs agents on AI factories'",
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-discusses-usd2-000-per-gpu-annual-software-fee-for-running-agents-on-ai-infrastructure-firm-already-charges-more-than-twice-that-amount-for-its-ai-enterprise-software-platform",
+      "desc": "Nvidia CEO Jensen Huang is reportedly weighing annual software fees of around $2,000 per GPU for ent...",
+      "img": "https://cdn.mos.cms.futurecdn.net/TwfFbH55Mt433hRvkWbSD5-1920-80.jpg"
     },
     {
-      "title": "Save up to $800 on Acer’s ultra-slim RTX 5070 Ti gaming laptop — pay $2225 for the 16GB RAM model or upgrade to 32GB for $2400",
-      "link": "https://www.tomshardware.com/laptops/gaming-laptops/save-up-to-usd800-on-acers-ultra-slim-rtx-5070-ti-gaming-laptop-pay-usd2225-for-the-16gb-ram-model-or-upgrade-to-32gb-for-usd2400",
-      "desc": "The Acer Predator Helios Neo 16S AI combines a 240 Hz QHD+ OLED display with Intel’s 24-core Core Ul...",
-      "img": "https://cdn.mos.cms.futurecdn.net/nxPejVNdz8iABWsEJKshM8-1920-80.jpg"
+      "title": "Jailbroken PS5s can now run Steam PC games",
+      "link": "https://www.tomshardware.com/video-games/playstation/jailbroken-ps5s-can-now-run-steam-pc-games-you-can-now-sign-in-with-your-steam-account-and-install-games-from-your-library-directly-to-the-console",
+      "desc": "Playden for PS5 creates an app for each Steam game that it downloads, allowing it to appear as a sep...",
+      "img": "https://cdn.mos.cms.futurecdn.net/nd79YEyZjKpereVXCPBBMD-1920-80.png"
     }
   ],
   "crypto": [
+    {
+      "title": "ECB official sees digital euro as key to protecting EU ‘sovereignty’",
+      "link": "https://cointelegraph.com/news/ecb-official-sees-digital-euro-tool-to-protect-eu-sovereignty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Piero Cipollone said the bloc is on track to test real transactions in 2027 and roll out a digital e...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5SRKMQRMTK1JF6KQQYDH57E/hi-european-mica-regulation-on-digital-euro-where-do-we-stand-1.jpg"
+    },
     {
       "title": "Netanyahu floats use of blockchain as solution to potential financial sanctions",
       "link": "https://cointelegraph.com/news/netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -143,27 +149,9 @@
       "link": "https://cointelegraph.com/news/us-senator-probe-bo-hines-trump-crypto-adviser-tether-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The Democratic ranking member of the Senate Permanent Subcommittee on Investigations asked Paolo Ard...",
       "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MWKYVWPGFNQZJ4EMBSGH91/hi-probe-crypto-senator.jpg"
-    },
-    {
-      "title": "SEC flags tokenization as high-risk area in 2027 market examinations",
-      "link": "https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The SEC’s latest priorities highlight tokenization as an emerging market risk, while cryptocurrencie...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MP9HHR5PTKGP6MBRZ5FNFH/hi-irs-joins-the-j5-international-crypto-tax-enforcement-coming-next1.png"
     }
   ],
   "various": [
-    {
-      "title": "Meghan broke contact with father in letter citing abuse claims",
-      "link": "https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&at_campaign=rss",
-      "desc": "Sources close to the duchess said she warned her father last year that he would never meet his grand...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e831/live/b27def00-cff9-11f1-b0ff-614e4f91e969.jpg"
-    },
-    {
-      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-      "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-      "desc": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for mili...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58a8/live/4afd15d0-d04f-11f1-93e1-3b657b665bcf.jpg"
-    },
     {
       "title": "Burnham open to 'honest discussion' on EU free movement",
       "link": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
@@ -171,16 +159,28 @@
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae77/live/377c49c0-cff7-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
-      "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-      "desc": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in othe...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d00/live/edf93830-cffb-11f1-b444-6fb1f13f8d87.jpg"
+      "title": "Couple were celebrating anniversary before Bahamas tragedy",
+      "link": "https://www.bbc.co.uk/news/articles/c623drpx31xzo?at_medium=RSS&at_campaign=rss",
+      "desc": "Leanne Gregory, from Stapleford in Nottinghamshire, died trying to save her sons swept out to sea.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7903/live/3762a6d0-d071-11f1-afcb-6b9b9432d8fc.jpg"
     },
     {
-      "title": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
-      "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
-      "desc": "Flávio Bolsonaro, the son of Brazil's imprisoned ex-president, is challenging Lula, who is seeking a...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a07/live/abd8a9d0-d06a-11f1-b441-2b33b063138f.jpg"
+      "title": "Venezuelan opposition leader María Machado returns after months in exile",
+      "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+      "desc": "Machado had left the country just a month before the US government seized Venezuelan President Nicol...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png"
+    },
+    {
+      "title": "Why the charts are full of old songs - and so are your playlists",
+      "link": "https://www.bbc.co.uk/news/articles/c6kg50nnj0x4o?at_medium=RSS&at_campaign=rss",
+      "desc": "The chart is full of old music and classic songs are dominating streaming services. But why?",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f863/live/cc5e7710-ce04-11f1-bc2e-018d645d8d21.jpg"
+    },
+    {
+      "title": "The bitter row over military service that could shape Israel's future",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss",
+      "desc": "The ultra-Orthodox community is resisting being drafted into the Israeli army. But will they now bri...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8e2/live/495ec3b0-ced1-11f1-b441-2b33b063138f.jpg"
     },
     {
       "title": "Why the King's Caribbean tour could be 'biggest risk of his reign'",
