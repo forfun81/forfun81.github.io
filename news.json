@@ -1,6 +1,12 @@
 {
   "games": [
     {
+      "title": "Diablo 4’s War Plans Are Getting A Huge Upgrade In Season 16",
+      "link": "https://www.gamespot.com/articles/diablo-4s-war-plans-are-getting-a-huge-upgrade-in-season-16/",
+      "desc": "Diablo 4's War Plans system is getting a major upgrade in Season 16, giving players even more contro...",
+      "img": "https://www.gamespot.com/wp-content/uploads/2026/10/Diablo-4-Season-16-War-Plans-Upgrades.jpg?w=300"
+    },
+    {
       "title": "Why There Won’t Be A Helldivers 3 Anytime Soon, If Ever",
       "link": "https://www.gamespot.com/articles/why-there-wont-be-a-helldivers-3-anytime-soon-if-ever/",
       "desc": "Helldivers 2 has been a huge hit for developer Arrowhead and publisher Sony, but don't expect a thir...",
@@ -29,15 +35,27 @@
       "link": "https://www.gamespot.com/articles/gta-6-coffee-is-here-to-keep-you-warm-until-the-game-releases/",
       "desc": "While Rockstar's GTA 6 won't release until November 19, you can now buy officially licensed GTA 6 co...",
       "img": "https://www.gamespot.com/wp-content/uploads/2026/10/GTA-Coffee.jpg?w=300"
-    },
-    {
-      "title": "Call Of Duty Movie Will Not Be About, “Hey, Let’s Shoot Them All Up,” Director Says",
-      "link": "https://www.gamespot.com/articles/call-of-duty-movie-will-not-be-about-hey-lets-shoot-them-all-up-director-says/",
-      "desc": "The upcoming Call of Duty movie aims to show the \"cost of war,\" according to director Peter Berg. He...",
-      "img": "https://www.gamespot.com/wp-content/uploads/2026/10/lone.png?w=300"
     }
   ],
   "movies": [
+    {
+      "title": "The Comment That Convinced Quentin Tarantino To Bring Back Brad Pitt’s Cliff Booth",
+      "link": "https://www.cinemablend.com/movies/the-comment-that-convinced-quentin-tarantino-to-bring-back-brad-pitts-cliff-booth",
+      "desc": "How many misadventures could we get?",
+      "img": "https://cdn.mos.cms.futurecdn.net/mpsVGNpUBdn5sJA4btbbKU-1920-80.jpg"
+    },
+    {
+      "title": "I Can’t Get Over Noah Wyle’s Clueless Reaction To His Donnie Darko Role",
+      "link": "https://www.cinemablend.com/movies/noah-wyle-shares-clueless-reaction-donnie-darko-role",
+      "desc": "25 years still isn't enough time to figure this movie out, even for the folks in it.",
+      "img": "https://cdn.mos.cms.futurecdn.net/EA78knpgh6asWguXVQWfYX-1920-80.jpg"
+    },
+    {
+      "title": "As The Batman: Part II Filming Resumes, Robert Pattinson Reacts To Steven Soderbergh Stepping In",
+      "link": "https://www.cinemablend.com/movies/robert-pattinson-reacts-steven-soderbergh-the-batman-part-ii-filming-resumes",
+      "desc": "The Dark Knight is set to rise again.",
+      "img": "https://cdn.mos.cms.futurecdn.net/cR3oyiQVEzSJmCCBeaNcqe-1920-80.jpg"
+    },
     {
       "title": "I'm Shocked To Learn One Surprising Scene In You Can See Everything Came From Billy Evans Himself",
       "link": "https://www.cinemablend.com/movies/shocked-learn-one-surprising-scene-you-can-see-everything-came-from-billy-evans-himself-elizabeth-holmes",
@@ -55,27 +73,15 @@
       "link": "https://www.cinemablend.com/movies/james-gunn-not-trying-to-recreate-mcu-even-with-superman-clayface",
       "desc": "James Gunn has a different take on shared unvierses.",
       "img": "https://cdn.mos.cms.futurecdn.net/FEE4gEjyiofEHpvdtJoEJb-1920-80.png"
-    },
-    {
-      "title": "Christopher Nolan Is Famously Budget Conscious. That Time Robert Downey Jr.'s Marvel Salary Came In Handy",
-      "link": "https://www.cinemablend.com/movies/christopher-nolan-budget-conscious-robert-downey-jrs-marvel-salary-came-in-handy",
-      "desc": "A lot of money goes a long way!",
-      "img": "https://cdn.mos.cms.futurecdn.net/WsXRwZ6rwuN4cssH4mL6oN-1920-80.jpg"
-    },
-    {
-      "title": "Why Edward James Olmos Says He Owes His Battlestar Galactica Legacy To Blade Runner",
-      "link": "https://www.cinemablend.com/television/why-edward-james-olmos-owes-battlestar-galactica-legacy-blade-runner",
-      "desc": "The actor has carved out quite a legacy.",
-      "img": "https://cdn.mos.cms.futurecdn.net/9qsXNDfw8W5CFFT75mxTS7-1920-80.jpg"
-    },
-    {
-      "title": "One Note Kristen Bell Gave On Frozen I Think Fully Makes Her Character",
-      "link": "https://www.cinemablend.com/movies/note-kristen-bell-gave-frozen-fully-makes-character-anna",
-      "desc": "No wonder Anna is so awesome.",
-      "img": "https://cdn.mos.cms.futurecdn.net/9WqUeU34mES9Px9XYuGttb-1920-80.jpg"
     }
   ],
   "tech": [
+    {
+      "title": "Intel quietly confirms Raptor Lake Next CPUs through internal driver publication",
+      "link": "https://www.tomshardware.com/pc-components/cpus/intel-quietly-confirms-raptor-lake-next-cpus-through-internal-driver-publication-lga-1700-chips-also-appear-in-shipping-manifests-dating-back-to-august",
+      "desc": "An internal driver and a shipping manifest reveal that Intel's desktop Raptor Lake Next parts may be...",
+      "img": "https://cdn.mos.cms.futurecdn.net/sQkjcrWci3QikXR5qNxa4d-1920-80.jpg"
+    },
     {
       "title": "JSAUX FlipGo dual-screen portable monitor review: Gorgeous displays with touch support and a built-in USB hub",
       "link": "https://www.tomshardware.com/monitors/portable-monitors/jsaux-flipgo-dual-screen-portable-monitor-review",
@@ -105,15 +111,27 @@
       "link": "https://www.tomshardware.com/pc-components/cpus/leaked-256-core-zen-6c-epyc-cpu-destroys-zen-5-in-early-single-threaded-benchmarks-hints-at-24-percent-ipc-gain-early-single-threaded-benchmarks-point-to-huge-amd-zen-6-improvements",
       "desc": "A benchmark leak and a direct clock-matched comparison from an enthusiast seed the idea that Zen 6 m...",
       "img": "https://cdn.mos.cms.futurecdn.net/fqE7uiQeMahN3tCxTd8qRV-1920-80.jpg"
-    },
-    {
-      "title": "Micron plans to use wafer bonding and High-NA EUV for next-gen DRAM",
-      "link": "https://www.tomshardware.com/pc-components/dram/micron-plans-to-use-wafer-bonding-and-high-na-euv-for-next-gen-dram-company-also-developing-vertical-high-bandwidth-memory-and-vertical-edge-inference-memory-integrated-directly-on-top-of-processors",
-      "desc": "Micron rejects 4F2, intends to use wafer bonding and High-NA EUV before going 3D NAND over the next ...",
-      "img": "https://cdn.mos.cms.futurecdn.net/NXXMYUVnvu4xUCtWoHqW48-1920-80.jpg"
     }
   ],
   "crypto": [
+    {
+      "title": "Canada opens consultation on stablecoins, citing US GENIUS Act",
+      "link": "https://cointelegraph.com/news/canada-consultation-stablecoins-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "As part of the potential implementation of its Stablecoin Act, the Canadian government will hear fro...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5WMT5NDYKE425567R7TVKYC/hi-how-to-buy-cryptocurrency-in-canada.jpg"
+    },
+    {
+      "title": "AI company Anthropic announces IPO, expected as early as November",
+      "link": "https://cointelegraph.com/news/anthropic-artificial-intelligence-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The artificial intelligence company disclosed more than $16 billion in revenue and an $80 billion ne...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5WP5DJHQX7JZGFDHG6CQJH8/hi-ipo-bid.jpg"
+    },
+    {
+      "title": "NBA names Kalshi, Polymarket preferred exchanges, signs CFTC deal",
+      "link": "https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The US professional basketball league is expanding into prediction markets with official data agreem...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5WJM4BTG04MJ97MCD20VJ26/hi-a-beginners-guide-to-nba-top-shot-nfts.png"
+    },
     {
       "title": "South Korea lawmakers mull pushing crypto tax implementation to 2029",
       "link": "https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -131,24 +149,6 @@
       "link": "https://cointelegraph.com/news/php-flaw-ai-vulnerability-apocalypse-immunefi-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Mitchell Amador warned internet users that websites could remain compromised for weeks, particularly...",
       "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5W8CX3ZEBAQRD95ZBDZ13BW/hi-using-ai-in-crypto-do-it-at-your-own-risk2.jpg"
-    },
-    {
-      "title": "Strategy skips Bitcoin purchases, spends $205M on STRC buybacks",
-      "link": "https://cointelegraph.com/news/strategy-skips-btc-buy-205-million-strc-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Strategy made no Bitcoin purchases or sales last week, as its STRC preferred stock buybacks reduced ...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5W4P12K292NZBRSP8W9DG6M/michael-saylors-big-bet-institutional-investments-role-in-bitcoins-price3-1.jpg"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impac...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
-    },
-    {
-      "title": "HOOD’s prediction markets to add $1.7B to revenue, exceed crypto by 2028: Bernstein",
-      "link": "https://cointelegraph.com/news/prediction-markets-17b-robinhood-exceed-crypto-revenue-2028-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Bernstein analysts raised Robinhood’s revenue estimates through 2026 and 2028, while maintaining the...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5W2DRTH9GX1TGHSRAAGJBW5/hi-japan-robin-hood-join-trading-platform-2.jpg"
     }
   ],
   "various": [
@@ -159,34 +159,34 @@
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a43b/live/79bb9a20-603f-11f1-89a3-d1f559421220.jpg"
     },
     {
-      "title": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
-      "link": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo?at_medium=RSS&at_campaign=rss",
-      "desc": "The R&B star previously pleaded guilty to affray, after attacking a music producer with a glass bott...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49e6/live/50a614d0-d14b-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "title": "Storm Boelo leaves 90,000 without power as Met Office issues new wind warning",
-      "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
-      "desc": "Around 90,000 properties are without power after Scotland and north England is battered by strong wi...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3365/live/16d03480-d118-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "title": "Israel and the US are both going to the polls. The consequences will be global",
+      "title": "Israel and the US are both going to the polls - the consequences will be global",
       "link": "https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss",
       "desc": "The next fortnight sees two elections on different continents. The outcomes will shape geopolitics a...",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/060c/live/03a51100-d159-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "title": "Drivers who killed mum and girl while racing jailed",
+      "link": "https://www.bbc.co.uk/news/articles/cqy0r3n17gjyo?at_medium=RSS&at_campaign=rss",
+      "desc": "Justyna Hulboj and her daughter Lena died when they were hit by a car in Leeds in January 2023.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6532/live/418be650-a2d4-11f1-a291-b542ee92de7c.jpg"
+    },
+    {
+      "title": "Storm Boelo leaves 22,000 without power as Met Office issues new wind warning",
+      "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
+      "desc": "The Met Office has issued a fresh wind warning from 18:00 on Monday across the west coast of England...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45fe/live/d45701d0-d165-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "title": "How 'Lula's Army' WhatsApp channel helped turn Brazil election around",
+      "link": "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo?at_medium=RSS&at_campaign=rss",
+      "desc": "Millions joined a 'Lula's Army' channel that helped to transform online enthusiasm into real-world m...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3bd/live/33178300-d14a-11f1-93e1-3b657b665bcf.jpg"
     },
     {
       "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
       "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
       "desc": "The company will be the first true artificial intelligence company to go public as tech firms contin...",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e394/live/7affbe60-d147-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "title": "What is walking down the newly pedestrianised Oxford Street like?",
-      "link": "https://www.bbc.co.uk/news/videos/c5pvg8y8lk2mo?at_medium=RSS&at_campaign=rss",
-      "desc": "The first phase of the overhaul is expected to be finished by spring 2027.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b694/live/4b6db110-d143-11f1-a701-fddedf244c16.jpg"
     }
   ]
 }
