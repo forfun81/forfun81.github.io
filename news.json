@@ -115,6 +115,24 @@
   ],
   "crypto": [
     {
+      "title": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise",
+      "link": "https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The Nasdaq-listed firm said it plans to establish Solana validator operations in Hong Kong.",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5V29PC31CCCR3TY3KBGFNVX/hi-an-overview-of-the-cryptocurrency-regulations-in-hong-kong.jpg"
+    },
+    {
+      "title": "Keystone says website breach exposed hardware wallet buyers’ addresses",
+      "link": "https://cointelegraph.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "A security researcher warned that the leaked shipping details could expose crypto holders to targete...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5V04TXMGNCT7SCNB1WB3PZF/customer-address.jpg"
+    },
+    {
+      "title": "Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin",
+      "link": "https://cointelegraph.com/news/standard-chartered-led-anchorpoint-says-its-not-rushing-retail-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The Standard Chartered and Animoca Brands joint venture previously targeted retail access as early a...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5TQBHC9044ZJ3Z4XFZ9MKN2/hong-kong.jpg"
+    },
+    {
       "title": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest",
       "link": "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Similar to the Hugging Face hack, Ethereum researchers have set up an AI Agent message board to help...",
@@ -131,38 +149,32 @@
       "link": "https://cointelegraph.com/news/netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Ahead of elections, Prime Minister Benjamin Netanyahu said Israel could turn to blockchain and crypt...",
       "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5SCA4VS7NKA06DYBPJVW2FM/benjamin-netanyahu.png"
-    },
-    {
-      "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
-      "link": "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "As of Friday, 22 companies had filed objections as part of the joint venture’s proposed tokenized st...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5N19TPWN37A162FFHMQDBR2/hi-cover-imagereview-of-us-stocks.jpg"
-    },
-    {
-      "title": "IRS plans lower tax disclosure penalties, including for crypto: Forbes",
-      "link": "https://cointelegraph.com/news/irs-plans-lower-penalties-for-crypto-tax-disclosures-forbes-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The US tax agency is targeting faster resolutions and more flexible payment options for taxpayers vo...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5N6SNMRK1BS8PGZSR5F8GRG/hi-taxes-on-crypto-kraken.png"
-    },
-    {
-      "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
-      "link": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The blockchain suspended its layer-1 network and rollups after security researchers identified unaut...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MZKF3C8AJPVBYK5JQWCAWW/hi-got-crypto-losses-wallet.png"
     }
   ],
   "various": [
     {
-      "title": "Two men killed by falling trees as Storm Boelo leaves 160,000 properties without power",
+      "title": "Lula wins but faces hostile Congress and divided country",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg7p001qj9o?at_medium=RSS&at_campaign=rss",
+      "desc": "President Lula has pulled of a surprise win, but he will face a hostile Congress and a polarised cou...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2da7/live/54780d60-d0e8-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "title": "Two men killed by falling trees as Storm Boelo leaves 90,000 properties without power",
       "link": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
       "desc": "An amber wind warning has now expired after severe weather sweeps across the UK.",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3454/live/c15b5b00-d0af-11f1-84bc-f3a33719a550.jpg"
     },
     {
-      "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+      "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
       "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
       "desc": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as ...",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e676/live/8534e970-d0c8-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+      "link": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
+      "desc": "The economic is positive now but come January things could become trickier for the Labour government",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d426/live/74bc9710-ce2e-11f1-a64c-550be9e3c66b.jpg"
     },
     {
       "title": "Funding set to double for plan to get rough sleepers off streets by Christmas",
@@ -171,22 +183,10 @@
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b131/live/cedc9340-d071-11f1-afcb-6b9b9432d8fc.png"
     },
     {
-      "title": "Letter making claims about Meghan's father written by his first wife, BBC understands",
-      "link": "https://www.bbc.co.uk/news/articles/c60qk44w9wglo?at_medium=RSS&at_campaign=rss",
-      "desc": "Roslyn Loveless, who has since died, divorced Meghan's father in 1975. Meghan said she had been info...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec0f/live/9f405020-d096-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
       "title": "Deeply divided Israel braces for pivotal election",
       "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
       "desc": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Willi...",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c38d/live/19e08ff0-d0a3-11f1-adbe-cd0eaeb0fff9.jpg"
-    },
-    {
-      "title": "End approaching for Carrick but Man Utd fans make clear who they blame",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cwm24jk9743yo?at_medium=RSS&at_campaign=rss",
-      "desc": "Manchester United's fans sang their support for Michael Carrick during the 3-0 home defeat by Bourne...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6b1/live/b4ad99d0-d0b5-11f1-960c-a30ffadcd9ea.jpg"
     }
   ]
 }
