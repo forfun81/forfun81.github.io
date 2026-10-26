@@ -77,6 +77,18 @@
   ],
   "tech": [
     {
+      "title": "Reddit’s r/opensource bans AI-made and AI-focused projects, also bans non-English speakers",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/reddits-r-opensource-bans-ai-made-and-ai-focused-projects-also-bans-non-english-speakers-sweeping-new-rules-spark-backlash-over-linux-kernel-contributions-and-solo-developers",
+      "desc": "Reddit’s r/opensource has barred AI-built, AI-focused, and AI-using projects under new rules announc...",
+      "img": "https://cdn.mos.cms.futurecdn.net/wA2Noe6WhknviBc6VQJqFo-1920-80.jpg"
+    },
+    {
+      "title": "Denmark’s bid to ditch Microsoft Office for open-source alternative Collabora collapses in under six months",
+      "link": "https://www.tomshardware.com/software/microsoft-office/denmarks-bid-to-ditch-microsoft-office-for-open-source-alternative-collabora-collapses-in-under-six-months-employees-cite-issues-with-style-formatting-and-tracking-changes",
+      "desc": "The Danish digitization ministry experimented with Collabora as an alternative to Microsoft Office, ...",
+      "img": "https://cdn.mos.cms.futurecdn.net/NAbz7BCDUARTjEEB4XNUvS-1920-80.png"
+    },
+    {
       "title": "Big Tech is cashing in on AI while the rest of corporate America sees no financial returns",
       "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/big-tech-is-cashing-in-on-ai-while-the-rest-of-corporate-america-sees-no-financial-returns-report-outlines-how-rising-token-costs-threaten-to-squeeze-corporate-profit-margins",
       "desc": "Revenue per employee at the Magnificent Seven has outpaced the S&P 493, and a new comparison highlig...",
@@ -99,21 +111,27 @@
       "link": "https://www.tomshardware.com/pc-components/ssds/samsungs-new-2tb-990-ssd-is-38-percent-off-at-amazon-today-get-usd200-off-this-pcie-4-0-all-rounder-drive-for-a-limited-time",
       "desc": "Get 38% off the new Samsung 990 2TB SSD, a $200 saving.",
       "img": "https://cdn.mos.cms.futurecdn.net/fYpehnm6N84pSGsXhp2HdS-1920-80.jpg"
-    },
-    {
-      "title": "Nvidia discusses $2,000-per-GPU annual fee for software that 'runs agents on AI factories'",
-      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-discusses-usd2-000-per-gpu-annual-software-fee-for-running-agents-on-ai-infrastructure-firm-already-charges-more-than-twice-that-amount-for-its-ai-enterprise-software-platform",
-      "desc": "Nvidia CEO Jensen Huang is reportedly weighing annual software fees of around $2,000 per GPU for ent...",
-      "img": "https://cdn.mos.cms.futurecdn.net/TwfFbH55Mt433hRvkWbSD5-1920-80.jpg"
-    },
-    {
-      "title": "Jailbroken PS5s can now run Steam PC games",
-      "link": "https://www.tomshardware.com/video-games/playstation/jailbroken-ps5s-can-now-run-steam-pc-games-you-can-now-sign-in-with-your-steam-account-and-install-games-from-your-library-directly-to-the-console",
-      "desc": "Playden for PS5 creates an app for each Steam game that it downloads, allowing it to appear as a sep...",
-      "img": "https://cdn.mos.cms.futurecdn.net/nd79YEyZjKpereVXCPBBMD-1920-80.png"
     }
   ],
   "crypto": [
+    {
+      "title": "Bitcoin ETFs break 2-week outflow streak with $301M comeback",
+      "link": "https://cointelegraph.com/markets/bitcoin-etfs-rebound-weekly-inflow-301-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "US spot Bitcoin ETFs finished the week with $301 million in net inflows after a strong three-day sta...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5VG5FEK5DYH3VAXH3PE69X7/bitcoin-etf-7.jpg"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impac...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
+    },
+    {
+      "title": "Musk warns over 200 AI neoclouds face ‘guppy-level death’",
+      "link": "https://cointelegraph.com/news/musk-warns-over-200-ai-neoclouds-face-guppy-level-death?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The warning comes as Gartner forecasts that more than 80% of specialist cloud providers will cease o...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5V9QJTD4JBK5A7JDR7EG1T1/musk.jpg"
+    },
     {
       "title": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise",
       "link": "https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -131,62 +149,44 @@
       "link": "https://cointelegraph.com/news/standard-chartered-led-anchorpoint-says-its-not-rushing-retail-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The Standard Chartered and Animoca Brands joint venture previously targeted retail access as early a...",
       "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5TQBHC9044ZJ3Z4XFZ9MKN2/hong-kong.jpg"
-    },
-    {
-      "title": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest",
-      "link": "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Similar to the Hugging Face hack, Ethereum researchers have set up an AI Agent message board to help...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5TEA8K047VPRWAXPGMZR148/final-collage-oct-23-png.png"
-    },
-    {
-      "title": "ECB official sees digital euro as key to protecting EU ‘sovereignty’",
-      "link": "https://cointelegraph.com/news/ecb-official-sees-digital-euro-tool-to-protect-eu-sovereignty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Piero Cipollone said the bloc is on track to test real transactions in 2027 and roll out a digital e...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5SRKMQRMTK1JF6KQQYDH57E/hi-european-mica-regulation-on-digital-euro-where-do-we-stand-1.jpg"
-    },
-    {
-      "title": "Netanyahu floats use of blockchain as solution to potential financial sanctions",
-      "link": "https://cointelegraph.com/news/netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Ahead of elections, Prime Minister Benjamin Netanyahu said Israel could turn to blockchain and crypt...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5SCA4VS7NKA06DYBPJVW2FM/benjamin-netanyahu.png"
     }
   ],
   "various": [
     {
-      "title": "Lula wins but faces hostile Congress and divided country",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg7p001qj9o?at_medium=RSS&at_campaign=rss",
-      "desc": "President Lula has pulled of a surprise win, but he will face a hostile Congress and a polarised cou...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2da7/live/54780d60-d0e8-11f1-a701-fddedf244c16.jpg"
+      "title": "Watch: How Lula turned it around to beat former president's son",
+      "link": "https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss",
+      "desc": "Brazil's left-wing President has been elected for a fourth term after narrowly beating right-wing Fl...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3247/live/2f1c2d90-d10a-11f1-b441-2b33b063138f.png"
     },
     {
-      "title": "Two men killed by falling trees as Storm Boelo leaves 90,000 properties without power",
-      "link": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
-      "desc": "An amber wind warning has now expired after severe weather sweeps across the UK.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3454/live/c15b5b00-d0af-11f1-84bc-f3a33719a550.jpg"
+      "title": "Storm Boelo leaves 90,000 without power as Met Office issues new wind warning",
+      "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
+      "desc": "Around 90,000 properties are without power after Scotland and north England is battered by strong wi...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3365/live/16d03480-d118-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
+      "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
       "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
       "desc": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as ...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e676/live/8534e970-d0c8-11f1-b441-2b33b063138f.jpg"
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0c7/live/712973e0-d110-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+      "title": "Daughter wins £127k claim for caring for mum at home",
+      "link": "https://www.bbc.co.uk/news/articles/cr93zp78g580o?at_medium=RSS&at_campaign=rss",
+      "desc": "Bern Rogers says the row with her siblings since her elderly mother died was \"harrowing and deeply s...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14da/live/4ea1dd00-d122-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "title": "Faisal Islam: Healey's Budget needs to sustain the stronger economy through gathering clouds",
       "link": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
       "desc": "The economic is positive now but come January things could become trickier for the Labour government",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d426/live/74bc9710-ce2e-11f1-a64c-550be9e3c66b.jpg"
     },
     {
-      "title": "Funding set to double for plan to get rough sleepers off streets by Christmas",
-      "link": "https://www.bbc.co.uk/news/articles/c3n04yxn2yqro?at_medium=RSS&at_campaign=rss",
-      "desc": "Burnham made ending rough sleeping his first pledge when entering Downing Street in July.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b131/live/cedc9340-d071-11f1-afcb-6b9b9432d8fc.png"
-    },
-    {
-      "title": "Deeply divided Israel braces for pivotal election",
-      "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
-      "desc": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Willi...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c38d/live/19e08ff0-d0a3-11f1-adbe-cd0eaeb0fff9.jpg"
+      "title": "Knighting Sinfield 'easiest decision anyone's had to make,' says Prince William",
+      "link": "https://www.bbc.co.uk/news/articles/c65ynjkrjq4wo?at_medium=RSS&at_campaign=rss",
+      "desc": "The rugby league star is \"gold dust\" and \"should have been Sir Kevin years ago,\" says the Prince of ...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0472/live/ed2de750-d10b-11f1-a701-fddedf244c16.jpg"
     }
   ]
 }
