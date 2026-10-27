@@ -1,6 +1,18 @@
 {
   "games": [
     {
+      "title": "One Day Out From Early Access, Emberville Has Been Delayed To 2027",
+      "link": "https://www.gamespot.com/articles/one-day-out-from-early-access-emberville-has-been-delayed-to-2027/",
+      "desc": "Originally set to enter early access on October 27, action-adventure RPG Emberville has been delayed...",
+      "img": "https://www.gamespot.com/wp-content/uploads/2026/10/Emberville.jpg?w=300"
+    },
+    {
+      "title": "Ghost Of Yotei Was A Hit, But Its Developer Is Reportedly Cutting Jobs",
+      "link": "https://www.gamespot.com/articles/ghost-of-yotei-was-a-hit-but-its-developer-is-reportedly-cutting-jobs/",
+      "desc": "Sony-owned studio Sucker Punch Productions is losing 24 employees in another round of layoffs in the...",
+      "img": "https://www.gamespot.com/wp-content/uploads/2026/10/ghost-of-yotei-official-release-date-trailer_r33k.1200-1130653485.png?w=300"
+    },
+    {
       "title": "Here’s Another Mass Effect 5 Leak To Break Your Heart",
       "link": "https://www.gamespot.com/articles/heres-another-mass-effect-5-leak-to-break-your-heart/",
       "desc": "If last week's mysterious Mass Effect: Universe trailer leak wasn't painful enough for you in the wa...",
@@ -23,18 +35,6 @@
       "link": "https://www.gamespot.com/articles/why-there-wont-be-a-helldivers-3-anytime-soon-if-ever/",
       "desc": "Helldivers 2 has been a huge hit for developer Arrowhead and publisher Sony, but don't expect a thir...",
       "img": "https://www.gamespot.com/wp-content/uploads/2026/10/HD2-Large.jpeg?w=300"
-    },
-    {
-      "title": "Cyberpunk 2077 Hits Its Biggest Steam Player Peak Since Phantom Liberty, And You Can Guess Why",
-      "link": "https://www.gamespot.com/articles/cyberpunk-2077-hits-its-biggest-steam-player-peak-since-phantom-liberty-and-you-can-guess-why/",
-      "desc": "Almost six years after launch, Cyberpunk 2077 still has a healthy player base, especially with a new...",
-      "img": "https://www.gamespot.com/wp-content/uploads/2026/10/Cyberpunk-Edgerunners.jpg?w=300"
-    },
-    {
-      "title": "Arkane Lyon Gets Another Chance To Find A New Home And Finish Marvel’s Blade",
-      "link": "https://www.gamespot.com/articles/arkane-lyon-gets-another-chance-to-find-a-new-home-and-finish-marvels-blade/",
-      "desc": "Arkane Lyon has received a slight reprieve from its looming deadline to find a new buyer, as Microso...",
-      "img": "https://www.gamespot.com/wp-content/uploads/2026/10/Marvel-Blade.jpg?w=300"
     }
   ],
   "movies": [
@@ -77,6 +77,30 @@
   ],
   "tech": [
     {
+      "title": "60,000 Microsoft employees offered voluntary buyouts as AI buildout costs bite",
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/60-000-microsoft-employees-offered-voluntary-buyouts-as-ai-buildout-costs-bite-program-covers-roughly-27-percent-of-workforce-across-us-canada-india-and-the-uk",
+      "desc": "Microsoft is offering buyouts to around 60,000 members of its workforce as it looks to balance the b...",
+      "img": "https://cdn.mos.cms.futurecdn.net/iPvfpzYoJfo4RCLhXPfRAb-1920-80.jpg"
+    },
+    {
+      "title": "Anthropic prepares for potential $2 trillion IPO valuation after reporting billions in revenue",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-prepares-for-potential-usd2-trillion-ipo-valuation-after-reporting-billions-in-revenue-company-warns-ai-could-pose-catastrophic-existential-risks-to-humanity",
+      "desc": "Anthropic has filed to go public as it pursues a potential multitrillion-dollar valuation, reporting...",
+      "img": "https://cdn.mos.cms.futurecdn.net/XL3SdCXJKQ5duBipYp56rG-1920-80.jpg"
+    },
+    {
+      "title": "Data center gear is being hijacked in transit to the tune of hundreds of millions",
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/data-center-gear-is-being-hijacked-in-transit-to-the-tune-of-hundreds-of-millions-grand-theft-gpu-thieves-hack-accounts-perform-hit-and-runs-spoof-gps-signals-and-funnel-hardware-to-china",
+      "desc": "Data center gear is being stolen in transit to the tune of hundreds of millions — grand-theft-GPU th...",
+      "img": "https://cdn.mos.cms.futurecdn.net/Qhze4hFJdc9evUKZQ2Jc3H-1920-80.jpg"
+    },
+    {
+      "title": "SpaceX closes $40 billion debt financing for GPUs expected in the first half of 2027, Musk says",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/spacex-closes-usd40-billion-debt-financing-for-gpus-expected-in-the-first-half-of-2027-musk-says-company-faces-up-to-usd40-billion-in-additional-fourth-quarter-capital-spending-as-ai-infrastructure-costs-soar",
+      "desc": "SpaceX expects fourth-quarter capital expenditure of $35 billion to $40 billion, CFO Bret Johnsen sa...",
+      "img": "https://cdn.mos.cms.futurecdn.net/EGD7PmkSMgK6t3rpCaCefg-1920-80.jpg"
+    },
+    {
       "title": "Intel quietly confirms Raptor Lake Next CPUs through internal driver publication",
       "link": "https://www.tomshardware.com/pc-components/cpus/intel-quietly-confirms-raptor-lake-next-cpus-through-internal-driver-publication-lga-1700-chips-also-appear-in-shipping-manifests-dating-back-to-august",
       "desc": "An internal driver and a shipping manifest reveal that Intel's desktop Raptor Lake Next parts may be...",
@@ -87,71 +111,71 @@
       "link": "https://www.tomshardware.com/monitors/portable-monitors/jsaux-flipgo-dual-screen-portable-monitor-review",
       "desc": "The JSAUX FlipGo features dual 16-inch touch displays and a built-in hub.",
       "img": "https://cdn.mos.cms.futurecdn.net/EQQsXuU6c7scVdGgU9EX8E-1920-80.jpg"
-    },
-    {
-      "title": "Save $134 on this WD Red Plus 10TB HDD bundle at Newegg",
-      "link": "https://www.tomshardware.com/pc-components/hdds/save-usd134-on-this-wd-red-plus-10tb-hdd-bundle-at-newegg-this-double-drive-deal-lands-you-with-20tb-of-total-capacity-for-your-nas",
-      "desc": "Grab two 10TB NAS Hard Disk Drives and save $134 — this two-pack WD Red Plus bundle is the best deal...",
-      "img": "https://cdn.mos.cms.futurecdn.net/9tqTMg8kPi5xWAZHtY28gg-1920-80.jpg"
-    },
-    {
-      "title": "Asus ROG Xbox Ally X20 tested: Same performance, more comfortable, and a glorious OLED screen",
-      "link": "https://www.tomshardware.com/video-games/handheld-gaming/asus-rog-xbox-ally-x20-tested-same-performance-more-comfortable-and-a-glorious-oled-screen",
-      "desc": "Asus adds an OLED screen, TMR sticks, and more comfortable grips to its AMD-powered gaming handheld.",
-      "img": "https://cdn.mos.cms.futurecdn.net/briMKxZrnXkxBfJp6MibS5-1920-80.png"
-    },
-    {
-      "title": "3.2 Petabits per second real-time optical fiber transfer speed world record claimed by Chinese team",
-      "link": "https://www.tomshardware.com/networking/3-2-pb-s-real-time-optical-fiber-transfer-speed-world-record-claimed-by-chinese-team-speed-fast-enough-to-download-more-than-20-000-4k-movies-in-one-second",
-      "desc": "A Chinese team has claimed a new world record for real-time transfer speeds across a 24-core optical...",
-      "img": "https://cdn.mos.cms.futurecdn.net/YkbQ6FaQKMZUoDz3pzPbp4-1920-80.jpg"
-    },
-    {
-      "title": "Leaked 256-core Zen 6c EPYC CPU destroys Zen 5 in early single-threaded benchmarks hints at 24% IPC gain",
-      "link": "https://www.tomshardware.com/pc-components/cpus/leaked-256-core-zen-6c-epyc-cpu-destroys-zen-5-in-early-single-threaded-benchmarks-hints-at-24-percent-ipc-gain-early-single-threaded-benchmarks-point-to-huge-amd-zen-6-improvements",
-      "desc": "A benchmark leak and a direct clock-matched comparison from an enthusiast seed the idea that Zen 6 m...",
-      "img": "https://cdn.mos.cms.futurecdn.net/fqE7uiQeMahN3tCxTd8qRV-1920-80.jpg"
     }
   ],
   "crypto": [
+    {
+      "title": "Zcash co-founder calls to stop funding ‘over $125M’ grants program",
+      "link": "https://cointelegraph.com/news/zcash-co-founder-ending-zcg-funding-125m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Sean Bowe says ZCG has enough money to keep funding projects and wants its share of new ZEC redirect...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5YAV7RDWSCT55YSE6J17RKG/hi-update-overview-of-software-wallets-the-easy-way-to-store-crypto-zcash-1.jpg"
+    },
+    {
+      "title": "Bloom bot hackers loot $953K faster than you can microwave popcorn",
+      "link": "https://cointelegraph.com/news/bloom-bot-hackers-953k-faster-popcorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Bloom pledged to reimburse nine traders after $953,000 was drained from 48 wallets, saying no privat...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5Y4YQQX7S38EGJV0MZQV4M3/b-as-seen-on-tv.jpg"
+    },
+    {
+      "title": "Binance files for Brazil crypto license ahead of Friday deadline",
+      "link": "https://cointelegraph.com/news/binance-brazil-crypto-license-oct-30-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The exchange is delisting 22 crypto assets for Brazilian users and hopes talks with the central bank...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5Y3HTZGMXQ7SC5P5EPWXX7B/binance-brazil-edition.png"
+    },
+    {
+      "title": "Bitcoin ETFs claw back $110M after $774M exit",
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-rebound-110-million-btc-dip-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "US spot Bitcoin ETFs remained in the red for October, with about $202 million in net outflows for th...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5Y1DYG85AQWCC0729JDM8E5/hi-bitcoin-is-now-bigger-3.jpg"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impac...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
+    },
     {
       "title": "RedotPay weighs confidential US IPO filing by year-end: Bloomberg",
       "link": "https://cointelegraph.com/news/redotpay-weighs-confidential-us-ipo-filing-by-year-end-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The stablecoin payments company previously disputed reports that its US listing had been delayed.",
       "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5XSNRW4CBJ96JZZYQ53J31D/ipo.jpg"
-    },
-    {
-      "title": "Keystone breach deepens: Hackers stole key used to verify wallets as genuine",
-      "link": "https://cointelegraph.com/news/keystone-breach-deepens-hackers-stole-key-used-to-verify-wallets-as-genuine?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Keystone initially disclosed a leak of customer information but has since disclosed that hackers als...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5XH194AWQZA2BD0554BJQHS/hi-hardware-vs-software-wallets-key-differences-to-know.jpg"
-    },
-    {
-      "title": "Ripple wins final US approval for national trust bank",
-      "link": "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The approval clears the way for Ripple to manage reserves backing its RLUSD stablecoin and provide d...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5XAPPMS0KPKFXTRBD88QJZH/hi-pnc-uses-ripplenet.jpg"
-    },
-    {
-      "title": "US OCC calls on community banks to become payment stablecoin issuers",
-      "link": "https://cointelegraph.com/news/occ-community-banks-stablecoin-issuers-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The announcement followed the banking regulator finalizing its rules for the GENIUS Act, a stablecoi...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5WZ9ZYBPWXY53Q33BECCJE8/hi-coin-entering-bank.png"
-    },
-    {
-      "title": "Injective launches onchain futures market tracking Nvidia GPU rental costs",
-      "link": "https://cointelegraph.com/news/injective-launches-onchain-futures-market-tracking-nvidia-gpu-rental-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The new index tracks rental prices for five Nvidia GPUs, offering leveraged trading and potential he...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5WWZSHJKJSXHRGBMZY1WZXE/hi-how-to-train-an-ai-bot-to-day-trade-crypto2.png"
-    },
-    {
-      "title": "Canada opens consultation on stablecoins, citing US GENIUS Act",
-      "link": "https://cointelegraph.com/news/canada-consultation-stablecoins-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "As part of the potential implementation of its Stablecoin Act, the Canadian government will hear fro...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5WMT5NDYKE425567R7TVKYC/hi-how-to-buy-cryptocurrency-in-canada.jpg"
     }
   ],
   "various": [
+    {
+      "title": "Two charged with national security offences over RAF Fairford incident",
+      "link": "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss",
+      "desc": "One of the men, Mohmed Ahmad Abdulkarim, 24, is accused of assisting Iran's intelligence service.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4072/live/4e196450-d1ec-11f1-a701-fddedf244c16.png"
+    },
+    {
+      "title": "Chancellor to cut tariffs on some staple goods to offer cost of living help",
+      "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+      "desc": "A series of small announcements are part of John Healey's pledge to give households help with the co...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/055d/live/fd74d4f0-d1ee-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "title": "Turnout highest since 1981 as Israelis vote in pivotal election",
+      "link": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
+      "desc": "Many fear neither of the leading political blocs will win enough seats for a majority - meaning week...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9543/live/7b21c3e0-d1cc-11f1-837e-832a94a7445c.png"
+    },
+    {
+      "title": "What does Israel's election mean for Gaza and the wider world?",
+      "link": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
+      "desc": "The BBC's diplomatic correspondent James Landale reports from Jerusalem as ballots are cast.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/054f/live/2e8109b0-d1f4-11f1-a701-fddedf244c16.jpg"
+    },
     {
       "title": "Kane ends England’s 25-year wait to win men’s Ballon d’Or award",
       "link": "https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss",
@@ -159,34 +183,10 @@
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b391/live/343ff340-d193-11f1-8c41-0bbbeafdc6d4.jpg"
     },
     {
-      "title": "Chris Mason: Budget is imminent as tricky issues pile up for Burnham",
-      "link": "https://www.bbc.co.uk/news/articles/c317k85r5lglo?at_medium=RSS&at_campaign=rss",
-      "desc": "From Brexit debates to North Sea oil, there is plenty getting the cabinet, the Labour Party and the ...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f60/live/9da26470-d18f-11f1-8c41-0bbbeafdc6d4.jpg"
-    },
-    {
-      "title": "Chancellor to cut tariffs on some staple goods to offer cost of living help",
-      "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
-      "desc": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c2c/live/35815a70-d173-11f1-9d71-6d5ae0660afe.jpg"
-    },
-    {
-      "title": "Israel and the US are both going to the polls - the consequences will be global",
-      "link": "https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss",
-      "desc": "The next fortnight sees two elections on different continents. The outcomes will shape geopolitics a...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/060c/live/03a51100-d159-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "title": "Trump administration illegally fired James Comey's daughter, judge rules",
-      "link": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
-      "desc": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad39/live/ee5424f0-d165-11f1-87df-afb7a168a1f2.jpg"
-    },
-    {
-      "title": "Sharp rise in sales of some essential goods after government call to stock up",
-      "link": "https://www.bbc.co.uk/news/articles/c5rmy84np001o?at_medium=RSS&at_campaign=rss",
-      "desc": "Figures obtained by BBC Newsnight show large spikes in sales of torches, radios and power banks.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a3c/live/2719fb60-d1c6-11f1-93e1-3b657b665bcf.jpg"
+      "title": "Mbappé dropped by major Chinese brands as backlash grows over Mao joke",
+      "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+      "desc": "He allegedly said the funniest \"meme\" about him is the one where they put his face on \"a Chinese dic...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e10e/live/f7b26730-d1c6-11f1-9381-5f06d29fdf11.jpg"
     }
   ]
 }
