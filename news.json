@@ -39,6 +39,12 @@
   ],
   "movies": [
     {
+      "title": "Wicker’s Olivia Colman And More Talk Why Women Are So Attracted To Alexander Skarsgård’s Character (And I Get It)",
+      "link": "https://www.cinemablend.com/movies/wicker-olivia-colman-elizabeth-debicki-why-women-attracted-alexander-skarsgard-character",
+      "desc": "He's the whole wicker basket.",
+      "img": "https://cdn.mos.cms.futurecdn.net/hD4T3iTq4GUmgqY9nS2MA9-1920-80.jpg"
+    },
+    {
       "title": "Destin Daniel Cretton Knows He Left Fans On One Shang-Chi Cliffhanger. He Has One Marvel Vow",
       "link": "https://www.cinemablend.com/movies/destin-daniel-cretton-knows-he-left-fans-shang-chi-cliffhanger-marvel-vow",
       "desc": "We need Shang-Chi closure!",
@@ -67,12 +73,6 @@
       "link": "https://www.cinemablend.com/movies/shocked-learn-one-surprising-scene-you-can-see-everything-came-from-billy-evans-himself-elizabeth-holmes",
       "desc": "It’s the one where you see everything.",
       "img": "https://cdn.mos.cms.futurecdn.net/ohAHEcNDkXunhAH3iSwdyV-1920-80.jpg"
-    },
-    {
-      "title": "Tarantino Has Written Another 'Tenth Film,' But Now I'm Just Getting Annoyed",
-      "link": "https://www.cinemablend.com/movies/tarantino-written-another-tenth-film-now-just-getting-annoyed",
-      "desc": "How many \"tenth\" films can one man write?",
-      "img": "https://cdn.mos.cms.futurecdn.net/sgNBCDNSbTChEztEp5pYX3-1920-80.jpg"
     }
   ],
   "tech": [
@@ -115,6 +115,18 @@
   ],
   "crypto": [
     {
+      "title": "RedotPay weighs confidential US IPO filing by year-end: Bloomberg",
+      "link": "https://cointelegraph.com/news/redotpay-weighs-confidential-us-ipo-filing-by-year-end-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The stablecoin payments company previously disputed reports that its US listing had been delayed.",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5XSNRW4CBJ96JZZYQ53J31D/ipo.jpg"
+    },
+    {
+      "title": "Keystone breach deepens: Hackers stole key used to verify wallets as genuine",
+      "link": "https://cointelegraph.com/news/keystone-breach-deepens-hackers-stole-key-used-to-verify-wallets-as-genuine?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Keystone initially disclosed a leak of customer information but has since disclosed that hackers als...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5XH194AWQZA2BD0554BJQHS/hi-hardware-vs-software-wallets-key-differences-to-know.jpg"
+    },
+    {
       "title": "Ripple wins final US approval for national trust bank",
       "link": "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The approval clears the way for Ripple to manage reserves backing its RLUSD stablecoin and provide d...",
@@ -137,18 +149,6 @@
       "link": "https://cointelegraph.com/news/canada-consultation-stablecoins-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "As part of the potential implementation of its Stablecoin Act, the Canadian government will hear fro...",
       "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5WMT5NDYKE425567R7TVKYC/hi-how-to-buy-cryptocurrency-in-canada.jpg"
-    },
-    {
-      "title": "AI company Anthropic announces IPO, expected as early as November",
-      "link": "https://cointelegraph.com/news/anthropic-artificial-intelligence-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The artificial intelligence company disclosed more than $16 billion in revenue and an $80 billion ne...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5WP5DJHQX7JZGFDHG6CQJH8/hi-ipo-bid.jpg"
-    },
-    {
-      "title": "NBA names Kalshi, Polymarket preferred exchanges, signs CFTC deal",
-      "link": "https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The US professional basketball league is expanding into prediction markets with official data agreem...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5WJM4BTG04MJ97MCD20VJ26/hi-a-beginners-guide-to-nba-top-shot-nfts.png"
     }
   ],
   "various": [
@@ -165,7 +165,7 @@
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f60/live/9da26470-d18f-11f1-8c41-0bbbeafdc6d4.jpg"
     },
     {
-      "title": "Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
+      "title": "Chancellor to cut tariffs on some staple goods to offer cost of living help",
       "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
       "desc": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space...",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c2c/live/35815a70-d173-11f1-9d71-6d5ae0660afe.jpg"
@@ -177,16 +177,16 @@
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/060c/live/03a51100-d159-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-      "title": "Drivers who killed mum and girl while racing jailed",
-      "link": "https://www.bbc.co.uk/news/articles/cqy0r3n17gjyo?at_medium=RSS&at_campaign=rss",
-      "desc": "Justyna Hulboj and her daughter Lena died when they were hit by a car in Leeds in January 2023.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6532/live/418be650-a2d4-11f1-a291-b542ee92de7c.jpg"
+      "title": "Trump administration illegally fired James Comey's daughter, judge rules",
+      "link": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
+      "desc": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad39/live/ee5424f0-d165-11f1-87df-afb7a168a1f2.jpg"
     },
     {
-      "title": "Storm Boelo leaves 22,000 without power as Met Office issues new wind warning",
-      "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
-      "desc": "A yellow warning for strong winds came in effect at 18:00 on Monday across the west coast of England...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45fe/live/d45701d0-d165-11f1-93e1-3b657b665bcf.jpg"
+      "title": "Sharp rise in sales of some essential goods after government call to stock up",
+      "link": "https://www.bbc.co.uk/news/articles/c5rmy84np001o?at_medium=RSS&at_campaign=rss",
+      "desc": "Figures obtained by BBC Newsnight show large spikes in sales of torches, radios and power banks.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a3c/live/2719fb60-d1c6-11f1-93e1-3b657b665bcf.jpg"
     }
   ]
 }
