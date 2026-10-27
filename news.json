@@ -1,6 +1,18 @@
 {
   "games": [
     {
+      "title": "Here’s Another Mass Effect 5 Leak To Break Your Heart",
+      "link": "https://www.gamespot.com/articles/heres-another-mass-effect-5-leak-to-break-your-heart/",
+      "desc": "If last week's mysterious Mass Effect: Universe trailer leak wasn't painful enough for you in the wa...",
+      "img": "https://www.gamespot.com/wp-content/uploads/2026/10/ME5-protagonist-1.png?w=300"
+    },
+    {
+      "title": "WoW: Forever Just Got Another Major Racial Ability Shakeup Before Launch",
+      "link": "https://www.gamespot.com/articles/wow-forever-just-got-a-major-racial-ability-shakeup-just-before-launch/",
+      "desc": "World of Warcraft: Forever's release is just around the corner, but developer Blizzard is making one...",
+      "img": "https://www.gamespot.com/wp-content/uploads/2026/10/WoW-Forever-Racial-Changes-One-Last-Time.jpg?w=300"
+    },
+    {
       "title": "Diablo 4’s War Plans Are Getting A Huge Upgrade In Season 16",
       "link": "https://www.gamespot.com/articles/diablo-4s-war-plans-are-getting-a-huge-upgrade-in-season-16/",
       "desc": "Diablo 4's War Plans system is getting a major upgrade in Season 16, giving players even more contro...",
@@ -23,21 +35,15 @@
       "link": "https://www.gamespot.com/articles/arkane-lyon-gets-another-chance-to-find-a-new-home-and-finish-marvels-blade/",
       "desc": "Arkane Lyon has received a slight reprieve from its looming deadline to find a new buyer, as Microso...",
       "img": "https://www.gamespot.com/wp-content/uploads/2026/10/Marvel-Blade.jpg?w=300"
-    },
-    {
-      "title": "Xbox Game Pass Is Now Included With A Phone Plan",
-      "link": "https://www.gamespot.com/articles/xbox-game-pass-is-now-included-with-a-phone-plan/",
-      "desc": "Microsoft has announced a new way to subscribe to Xbox Game Pass, and it's part of your phone plan. ...",
-      "img": "https://www.gamespot.com/wp-content/uploads/2026/10/gamepasstmobile.png?w=300"
-    },
-    {
-      "title": "GTA 6 Coffee Is Here To Keep You Warm Until The Game Releases",
-      "link": "https://www.gamespot.com/articles/gta-6-coffee-is-here-to-keep-you-warm-until-the-game-releases/",
-      "desc": "While Rockstar's GTA 6 won't release until November 19, you can now buy officially licensed GTA 6 co...",
-      "img": "https://www.gamespot.com/wp-content/uploads/2026/10/GTA-Coffee.jpg?w=300"
     }
   ],
   "movies": [
+    {
+      "title": "Destin Daniel Cretton Knows He Left Fans On One Shang-Chi Cliffhanger. He Has One Marvel Vow",
+      "link": "https://www.cinemablend.com/movies/destin-daniel-cretton-knows-he-left-fans-shang-chi-cliffhanger-marvel-vow",
+      "desc": "We need Shang-Chi closure!",
+      "img": "https://cdn.mos.cms.futurecdn.net/graa9dWy8JvsQ7EBennbiF-1920-80.jpg"
+    },
     {
       "title": "The Comment That Convinced Quentin Tarantino To Bring Back Brad Pitt’s Cliff Booth",
       "link": "https://www.cinemablend.com/movies/the-comment-that-convinced-quentin-tarantino-to-bring-back-brad-pitts-cliff-booth",
@@ -67,12 +73,6 @@
       "link": "https://www.cinemablend.com/movies/tarantino-written-another-tenth-film-now-just-getting-annoyed",
       "desc": "How many \"tenth\" films can one man write?",
       "img": "https://cdn.mos.cms.futurecdn.net/sgNBCDNSbTChEztEp5pYX3-1920-80.jpg"
-    },
-    {
-      "title": "James Gunn Would Like You To Know He’s Not Trying To Recreate The MCU (Even With Superman)",
-      "link": "https://www.cinemablend.com/movies/james-gunn-not-trying-to-recreate-mcu-even-with-superman-clayface",
-      "desc": "James Gunn has a different take on shared unvierses.",
-      "img": "https://cdn.mos.cms.futurecdn.net/FEE4gEjyiofEHpvdtJoEJb-1920-80.png"
     }
   ],
   "tech": [
@@ -115,6 +115,24 @@
   ],
   "crypto": [
     {
+      "title": "Ripple wins final US approval for national trust bank",
+      "link": "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The approval clears the way for Ripple to manage reserves backing its RLUSD stablecoin and provide d...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5XAPPMS0KPKFXTRBD88QJZH/hi-pnc-uses-ripplenet.jpg"
+    },
+    {
+      "title": "US OCC calls on community banks to become payment stablecoin issuers",
+      "link": "https://cointelegraph.com/news/occ-community-banks-stablecoin-issuers-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The announcement followed the banking regulator finalizing its rules for the GENIUS Act, a stablecoi...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5WZ9ZYBPWXY53Q33BECCJE8/hi-coin-entering-bank.png"
+    },
+    {
+      "title": "Injective launches onchain futures market tracking Nvidia GPU rental costs",
+      "link": "https://cointelegraph.com/news/injective-launches-onchain-futures-market-tracking-nvidia-gpu-rental-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The new index tracks rental prices for five Nvidia GPUs, offering leveraged trading and potential he...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5WWZSHJKJSXHRGBMZY1WZXE/hi-how-to-train-an-ai-bot-to-day-trade-crypto2.png"
+    },
+    {
       "title": "Canada opens consultation on stablecoins, citing US GENIUS Act",
       "link": "https://cointelegraph.com/news/canada-consultation-stablecoins-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "As part of the potential implementation of its Stablecoin Act, the Canadian government will hear fro...",
@@ -131,32 +149,26 @@
       "link": "https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The US professional basketball league is expanding into prediction markets with official data agreem...",
       "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5WJM4BTG04MJ97MCD20VJ26/hi-a-beginners-guide-to-nba-top-shot-nfts.png"
-    },
-    {
-      "title": "South Korea lawmakers mull pushing crypto tax implementation to 2029",
-      "link": "https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The Seoul government is reportedly weighing another delay for a 2020 income tax policy on digital as...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5WCFCMYFBV1HM5DA9T73R6P/hi-south-korea-virtual-currency-taxes-explained-basic-knowledge-for-beginners-including-calculation-methods-1.jpg"
-    },
-    {
-      "title": "Kalshi strikes deal with S&P Dow Jones Indices to expand financial event contracts",
-      "link": "https://cointelegraph.com/news/sp-dow-jones-partners-with-kalshi-to-bring-financial-benchmarks-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The agreement adds S&P Dow Jones gauges to a growing list of Wall Street firms expanding their invol...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2R2Q54WS905SXC3VAXKD1PM/hi-what-will-sp-500-wager-predictions-look.jpg"
-    },
-    {
-      "title": "PHP flaw shows AI ‘vulnerability apocalypse’ is on schedule: Immunefi CEO",
-      "link": "https://cointelegraph.com/news/php-flaw-ai-vulnerability-apocalypse-immunefi-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Mitchell Amador warned internet users that websites could remain compromised for weeks, particularly...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5W8CX3ZEBAQRD95ZBDZ13BW/hi-using-ai-in-crypto-do-it-at-your-own-risk2.jpg"
     }
   ],
   "various": [
     {
-      "title": "Independent review announced into murder of student Henry Nowak",
-      "link": "https://www.bbc.co.uk/news/articles/cv70pnw784x7o?at_medium=RSS&at_campaign=rss",
-      "desc": "\"We must get to truth of what happened before, during and after that awful night,\" the home secretar...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a43b/live/79bb9a20-603f-11f1-89a3-d1f559421220.jpg"
+      "title": "Kane ends England’s 25-year wait to win men’s Ballon d’Or award",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss",
+      "desc": "Harry Kane becomes the first English player to win the prize since Michael Owen in 2001, and Spain m...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b391/live/343ff340-d193-11f1-8c41-0bbbeafdc6d4.jpg"
+    },
+    {
+      "title": "Chris Mason: Budget is imminent as tricky issues pile up for Burnham",
+      "link": "https://www.bbc.co.uk/news/articles/c317k85r5lglo?at_medium=RSS&at_campaign=rss",
+      "desc": "From Brexit debates to North Sea oil, there is plenty getting the cabinet, the Labour Party and the ...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f60/live/9da26470-d18f-11f1-8c41-0bbbeafdc6d4.jpg"
+    },
+    {
+      "title": "Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
+      "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+      "desc": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c2c/live/35815a70-d173-11f1-9d71-6d5ae0660afe.jpg"
     },
     {
       "title": "Israel and the US are both going to the polls - the consequences will be global",
@@ -173,20 +185,8 @@
     {
       "title": "Storm Boelo leaves 22,000 without power as Met Office issues new wind warning",
       "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
-      "desc": "The Met Office has issued a fresh wind warning from 18:00 on Monday across the west coast of England...",
+      "desc": "A yellow warning for strong winds came in effect at 18:00 on Monday across the west coast of England...",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45fe/live/d45701d0-d165-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "title": "How 'Lula's Army' WhatsApp channel helped turn Brazil election around",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo?at_medium=RSS&at_campaign=rss",
-      "desc": "Millions joined a 'Lula's Army' channel that helped to transform online enthusiasm into real-world m...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3bd/live/33178300-d14a-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-      "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
-      "desc": "The company will be the first true artificial intelligence company to go public as tech firms contin...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e394/live/7affbe60-d147-11f1-93e1-3b657b665bcf.jpg"
     }
   ]
 }
