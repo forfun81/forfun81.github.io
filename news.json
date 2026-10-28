@@ -1,6 +1,12 @@
 {
   "games": [
     {
+      "title": "How To Watch The October Nintendo Indie World Showcase",
+      "link": "https://www.gamespot.com/articles/nintendo-announces-indie-world-showcase-for-october-28/",
+      "desc": "Nintendo has announced a new Indie World Showcase for October 28. The broadcast will run about 15 mi...",
+      "img": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4660714-indie-world.jpg?w=300"
+    },
+    {
       "title": "You Can Make Your WoW: Forever Character Now And Be Ready For Launch",
       "link": "https://www.gamespot.com/articles/you-can-make-your-wow-forever-character-now-and-be-ready-for-launch/",
       "desc": "World of Warcraft: Forever's character creation and name reservations are now live, letting you save...",
@@ -29,12 +35,6 @@
       "link": "https://www.gamespot.com/articles/gta-6-file-size-revealed-and-its-massive/",
       "desc": "Ahead of the game's release in November, GTA 6's file size has been revealed, and it is massive. Pla...",
       "img": "https://www.gamespot.com/wp-content/uploads/2026/10/Lucia_Caminos_07.jpg?w=300"
-    },
-    {
-      "title": "Elden Ring Movie Might Be Extremely Long, And It Could Have Twitch Integration Eventually",
-      "link": "https://www.gamespot.com/articles/elden-ring-movie-might-be-extremely-long-and-it-could-have-twitch-integration-eventually/",
-      "desc": "New details have come to light about A24's Elden Ring movie, including how Amazon could be involved ...",
-      "img": "https://www.gamespot.com/wp-content/uploads/2026/10/ER.jpg?w=300"
     }
   ],
   "movies": [
@@ -77,116 +77,116 @@
   ],
   "tech": [
     {
-      "title": "Fields Medal-winning UC Berkeley professor ends graded homework due to AI cheating",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/fields-medal-winning-uc-berkeley-professor-ends-graded-homework-due-to-ai-cheating-says-in-person-exams-are-the-only-solution-left-to-widespread-ai-use",
-      "desc": "Award-winning mathematician Richard Brocherds says that it's a waste of time and money to grade AI a...",
-      "img": "https://cdn.mos.cms.futurecdn.net/vRpHVXiNv3LEuAqzNwhCkY-1920-80.jpg"
+      "title": "Nvidia RTX GPU vendor Palit denies its Galax factory has closed due to a shortage of chips",
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-gpu-vendor-palit-denies-its-galax-factory-has-closed-due-to-a-shortage-of-chips-company-says-brand-continues-to-operate-as-usual",
+      "desc": "Palit denies news that Galax is going out of production.",
+      "img": "https://cdn.mos.cms.futurecdn.net/yB6G4PAHnBYHqfAnGyVu9m-1920-80.jpg"
     },
     {
-      "title": "Military drone outfit Anduril partners with Qualcomm to build laptops on US soil with new BlueChip venture",
-      "link": "https://www.tomshardware.com/laptops/military-drone-outfit-anduril-partners-with-qualcomm-to-build-laptops-on-us-soil-with-new-bluechip-venture-defense-contractor-targets-a-100-percent-domestic-supply-chain-in-the-future",
-      "desc": "The defense contractor aims to fully bring back laptop manufacturing on U.S. shores, with its first ...",
-      "img": "https://cdn.mos.cms.futurecdn.net/oRpL4c7fewCVVQTqSzdVzM-1920-80.png"
+      "title": "Save $249 on 32GB of DDR5 with this 9800X3D parts bundle",
+      "link": "https://www.tomshardware.com/pc-components/save-usd249-on-32gb-of-ddr5-with-this-9800x3d-parts-bundle-grab-one-of-amds-top-cpus-with-an-msi-x870e-motherboard-and-a-free-aio-cooler-for-under-usd1-100",
+      "desc": "Save $248.99 on this AMD Ryzen 7 9800X3D bundle at Newegg with an MSI MAG X870E Tomahawk Max Wifi mo...",
+      "img": "https://cdn.mos.cms.futurecdn.net/sQ7Cr6Nk88XRnASLZUVDEo-1920-80.png"
     },
     {
-      "title": "Israeli ad tech firm tied to suspected Starlink tracking effort, report claims",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/israeli-ad-tech-firm-tied-to-suspected-starlink-tracking-effort-report-claims-researchers-say-it-outbid-everyone-for-starlink-linked-ads-in-100-countries-including-where-the-service-is-banned",
-      "desc": "Citizen Lab and Confiant linked Israeli firm Discover-Tech to suspected surveillance through online ...",
-      "img": "https://cdn.mos.cms.futurecdn.net/ENC5zcxZ4NC6STP9xUUgpT-1920-80.jpg"
+      "title": "Taiwan working on autonomous drone swarms to counter China’s increasingly aggressive grey-zone military tactics — island has already completed flight simulations, now working towards flight trials over maritime areas",
+      "link": "https://www.tomshardware.com/tech-industry/drones/taiwan-working-on-autonomous-drone-swarms-to-counter-chinas-increasingly-aggressive-grey-zone-military-tactics-island-has-already-completed-flight-simulations-now-working-towards-flight-trials-over-maritime-areas",
+      "desc": "The island is building an autonomous system that would work with various drones, allowing it to exte...",
+      "img": "https://cdn.mos.cms.futurecdn.net/wn7XEeMvLdZJEoBDCXQqCD-1920-80.png"
     },
     {
-      "title": "TSMC reportedly weighs 20% CoWoS price increase as Nvidia Blackwell and Rubin chips put pressure on packaging capacity",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-reportedly-weighs-20-percent-cowos-price-increase-as-nvidia-blackwell-and-rubin-chips-put-pressure-on-packaging-capacity-equipment-lead-times-stretch-to-eight-months",
-      "desc": "TSMC is reportedly weighing a price increase of up to 20% for its CoWoS advanced packaging technolog...",
-      "img": "https://cdn.mos.cms.futurecdn.net/F7GwETgbWz3VqDaj8UmXcJ-1920-80.jpg"
+      "title": "Standalone Nvidia Vera CPUs land in Oracle Cloud's multi-gigawatt deployment — our independent benchmarking of a local server reveals Vera's massive memory bandwidth lead over dual Xeon 6 server",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-and-oracle-bring-vera-cpu-instances-online-in-multi-gigawatt-deployment-oci-superclusters-also-set-to-expand-with-rubin-only-clusters-attached-to-dual-xeon-6-hosts",
+      "desc": "Nvidia’s Vera CPU is now generally available on Oracle’s OCI Superclusters, a win for Nvidia as it m...",
+      "img": "https://cdn.mos.cms.futurecdn.net/VjsMJHUMPcH4dpNwMJen5P-1920-80.jpg"
     },
     {
-      "title": "Samsung Portable SSD P9 review: speedy USB4 in a slim, pricey package",
-      "link": "https://www.tomshardware.com/pc-components/external-ssds/samsung-portable-ssd-p9-review",
-      "desc": "Samsung’s Portable SSD P9 is the new USB4 external drive to beat. It feels premium and performed ver...",
-      "img": "https://cdn.mos.cms.futurecdn.net/ab4KFkJZaRiJk8Fggb79Ch-1920-80.jpg"
+      "title": "IT vendor lists massive $60 million AI supercomputer on eBay with 300 racks of decommissioned GPUs",
+      "link": "https://www.tomshardware.com/desktops/servers/it-vendor-lists-massive-usd60-million-ai-cluster-on-ebay-300x-racks-of-decommissioned-gpus-includes-9-600-nvidia-a100-gpus-and-4-200-amd-epyc-cpus-plus-free-shipping",
+      "desc": "Someone listed a massive 300-rack AI supercomputer on eBay for $59.7M. Packed with 9,600 A100 GPUs a...",
+      "img": "https://cdn.mos.cms.futurecdn.net/PwWFj2a79ZDdEEQcHD4HbX-1920-80.jpg"
     },
     {
-      "title": "Police are reportedly pulling motorists over because AI algorithms deem their driving patterns 'suspicious'",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/police-reportedly-pulling-motorists-over-because-ai-algorithms-deem-their-driving-patterns-suspicious-rights-group-report-warns-ai-surveillance-systems-will-sweep-in-more-innocent-people-than-wrongdoers",
-      "desc": "An ACLU report claims police are increasingly using AI to analyze license plate-reader data and flag...",
-      "img": "https://cdn.mos.cms.futurecdn.net/nmQ5uiPB4aYsNPFK5tATUE-1920-80.jpg"
+      "title": "$4,700 audiophile-grade network hub promises a noise-free experience and music with 'emotional impact' — seven isolation stages per port were chosen with 'listening comparisons,' uses a $5 Realtek controller",
+      "link": "https://www.tomshardware.com/pc-components/sound-cards/usd4-700-audiophile-grade-network-hub-promises-a-noise-free-experience-and-music-with-emotional-impact-seven-isolation-stages-per-port-were-chosen-with-listening-comparisons",
+      "desc": "$4,700 audiophile-grade network hub promises a noise-free experience and music with \"emotional impac...",
+      "img": "https://cdn.mos.cms.futurecdn.net/kaNkoLdKfnWZYMsxyWVjUe-1920-80.png"
     }
   ],
   "crypto": [
     {
-      "title": "Robinhood’s Tenev warns US tokenization uncertainty deters ‘serious assets’",
-      "link": "https://cointelegraph.com/news/robinhoods-tenev-warns-us-tokenization-uncertainty-deters-serious-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Robinhood CEO Vlad Tenev says tokenized equities need more than a temporary SEC exemption to flouris...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M60AA98877AY8VNQ1K7M74CW/robinhood-1.jpg"
+      "title": "Settlement concerns prompt Euronext to halt CoinShares’ Zcash ETP ahead of debut",
+      "link": "https://cointelegraph.com/news/euronext-suspends-coinshares-zcash-etp-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "A Euronext spokesperson told Cointelegraph the suspension was due to “operational settlement require...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M612J6GCD9PZJ4FW24NTDCMQ/hi-what-is-insider-trading-meaning-examples-and-penalties.jpg"
     },
     {
-      "title": "Bithumb discloses data leak after internal system breach: Report",
-      "link": "https://cointelegraph.com/news/bithumb-discloses-data-leak-after-internal-system-breach-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The breach impacted its in-house mobile system, used by employees for work and information sharing.",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3ANFG8K9N6H2586MPQRV7KT/hi-got-crypto-losses-wallet-1.jpg"
+      "title": "Mirae Asset Securities issues tokenized notes on Solana",
+      "link": "https://cointelegraph.com/news/mirae-asset-securities-tokenized-notes-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The company’s Hong Kong unit issued six-month notes under its $3 billion program, extending blockcha...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M6120BTEQBS14CMZ858YG88A/hi-hong-kong-situation-solana.jpg"
     },
     {
-      "title": "Discord is making public chats searchable on Google: How to opt out",
-      "link": "https://cointelegraph.com/news/discord-is-making-public-chats-searchable-on-google-how-to-opt-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Discord conversations on large public servers will soon reach audiences far beyond their communities...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5ZZEMKGWAD6V4EFK256AYBC/hi-hack-overview-discord.jpg"
+      "title": "Bitcoin price eyes $82K as Morgan Stanley strategist says most of correction is over",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-eyes-82k-as-morgan-stanley-strategist-says-most-of-correction-is-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Bitcoin sought to rebuild support at $80,000 while Asian and US tech stocks extended a rebound into ...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5Z3BJXQ46ZDN2Q8H9RF7F7N/hi-will-crypto-be-the-only-digital-currency-left-standing-south-korea-1.jpg"
     },
     {
-      "title": "VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure",
-      "link": "https://cointelegraph.com/news/vaneck-launches-diversified-etf-combining-stocks-bonds-and-bitcoin-exposure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "VanEck’s new Wealth Builder ETF targets a 2% Bitcoin allocation, with a permitted range of 1% to 5%,...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5ZJHJBWY657RY1S76WDA6QD/hi-goldman-sachs-and-bitcoin-etf.png"
+      "title": "Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K",
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "US spot Bitcoin ETFs drew $286 million over two days, narrowing October’s net outflows to $26 millio...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M60NEYRT27HS3BACTE6CCD20/futures-bitcoin-options-top-5.jpg"
     },
     {
-      "title": "Intel, IBM, Oracle and IonQ latest to object to OKX-ICE tokenized stocks",
-      "link": "https://cointelegraph.com/news/intel-ibm-oracle-ionq-object-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "More than 40% of the companies initially proposed to have their stocks listed in tokenized form have...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5ZFFAG88SZ35M2BYEF2RBQK/hi-japan-stocks-explained.jpg"
+      "title": "Coinbase denies systems breach, says vendor exposed customer data",
+      "link": "https://cointelegraph.com/news/coinbase-analytics-provider-customer-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Coinbase said that an incident at analytics vendor Amplitude exposed some customers’ contact data, b...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M60N3ET67QN71X4TK3YBZTNR/hi-how-cryptocurrency-prices-work-explained3.jpg"
     },
     {
-      "title": "Quantum fears already limiting Bitcoin’s growth, Stacks founder says",
-      "link": "https://cointelegraph.com/news/quantum-fears-already-limiting-bitcoins-growth-stacks-founder-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Speaking on Cointelegraph’s Chain Reaction podcast, Muneeb Ali warned that uncertainty over Bitcoin’...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5ZF47DDZ978GBXA3FCAVDQG/hi-bitcoins-quantum-upgrade-path-what-bip-360-changes-and-what-it-doesnt-1.jpg"
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impac...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
     }
   ],
   "various": [
     {
-      "title": "Israeli exit polls suggest no clear winner in pivotal general election",
-      "link": "https://www.bbc.co.uk/news/articles/cq1kdgxw302zo?at_medium=RSS&at_campaign=rss",
-      "desc": "Two polls project that veteran PM Benjamin Netanyahu and former military chief Gadi Eisenkot are tie...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b32c/live/565a2170-d275-11f1-93e1-3b657b665bcf.jpg"
+      "title": "Overturned carriages and makeshift medical tents at crash site",
+      "link": "https://www.bbc.co.uk/news/videos/cv8ezjdkle59o?at_medium=RSS&at_campaign=rss",
+      "desc": "Dozens of people are feared dead after a high-speed train collided with another train south of Madri...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1db/live/806df680-d2c0-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "title": "Watch: What happens now after close vote in Israeli election?",
-      "link": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
-      "desc": "Polls have closed in the Israeli election, but there is no clear winner.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c34b/live/eebe6880-d262-11f1-b441-2b33b063138f.jpg"
+      "title": "What we know about the crash so far",
+      "link": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
+      "desc": "More than 500 passengers were on board the trains when the incident occurred in the province of Tole...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc1d/live/c4d7e6f0-d2c5-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "title": "Chris Mason: Budget needs to go some way towards delivering PM's promises",
-      "link": "https://www.bbc.co.uk/news/articles/c6y43wkln1k2o?at_medium=RSS&at_campaign=rss",
-      "desc": "Support on the cost of living, and in particular energy bills, as well as announcments on devolution...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7041/live/3d52f8e0-d23a-11f1-a701-fddedf244c16.jpg"
+      "title": "What could be in the Budget?",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+      "desc": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c529/live/61181430-d2a9-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "title": "Defeated presidential candidate Flávio Bolsonaro arrives in US after Brazil cancels his passports",
+      "title": "Russell Brand tells court allegations had devastating impact on him",
+      "link": "https://www.bbc.co.uk/news/articles/cmvgxl5kdgrzo?at_medium=RSS&at_campaign=rss",
+      "desc": "The entertainer begins giving evidence at his trial on charges including rape at Southwark Crown Cou...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb2f/live/26c8a200-d2c1-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+      "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
+      "desc": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arran...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7eaf/live/69ded4d0-d26f-11f1-a4f1-4fff2e6cf5f3.jpg"
+    },
+    {
+      "title": "Confusion about Flávio Bolsonaro's whereabouts as Argentina says he flew to Ecuador",
       "link": "https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss",
-      "desc": "The defeated presidential candidate's arrival in the US came hours after he failed to turn in his pa...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8385/live/d2ce76e0-d232-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss",
-      "desc": "The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana ...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0e4/live/7d77ba00-d249-11f1-8ba3-9fd3e261415f.jpg"
-    },
-    {
-      "title": "Thick fog to create dangerous driving conditions for UK commuters",
-      "link": "https://www.bbc.co.uk/weather/articles/c6x2wr0dwzx1o?at_medium=RSS&at_campaign=rss",
-      "desc": "After storms across the UK, the weather is set to turn calmer with mist and fog at times over the co...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac35/live/641cb4d0-d1fd-11f1-b30f-21253679b290.jpg"
+      "desc": "The defeated presidential candidate crossed a land border into Argentina late on Tuesday, Argentine ...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65cf/live/0c187e30-d2a3-11f1-93e1-3b657b665bcf.jpg"
     }
   ]
 }
