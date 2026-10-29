@@ -115,6 +115,30 @@
   ],
   "crypto": [
     {
+      "title": "Bitcoin ETFs add $137M, pushing October back into the green",
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-137-million-october-back-green?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Bitcoin ETFs drew $424 million over three days, lifting October net inflows to $111 million despite ...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M635F2FZPQBQ2SP21XCPWHDQ/hi-bitcoins-are-flash-green-1.jpg"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impac...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
+    },
+    {
+      "title": "Your fridge could one day stake Ether, launch memecoins: CFTC chair",
+      "link": "https://cointelegraph.com/news/a-fridge-that-launches-memecoins-cftc-floats-ai-crypto-future?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "CFTC chair Mike Selig says autonomous AI agents could challenge financial rules built around human t...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M62YRQYZXNTVJN5ND4CSDWQZ/hi-chinese-banking-regulation-blockchain-variant.jpg"
+    },
+    {
+      "title": "Tampered Ledger wallets cost Singapore users $2.7M: Police",
+      "link": "https://cointelegraph.com/news/tampered-ledger-wallets-cost-singapore-users-27m-police?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Police say at least two cases were reported as early as Sept. 10, nearly a month before the wider in...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M62T0EMVVBHXMFAFEZ1Q1TKW/police.jpg"
+    },
+    {
       "title": "Fed’s hawkish rate hold keeps pressure on Bitcoin: Analysts",
       "link": "https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Traders are pricing in a 78% chance of a December rate hike, while analysts say Treasury yields, the...",
@@ -125,38 +149,14 @@
       "link": "https://cointelegraph.com/news/canada-crypto-king-jury-criminal-trial-closing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Aiden Pleterski, facing fraud charges in Canada over his alleged role in a digital asset Ponzi schem...",
       "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3MQWPR3MTCT9E31PTGCN3TH/court-law-judge-flags-canada.jpg"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impac...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
-    },
-    {
-      "title": "Sam Bankman-Fried wrote to actor portraying him in Netflix series",
-      "link": "https://cointelegraph.com/news/sam-bankman-fried-actor-anthony-boyle-netflix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The former FTX CEO remains incarcerated as Irish actor Anthony Boyle portrays him in a series about ...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M61TQHACVDH0XJQJK1P5B22V/crypto-news-neutral-sbf-movie.jpg"
-    },
-    {
-      "title": "Strategy shareholders approve daily dividends for four preferred stocks",
-      "link": "https://cointelegraph.com/news/strategy-shareholders-approve-daily-dividends-for-four-preferred-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The largest Bitcoin treasury company will begin daily dividend payments on STRC in November, with th...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M61RMMV26WRZDXS27BN2ZMZH/hi-strategyb-3.jpg"
-    },
-    {
-      "title": "Crypto PAC spending before midterms possibly obscured after reported FEC hack",
-      "link": "https://cointelegraph.com/news/crypto-pac-spending-midterms-fec-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The FEC reported an “electronic filing system outage” on Tuesday as groups are expected to ramp up s...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M61JZDJN7WGW76Y3DV75013F/magnifier-coin-bitcoin-search-21.jpg"
     }
   ],
   "various": [
     {
-      "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
-      "link": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
-      "desc": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab01/live/ce128db0-d2fc-11f1-a701-fddedf244c16.jpg"
+      "title": "Healey promises reduction in welfare bill before next election",
+      "link": "https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o?at_medium=RSS&at_campaign=rss",
+      "desc": "The Conservatives criticised the chancellor for not providing more details on welfare reform in his ...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dd8/live/5d3b4f20-d36d-11f1-93e1-3b657b665bcf.jpg"
     },
     {
       "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
@@ -165,16 +165,16 @@
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5570/live/b5261da0-d304-11f1-a9bf-3316693f55f0.jpg"
     },
     {
-      "title": "High-speed train crash kills at least 68 people in Spain",
-      "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
-      "desc": "The crash, between a moving train and another that was stopped further up the track, was caused by a...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c0f/live/1f7e90f0-d2e8-11f1-8d86-83eebc838351.jpg"
+      "title": "Spain begins three days of mourning after train crash kills dozens",
+      "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
+      "desc": "Emergency teams worked through the night to find victims after one of the worst rail disasters in Eu...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56de/live/c3d6ea10-d367-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-      "desc": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 1...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3381/live/719a4410-d2f2-11f1-8d86-83eebc838351.jpg"
+      "title": "Ofcom outlines ways social media can verify ages of users",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss",
+      "desc": "Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 1...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4ca/live/2bf1c250-d2af-11f1-a05d-41eb870c7a5f.jpg"
     },
     {
       "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
