@@ -1,6 +1,12 @@
 {
   "games": [
     {
+      "title": "An Iconic Piece Of Gaming Artwork Just Fetched A Princely Sum At Auction",
+      "link": "https://www.gamespot.com/articles/an-iconic-piece-of-gaming-artwork-just-fetched-a-princely-sum-at-auction/",
+      "desc": "If you were an arcade operator 45 years ago, your first look at a game that would change the history...",
+      "img": "https://www.gamespot.com/wp-content/uploads/2026/10/Clipboard_10-28-2026_01.jpg?w=300"
+    },
+    {
       "title": "GTA 6 File Size Revealed, And It’s Massive–See How It Compares To Other Huge Games",
       "link": "https://www.gamespot.com/articles/gta-6-file-size-revealed-and-its-massive/",
       "desc": "Ahead of the game's release in November, GTA 6's file size has been revealed, and it is massive. Pla...",
@@ -29,15 +35,21 @@
       "link": "https://www.gamespot.com/articles/wow-forever-content-updates-will-come-slower-than-you-might-expect/",
       "desc": "Developer Blizzard's new version of its flagship MMORPG, World of Warcraft: Forever, will receive co...",
       "img": "https://www.gamespot.com/wp-content/uploads/2026/10/WoW-Forever-Content-Schedule-Frequency.jpg?w=300"
-    },
-    {
-      "title": "Sleeping Dogs Movie Director Explains Why The Adaptation Is Taking So Long",
-      "link": "https://www.gamespot.com/articles/sleeping-dogs-movie-director-explains-why-the-adaptation-is-taking-so-long/",
-      "desc": "Like many video game movies, Sleeping Dogs seems stuck in development hell. Even though it looked li...",
-      "img": "https://www.gamespot.com/wp-content/uploads/original/536/5360430/2692529-sleeping-dogs-definitive-edition-review_1920_20141015.jpg?w=300"
     }
   ],
   "movies": [
+    {
+      "title": "Florence Pugh Would Love For You To Know She's Not American",
+      "link": "https://www.cinemablend.com/movies/florence-pugh-would-love-for-you-to-know-shes-not-american",
+      "desc": "You'll have to hear it to believe it.",
+      "img": "https://cdn.mos.cms.futurecdn.net/vnPmnuGPNYSTHjiEwvTpDK-1920-80.jpg"
+    },
+    {
+      "title": "Inde Navarrette’s Take On Rogue’s Accent Is Charming, But I’m Excited To See More",
+      "link": "https://www.cinemablend.com/movies/inde-navarrette-take-rogue-accent-charming-im-excited-more-xmen",
+      "desc": "There's something sweet about her accent.",
+      "img": "https://cdn.mos.cms.futurecdn.net/sutsKr7DmGzqBhfs4zi8dB-1920-80.jpg"
+    },
     {
       "title": "Hannah Waddingham REALLY Wants To Join Star Wars (And I Have Questions About Her One Big Idea)",
       "link": "https://www.cinemablend.com/movies/hannah-waddingham-wants-join-star-wars-questions-her-idea-grogu",
@@ -61,18 +73,6 @@
       "link": "https://www.cinemablend.com/movies/one-word-woody-harrelson-hunger-games-accent-sunrise-reaping-joseph-zada-practiced",
       "desc": "Joseph Zada perfectly replicates Harrelson's dialect in Sunrise on the Reaping.",
       "img": "https://cdn.mos.cms.futurecdn.net/b5Jr4xokCajwYgSSyEixpT-1920-80.jpg"
-    },
-    {
-      "title": "I Finally Caught Up With Scream 7, I Really Should Have Ignored The Critics On This One",
-      "link": "https://www.cinemablend.com/movies/finally-caught-up-scream-7-should-have-ignored-critics-horror-streaming-neve-campbell",
-      "desc": "Don't be scared away like I was.",
-      "img": "https://cdn.mos.cms.futurecdn.net/esWRys86BjsJPGgKj8JG6Q-1920-80.png"
-    },
-    {
-      "title": "I'm Even More Pumped For Miami Vice Now I've Seen Michael B. Jordan In That Rad Costume",
-      "link": "https://www.cinemablend.com/movies/even-more-pumped-miami-vice-85-now-seen-michael-b-jordan-rad-costume",
-      "desc": "Rico Tubbs is looking suave!",
-      "img": "https://cdn.mos.cms.futurecdn.net/MKSRWBdpYhCqzHoDeuSoXK-1920-80.jpg"
     }
   ],
   "tech": [
@@ -115,6 +115,12 @@
   ],
   "crypto": [
     {
+      "title": "Fed’s hawkish rate hold keeps pressure on Bitcoin: Analysts",
+      "link": "https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Traders are pricing in a 78% chance of a December rate hike, while analysts say Treasury yields, the...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M62K842329DANXYCBBC56CQQ/hi-5-tips-for-investing-during-a-global-recession.jpg"
+    },
+    {
       "title": "Canadian ‘crypto king’ case to go to jury as criminal trial winds down",
       "link": "https://cointelegraph.com/news/canada-crypto-king-jury-criminal-trial-closing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Aiden Pleterski, facing fraud charges in Canada over his alleged role in a digital asset Ponzi schem...",
@@ -143,12 +149,6 @@
       "link": "https://cointelegraph.com/news/crypto-pac-spending-midterms-fec-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The FEC reported an “electronic filing system outage” on Tuesday as groups are expected to ramp up s...",
       "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M61JZDJN7WGW76Y3DV75013F/magnifier-coin-bitcoin-search-21.jpg"
-    },
-    {
-      "title": "Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-bounce-rejected-at-50-day-trend-line-ahead-of-fomc-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Bitcoin failed to move past its 50-day simple moving average as market participants awaited the outc...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M61J85J966F70S7471SPHK17/hi-us-bitcoin-reserve-asset-bill-explained-960x639.webp"
     }
   ],
   "various": [
@@ -159,16 +159,10 @@
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab01/live/ce128db0-d2fc-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "title": "Budget key points at a glance",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-      "desc": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the governm...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7506/live/63f2d5e0-d2d2-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "title": "Chris Mason: Budget felt cautious despite its range of small measures",
-      "link": "https://www.bbc.co.uk/news/articles/cm78pljvqvxeo?at_medium=RSS&at_campaign=rss",
-      "desc": "The chancellor has had to grapple with a mix of public finances and household finances being a mess.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/172f/live/e3d192f0-d2f1-11f1-93e1-3b657b665bcf.jpg"
+      "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
+      "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+      "desc": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5570/live/b5261da0-d304-11f1-a9bf-3316693f55f0.jpg"
     },
     {
       "title": "High-speed train crash kills at least 68 people in Spain",
@@ -177,10 +171,16 @@
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c0f/live/1f7e90f0-d2e8-11f1-8d86-83eebc838351.jpg"
     },
     {
-      "title": "Watch: At the scene of Spain's deadly train crash",
-      "link": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo?at_medium=RSS&at_campaign=rss",
-      "desc": "People have been killed after a Spanish high-speed train collided with another train south of the ca...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97cd/live/4f78dd50-d2e9-11f1-b441-2b33b063138f.jpg"
+      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+      "desc": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 1...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3381/live/719a4410-d2f2-11f1-8d86-83eebc838351.jpg"
+    },
+    {
+      "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+      "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+      "desc": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution,...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c2c/live/4c19c1e0-d2eb-11f1-b441-2b33b063138f.jpg"
     },
     {
       "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
