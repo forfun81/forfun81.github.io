@@ -39,6 +39,12 @@
   ],
   "movies": [
     {
+      "title": "Yeah, Awkwafina Has Clocked How Many Birds She's Played In Movies Lately",
+      "link": "https://www.cinemablend.com/movies/awkwafina-clocked-how-many-birds-shes-played-movies-lately-wildwood-interview",
+      "desc": "She's done enough squawking.",
+      "img": "https://cdn.mos.cms.futurecdn.net/K7HtVhvGqmWPXQhfTPrQ9e-1920-80.png"
+    },
+    {
       "title": "It Ends With Us’ Crew Is Part Of A New Documentary, And The Director Shares Their Feelings On Blake Lively And Justin Baldoni",
       "link": "https://www.cinemablend.com/movies/it-ends-with-us-crew-joins-doc-director-shares-their-feelings-blake-lively-justin-baldoni",
       "desc": "People have made varied claims about the set.",
@@ -67,17 +73,11 @@
       "link": "https://www.cinemablend.com/movies/pierce-brown-red-rising-movie-comments-have-me-howling",
       "desc": "Red Rising fans will appreciate this.",
       "img": "https://cdn.mos.cms.futurecdn.net/7xDMkeaLRYGtRBv95zjF5e-1920-80.png"
-    },
-    {
-      "title": "Why Ben Affleck And JLo Are (Allegedly) Getting Close More Than A Year After Their Divorce",
-      "link": "https://www.cinemablend.com/movies/why-ben-affleck-jlo-allegedly-getting-close-more-year-after-divorce",
-      "desc": "Bennifer continues to make headlines.",
-      "img": "https://cdn.mos.cms.futurecdn.net/FLMUnHNVwRjtkybsMxpAVE-1920-80.jpg"
     }
   ],
   "tech": [
     {
-      "title": "Intel confirms Nova Lake will use advanced 18A-P node, more details at CES — company says it's taking Panther Lake capacity offline to build more Granite Rapids data center CPUs",
+      "title": "Intel confirms Nova Lake CPUs will use advanced 18A-P node, more details at CES — company says it's taking Panther Lake capacity offline to build more Granite Rapids data center CPUs",
       "link": "https://www.tomshardware.com/pc-components/cpus/intel-confirms-nova-lake-will-use-advanced-18a-p-node-more-details-at-ces-company-says-its-taking-panther-lake-capacity-offline-to-build-more-granite-rapids-data-center-cpus",
       "desc": "Intel's next-gen Nova Lake desktop processors will be the first client product to use Intel's enhanc...",
       "img": "https://cdn.mos.cms.futurecdn.net/AVwPqwXes8nBUKZQeECfZe-1920-80.jpg"
@@ -115,9 +115,21 @@
   ],
   "crypto": [
     {
-      "title": "Binance hack rattles crypto markets as BNB falls 7%, Bitcoin slides",
+      "title": "Binance hack could accelerate shift to DEXs: Standard Chartered",
+      "link": "https://cointelegraph.com/news/binance-hack-could-accelerate-shift-to-dexs-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Standard Chartered’s Geoffrey Kendrick says the breach could accelerate a shift toward decentralized...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M65CZZGFZ3KNMMA8P6JN3YH4/uniswap.jpg"
+    },
+    {
+      "title": "Binance points to engineer’s hacked laptop in $6.3B breach",
+      "link": "https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Binance says attackers may have used a compromised DevOps laptop to access internal infrastructure.",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M6527RDQRJD95JK0XDRPNDD2/key.jpg"
+    },
+    {
+      "title": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K",
       "link": "https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Bitcoin and Ether tumbled as the broader crypto market fell 3.3%, with reports of suspicious multibi...",
+      "desc": "Bitcoin, Ether and the broader crypto market took a dive as Binance suffered a multibillion-dollar h...",
       "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64Y4PTFHTAMEWNV8MMJQWCT/hi-crypto-trading-basics-a-beginners-guide-to-cryptocurrency-order-types1.jpeg"
     },
     {
@@ -127,66 +139,54 @@
       "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64RA36J2CBE1BC6ZENWQDFJ/asia-express-13.jpg"
     },
     {
-      "title": "Live Updates: Binance says $2.54 billion frozen after hack",
+      "title": "Live updates: Binance $6.3B hack linked to North Korea’s TraderTraitor",
       "link": "https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Follow live updates as Binance says $2.54 billion in assets has been frozen after a multibillion-dol...",
+      "desc": "Follow live updates as Binance says $6.3 billion in assets have been stolen in a major hack. Around ...",
       "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64RM2NG4HTR1FTZN6XKT10N/trying-to-open-monitor.jpg"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impac...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
     },
     {
       "title": "Public companies double share of blockchain revenue since 2022: Report",
       "link": "https://cointelegraph.com/news/public-companies-double-share-of-blockchain-revenue-since-2022-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "A new 1kx report finds that public companies are capturing a larger share of blockchain revenue, dri...",
       "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64KJ64YRMXTP1BG2ZXATA10/wallet-crypto-savings-digital-assets.jpg"
-    },
-    {
-      "title": "Polymarket suspended trading amid reports of user funds being drained",
-      "link": "https://cointelegraph.com/news/polymarket-suspends-trading-user-funds-compromised?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The prediction markets platform halted trading on Thursday after it reported one of its third party ...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64FW4X54T1VWYMX6B1PR4H5/hi-you-are-once-again-banning-crypto-content-polymarket-1.jpg"
     }
   ],
   "various": [
     {
-      "title": "Watch: Life and career of iconic actor Sir Patrick Stewart",
-      "link": "https://www.bbc.co.uk/news/videos/c6qxnlxn0n15o?at_medium=RSS&at_campaign=rss",
-      "desc": "In a career that spanned seven decades, Sir Patrick won multiple Emmys and Golden Globes, a star on ...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c0a/live/202db8a0-d3d8-11f1-b441-2b33b063138f.jpg"
+      "title": "Crypto giant Binance hit by 'largest hack in history'",
+      "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+      "desc": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a4c/live/ee32b970-d406-11f1-b5d5-035446124886.jpg"
     },
     {
-      "title": "Burnham says he wants to cut welfare bill 'as soon as we possibly can'",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2w4zy15nwo?at_medium=RSS&at_campaign=rss",
-      "desc": "Opponents have questioned the Budget's lack of detail on welfare reform, with the prime minister not...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80a9/live/4b0bdaa0-d3b7-11f1-a701-fddedf244c16.png"
+      "title": "Australian mushroom murderer loses appeal to overturn convictions",
+      "link": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss",
+      "desc": "Erin Patterson argued her trial was unfair due to seven grounds but three appeal judges dismissed th...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fd0/live/73fed000-d3fa-11f1-ad77-7dc2f7c343f8.jpg"
     },
     {
-      "title": "Young athlete and former minister among victims of Spain train crash",
-      "link": "https://www.bbc.co.uk/news/articles/cr78plp1p9yvo?at_medium=RSS&at_campaign=rss",
-      "desc": "As some of the victims' names are released publicly, an outpouring of grief and anger is sweeping ac...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9c9/live/e9ad7380-d3c6-11f1-867c-77016fb236d7.jpg"
+      "title": "Hyrox athlete who soiled herself in race says she put others at risk",
+      "link": "https://www.bbc.co.uk/news/articles/c6gr8l15k744o?at_medium=RSS&at_campaign=rss",
+      "desc": "In her first interview since the incident, Joanna Wietrzyk told the BBC she takes responsibility for...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a5c/live/1c953ab0-d3fb-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-      "title": "'Continue your journey': Key moments of leaked Spain train crash audio",
-      "link": "https://www.bbc.co.uk/news/videos/c6vgjeg0myzgo?at_medium=RSS&at_campaign=rss",
-      "desc": "Recordings between a control centre and the train drivers appear to show one train was given clearan...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d46f/live/7d9cd370-d3e4-11f1-9caf-3b69fd8bbd8b.jpg"
+      "title": "Democrats have an identity crisis - it won't be an easy fix",
+      "link": "https://www.bbc.co.uk/news/articles/cknv08980d3vo?at_medium=RSS&at_campaign=rss",
+      "desc": "Whatever the result of the midterm elections, the party is facing tough questions over what they sta...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42df/live/bd536810-d3b4-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
+      "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+      "desc": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI searc...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3304/live/1c4d6e00-d3d4-11f1-b441-2b33b063138f.jpg"
     },
     {
       "title": "Bombshell confession in The Traitors as faithfuls finally turn the screw",
       "link": "https://www.bbc.co.uk/news/articles/ckr5y12r081zo?at_medium=RSS&at_campaign=rss",
       "desc": "Could the faithfuls finally come good in Thursday's penultimate episode?",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d961/live/a03e74a0-cf35-11f1-b4af-39e764734ae7.jpg"
-    },
-    {
-      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
-      "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
-      "desc": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/213a/live/ecf64a00-d3d3-11f1-9c32-1532a6164171.jpg"
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b92d/live/69d85f50-d3e7-11f1-8aed-e5579b6f5a98.jpg"
     }
   ]
 }
