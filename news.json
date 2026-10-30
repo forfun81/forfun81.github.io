@@ -1,6 +1,12 @@
 {
   "games": [
     {
+      "title": "Patrick Stewart Dies At 86",
+      "link": "https://www.gamespot.com/articles/patrick-stewart-dies-at-86/",
+      "desc": "Beloved actor Patrick Stewart has died at the age of 86. The veteran of stage and screen was best kn...",
+      "img": "https://www.gamespot.com/wp-content/uploads/2026/10/pat-stew.webp?w=300"
+    },
+    {
       "title": "WoW: Forever Won’t Have Dead Servers",
       "link": "https://www.gamespot.com/articles/wow-forever-wont-have-dead-servers/",
       "desc": "World of Warcraft: Forever will avoid repeating WoW Classic's mistakes and will have tools to preven...",
@@ -29,15 +35,21 @@
       "link": "https://www.gamespot.com/articles/wow-forever-controller-support-is-a-first-step-to-playing-the-mmo-on-whatever-you-want/",
       "desc": "World of Warcraft: Forever will launch with full controller support, a first for the various version...",
       "img": "https://www.gamespot.com/wp-content/uploads/2026/10/WoW-Forever-Playable-Anywhere-You-Want.jpg?w=300"
-    },
-    {
-      "title": "You All Guessed Elder Scrolls 6’s Name, And Now Here’s The Game’s Setup – Report",
-      "link": "https://www.gamespot.com/articles/you-all-guessed-elder-scrolls-6s-name-and-now-heres-the-games-setup-report/",
-      "desc": "After eight years, Xbox is reportedly preparing to reintroduce The Elder Scrolls VI to the world. An...",
-      "img": "https://www.gamespot.com/wp-content/uploads/original/1578/15789366/3838845-03-04-2019-the-elder-scrolls-6-release-date-trailer-setting.jpg?w=300"
     }
   ],
   "movies": [
+    {
+      "title": "It Ends With Us’ Crew Is Part Of A New Documentary, And The Director Shares Their Feelings On Blake Lively And Justin Baldoni",
+      "link": "https://www.cinemablend.com/movies/it-ends-with-us-crew-joins-doc-director-shares-their-feelings-blake-lively-justin-baldoni",
+      "desc": "People have made varied claims about the set.",
+      "img": "https://cdn.mos.cms.futurecdn.net/hGdYuhSp26wQbvhkKrb3Ac-1920-80.jpg"
+    },
+    {
+      "title": "I Wasn’t Expecting Wildwood To Talk About Infertility, But It Was So Moving",
+      "link": "https://www.cinemablend.com/movies/wasnt-expecting-laika-wildwood-infertility-so-moving",
+      "desc": "There's another reason to applaud this film other than its meticulous craft.",
+      "img": "https://cdn.mos.cms.futurecdn.net/UqDXDs9ooLfdZCWEcXh8Po-1920-80.png"
+    },
     {
       "title": "Sir Patrick Stewart, Star Trek And Marvel Legend, Has Died At 86",
       "link": "https://www.cinemablend.com/movies/sir-patrick-stewart-star-trek-marvel-legend-has-died-86",
@@ -61,21 +73,15 @@
       "link": "https://www.cinemablend.com/movies/why-ben-affleck-jlo-allegedly-getting-close-more-year-after-divorce",
       "desc": "Bennifer continues to make headlines.",
       "img": "https://cdn.mos.cms.futurecdn.net/FLMUnHNVwRjtkybsMxpAVE-1920-80.jpg"
-    },
-    {
-      "title": "I Didn’t Think Dune Could Ever Top Its Wild Sandworm Popcorn Bucket...But It Did (And I'm Shook)",
-      "link": "https://www.cinemablend.com/movies/dune-top-wild-sandworm-popcorn-bucket-part-three-shook-thumper",
-      "desc": "Someone call Saturday Night Live.",
-      "img": "https://cdn.mos.cms.futurecdn.net/UxBEpuFo2iGHdb6gf5cKpU-1920-80.jpg"
-    },
-    {
-      "title": "Chris Hemsworth Doesn’t Need To Be Thor Fit Yet, But These Swole Pics Feel Like A Secret Wars Hint",
-      "link": "https://www.cinemablend.com/movies/chris-hemsworth-thor-fit-swole-pics-feel-like-secret-wars-hint",
-      "desc": "Maybe Thor survives Doomsday after all.",
-      "img": "https://cdn.mos.cms.futurecdn.net/NZNTViAJVgvsQULo7ebape-1920-80.jpg"
     }
   ],
   "tech": [
+    {
+      "title": "Intel confirms Nova Lake will use advanced 18A-P node, more details at CES — company says it's taking Panther Lake capacity offline to build more Granite Rapids data center CPUs",
+      "link": "https://www.tomshardware.com/pc-components/cpus/intel-confirms-nova-lake-will-use-advanced-18a-p-node-more-details-at-ces-company-says-its-taking-panther-lake-capacity-offline-to-build-more-granite-rapids-data-center-cpus",
+      "desc": "Intel's next-gen Nova Lake desktop processors will be the first client product to use Intel's enhanc...",
+      "img": "https://cdn.mos.cms.futurecdn.net/AVwPqwXes8nBUKZQeECfZe-1920-80.jpg"
+    },
     {
       "title": "Elon Musk's SpaceX buying out 418 homes near flagship AI data center, but only if they drop participation in lawsuit",
       "link": "https://www.tomshardware.com/tech-industry/data-centers/elon-musks-spacex-buying-out-418-homes-near-flagship-ai-data-center-but-only-if-they-drop-participation-in-lawsuit-report-claims-the-company-is-targeting-an-entire-neighborhood-but-will-only-buy-from-people-who-dont-pursue-noise-pollution-complaints",
@@ -105,15 +111,27 @@
       "link": "https://www.tomshardware.com/desktops/gaming-pcs/hyperx-omen-35l-review",
       "desc": "Premium styling, quiet operation, and impressive performance elevates the HyperX Omen 35L into compe...",
       "img": "https://cdn.mos.cms.futurecdn.net/XPVoS8rcFQYCk6gs5q7QKK-1920-80.jpg"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang may have been the target of a spy plot through 'Chinese intelligence asset,' report claims",
-      "link": "https://www.tomshardware.com/tech-industry/policy/nvidia-ceo-jensen-huang-may-have-been-the-target-of-a-spy-plot-through-chinese-intelligence-asset-report-claims-exec-from-firm-under-investigation-for-smuggling-banned-ai-chips-to-china-accused-of-being-a-spy-was-also-feeding-information-to-beijing",
-      "desc": "Sources say that Alice Huang, a senior executive at an Nvidia cloud partner who has close ties with ...",
-      "img": "https://cdn.mos.cms.futurecdn.net/m9yYaGTygKCKaxm9GgKnKV-1920-80.png"
     }
   ],
   "crypto": [
+    {
+      "title": "Binance hack rattles crypto markets as BNB falls 7%, Bitcoin slides",
+      "link": "https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Bitcoin and Ether tumbled as the broader crypto market fell 3.3%, with reports of suspicious multibi...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64Y4PTFHTAMEWNV8MMJQWCT/hi-crypto-trading-basics-a-beginners-guide-to-cryptocurrency-order-types1.jpeg"
+    },
+    {
+      "title": "Tampered Ledger reported in Singapore a month before news broke: Asia Express",
+      "link": "https://cointelegraph.com/magazine/tampered-ledger-reported-in-singapore-a-month-before-news-broke-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Singapore police say tampered Ledgers started showing up there on September 10. South Korean lawmake...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64RA36J2CBE1BC6ZENWQDFJ/asia-express-13.jpg"
+    },
+    {
+      "title": "Live Updates: Binance says $2.54 billion frozen after hack",
+      "link": "https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Follow live updates as Binance says $2.54 billion in assets has been frozen after a multibillion-dol...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64RM2NG4HTR1FTZN6XKT10N/trying-to-open-monitor.jpg"
+    },
     {
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -131,27 +149,15 @@
       "link": "https://cointelegraph.com/news/polymarket-suspends-trading-user-funds-compromised?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The prediction markets platform halted trading on Thursday after it reported one of its third party ...",
       "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64FW4X54T1VWYMX6B1PR4H5/hi-you-are-once-again-banning-crypto-content-polymarket-1.jpg"
-    },
-    {
-      "title": "HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps",
-      "link": "https://cointelegraph.com/markets/hype-price-all-time-high-ice-us-hyperliquid-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Hyperliquid’s token pumped following news of ICE and Trade[XYZ] unveiling plans for US perpetual fut...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64A2KNXVBJKMFSK75GFQ3JG/hyperliquid-futures-2.jpg"
-    },
-    {
-      "title": "KuCoin suspends services in Russia and Belarus",
-      "link": "https://cointelegraph.com/news/kucoin-services-russia-belarus-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The exchange cited legal and regulatory compliance in its reason for cutting off services to users b...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M6474T6TR1T4C3BDRR2HK11E/hi-crypto-offers-russia-no-way-out-from-western-sanctions-stablecoin.jpg"
-    },
-    {
-      "title": "Nasdaq-listed Canton Strategic Holdings plans tokenized stock trading from Nov. 2",
-      "link": "https://cointelegraph.com/news/canton-strategic-holdings-tokenized-stock-trading-november-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The tokenized shares would carry the same shareholder rights as traditional stock, with round-the-cl...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M6457K716CHTSWR96H4TCRAF/hi-real-estate-blockchain-and-the-quantity-theory-of-money.jpg"
     }
   ],
   "various": [
+    {
+      "title": "Watch: Life and career of iconic actor Sir Patrick Stewart",
+      "link": "https://www.bbc.co.uk/news/videos/c6qxnlxn0n15o?at_medium=RSS&at_campaign=rss",
+      "desc": "In a career that spanned seven decades, Sir Patrick won multiple Emmys and Golden Globes, a star on ...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c0a/live/202db8a0-d3d8-11f1-b441-2b33b063138f.jpg"
+    },
     {
       "title": "Burnham says he wants to cut welfare bill 'as soon as we possibly can'",
       "link": "https://www.bbc.co.uk/news/articles/c6x2w4zy15nwo?at_medium=RSS&at_campaign=rss",
@@ -159,34 +165,28 @@
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80a9/live/4b0bdaa0-d3b7-11f1-a701-fddedf244c16.png"
     },
     {
-      "title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
-      "link": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
-      "desc": "Budget forecasts show growth in living standards grinding almost to a halt.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7565/live/8d520610-d3cf-11f1-b441-2b33b063138f.jpg"
+      "title": "Young athlete and former minister among victims of Spain train crash",
+      "link": "https://www.bbc.co.uk/news/articles/cr78plp1p9yvo?at_medium=RSS&at_campaign=rss",
+      "desc": "As some of the victims' names are released publicly, an outpouring of grief and anger is sweeping ac...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9c9/live/e9ad7380-d3c6-11f1-867c-77016fb236d7.jpg"
     },
     {
-      "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
-      "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
-      "desc": "The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, ev...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3bc/live/1e706fb0-d3c1-11f1-a62f-fd53d503ac8d.jpg"
+      "title": "'Continue your journey': Key moments of leaked Spain train crash audio",
+      "link": "https://www.bbc.co.uk/news/videos/c6vgjeg0myzgo?at_medium=RSS&at_campaign=rss",
+      "desc": "Recordings between a control centre and the train drivers appear to show one train was given clearan...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d46f/live/7d9cd370-d3e4-11f1-9caf-3b69fd8bbd8b.jpg"
     },
     {
-      "title": "Met refers itself to police watchdog over letter about Meghan's father",
-      "link": "https://www.bbc.co.uk/news/articles/ck30e91r9z0jo?at_medium=RSS&at_campaign=rss",
-      "desc": "The police force faces scrutiny over its handling of a letter containing allegations about Meghan's ...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90d2/live/12831950-d3bc-11f1-93e1-3b657b665bcf.png"
+      "title": "Bombshell confession in The Traitors as faithfuls finally turn the screw",
+      "link": "https://www.bbc.co.uk/news/articles/ckr5y12r081zo?at_medium=RSS&at_campaign=rss",
+      "desc": "Could the faithfuls finally come good in Thursday's penultimate episode?",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d961/live/a03e74a0-cf35-11f1-b4af-39e764734ae7.jpg"
     },
     {
-      "title": "Jury shown CCTV of Huntingdon train staff using frying pan in defence",
-      "link": "https://www.bbc.co.uk/news/articles/ckdd8qpdeym4o?at_medium=RSS&at_campaign=rss",
-      "desc": "A train crew member shows \"sheer courage and bravery in seeking to save lives\", a court hears.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d6c/live/9fc56a20-d3c1-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "title": "Hundreds of GP practices lose online services after collapse of tech firm",
-      "link": "https://www.bbc.co.uk/news/articles/cq146562ld3no?at_medium=RSS&at_campaign=rss",
-      "desc": "It will cause huge disruption in some parts of England and Wales, say GP leaders.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5383/live/4030c550-d3b7-11f1-8c27-87a7c72809db.png"
+      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+      "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
+      "desc": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/213a/live/ecf64a00-d3d3-11f1-9c32-1532a6164171.jpg"
     }
   ]
 }
