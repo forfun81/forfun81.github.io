@@ -1,9 +1,15 @@
 {
   "games": [
     {
+      "title": "EA Just Shelved A Mysterious Sims Project—That Could Be Good News For Players",
+      "link": "https://www.gamespot.com/articles/ea-just-shelved-a-mysterious-sims-project-that-could-be-good-news-for-players/",
+      "desc": "It's been another rough year for video games, with countless studio closures, staff layoffs, and pro...",
+      "img": "https://www.gamespot.com/wp-content/uploads/2026/10/GrimReaper.png?w=300"
+    },
+    {
       "title": "CoD: Modern Warfare To Cut Real-Life Korean Tragedy Segment After Backlash",
       "link": "https://www.gamespot.com/articles/cod-modern-warfare-to-cut-real-life-korean-tragedy-segment-after-backlash/",
-      "desc": "Publisher Activision has responded to the criticism developer Infinity Ward received over using a de...",
+      "desc": "Publisher Activision has responded to criticism over using a devastating tragedy in Call of Duty: Mo...",
       "img": "https://www.gamespot.com/wp-content/uploads/2026/10/codmw4-image.jpg?w=300"
     },
     {
@@ -29,15 +35,33 @@
       "link": "https://www.gamespot.com/articles/gta-6-attention-to-detail-is-getting-a-little-ridiculous/",
       "desc": "Only a few more weeks remain before Grand Theft Auto 6 launches on PS5 and Xbox Series X|S, and whil...",
       "img": "https://www.gamespot.com/wp-content/uploads/2026/08/gta-6-dude-chilling.jpg?w=300"
-    },
-    {
-      "title": "Don’t Expect Destiny 3 At The Game Awards, Bungie Says",
-      "link": "https://www.gamespot.com/articles/dont-expect-destiny-3-at-the-game-awards-bungie-says/",
-      "desc": "Destiny's future lies in its past, as Bungie is working to bring content from the infamous Destiny v...",
-      "img": "https://www.gamespot.com/wp-content/uploads/2026/06/Destiny-2-TFS.jpg?w=300"
     }
   ],
   "movies": [
+    {
+      "title": "The Scene In You Can See Everything That Showed EVERYTHING Might NOT Have Been Billy Evans' Idea",
+      "link": "https://www.cinemablend.com/movies/scene-you-can-see-everything-that-showed-everything-might-not-have-been-billy-evans-idea",
+      "desc": "Just who wanted the full-frontal?",
+      "img": "https://cdn.mos.cms.futurecdn.net/ohAHEcNDkXunhAH3iSwdyV-1920-80.jpg"
+    },
+    {
+      "title": "Sunrise On The Reaping First Reactions Are Here. As A Book Reader I'm So Hyped One Performance Is The Standout",
+      "link": "https://www.cinemablend.com/movies/sunrise-on-the-reaping-first-reactions-hunger-games-book-reader-standout-performance-joseph-zada",
+      "desc": "This is Hunger Games victor I was hoping for.",
+      "img": "https://cdn.mos.cms.futurecdn.net/nvh2SbW4Xi97mcHdsnEBWV-1920-80.png"
+    },
+    {
+      "title": "Digger Has A Major Plot Twist That's Divided Audiences. I Had To Know How The Cast Feels",
+      "link": "https://www.cinemablend.com/movies/digger-major-plot-twist-divided-audiences-how-riz-ahmed-feels",
+      "desc": "This was a well-kept Hollywood secret.",
+      "img": "https://cdn.mos.cms.futurecdn.net/4ZvAkAwX2Nu4okPtKYH896-1920-80.jpg"
+    },
+    {
+      "title": "I Can't Get Over Dune 3's Popcorn Bucket Having Two Holes (And Neither Can Timothèe Chalamet)",
+      "link": "https://www.cinemablend.com/movies/dune-3-popcorn-bucket-two-holes-timothee-chalamet-response",
+      "desc": "The popcorn bucket is back with a twist.",
+      "img": "https://cdn.mos.cms.futurecdn.net/CiiTA72Y4FPQqaXR9QDSY8-1920-80.jpg"
+    },
     {
       "title": "The Internet Has Wild Thoughts On Wicker Being Screened In 4DX, And I Can’t Get Enough",
       "link": "https://www.cinemablend.com/movies/internet-wild-thoughts-wicker-4dx",
@@ -49,33 +73,27 @@
       "link": "https://www.cinemablend.com/movies/james-gunn-clarified-batman-joker-in-dcu-ive-got-question",
       "desc": "Gunn did a whole podcast about what's canon in the DCU.",
       "img": "https://cdn.mos.cms.futurecdn.net/MCUeG2NKZ5UgFZZ8KBh2Ga-1920-80.jpg"
-    },
-    {
-      "title": "Yeah, Awkwafina Has Clocked How Many Birds She's Played In Movies Lately",
-      "link": "https://www.cinemablend.com/movies/awkwafina-clocked-how-many-birds-shes-played-movies-lately-wildwood-interview",
-      "desc": "She's done enough squawking.",
-      "img": "https://cdn.mos.cms.futurecdn.net/K7HtVhvGqmWPXQhfTPrQ9e-1920-80.png"
-    },
-    {
-      "title": "It Ends With Us’ Crew Is Part Of A New Documentary, And The Director Shares Their Feelings On Blake Lively And Justin Baldoni",
-      "link": "https://www.cinemablend.com/movies/it-ends-with-us-crew-joins-doc-director-shares-their-feelings-blake-lively-justin-baldoni",
-      "desc": "People have made varied claims about the set.",
-      "img": "https://cdn.mos.cms.futurecdn.net/hGdYuhSp26wQbvhkKrb3Ac-1920-80.jpg"
-    },
-    {
-      "title": "I Wasn’t Expecting Wildwood To Talk About Infertility, But It Was So Moving",
-      "link": "https://www.cinemablend.com/movies/wasnt-expecting-laika-wildwood-infertility-so-moving",
-      "desc": "There's another reason to applaud this film other than its meticulous craft.",
-      "img": "https://cdn.mos.cms.futurecdn.net/UqDXDs9ooLfdZCWEcXh8Po-1920-80.png"
-    },
-    {
-      "title": "Sir Patrick Stewart, Star Trek And Marvel Legend, Has Died At 86",
-      "link": "https://www.cinemablend.com/movies/sir-patrick-stewart-star-trek-marvel-legend-has-died-86",
-      "desc": "His family has issued a statement about his passing.",
-      "img": "https://cdn.mos.cms.futurecdn.net/z96rxfzPeqagzuBDw6QmmA-1920-80.jpg"
     }
   ],
   "tech": [
+    {
+      "title": "Nvidia store quietly pulls the RTX 5080 following RTX 5090 removal — street prices climb to 2.2X MSRP",
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-store-quietly-pulls-the-rtx-5080-following-rtx-5090-removal-street-prices-climb-to-2-2x-over-msrp",
+      "desc": "First the RTX 5090, now the RTX 5080. Nvidia quietly removes the RTX 5080 listing from the marketpla...",
+      "img": "https://cdn.mos.cms.futurecdn.net/wBRx7KSSQTRptohLwufHcn-1920-80.jpg"
+    },
+    {
+      "title": "Intel’s woes wipe out $1 trillion of semiconductor market cap in one day — PC market bloodbath leaves few chip stocks unscathed",
+      "link": "https://www.tomshardware.com/pc-components/cpus/intels-woes-wipe-out-usd1-trillion-of-semiconductor-market-cap-in-one-day-pc-market-bloodbath-leaves-few-chip-stocks-unscathed",
+      "desc": "Intel's gloomy outlook for its PC business wipes out $1 trillion of semiconductor market capitalizat...",
+      "img": "https://cdn.mos.cms.futurecdn.net/KiJGR8WJv72p6G8Qcysneb-1920-80.jpg"
+    },
+    {
+      "title": "Celebrate Warhammer Day on the 31st of October with these 20 Warhammer 40K-themed products — the best Space Marine gear this side of the Warp",
+      "link": "https://www.tomshardware.com/gift-guides-seasonal-sales/celebrate-warhammer-day-on-the-31st-of-october-with-these-20-warhammer-40k-themed-products-the-best-space-marine-gear-this-side-of-the-warp",
+      "desc": "Warhammer Day is celebrated on October 31st 2026, 2026. Check out these great gift ideas for all fan...",
+      "img": "https://cdn.mos.cms.futurecdn.net/t6dCXLDYnmivLFrDD8g3xH-1920-80.jpg"
+    },
     {
       "title": "OpenAI CEO says it's 'quite terrible' for your PC to have RAM — Sam Altman says data centers offer better utilization",
       "link": "https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization",
@@ -93,27 +111,27 @@
       "link": "https://www.tomshardware.com/monitors/gaming-monitors/tcl-27c2a-pro-27-inch-qd-mini-led-4k-gaming-monitor-review",
       "desc": "TCL’s 27C2A Pro is a super-bright 27-inch 4K Mini LED gaming monitor with full-array local dimming (...",
       "img": "https://cdn.mos.cms.futurecdn.net/sdFKmbWhS5tharLVgd8LLf-1920-80.jpg"
-    },
-    {
-      "title": "Intelligence agency misplaced 'a very significant number' of removable drives",
-      "link": "https://www.tomshardware.com/pc-components/usb-flash-drives/intelligence-agency-misplaced-a-very-significant-number-of-removable-drives-storage-media-have-been-missing-for-years-but-exact-number-of-lost-devices-remain-unknown",
-      "desc": "An investigation revealed that thousands of drives have been lost, with officials having no idea whe...",
-      "img": "https://cdn.mos.cms.futurecdn.net/UCPr3fhbGdoAgAVLTweBy8-1920-80.png"
-    },
-    {
-      "title": "A primer on key AI LLM concepts — KV cache, weights, quantization, and how inference actually works",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/a-primer-on-key-ai-llm-concepts-kv-cache-weights-quantization-and-how-inference-actually-works",
-      "desc": "How do AI models work? This primer explains crucial concepts to understand how LLMs work, with defin...",
-      "img": "https://cdn.mos.cms.futurecdn.net/JZdkASst9T7wFXBxoSdoqB-1920-80.jpg"
-    },
-    {
-      "title": "This is your chance to secure an entire entry-level ABS gaming PC for only $849",
-      "link": "https://www.tomshardware.com/desktops/gaming-pcs/this-is-your-chance-to-secure-an-entire-entry-level-abs-gaming-pc-for-only-usd849-amazing-walmart-deal-sets-you-up-with-an-rtx-5060-graphics-card-and-shaves-usd350-off-the-list-price",
-      "desc": "An affordable desktop gaming PC with an RTX 5060 GPU inside for under $850.",
-      "img": "https://cdn.mos.cms.futurecdn.net/465jwErV2yBFmgYgxpyYYG-1920-80.jpg"
     }
   ],
   "crypto": [
+    {
+      "title": "Tether’s excess reserves nearly double to $8B as Q3 profit hits $1.5B",
+      "link": "https://cointelegraph.com/news/tethers-excess-reserves-nearly-double-to-8b-as-q3-profit-hits-15b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The stablecoin issuer’s US Treasury holdings are comparable to those of major foreign holders, while...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M671D68XPHRMK1R429A6YV2Q/analytics3-tether.jpg"
+    },
+    {
+      "title": "Coinbase leads crypto stock selloff following $6.3B Binance hack",
+      "link": "https://cointelegraph.com/markets/coinbase-leads-crypto-stock-selloff-shares-tumble?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Circle, Strategy and other crypto-linked stocks fell sharply Friday, a day after Binance disclosed a...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66WKPS8FDGYTHCJZHC1FP3Y/hi-why-bitcoin-treasury-stocks-fall-faster-than-the-assets-they-hold.png"
+    },
+    {
+      "title": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem",
+      "link": "https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Bitcoin faces mounting quantum security concerns as Ripple secures a US banking charter, USDC gains ...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66WK9FWJATF4KMADN8DRH10/hi-will-googles-quantum-supremacy-break-bitcoin-in-2022.jpg"
+    },
     {
       "title": "Recap: How Binance’s record $6.3B hack unfolded",
       "link": "https://cointelegraph.com/news/recap-binances-record-63b-hack-unfolded?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -131,24 +149,6 @@
       "link": "https://cointelegraph.com/markets/bitcoin-risks-worst-october-in-12-years-as-tech-sell-off-spreads-to-gold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Bitcoin circled $77,000 as crypto markets navigated US stock-market downside, while the gold price f...",
       "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66RSMA8MM7W9WSFC6PFHK6S/hi-bull-market-vs-bear-market-whats-the-difference.jpg"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impac...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
-    },
-    {
-      "title": "Will gold’s ‘infinite mint bug’ make Bitcoin more valuable?",
-      "link": "https://cointelegraph.com/magazine/will-golds-infinite-mint-bug-make-bitcoin-more-valuable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "A US fusion startup says it has turned mercury into gold. Could a potential increase in the gold sup...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M63WZ15V7ZF12NWAD2K229V7/hi-magazine-unexpected-crypto-millionaires.png"
-    },
-    {
-      "title": "Binance working with FBI to recover assets following $6.3B hack",
-      "link": "https://cointelegraph.com/news/binance-fbi-recover-assets-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Binance is working with law enforcement to recover $3 billion that is frozen, after setting aside mo...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66DY7634YFAY00EZKKKTQV0/hi-crypto-crime-investigation-regulation-police-cybercrime-criminal-detective-token.jpg"
     }
   ],
   "various": [
@@ -156,7 +156,7 @@
       "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
       "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
       "desc": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its ...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a084/live/e6590860-d476-11f1-9dda-1ba6fcc7d159.jpg"
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61df/live/2d4de870-d487-11f1-b441-2b33b063138f.jpg"
     },
     {
       "title": "What we know about Binance's $6.3bn hack",
@@ -165,22 +165,22 @@
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ae1/live/ab354520-d460-11f1-b441-2b33b063138f.jpg"
     },
     {
+      "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+      "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+      "desc": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21db/live/aec4b500-d482-11f1-a701-fddedf244c16.jpg"
+    },
+    {
       "title": "Driver guilty of hitting cyclist and dragging him to death under car",
       "link": "https://www.bbc.co.uk/news/articles/c6e3xg5we9eyo?at_medium=RSS&at_campaign=rss",
       "desc": "Simon Richardson is convicted of murdering head teacher Michael Mullins and will be sentenced on Mon...",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e863/live/ff67cc80-d479-11f1-b441-2b33b063138f.png"
     },
     {
-      "title": "Ceasefire allows evacuation from devastated Russian-occupied Oleshky",
-      "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
-      "desc": "But several hundred people are understood to have decided to stay in the frontline town, despite the...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21db/live/aec4b500-d482-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "title": "Police Scotland carrying out 'active inquiries' into Andrew and Epstein Balmoral visits",
-      "link": "https://www.bbc.co.uk/news/articles/cqglwp088532o?at_medium=RSS&at_campaign=rss",
-      "desc": "The force said it had received information and stressed its inquiries were at \"an early stage\".",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/107f/live/fce8fef0-d47b-11f1-80bc-6d398902272f.jpg"
+      "title": "Police deployed during stand-off over control of Poland's top court",
+      "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+      "desc": "It comes after the government suspended two senior justices and moved to bring criminal charges agai...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6c2/live/46cc2780-d49b-11f1-a701-fddedf244c16.jpg"
     },
     {
       "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
