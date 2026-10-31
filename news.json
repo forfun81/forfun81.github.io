@@ -39,6 +39,24 @@
   ],
   "movies": [
     {
+      "title": "Folks Said Gabrielle Union Wouldn’t Look The Same At 54 As She Did In Bring It On. Wanna ‘Bet’?",
+      "link": "https://www.cinemablend.com/movies/gabrielle-union-wouldnt-look-the-same-54bring-it-on-wanna-bet",
+      "desc": "I wouldn't 'bet' against her.",
+      "img": "https://cdn.mos.cms.futurecdn.net/zEwCPyzExKqiLfRfpkWmA-1920-80.jpg"
+    },
+    {
+      "title": "I Didn't Expect An Animated Movie To Be One Of The Scariest Films I've Seen In 2026 (So Far)",
+      "link": "https://www.cinemablend.com/movies/expect-animated-movie-one-scariest-films-2026-so-far-wildwood",
+      "desc": "Move over Obsession and Backrooms...",
+      "img": "https://cdn.mos.cms.futurecdn.net/p8uwSEdv3Ub7WFYeSrEyE9-1920-80.jpg"
+    },
+    {
+      "title": "A Ghost Rider Writer Has Advice For Ryan Gosling’s MCU Reboot, And I Hope Shawn Levy Is Listening",
+      "link": "https://www.cinemablend.com/movies/ghost-rider-writer-benjamin-percy-advice-ryan-gosling-mcu-reboot-shawn-levy",
+      "desc": "This would be fire.",
+      "img": "https://cdn.mos.cms.futurecdn.net/e24SWWMMLspYEXcsh5qDFn-1920-80.png"
+    },
+    {
       "title": "The Scene In You Can See Everything That Showed EVERYTHING Might NOT Have Been Billy Evans' Idea",
       "link": "https://www.cinemablend.com/movies/scene-you-can-see-everything-that-showed-everything-might-not-have-been-billy-evans-idea",
       "desc": "Just who wanted the full-frontal?",
@@ -55,47 +73,29 @@
       "link": "https://www.cinemablend.com/movies/digger-major-plot-twist-divided-audiences-how-riz-ahmed-feels",
       "desc": "This was a well-kept Hollywood secret.",
       "img": "https://cdn.mos.cms.futurecdn.net/4ZvAkAwX2Nu4okPtKYH896-1920-80.jpg"
-    },
-    {
-      "title": "I Can't Get Over Dune 3's Popcorn Bucket Having Two Holes (And Neither Can Timothèe Chalamet)",
-      "link": "https://www.cinemablend.com/movies/dune-3-popcorn-bucket-two-holes-timothee-chalamet-response",
-      "desc": "The popcorn bucket is back with a twist.",
-      "img": "https://cdn.mos.cms.futurecdn.net/CiiTA72Y4FPQqaXR9QDSY8-1920-80.jpg"
-    },
-    {
-      "title": "The Internet Has Wild Thoughts On Wicker Being Screened In 4DX, And I Can’t Get Enough",
-      "link": "https://www.cinemablend.com/movies/internet-wild-thoughts-wicker-4dx",
-      "desc": "The theater was rocking (literally).",
-      "img": "https://cdn.mos.cms.futurecdn.net/nLYN92uXiJrKCkDHHdQVJS-1920-80.jpg"
-    },
-    {
-      "title": "After James Gunn Clarified The State Of Batman And Joker In The DCU, I've Got A Question",
-      "link": "https://www.cinemablend.com/movies/james-gunn-clarified-batman-joker-in-dcu-ive-got-question",
-      "desc": "Gunn did a whole podcast about what's canon in the DCU.",
-      "img": "https://cdn.mos.cms.futurecdn.net/MCUeG2NKZ5UgFZZ8KBh2Ga-1920-80.jpg"
     }
   ],
   "tech": [
     {
-      "title": "Nvidia store quietly pulls the RTX 5080 following RTX 5090 removal — street prices climb to 2.2X MSRP",
+      "title": "Nvidia store quietly pulls the RTX 5080 following RTX 5090 removal",
       "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-store-quietly-pulls-the-rtx-5080-following-rtx-5090-removal-street-prices-climb-to-2-2x-over-msrp",
       "desc": "First the RTX 5090, now the RTX 5080. Nvidia quietly removes the RTX 5080 listing from the marketpla...",
       "img": "https://cdn.mos.cms.futurecdn.net/wBRx7KSSQTRptohLwufHcn-1920-80.jpg"
     },
     {
-      "title": "Intel’s woes wipe out $1 trillion of semiconductor market cap in one day — PC market bloodbath leaves few chip stocks unscathed",
+      "title": "Intel’s woes wipe out $1 trillion of semiconductor market cap in one day",
       "link": "https://www.tomshardware.com/pc-components/cpus/intels-woes-wipe-out-usd1-trillion-of-semiconductor-market-cap-in-one-day-pc-market-bloodbath-leaves-few-chip-stocks-unscathed",
       "desc": "Intel's gloomy outlook for its PC business wipes out $1 trillion of semiconductor market capitalizat...",
       "img": "https://cdn.mos.cms.futurecdn.net/KiJGR8WJv72p6G8Qcysneb-1920-80.jpg"
     },
     {
-      "title": "Celebrate Warhammer Day on the 31st of October with these 20 Warhammer 40K-themed products — the best Space Marine gear this side of the Warp",
+      "title": "Celebrate Warhammer Day on the 31st of October with these 20 Warhammer 40K-themed products",
       "link": "https://www.tomshardware.com/gift-guides-seasonal-sales/celebrate-warhammer-day-on-the-31st-of-october-with-these-20-warhammer-40k-themed-products-the-best-space-marine-gear-this-side-of-the-warp",
       "desc": "Warhammer Day is celebrated on October 31st 2026, 2026. Check out these great gift ideas for all fan...",
       "img": "https://cdn.mos.cms.futurecdn.net/t6dCXLDYnmivLFrDD8g3xH-1920-80.jpg"
     },
     {
-      "title": "OpenAI CEO says it's 'quite terrible' for your PC to have RAM — Sam Altman says data centers offer better utilization",
+      "title": "OpenAI CEO says it's 'quite terrible' for your PC to have RAM",
       "link": "https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization",
       "desc": "OpenAI CEO Sam Altman said in a podcast interview that \"it's quite terrible\" for people to have RAM ...",
       "img": "https://cdn.mos.cms.futurecdn.net/Dsf9PuWymXVCr7nc5FwWtZ-1920-80.jpg"
@@ -114,6 +114,12 @@
     }
   ],
   "crypto": [
+    {
+      "title": "Binance hackers raced to move billions before it could be frozen",
+      "link": "https://cointelegraph.com/magazine/binance-hackers-raced-to-move-billions-before-could-be-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Attackers raced to convert stolen stablecoins into crypto that issuers could not freeze as industry ...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66R86X5ZSP95YYCM3AYG2MN/hi-north-korean-hack-crime-dragon.jpg"
+    },
     {
       "title": "Tether’s excess reserves nearly double to $8B as Q3 profit hits $1.5B",
       "link": "https://cointelegraph.com/news/tethers-excess-reserves-nearly-double-to-8b-as-q3-profit-hits-15b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -143,15 +149,15 @@
       "link": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "How Binance’s $6.3 billion hack unfolded, from the first onchain alerts to $3 billion in frozen fund...",
       "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M65VKEHPWZPADDH0AZM1CR3Q/trying-to-open-monitor-1.jpg"
-    },
-    {
-      "title": "Bitcoin risks worst October in 12 years as tech sell-off spreads to gold",
-      "link": "https://cointelegraph.com/markets/bitcoin-risks-worst-october-in-12-years-as-tech-sell-off-spreads-to-gold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Bitcoin circled $77,000 as crypto markets navigated US stock-market downside, while the gold price f...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66RSMA8MM7W9WSFC6PFHK6S/hi-bull-market-vs-bear-market-whats-the-difference.jpg"
     }
   ],
   "various": [
+    {
+      "title": "US approves sale of 500 Patriot missiles to Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+      "desc": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea75/live/f93e2820-d4b7-11f1-a701-fddedf244c16.jpg"
+    },
     {
       "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
       "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
@@ -165,28 +171,22 @@
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ae1/live/ab354520-d460-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
-      "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
-      "desc": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21db/live/aec4b500-d482-11f1-a701-fddedf244c16.jpg"
+      "title": "Celebrity Traitors comes to a climax in nail-biting final",
+      "link": "https://www.bbc.co.uk/news/articles/cw4g17z11l45o?at_medium=RSS&at_campaign=rss",
+      "desc": "The second series of the hit series reached its climax on Friday after attracting 15 million viewers...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b017/live/6daf0760-d477-11f1-9dda-1ba6fcc7d159.jpg"
+    },
+    {
+      "title": "Police deployed during stand-off over control of top Poland court",
+      "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+      "desc": "The escalation came after the government suspended two senior justices and moved to bring criminal c...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6c2/live/46cc2780-d49b-11f1-a701-fddedf244c16.jpg"
     },
     {
       "title": "Driver guilty of hitting cyclist and dragging him to death under car",
       "link": "https://www.bbc.co.uk/news/articles/c6e3xg5we9eyo?at_medium=RSS&at_campaign=rss",
       "desc": "Simon Richardson is convicted of murdering head teacher Michael Mullins and will be sentenced on Mon...",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e863/live/ff67cc80-d479-11f1-b441-2b33b063138f.png"
-    },
-    {
-      "title": "Police deployed during stand-off over control of Poland's top court",
-      "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
-      "desc": "It comes after the government suspended two senior justices and moved to bring criminal charges agai...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6c2/live/46cc2780-d49b-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
-      "link": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
-      "desc": "It is Pike's first public statement since she survived an execution attempt by lethal injection in S...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e426/live/e9bb03a0-d46c-11f1-93e1-3b657b665bcf.jpg"
     }
   ]
 }
