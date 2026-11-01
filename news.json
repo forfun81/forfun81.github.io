@@ -39,6 +39,24 @@
   ],
   "movies": [
     {
+      "title": "I Can’t Believe The Savage Response Jennifer Lawrence’s Mother Had To Her Performance In The Hunger Games",
+      "link": "https://www.cinemablend.com/movies/jennifer-lawrence-mother-savage-response-hunger-games-performance",
+      "desc": "Needless to say, everyone’s a critic!",
+      "img": "https://cdn.mos.cms.futurecdn.net/yNTdkhqiNUoYWhtgMdUyXa-1920-80.jpg"
+    },
+    {
+      "title": "Alexander Skarsgård’s Take On Shooting Sex Scenes For Wicker Sounds Rough",
+      "link": "https://www.cinemablend.com/movies/alexander-skarsgards-shooting-sex-scenes-wicker-rough",
+      "desc": "In a way, he's “wearing a basket.\"",
+      "img": "https://cdn.mos.cms.futurecdn.net/DJ6iXgVBxTxswysknMC6Kf-1920-80.jpg"
+    },
+    {
+      "title": "I Made My Gen Z Friend Watch Scream For The First Time, And His Reactions Killed Me",
+      "link": "https://www.cinemablend.com/movies/made-gen-z-friend-watch-scream-first-time-reactions-killed-me",
+      "desc": "Scream is my favorite horror movie of all time.",
+      "img": "https://cdn.mos.cms.futurecdn.net/p7mJi4qnkZHJB9WtwQMZSR-1920-80.jpg"
+    },
+    {
       "title": "Alden Ehrenreich Admitted To A Big Spider-Man Audition Flame Out: ‘Woefully Unprepared’",
       "link": "https://www.cinemablend.com/movies/alden-ehrenreich-admitted-big-spider-man-audition-flame-out",
       "desc": "Wait, Han Solo could have been Spider-Man?",
@@ -55,65 +73,59 @@
       "link": "https://www.cinemablend.com/movies/obsession-inde-navarrette-take-how-twilight-helpful-whirlwind-year",
       "desc": "She loves Twilight so, so, so, so, so much.",
       "img": "https://cdn.mos.cms.futurecdn.net/revrjwRrvNY2bwAhDaKvsG-1920-80.png"
-    },
-    {
-      "title": "I Just Found Out There's A Bunch Of Coraline Easter Eggs In Wildwood, So I Did A Deep Dive",
-      "link": "https://www.cinemablend.com/movies/found-bunch-coraline-easter-eggs-laika-wildwood-deep-dive",
-      "desc": "Did you notice any of these?",
-      "img": "https://cdn.mos.cms.futurecdn.net/GyKW2qF4fwoR98CymT7srM-1920-80.png"
-    },
-    {
-      "title": "I Had No Idea Seth Rogen’s The Interview Brouhaha Caused A Major Setback For Martin Scorsese",
-      "link": "https://www.cinemablend.com/movies/seth-rogen-the-interview-brouhaha-caused-setback-martin-scorsese-cleopatra",
-      "desc": "A crazy unfortunate Domino Effect.",
-      "img": "https://cdn.mos.cms.futurecdn.net/EEEqXvUbfnUWxtcpxL9GGJ-1920-80.jpg"
-    },
-    {
-      "title": "Go Ahead And Let Down Your Hair, Because Tangled Live Action Has Wrapped!",
-      "link": "https://www.cinemablend.com/movies/let-down-hair-tangled-disney-live-action-wrapped-milo-manheim-kathryn-hahn",
-      "desc": "The best news ever!",
-      "img": "https://cdn.mos.cms.futurecdn.net/wCGSr6TW2SaJ9n2GdimYEc-1920-80.png"
     }
   ],
   "tech": [
     {
-      "title": "College student unofficially breaks world record for fastest jet-powered drone with 491 mph aircraft built in his dorm — Reaper aims to grab the $800,000 Boom Prize",
-      "link": "https://www.tomshardware.com/tech-industry/drones/college-student-unofficially-breaks-world-record-for-fastest-jet-powered-drone-with-491-mph-aircraft-built-in-his-dorm-reaper-aims-to-grab-the-usd800-000-boom-prize",
-      "desc": "An undergraduate student from Georgia Tech is trying his hand at an $800k prize for the fastest jet-...",
-      "img": "https://cdn.mos.cms.futurecdn.net/UQC6eZ62JYDJPkHmTgxcRG-1920-80.jpg"
+      "title": "Walmart honors massive shelf price mistake, lucky buyer gets two $2,299 CyberPowerPC gaming rigs for $1,099 each",
+      "link": "https://www.tomshardware.com/desktops/gaming-pcs/lucky-pc-buyer-gets-usd1-200-discount-on-9900x3d-gaming-pc-walmart-honors-usd1-099-shelf-price-on-usd2-299-unit",
+      "desc": "Redditor gets a gaming PC at more than 50% off in a physical Walmart retail store.",
+      "img": "https://cdn.mos.cms.futurecdn.net/ppjCSvvoKjjF8kkB4DZLL3-1920-80.png"
     },
     {
-      "title": "Grab the award-winning Bambu Lab P1S 3D printer with AMS for $70 off",
-      "link": "https://www.tomshardware.com/pc-components/grab-the-award-winning-bambu-lab-p1s-3d-printer-with-ams-for-usd70-off-save-usd70-on-one-of-the-best-3d-printers-for-beginners",
-      "desc": "The Bambu Lab P1S earned our Editor's Choice recognition in testing, and this discounted bundle give...",
-      "img": "https://cdn.mos.cms.futurecdn.net/Bp6R74i9bMpwWMUnXYizEX-1920-80.jpg"
+      "title": "Brazilian lawyers busted for attempting to manipulate court's AI with prompt injection hidden in filing",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/brazilian-lawyers-busted-for-attempting-to-manipulate-courts-ai-with-prompt-injection-hidden-in-filing-courts-ai-flags-hidden-text-that-demanded-superficial-legal-scrutiny-lawyers-fined-usd16-000",
+      "desc": "The lawyers of a plaintiff in a labor case attempted to use prompt injection to influence the court'...",
+      "img": "https://cdn.mos.cms.futurecdn.net/L2TSrQuGFDhmVGdBfr2ytV-1920-80.jpg"
     },
     {
-      "title": "French lawmakers approve $11.2 billion internet tax based on traffic usage, costs $0.06 per gigabyte of content accessed",
-      "link": "https://www.tomshardware.com/software/social-media/french-lawmakers-approve-usd11-2-billion-internet-tax-based-on-traffic-usage-costs-usd0-65-per-gigabyte-of-content-accessed-us-tech-giants-like-google-and-meta-face-new-levies-on-content-delivered-to-french-subscribers",
-      "desc": "French lawmakers have approved an amendment proposing a €0.055-per-gigabyte tax on digital content d...",
-      "img": "https://cdn.mos.cms.futurecdn.net/yeBt29Vm4TfTVMxZ3A5m6b-1920-80.jpg"
+      "title": "Biwin M560 2TB SSD Review: The DRAM-less drive to beat",
+      "link": "https://www.tomshardware.com/pc-components/ssds/biwin-m560-2tb-ssd-review",
+      "desc": "The Biwin M560 brings SMI’s SM2504XT to retail with top-tier responsiveness and excellent efficiency...",
+      "img": "https://cdn.mos.cms.futurecdn.net/9739tEjY7imERJsLeBjqZG-1920-80.jpg"
     },
     {
-      "title": "'Ghost Students' using AI to apply for student loans with stolen identities, DOJ's Operation Ghostbusters busts $200 million ring",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/ghost-students-using-ai-to-apply-for-student-loans-with-stolen-identities-dojs-operation-ghostbusters-busts-usd200-million-ring-faking-online-college-attendance-unsuspecting-victims-saddled-with-student-debt-they-didnt-sign-up-for",
-      "desc": "Fraudsters are using the identities of high school graduates who skipped college to apply for studen...",
-      "img": "https://cdn.mos.cms.futurecdn.net/3QDubn6i56tX4gPckKhuJd-1920-80.png"
+      "title": "Anycubic and Thingiverse announce exclusive 3D printing partnership",
+      "link": "https://www.tomshardware.com/3d-printing/anycubic-and-thingiverse-announce-exclusive-3d-printing-partnership-makeronline-platform-to-offer-1-click-multicolor-3mf-models",
+      "desc": "Thingiverse partners with Anycubic to bring models directly to 3D printers.",
+      "img": "https://cdn.mos.cms.futurecdn.net/GQ5rY3W6jXYkFxs2idTMe-1920-80.png"
     },
     {
-      "title": "Grab a new 3D printer this Halloween weekend, with prices as low as $199",
-      "link": "https://www.tomshardware.com/3d-printing/grab-a-new-3d-printer-this-halloween-weekend-with-prices-as-low-as-usd199-big-discounts-from-elegoo-creality-prusa-and-more-with-filament-and-resin-printers-and-consumables-on-sale",
-      "desc": "Pick up a bargain 3D printer, thanks to these big discounts on resin and filament 3DP models from bi...",
-      "img": "https://cdn.mos.cms.futurecdn.net/7Wgw6aVWKwYgYCZwpuwgSX-1920-80.png"
+      "title": "Bambu Lab's Black Friday sale cuts up to $300 on the flagship H2C printer and more",
+      "link": "https://www.tomshardware.com/3d-printing/bambu-labs-black-friday-sale-cuts-up-to-usd300-on-the-flagship-h2c-printer-and-more-deep-cuts-across-companys-3d-printer-and-filament-lineup",
+      "desc": "Strike an early bargain in Bambu Lab's Black Friday sale. Running until December 1st, save up to $30...",
+      "img": "https://cdn.mos.cms.futurecdn.net/QHHDyeWtfDyw3bJGSHEJnC-1920-80.jpg"
     },
     {
-      "title": "ASRock B860 Challenger Wifi Motherboard Review: Entry-level ATX at a great price, with drawbacks",
-      "link": "https://www.tomshardware.com/pc-components/motherboards/asrock-b860-challenger-wifi-motherboard-review",
-      "desc": "ASRock’s B860 Challenger Wifi covers the basics and performs well, but slower USB ports, weaker VRMs...",
-      "img": "https://cdn.mos.cms.futurecdn.net/43oKFeBWfyK9Abz4tXDYmN-1920-80.jpg"
+      "title": "Sam Altman meets with Samsung leadership to secure more RAM for data centers amid crushing shortages",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/sam-altman-travels-to-south-korea-to-meet-samsung-leadership-to-secure-more-ram-for-data-centers-amid-crushing-shortages-openai-ceo-meets-samsung-leadership-to-discuss-future-ai-data-centers",
+      "desc": "OpenAI CEO Sam Altman met with around 50 Samsung executives in South Korea on October 31 to discuss ...",
+      "img": "https://cdn.mos.cms.futurecdn.net/rw7Lei27qRFKGy9CThFftZ-1920-80.jpg"
     }
   ],
   "crypto": [
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impac...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
+    },
+    {
+      "title": "DeepSeek developing AI agent requiring less human input: Report",
+      "link": "https://cointelegraph.com/news/deepseek-developing-ai-agent-requiring-less-human-input-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The proposal comes amid intense competition among AI developers, including US companies Anthropic an...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6BNBCY09X57GCM10X7FBK0P/make-ai-great1-1.jpg"
+    },
     {
       "title": "Binance says phase one of withdrawals opens after $6.3B hack",
       "link": "https://cointelegraph.com/news/binance-says-phase-one-of-withdrawals-opens-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -137,26 +149,14 @@
       "link": "https://cointelegraph.com/markets/bitcoin-binance-hack-strive-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Strive CEO Matt Cole says the Binance hack has not changed his long-term case for Bitcoin, but cauti...",
       "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M6784E305ZRSTBDYV0WKG4RR/hi-true-or-false-91-of-surveys-about-bitcoin-and-crypto-are-totally-wrong.png"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impac...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
-    },
-    {
-      "title": "Bitcoin turns 18: Has the original rebel grown up?",
-      "link": "https://cointelegraph.com/magazine/bitcoin-turns-18-has-the-original-rebel-grown-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "In typical Bitcoin style, the number one cryptocurrency turns 18 today, amid AI-driven security thre...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66D6NEJQ63776RRBN8K6ZNJ/magazine-crypto-idealism.png"
     }
   ],
   "various": [
     {
-      "title": "Shops looted as German cost of living protests turn violent",
+      "title": "Shops looted as German cost-of-living protests turn violent",
       "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
       "desc": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same d...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ace/live/3e4ef120-d5d4-11f1-8629-7b9503d639be.jpg"
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11b7/live/aefac8c0-d5f9-11f1-b441-2b33b063138f.jpg"
     },
     {
       "title": "Healey risks breaking minimum wage promise for younger workers",
@@ -165,28 +165,28 @@
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca26/live/ddbc05b0-d546-11f1-b69a-cfba30d5f3d4.jpg"
     },
     {
-      "title": "Democrats are used to heartbreak in Texas - could Talarico turn the tide?",
-      "link": "https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&at_campaign=rss",
-      "desc": "The state's $500m Senate race may be the most closely watched in the US midterms, and is about far m...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f303/live/84cce500-d54b-11f1-bcb7-8f812b44c2e5.jpg"
-    },
-    {
-      "title": "Reeves says UK's future should be inside the EU",
-      "link": "https://www.bbc.co.uk/news/articles/c62l4yz0eexpo?at_medium=RSS&at_campaign=rss",
-      "desc": "In her first major intervention since leaving the Treasury, Rachel Reeves says Brexit has made the U...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf5e/live/f417cd40-d595-11f1-a701-fddedf244c16.jpg"
+      "title": "Five teenagers stabbed at Halloween party",
+      "link": "https://www.bbc.co.uk/news/articles/c6n4ed1l2pn1o?at_medium=RSS&at_campaign=rss",
+      "desc": "Hampshire Police believes an unknown group gained entry to the party at an address in Chandler's For...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3090/live/bdf49670-d5eb-11f1-bfdd-73f39e6db31d.jpg"
     },
     {
       "title": "University of Cambridge scientist among those who died in Spanish train crash",
       "link": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
-      "desc": "A Spanish research centre has confirmed her death days after she was declared misisng.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14d1/live/b405e550-d5dd-11f1-8fc6-43c59756914a.png"
+      "desc": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she ...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea05/live/c6f18070-d5ec-11f1-bfdd-73f39e6db31d.jpg"
     },
     {
-      "title": "Who are the real winners of Celebrity Traitors?",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2qg0nezrgo?at_medium=RSS&at_campaign=rss",
-      "desc": "Certain stars have been tipped by industry experts as getting the biggest career boost after the sho...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2d7/live/d14e6dc0-d47b-11f1-93e1-3b657b665bcf.png"
+      "title": "Nowak family tell of 'unbelievable pain' of seeing footage of dying son handcuffed",
+      "link": "https://www.bbc.co.uk/news/articles/c68xz297kqleo?at_medium=RSS&at_campaign=rss",
+      "desc": "His family describe the night police told them of his death, and watching him being handcuffed.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aa9/live/7159cc80-d60f-11f1-a701-fddedf244c16.png"
+    },
+    {
+      "title": "King to address slavery in Antigua as PM says he is open to possible UK apology",
+      "link": "https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss",
+      "desc": "King Charles III will deliver a speech to the Commonwealth Heads of Government Meeting on Tuesday as...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98d2/live/7c6766b0-d613-11f1-90fb-b3468681b3ba.jpg"
     }
   ]
 }
