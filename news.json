@@ -77,6 +77,12 @@
   ],
   "tech": [
     {
+      "title": "College student unofficially breaks world record for fastest jet-powered drone with 491 mph aircraft built in his dorm — Reaper aims to grab the $800,000 Boom Prize",
+      "link": "https://www.tomshardware.com/tech-industry/drones/college-student-unofficially-breaks-world-record-for-fastest-jet-powered-drone-with-491-mph-aircraft-built-in-his-dorm-reaper-aims-to-grab-the-usd800-000-boom-prize",
+      "desc": "An undergraduate student from Georgia Tech is trying his hand at an $800k prize for the fastest jet-...",
+      "img": "https://cdn.mos.cms.futurecdn.net/UQC6eZ62JYDJPkHmTgxcRG-1920-80.jpg"
+    },
+    {
       "title": "Grab the award-winning Bambu Lab P1S 3D printer with AMS for $70 off",
       "link": "https://www.tomshardware.com/pc-components/grab-the-award-winning-bambu-lab-p1s-3d-printer-with-ams-for-usd70-off-save-usd70-on-one-of-the-best-3d-printers-for-beginners",
       "desc": "The Bambu Lab P1S earned our Editor's Choice recognition in testing, and this discounted bundle give...",
@@ -105,15 +111,21 @@
       "link": "https://www.tomshardware.com/pc-components/motherboards/asrock-b860-challenger-wifi-motherboard-review",
       "desc": "ASRock’s B860 Challenger Wifi covers the basics and performs well, but slower USB ports, weaker VRMs...",
       "img": "https://cdn.mos.cms.futurecdn.net/43oKFeBWfyK9Abz4tXDYmN-1920-80.jpg"
-    },
-    {
-      "title": "Firm that lets you rent out your idle Mac for AI inference workloads warns of plummeting token costs",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/firm-that-lets-you-rent-out-your-idle-mac-for-ai-inference-workloads-warns-of-plummeting-token-costs-darkbloom-network-sees-earnings-drop-to-usd1-23-a-day-as-anthropic-tokens-fall-77-percent",
-      "desc": "Mac users sharing their compute for AI inference are seeing declining revenues as token prices conti...",
-      "img": "https://cdn.mos.cms.futurecdn.net/LDtU8drypUytifFp3KaAU-1920-80.png"
     }
   ],
   "crypto": [
+    {
+      "title": "Binance says phase one of withdrawals opens after $6.3B hack",
+      "link": "https://cointelegraph.com/news/binance-says-phase-one-of-withdrawals-opens-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The crypto exchange said it has begun phased withdrawals after the record hack the FBI has blamed on...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6B7GCDKCRNR2Z23KSY172H6/hi-binance-unchained.jpg"
+    },
+    {
+      "title": "FBI blames North Korea for record $6.3B Binance hack",
+      "link": "https://cointelegraph.com/news/fbi-blames-north-korea-for-record-63b-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "US agency seeks private-sector help to block further money-laundering of stolen digital assets.",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6B0XQQ2RWMNW96K4XFZN2DN/kimjong-unnorth-korea.jpg"
+    },
     {
       "title": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
       "link": "https://cointelegraph.com/news/binance-hack-90-percent-replenished?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -137,38 +149,26 @@
       "link": "https://cointelegraph.com/magazine/bitcoin-turns-18-has-the-original-rebel-grown-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "In typical Bitcoin style, the number one cryptocurrency turns 18 today, amid AI-driven security thre...",
       "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66D6NEJQ63776RRBN8K6ZNJ/magazine-crypto-idealism.png"
-    },
-    {
-      "title": "Texas brothers sentenced to 15 years in prison for armed crypto robbery, kidnapping",
-      "link": "https://cointelegraph.com/news/texas-brothers-sentenced-to-15-years-in-prison-for-armed-crypto-robbery-kidnapping?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Home invasions became the most common form of crypto wrench attacks worldwide during the first half ...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M692SNKAR10X68EF1R0WFNT5/hi-break-these-singapore-crypto-rulesand-face-200k-fines-or-jail.jpg"
-    },
-    {
-      "title": "Blockchain investigator Chainalysis hit by cybersecurity incident",
-      "link": "https://cointelegraph.com/news/blockchain-investigator-chainalysis-hit-by-cybersecurity-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The company said some non-sensitive customer data was exposed, including user IDs, names and email a...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M68V2D1TX4051JHJ9QKN8R4P/hi-how-to-utilize-ai-agents-in-decentralized-finance-defi-platforms-chainalysis.jpg"
     }
   ],
   "various": [
     {
       "title": "Shops looted as German cost of living protests turn violent",
       "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-      "desc": "Police in Frankfurt say \"violent riots\" took place in the city centre, with unrest also reported in ...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1d6/live/e39b2030-d58f-11f1-b151-73ae9f7607e8.jpg"
+      "desc": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same d...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ace/live/3e4ef120-d5d4-11f1-8629-7b9503d639be.jpg"
     },
     {
-      "title": "Laura Kuenssberg: Healey risks breaking minimum wage promise for younger workers",
+      "title": "Healey risks breaking minimum wage promise for younger workers",
       "link": "https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss",
       "desc": "The Chancellor has suggested that younger workers might not receive the same minimum wage as others ...",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca26/live/ddbc05b0-d546-11f1-b69a-cfba30d5f3d4.jpg"
     },
     {
-      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-      "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
-      "desc": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/053a/live/d1a9e840-d54c-11f1-bcb7-8f812b44c2e5.jpg"
+      "title": "Democrats are used to heartbreak in Texas - could Talarico turn the tide?",
+      "link": "https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&at_campaign=rss",
+      "desc": "The state's $500m Senate race may be the most closely watched in the US midterms, and is about far m...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f303/live/84cce500-d54b-11f1-bcb7-8f812b44c2e5.jpg"
     },
     {
       "title": "Reeves says UK's future should be inside the EU",
@@ -177,16 +177,16 @@
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf5e/live/f417cd40-d595-11f1-a701-fddedf244c16.jpg"
     },
     {
+      "title": "University of Cambridge scientist among those who died in Spanish train crash",
+      "link": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
+      "desc": "A Spanish research centre has confirmed her death days after she was declared misisng.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14d1/live/b405e550-d5dd-11f1-8fc6-43c59756914a.png"
+    },
+    {
       "title": "Who are the real winners of Celebrity Traitors?",
       "link": "https://www.bbc.co.uk/news/articles/cmx2qg0nezrgo?at_medium=RSS&at_campaign=rss",
       "desc": "Certain stars have been tipped by industry experts as getting the biggest career boost after the sho...",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2d7/live/d14e6dc0-d47b-11f1-93e1-3b657b665bcf.png"
-    },
-    {
-      "title": "King to address slavery during Commonwealth speech in Antigua on final leg of Caribbean tour",
-      "link": "https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss",
-      "desc": "King Charles III will deliver a speech to the Commonwealth Heads of Government Meeting on Tuesday as...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a11/live/9a9071c0-d57a-11f1-be5a-4bb1a466c469.jpg"
     }
   ]
 }
