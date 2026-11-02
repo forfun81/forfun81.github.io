@@ -115,13 +115,31 @@
   ],
   "crypto": [
     {
+      "title": "BTCPay Server warns of hot wallet thefts running on outdated software",
+      "link": "https://cointelegraph.com/news/btcpay-server-hot-wallet-thefts-older-versions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "BTCPay Server urged operators to shut down their servers after receiving reports of unauthorized att...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DBKB8GE4KJVX5T10YRWE2X/btcpay-warning.jpg"
+    },
+    {
+      "title": "Bank of Korea probes financial firms’ exposure to crypto risks",
+      "link": "https://cointelegraph.com/news/bank-of-korea-probes-financial-firms-exposure-to-crypto-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The central bank is surveying 31 financial institutions on how a major exchange shutdown, prolonged ...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M59TMCWT4YS3BEJ97Y7B01HA/hi-crypto-on-corporate-balance-sheets-south-korea.jpg"
+    },
+    {
+      "title": "THORChain halts swaps after block reorg bug, slowing Binance hackers",
+      "link": "https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "THORChain node operators paused swaps involving assets on 10 networks, including Bitcoin, Ethereum, ...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6CYVYY9YQQNJBR6GY3CWVA6/stop-regulation-blockchain-ban.jpg"
+    },
+    {
       "title": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
       "link": "https://cointelegraph.com/news/binance-net-outflows-surge-to-58b-as-withdrawals-resume-after-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The exchange says withdrawals surged after some services resumed but have since slowed, with the out...",
       "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FQAANP3H5Z0XYV77PNYB10/hi-will-the-blockchain-stop-leaks-of-crypto.jpg"
     },
     {
-      "title": "Billions flee Binance on reopen, THORChain founder opposes coin freeze: Hodler’s Digest",
+      "title": "THORChain founder rejects freeze request, CZ thanks Secret Service: Hodler’s Digest",
       "link": "https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Binance has reopened withdrawals following the world’s biggest ever hack, and THORChain co-founder a...",
       "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6CFEHJM62TV7283ZYDNNCBP/collage-new.jpg"
@@ -131,62 +149,44 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impac...",
       "img": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
-    },
-    {
-      "title": "DeepSeek developing AI agent requiring less human input: Report",
-      "link": "https://cointelegraph.com/news/deepseek-developing-ai-agent-requiring-less-human-input-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The proposal comes amid intense competition among AI developers, including US companies Anthropic an...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6BNBCY09X57GCM10X7FBK0P/make-ai-great1-1.jpg"
-    },
-    {
-      "title": "Binance says phase one of withdrawals opens after $6.3B hack",
-      "link": "https://cointelegraph.com/news/binance-says-phase-one-of-withdrawals-opens-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The crypto exchange said it has begun phased withdrawals after the record hack the FBI has blamed on...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6B7GCDKCRNR2Z23KSY172H6/hi-binance-unchained.jpg"
-    },
-    {
-      "title": "FBI blames North Korea for record $6.3B Binance hack",
-      "link": "https://cointelegraph.com/news/fbi-blames-north-korea-for-record-63b-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "US agency seeks private-sector help to block further money-laundering of stolen digital assets.",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6B0XQQ2RWMNW96K4XFZN2DN/kimjong-unnorth-korea.jpg"
     }
   ],
   "various": [
     {
-      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
-      "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
-      "desc": "Authorities say there is no threat and have advised the public to stay calm and follow official chan...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3608/live/1d2513e0-d646-11f1-b441-2b33b063138f.jpg"
-    },
-    {
       "title": "Five teenagers stabbed at Halloween party",
       "link": "https://www.bbc.co.uk/news/articles/c6n4ed1l2pn1o?at_medium=RSS&at_campaign=rss",
       "desc": "Hampshire Police believes an unknown group gained entry to the party at an address in Chandler's For...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3090/live/bdf49670-d5eb-11f1-bfdd-73f39e6db31d.jpg"
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf3a/live/d896f6d0-d686-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-      "title": "Thousands of jobs at Virgin Media O2 to be cut",
-      "link": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
-      "desc": "The broadband provider has not finalised the number of roles to be axed but it will likely be a size...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac17/live/9ec7c8b0-d610-11f1-bdc5-33a5057f63d4.jpg"
-    },
-    {
-      "title": "'Like a missile coming down' - Nine killed in fiery Florida jet crash",
+      "title": "Nine killed as small jet crashes on Florida street",
       "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
       "desc": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a...",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fb5/live/43875670-d640-11f1-be6d-936c6c4b19c2.jpg"
     },
     {
-      "title": "Nowak family tell of 'unbelievable pain' of seeing footage of dying son handcuffed",
-      "link": "https://www.bbc.co.uk/news/articles/c68xz297kqleo?at_medium=RSS&at_campaign=rss",
-      "desc": "His family describe the night police told them of his death, and watching him being handcuffed.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aa9/live/7159cc80-d60f-11f1-a701-fddedf244c16.png"
+      "title": "Iran killed her teenage daughter - now she is facing up to the regime",
+      "link": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
+      "desc": "Samira's 16-year-old daughter Sevda was shot dead as they took part in mass protests in January.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81df/live/6c995b00-d45e-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-      "title": "King to address slavery in Antigua as PM says he is open to possible UK apology",
-      "link": "https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss",
-      "desc": "King Charles III will deliver a speech to the Commonwealth Heads of Government Meeting on Tuesday as...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98d2/live/7c6766b0-d613-11f1-90fb-b3468681b3ba.jpg"
+      "title": "Anthony Zurcher: Democrats have high hopes for midterms, but polls have let them down before",
+      "link": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&at_campaign=rss",
+      "desc": "Polls have been predicting a Democratic surge, but last-minute deciders and sampling issues mean the...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae1b/live/eaba2bb0-d48e-11f1-9a20-f717db279e3e.jpg"
+    },
+    {
+      "title": "How a Democrat in Michigan rocked the party days before the US midterms",
+      "link": "https://www.bbc.co.uk/news/videos/cqvgjljj74n8o?at_medium=RSS&at_campaign=rss",
+      "desc": "BBC's Nada Tawfik visited Detroit, Michigan where the party spat unfolded.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8c3/live/4a47a4d0-d66b-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "Antonelli becomes youngest world champion as Verstappen wins in Mexico",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cv62y1e6wly6o?at_medium=RSS&at_campaign=rss",
+      "desc": "Kimi Antonelli becomes the youngest world champion in Formula 1 history as Max Verstappen wins the M...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1694/live/d0cd8590-d64a-11f1-b441-2b33b063138f.jpg"
     }
   ]
 }
