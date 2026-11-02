@@ -39,6 +39,18 @@
   ],
   "movies": [
     {
+      "title": "I’m Loving This Adorably Awkward Clip Zendaya And Co. Dropped To Celebrate The Dune Movies Returning To Theaters",
+      "link": "https://www.cinemablend.com/movies/zendaya-and-cast-drop-adorably-awkward-clip-celebrate-dune-movies-re-release",
+      "desc": "I would have guessed they would all be professionals at this by now.",
+      "img": "https://cdn.mos.cms.futurecdn.net/RfPnrDZJK487Gu4yT7HjT-1920-80.jpg"
+    },
+    {
+      "title": "Haters Gonna Hate Hate Hate On Sydney Sweeney's Lingerie Brand, But There's A Twist",
+      "link": "https://www.cinemablend.com/movies/sydney-sweeney-lingerie-brand-syrn-reportedly-makes-big-earnings-amid-backlash",
+      "desc": "How are Sydney Sweeney's bra and panties selling?",
+      "img": "https://cdn.mos.cms.futurecdn.net/wi9yuVjRokDfCtXh5rRG9U-1920-80.png"
+    },
+    {
       "title": "Rosario Dawson And Hayden Christensen Had A+ Star Wars Costumes, But Now Fans Have One Question",
       "link": "https://www.cinemablend.com/movies/rosario-dawson-hayden-christensen-great-star-wars-costumes-fans-have-ahsoka-question",
       "desc": "Do these costumes need a spoiler alert?",
@@ -61,29 +73,17 @@
       "link": "https://www.cinemablend.com/streaming-news/only-great-steven-seagal-movie-coming-netflix-cant-wait-rewatch-under-siege",
       "desc": "Seagal hit his peak in 1992.",
       "img": "https://cdn.mos.cms.futurecdn.net/HgJqXkoHLQnFB4iCqY5L9i-1920-80.jpg"
-    },
-    {
-      "title": "I Can’t Believe The Savage Response Jennifer Lawrence’s Mother Had To Her Performance In The Hunger Games",
-      "link": "https://www.cinemablend.com/movies/jennifer-lawrence-mother-savage-response-hunger-games-performance",
-      "desc": "Needless to say, everyone’s a critic!",
-      "img": "https://cdn.mos.cms.futurecdn.net/yNTdkhqiNUoYWhtgMdUyXa-1920-80.jpg"
-    },
-    {
-      "title": "Alexander Skarsgård’s Take On Shooting Sex Scenes For Wicker Sounds Rough",
-      "link": "https://www.cinemablend.com/movies/alexander-skarsgards-shooting-sex-scenes-wicker-rough",
-      "desc": "In a way, he's “wearing a basket.\"",
-      "img": "https://cdn.mos.cms.futurecdn.net/DJ6iXgVBxTxswysknMC6Kf-1920-80.jpg"
     }
   ],
   "tech": [
     {
-      "title": "New AI-driven Windows malware feeds stolen data to Claude to rank victims’ assets by value, then deletes itself — payload builds custom target assessment, can switch models if one refuses, or skip the AI step entirely",
+      "title": "New AI-driven Windows malware feeds stolen data to Claude to rank victims’ assets by value, then deletes itself",
       "link": "https://www.tomshardware.com/tech-industry/cyber-security/new-ai-driven-windows-malware-feeds-stolen-data-to-claude-to-rank-victims-assets-by-value-then-deletes-itself-payload-builds-custom-target-assessment-can-switch-models-if-one-refuses-or-skip-the-ai-step-entirely",
       "desc": "Cisco Talos says the VOLTA infostealer sends stolen victim data to Claude Opus 4.6 to rank assets by...",
       "img": "https://cdn.mos.cms.futurecdn.net/SwXoTJq5pcxA7urt6ryrQZ-1920-80.jpg"
     },
     {
-      "title": "GOG explores reviving physical PC game releases — digital storefront needs publisher approvals, has to figure out the logistics and legal challenges",
+      "title": "GOG explores reviving physical PC game releases",
       "link": "https://www.tomshardware.com/video-games/gog-explores-reviving-physical-pc-game-releases-digital-storefront-needs-publisher-approvals-has-to-figure-out-the-logistics-and-legal-challenges",
       "desc": "GOG wants to sell physical games, in contrast to consoles going digital-only, giving gamers more fre...",
       "img": "https://cdn.mos.cms.futurecdn.net/efpBLUoRowi8SbqrQ66ikN-1920-80.jpg"
@@ -107,13 +107,25 @@
       "img": "https://cdn.mos.cms.futurecdn.net/L2TSrQuGFDhmVGdBfr2ytV-1920-80.jpg"
     },
     {
-      "title": "Anycubic and Thingiverse announce exclusive 3D printing partnership",
-      "link": "https://www.tomshardware.com/3d-printing/anycubic-and-thingiverse-announce-exclusive-3d-printing-partnership-makeronline-platform-to-offer-1-click-multicolor-3mf-models",
-      "desc": "Thingiverse partners with Anycubic to bring models directly to 3D printers.",
-      "img": "https://cdn.mos.cms.futurecdn.net/GQ5rY3W6jXYkFxs2idTMe-1920-80.png"
+      "title": "Biwin M560 2TB SSD Review: The DRAM-less drive to beat",
+      "link": "https://www.tomshardware.com/pc-components/ssds/biwin-m560-2tb-ssd-review",
+      "desc": "The Biwin M560 brings SMI’s SM2504XT to retail with top-tier responsiveness and excellent efficiency...",
+      "img": "https://cdn.mos.cms.futurecdn.net/9739tEjY7imERJsLeBjqZG-1920-80.jpg"
     }
   ],
   "crypto": [
+    {
+      "title": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
+      "link": "https://cointelegraph.com/news/binance-net-outflows-surge-to-58b-as-withdrawals-resume-after-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The exchange says withdrawals surged after some services resumed but have since slowed, with the out...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FQAANP3H5Z0XYV77PNYB10/hi-will-the-blockchain-stop-leaks-of-crypto.jpg"
+    },
+    {
+      "title": "Billions flee Binance on reopen, THORChain founder opposes coin freeze: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Binance has reopened withdrawals following the world’s biggest ever hack, and THORChain co-founder a...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6CFEHJM62TV7283ZYDNNCBP/collage-new.jpg"
+    },
     {
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -137,26 +149,14 @@
       "link": "https://cointelegraph.com/news/fbi-blames-north-korea-for-record-63b-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "US agency seeks private-sector help to block further money-laundering of stolen digital assets.",
       "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6B0XQQ2RWMNW96K4XFZN2DN/kimjong-unnorth-korea.jpg"
-    },
-    {
-      "title": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
-      "link": "https://cointelegraph.com/news/binance-hack-90-percent-replenished?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Less-liquid tokens make up the remaining shortfall as Binance continues buying replacement assets th...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M699FRTD1VV81MBCZE1W7405/binance-robot-hands.png"
-    },
-    {
-      "title": "Bitcoin held up better than expected after Binance hack, Strive CEO says",
-      "link": "https://cointelegraph.com/markets/bitcoin-binance-hack-strive-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Strive CEO Matt Cole says the Binance hack has not changed his long-term case for Bitcoin, but cauti...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M6784E305ZRSTBDYV0WKG4RR/hi-true-or-false-91-of-surveys-about-bitcoin-and-crypto-are-totally-wrong.png"
     }
   ],
   "various": [
     {
-      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire expires",
-      "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
-      "desc": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8e6/live/7871d270-d627-11f1-a947-0507737f09b2.jpg"
+      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+      "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+      "desc": "Authorities say there is no threat and have advised the public to stay calm and follow official chan...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3608/live/1d2513e0-d646-11f1-b441-2b33b063138f.jpg"
     },
     {
       "title": "Five teenagers stabbed at Halloween party",
@@ -171,6 +171,12 @@
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac17/live/9ec7c8b0-d610-11f1-bdc5-33a5057f63d4.jpg"
     },
     {
+      "title": "'Like a missile coming down' - Nine killed in fiery Florida jet crash",
+      "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+      "desc": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fb5/live/43875670-d640-11f1-be6d-936c6c4b19c2.jpg"
+    },
+    {
       "title": "Nowak family tell of 'unbelievable pain' of seeing footage of dying son handcuffed",
       "link": "https://www.bbc.co.uk/news/articles/c68xz297kqleo?at_medium=RSS&at_campaign=rss",
       "desc": "His family describe the night police told them of his death, and watching him being handcuffed.",
@@ -181,12 +187,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss",
       "desc": "King Charles III will deliver a speech to the Commonwealth Heads of Government Meeting on Tuesday as...",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98d2/live/7c6766b0-d613-11f1-90fb-b3468681b3ba.jpg"
-    },
-    {
-      "title": "Tributes to 'inspirational' Olympian Ciara Mageean after death at 34",
-      "link": "https://www.bbc.co.uk/news/articles/cj3vqy1g3eygo?at_medium=RSS&at_campaign=rss",
-      "desc": "The former European 1500m champion had bowel cancer and died just three weeks after marrying her par...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0552/live/19da7760-d633-11f1-9ca7-b72124134595.jpg"
     }
   ]
 }
