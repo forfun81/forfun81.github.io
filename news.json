@@ -1,6 +1,24 @@
 {
   "games": [
     {
+      "title": "Former Xbox Exec Shares Her Side Of The Story After Mysterious Depature",
+      "link": "https://www.gamespot.com/articles/former-xbox-exec-shares-her-side-of-the-story-after-mysterious-depature/",
+      "desc": "Helen Chiang, the veteran Xbox staffer who got promoted in July and left the company amid mysterious...",
+      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/Xboxreset.png?w=300"
+    },
+    {
+      "title": "When Is Resident Evil Coming To Home Video? It Could Be Very Soon",
+      "link": "https://www.gamespot.com/articles/the-new-resident-evil-movie-will-be-available-to-watch-at-home-november-3-report/",
+      "desc": "Zach Cregger's Resident Evil movie crushed it at the box office, banking more than $400 million glob...",
+      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/resi.png?w=300"
+    },
+    {
+      "title": "Phantom Blade Zero Put Up Some Massive Sales Numbers",
+      "link": "https://www.gamespot.com/articles/phantom-blade-zero-put-up-some-massive-sales-numbers/",
+      "desc": "Developer S-Game's action-RPG Phantom Blade Zero launched on October 29 and had a massive start acro...",
+      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/PBZ.jpg?w=300"
+    },
+    {
       "title": "Xbox Game Pass Has A Busy November Ahead With Several Day-One Launches",
       "link": "https://www.gamespot.com/articles/xbox-game-pass-has-a-busy-november-ahead-with-several-day-one-launches/",
       "desc": "The start of the month is a good time to be an Xbox Game Pass subscriber, as that's when Microsoft r...",
@@ -17,65 +35,65 @@
       "link": "https://www.gamespot.com/articles/claude-code-just-got-a-new-rule-stop-copying-other-people-games/",
       "desc": "AI clones and vibe-coded copycat games have become a huge headache for developers recently, but it l...",
       "img": "https://www.gamespot.com/wp-content/uploads/2026/11/Star-Wars-Clone-Army.jpg?w=300"
-    },
-    {
-      "title": "Doom Dev Says “We’re Doing Great” After Half The Studio Was Just Laid Off",
-      "link": "https://www.gamespot.com/articles/doom-dev-says-were-doing-great-after-half-the-studio-was-just-laid-off/",
-      "desc": "Doom developer id Software was among the numerous Microsoft-owned game studios that cut staff recent...",
-      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/darkages.jpg?w=300"
-    },
-    {
-      "title": "We Finally Know Who Made The Zelda: Ocarina Of Time Remake",
-      "link": "https://www.gamespot.com/articles/we-finally-know-who-made-the-zelda-ocarina-of-time-remake/",
-      "desc": "Fans have speculated on which studio is leading the development of The Legend of Zelda: Ocarina of T...",
-      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/NS2_TheLegendofZeldaOcarinaofTime_scrn_07.jpg?w=300"
-    },
-    {
-      "title": "Gears Of War: E-Day’s Apparent $500 Million Budget May Not Tell The Full Story – Report",
-      "link": "https://www.gamespot.com/articles/gears-of-war-e-day-apparent-500-million-budget-may-not-tell-the-full-story-report/",
-      "desc": "How much does a true console exclusive cost to make today? If recent reports are to be believed, Gea...",
-      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/Gears-E-Day.jpg?w=300"
     }
   ],
   "movies": [
+    {
+      "title": "I Enjoyed Backrooms, But Can We Finally Admit It Wasn't That Scary?",
+      "link": "https://www.cinemablend.com/movies/enjoyed-backrooms-can-we-finally-admit-wasnt-that-scary",
+      "desc": "It's time to get real about this.",
+      "img": "https://cdn.mos.cms.futurecdn.net/Y42DSLVSvdT5RdJLd5uZ6V-1920-80.png"
+    },
+    {
+      "title": "The NOT PG Reaction Toy Story 5’s Director Had When He Found Out Taylor Swift Wrote Her Song In Less Than A Day",
+      "link": "https://www.cinemablend.com/movies/not-pg-reaction-toy-story-5-director-had-found-out-taylor-swift-wrote-her-song-one-day",
+      "desc": "If you have children, especially those who love the Toy Story franchise, you may want to have them l...",
+      "img": "https://cdn.mos.cms.futurecdn.net/8rU6BfhKWqDjN5jibiBCT9-1920-80.jpg"
+    },
+    {
+      "title": "Mckenna Grace Is Still Channeling Jennifer Lawrence's Hunger Games Looks (And This One HAS To Be My Favorite)",
+      "link": "https://www.cinemablend.com/movies/mckenna-grace-still-channeling-jennifer-lawrence-hunger-games-looks-my-favorite",
+      "desc": "Give it up for the Girl on Fire!",
+      "img": "https://cdn.mos.cms.futurecdn.net/Qm2MycfpTeFbhRRunzR2L9-1920-80.jpg"
+    },
+    {
+      "title": "I Didn’t Expect Johnny Depp To Have Jokes After Being Asked About Pirates Of The Caribbean 6 And Orlando Bloom",
+      "link": "https://www.cinemablend.com/movies/i-didnt-expect-johnny-depp-jokes-asked-pirates-of-the-caribbean-6-orlando-bloom",
+      "desc": "Jack Sparrows got jokes.",
+      "img": "https://cdn.mos.cms.futurecdn.net/8i5s5eRLKaQbzqpabyoaBL-1920-80.jpg"
+    },
+    {
+      "title": "Digger Took A Big, Bold Swing. John Goodman Thinks It Was ‘Killed’ Before It Even Opened",
+      "link": "https://www.cinemablend.com/movies/john-goodman-said-digger-took-bold-swing-thinks-movie-was-killed-before-opening",
+      "desc": "Ultimately, not everyone dug Digger.",
+      "img": "https://cdn.mos.cms.futurecdn.net/rMpXF3aM2qexr6tJqLvb5Y-1920-80.jpg"
+    },
     {
       "title": "Why Marvel Fans (And Me) Think Tom Holland’s Doomsday Appearance Just Got More Likely",
       "link": "https://www.cinemablend.com/movies/why-marvel-fans-think-tom-hollands-doomsday-appearance-got-more-likely",
       "desc": "Will Spidey get a role in the next Avengers movies?",
       "img": "https://cdn.mos.cms.futurecdn.net/tnuYvWRygYR6ohgzchAiUc-1920-80.jpg"
-    },
-    {
-      "title": "An Alan Ritchson And Arnold Schwarzenegger Buddy Flick Is The Christmas Movie I Didn't Know I Needed",
-      "link": "https://www.cinemablend.com/movies/alan-ritchson-arnold-schwarzenegger-buddy-flick-christmas-movie-didnt-know-needed",
-      "desc": "Gear up for some Christmas action!",
-      "img": "https://cdn.mos.cms.futurecdn.net/nPADMKbC48AUfqPFL9chfa-1920-80.jpg"
-    },
-    {
-      "title": "Someone Asked Jack Lowden About Possibly Playing James Bond: ‘You Either Become A Leading Man Or You Don’t’",
-      "link": "https://www.cinemablend.com/movies/someone-asked-jack-lowden-playing-james-bond-gary-oldman",
-      "desc": "The search for the next Bond actor is still going.",
-      "img": "https://cdn.mos.cms.futurecdn.net/eLSbwgzsNU2S8HRAJKXQvQ-1920-80.jpg"
-    },
-    {
-      "title": "I’m Impressed That Inde Navarrette Used An Obsession Reference To Dodge An X-Men Question",
-      "link": "https://www.cinemablend.com/movies/inde-navarrette-obsession-reference-dodge-x-men-question",
-      "desc": "I'm scared all over again.",
-      "img": "https://cdn.mos.cms.futurecdn.net/yeeiDpYiaHrNVdfnGyYVHm-1920-80.png"
-    },
-    {
-      "title": "One Flew Over The Cuckoo's Nest Is My Favorite Book, But I Have A Real Issue With The Movie",
-      "link": "https://www.cinemablend.com/movies/one-flew-over-the-cuckoos-nest-my-favorite-book-but-have-real-issue-with-movie",
-      "desc": "This might ruffle some feathers.",
-      "img": "https://cdn.mos.cms.futurecdn.net/DiRBfiqWHowbfGNjZ7HXS3-1920-80.jpg"
-    },
-    {
-      "title": "I’m Loving This Adorably Awkward Clip Zendaya And Co. Dropped To Celebrate The Dune Movies Returning To Theaters",
-      "link": "https://www.cinemablend.com/movies/zendaya-and-cast-drop-adorably-awkward-clip-celebrate-dune-movies-re-release",
-      "desc": "I would have guessed they would all be professionals at this by now.",
-      "img": "https://cdn.mos.cms.futurecdn.net/RfPnrDZJK487Gu4yT7HjT-1920-80.jpg"
     }
   ],
   "tech": [
+    {
+      "title": "OpenAI considers rebranding data centers to 'AI compute campuses\" as data center backlash intensifies",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/openai-considers-rebranding-data-centers-to-ai-compute-campuses-as-data-center-backlash-intensifies-company-reportedly-sees-2028-presidential-election-becoming-an-ai-issue",
+      "desc": "OpenAI expects AI to become a major issue in the 2028 presidential election and is preparing a polic...",
+      "img": "https://cdn.mos.cms.futurecdn.net/bqKbbbB3ZdRgDH7Pz95FKT-1920-80.jpg"
+    },
+    {
+      "title": "Tachyum, developer of heavily-delayed universal Prodigy processor, voluntarily files for bankruptcy",
+      "link": "https://www.tomshardware.com/pc-components/cpus/tachyum-developer-of-heavily-delayed-universal-prodigy-processor-voluntarily-files-for-bankruptcy-future-of-prodigy-ip-unknown-as-company-begins-bankruptcy-proceedings",
+      "desc": "Tachyum files for bankruptcy, the court in Bratislava initiates bankruptcy proceedings.",
+      "img": "https://cdn.mos.cms.futurecdn.net/TEL2Ff3vNLxwnB8DXnCW5F-1920-80.png"
+    },
+    {
+      "title": "Putin demands Russian data centers supply capacity to the state in wake of Ukraine drone attacks",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/putin-demands-russian-data-centers-supply-capacity-to-the-state-in-wake-of-ukraine-drone-attacks-10-percent-capacity-must-be-available-for-state-it-infrastructure-with-24-hours-notice",
+      "desc": "President Putin has told non-state Russian data centers that they must set aside 10% of their total ...",
+      "img": "https://cdn.mos.cms.futurecdn.net/adoRykAYgMwZ7YUsL97ZLk-1920-80.jpg"
+    },
     {
       "title": "Creality K3 Review: It’s a Tool Changer, not a game changer",
       "link": "https://www.tomshardware.com/3d-printing/creality-k3-review",
@@ -83,7 +101,7 @@
       "img": "https://cdn.mos.cms.futurecdn.net/nqNgDPg6Y9VPg78bagBFu7-1920-80.png"
     },
     {
-      "title": "16GB Raspberry Pi 5 hiked to $385, more than triple its launch price — makers are already shifting to Pico/ESP32 for small projects, mini PCs for more ambitious tasks",
+      "title": "16GB Raspberry Pi 5 hiked to $385, more than triple its launch price",
       "link": "https://www.tomshardware.com/raspberry-pi/16gb-raspberry-pi-5-hiked-to-usd385-more-than-triple-its-launch-price-makers-are-already-shifting-to-pico-esp32-for-small-projects-mini-pcs-for-more-ambitious-tasks",
       "desc": "The Raspberry Pi 16GB has gone up in price by $80 to $385. It now costs more than triple its January...",
       "img": "https://cdn.mos.cms.futurecdn.net/gvphLUFb9C9yXvCKbVjsx5-1920-80.jpg"
@@ -93,38 +111,14 @@
       "link": "https://www.tomshardware.com/tech-industry/data-centers/america-hates-data-centers-new-database-reveals-more-than-90-percent-of-10-000-public-comments-are-negative-only-21-percent-mention-ai-73-percent-of-meetings-had-no-data-center-supporters-water-is-the-number-one-concern",
       "desc": "A new website seeks to distill over 10,000 public comments about data centers in the community acros...",
       "img": "https://cdn.mos.cms.futurecdn.net/DBEu4bZrZJ6U9xKfFtWxPg-1920-80.jpg"
-    },
-    {
-      "title": "Gamer's ASUS TUF monitor blocks bullet fired through wall during Call of Duty session — says 280Hz monitor is 'the best $280 I ever spent'",
-      "link": "https://www.tomshardware.com/monitors/gaming-monitors/gamers-asus-tuf-monitor-blocks-bullet-fired-through-wall-during-call-of-duty-session-says-280hz-monitor-is-the-best-usd280-i-ever-spent",
-      "desc": "A Redditor was playing Call of Duty when they heard gunfire outside their home. After hitting the de...",
-      "img": "https://cdn.mos.cms.futurecdn.net/XbgzsS5KsnVhXM4AQ36gyn-1920-80.jpg"
-    },
-    {
-      "title": "NVIDIA Brev security breach may have exposed SSH keys used to access customer VMs — investigation finds unauthorized activity spanning 16 days, but no evidence of misuse",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/nvidia-brev-security-breach-may-have-exposed-ssh-keys-used-to-access-customer-vms-investigation-finds-unauthorized-activity-spanning-16-days-but-no-evidence-of-misuse",
-      "desc": "NVIDIA is investigating a security incident involving its Brev cloud development platform after dete...",
-      "img": "https://cdn.mos.cms.futurecdn.net/m9yYaGTygKCKaxm9GgKnKV-1920-80.png"
-    },
-    {
-      "title": "Apple finally has a touchscreen MacBook. Why now?",
-      "link": "https://www.tomshardware.com/laptops/macbooks/apple-finally-has-a-touchscreen-macbook-why-now",
-      "desc": "Apple is introducing a touchscreen laptop in the MacBook Pro with a PROLED XDR Display. Here's where...",
-      "img": "https://cdn.mos.cms.futurecdn.net/rskLj7BkH6HMd2dYqtbZYo-1920-80.jpg"
     }
   ],
   "crypto": [
     {
-      "title": "Strategy spends triple its weekly Bitcoin outlay on STRC buybacks",
-      "link": "https://cointelegraph.com/news/strategy-repurchases-208m-strc-65m-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Strategy spent $208.2 million buying back STRC preferred shares and $65.5 million on Bitcoin, while ...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6E7B8B7FY6FQZ83QZRCGQHD/hi-who-is-michael-j-saylor-us-flag-1.jpg"
-    },
-    {
-      "title": "AI agent disputes head to ‘Internet Court’ — and a jury of AI agents",
-      "link": "https://cointelegraph.com/magazine/ai-agent-disputes-sent-to-internet-court-and-a-jury-of-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Who better to judge a dispute between AI agents than a jury of different AI models? That’s the idea ...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6CSPCM53Q6HYKY23BM33KT6/robot-courtroom-scene.png"
+      "title": "North Korea denies role in $6.3B Binance hack, points finger at US",
+      "link": "https://cointelegraph.com/news/north-korea-denies-role-in-63b-binance-hack-points-finger-at-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Pyongyang has pushed back against the FBI’s attribution of the Binance attack, with Kim Yo Jong call...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6F7B7K3T1C90EANET9800H1/north-korea.jpg"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -133,25 +127,37 @@
       "img": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
     },
     {
-      "title": "Binance taps half its SAFU Bitcoin holdings, releases reserve proof",
-      "link": "https://cointelegraph.com/news/binance-safu-btc-balance-halves-recovery-unclear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Binance’s SAFU Bitcoin wallet now holds about 7,500 BTC after a 7,499 BTC transfer linked to the hac...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6E1KKJ1JWX0XVFV8YM0PG3Q/hi-binance-announces-mining-pool-and-chain-white-paper-slammed-for-centralization-in-both-cases.jpg"
+      "title": "New Jersey drops Coinbase staking order ahead of crypto’s midterm test",
+      "link": "https://cointelegraph.com/news/new-jersey-coinbase-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "New Jersey lifted its staking ban and dropped a $5 million penalty, clearing the way for Coinbase to...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6F487G3J8FRTKB5QXJC6MD5/larger-brian-armstrong.png"
     },
     {
-      "title": "FATF targets crypto hubs in review of money laundering controls",
-      "link": "https://cointelegraph.com/news/fatf-targeted-crypto-compliance-jurisdiction-reviews?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The watchdog has not named the jurisdictions under review. Initial findings on compliance with its c...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6E1Z69CTQ1SFH9R33DZWPA6/fatf-rules.jpg"
+      "title": "AI poses greater threat to Bitcoin than quantum computing, Swan founder says",
+      "link": "https://cointelegraph.com/news/ai-hackers-threat-bitcoin-quantum-computing-swan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The Swan Bitcoin founder warned that hackers are using large language models to exploit security fla...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6F047PK32DP192ZJ19H5DWA/hi-who-are-bam2.png"
     },
     {
-      "title": "Binance hackers begin swapping stolen Solana tokens for Bitcoin: Chainalysis",
-      "link": "https://cointelegraph.com/news/binance-hackers-solana-new-phase-laundering-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Crypto exchange Gate said it froze two linked accounts as US investigators urged platforms to block ...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DXS9W8ZYW0K2FAPP5WSEXQ/hi-hackers-fishing-1.jpg"
+      "title": "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
+      "link": "https://cointelegraph.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "A European entity may have lost $106 million from exchange accounts, while a wallet associated with ...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6EXKTXJV69233G9DJ6YY0M6/hi-victim-of-a-scam-heres-what-to-do-next-1.jpg"
+    },
+    {
+      "title": "Coinbase hit with 50% price target cut as post-earnings rout deepens",
+      "link": "https://cointelegraph.com/news/morgan-stanley-cuts-coinbase-target-to-120-as-earnings-recovery-outlook-weakens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Slowing trading activity and fallout from the Binance hack are clouding Coinbase’s revenue prospects...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ERG219T9H0636SG6JB00H1/hi-taxes-doesnt-apply-coinbasemanlaptop.png"
     }
   ],
   "various": [
+    {
+      "title": "Mahmood scraps settlement plans for migrant care workers",
+      "link": "https://www.bbc.co.uk/news/articles/c6lye8g4w7g1o?at_medium=RSS&at_campaign=rss",
+      "desc": "The home secretary laid out a revised proposal for changing when migrants can claim permanent reside...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f63e/live/cc23f870-d6ff-11f1-a701-fddedf244c16.jpg"
+    },
     {
       "title": "Shop freezers in seven European countries hit by cyber-attack",
       "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
@@ -159,34 +165,28 @@
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31c7/live/152ec730-d6c3-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-      "title": "Mother told to book appointment to give birth to her baby who had died",
-      "link": "https://www.bbc.co.uk/news/articles/cm9dzn8e737jo?at_medium=RSS&at_campaign=rss",
-      "desc": "Newcastle Hospitals NHS Trust apologises for care it says \"fell short of the standards\" expected.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/194e/live/7492eb50-d6bb-11f1-aacc-5b5f23abff4b.jpg"
+      "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
+      "link": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
+      "desc": "Dozens of supermarkets in seven European countries dumped huge quantities of food after refrigerator...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ffe/live/f76751a0-d6ee-11f1-93e1-3b657b665bcf.png"
     },
     {
-      "title": "What Americans are voting for in this election",
-      "link": "https://www.bbc.co.uk/news/videos/cjly0p753dxxo?at_medium=RSS&at_campaign=rss",
-      "desc": "The BBC's Maddie Gerber explains what's on the ballot in the 2026 midterm elections in the United St...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bac6/live/77517ad0-d6d6-11f1-93e1-3b657b665bcf.jpg"
+      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+      "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+      "desc": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the presid...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee1e/live/8480acc0-d6eb-11f1-a741-236ee91c2e25.png"
     },
     {
-      "title": "Wizz Air flight from Luton makes emergency landing with fighter jet escort after bomb threat",
-      "link": "https://www.bbc.co.uk/news/articles/c6rryvwre0p5o?at_medium=RSS&at_campaign=rss",
-      "desc": "A Hungarian fighter jet escorted the aircraft to Budapest after the threat was received mid-air.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4189/live/0af88b20-d6c8-11f1-ac20-7783925c811f.jpg"
+      "title": "Copilot in deadly Florida jet crash identified in reports as 20-year-old",
+      "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+      "desc": "In air traffic audio, a crew member can be heard shouting: \"We are going to crash into the ground!\"",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fc4/live/ff862190-d6f8-11f1-b983-c357054e4d1e.jpg"
     },
     {
-      "title": "Channel 4 documentary and journalists 'poisoned the well' against Russell Brand, court hears",
-      "link": "https://www.bbc.co.uk/news/articles/cwkg5dnypdn4o?at_medium=RSS&at_campaign=rss",
-      "desc": "Brand's defence barrister told jurors that Brand \"had an immense amount of sex\", but that \"none of i...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1386/live/e3326c40-d6a0-11f1-aabc-e9dc7201ad53.jpg"
-    },
-    {
-      "title": "Iran killed her teenage daughter - now she is facing up to the regime",
-      "link": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
-      "desc": "Samira's 16-year-old daughter Sevda was shot dead as they took part in mass protests in January.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81df/live/6c995b00-d45e-11f1-93e1-3b657b665bcf.jpg"
+      "title": "What Florida jet audio and flight data tells us about its final moments",
+      "link": "https://www.bbc.co.uk/news/videos/c52e9lgxjz82o?at_medium=RSS&at_campaign=rss",
+      "desc": "A private jet crashed in Florida on Sunday, killing all nine people on board, according to US author...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d14/live/f2671810-d6ea-11f1-b441-2b33b063138f.jpg"
     }
   ]
 }
