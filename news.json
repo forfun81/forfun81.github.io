@@ -39,6 +39,12 @@
   ],
   "movies": [
     {
+      "title": "I Didn’t Expect Natalie Portman To Have A Glowing Take On Shaving Her Head (But There Was A Downside)",
+      "link": "https://www.cinemablend.com/movies/natalie-portman-glowing-take-shaving-head-v-for-vendetta-downside",
+      "desc": "She rocked this look.",
+      "img": "https://cdn.mos.cms.futurecdn.net/rgM89uvXZSy7BMWvwx4WH9-1920-80.png"
+    },
+    {
       "title": "I Enjoyed Backrooms, But Can We Finally Admit It Wasn't That Scary?",
       "link": "https://www.cinemablend.com/movies/enjoyed-backrooms-can-we-finally-admit-wasnt-that-scary",
       "desc": "It's time to get real about this.",
@@ -67,12 +73,6 @@
       "link": "https://www.cinemablend.com/movies/john-goodman-said-digger-took-bold-swing-thinks-movie-was-killed-before-opening",
       "desc": "Ultimately, not everyone dug Digger.",
       "img": "https://cdn.mos.cms.futurecdn.net/rMpXF3aM2qexr6tJqLvb5Y-1920-80.jpg"
-    },
-    {
-      "title": "Why Marvel Fans (And Me) Think Tom Holland’s Doomsday Appearance Just Got More Likely",
-      "link": "https://www.cinemablend.com/movies/why-marvel-fans-think-tom-hollands-doomsday-appearance-got-more-likely",
-      "desc": "Will Spidey get a role in the next Avengers movies?",
-      "img": "https://cdn.mos.cms.futurecdn.net/tnuYvWRygYR6ohgzchAiUc-1920-80.jpg"
     }
   ],
   "tech": [
@@ -115,6 +115,24 @@
   ],
   "crypto": [
     {
+      "title": "Australia lifts rates to 18-year high as AI boom, energy costs fuel inflation",
+      "link": "https://cointelegraph.com/markets/australia-lifts-rates-as-ai-boom-energy-costs-fuel-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The Reserve Bank of Australia raised its benchmark rate to 4.85% on rising technology costs from AI ...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6FS9RCYXTTNWDX94AF8DVDE/hi-australian-senators-pushing-for-country-to-become-the-next-crypto-hub.jpg"
+    },
+    {
+      "title": "Binance begins second withdrawal phase, exchange outflows slow",
+      "link": "https://cointelegraph.com/news/binance-begins-second-withdrawal-phase-following-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The exchange says additional assets will become available for withdrawal from 04:00 UTC on Tuesday a...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6FN2679AMA9PVMMSE4QTW9R/binance-1.jpg"
+    },
+    {
+      "title": "South Korea urges exchanges to boost cold storage after Binance hack",
+      "link": "https://cointelegraph.com/news/south-korea-urges-exchanges-to-boost-cold-storage-after-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "South Korean crypto exchanges are already required to hold at least 80% of customer crypto in cold w...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6FGGYW74TAX5AA8ACWCFSAT/cold-wallet.jpg"
+    },
+    {
       "title": "North Korea denies role in $6.3B Binance hack, points finger at US",
       "link": "https://cointelegraph.com/news/north-korea-denies-role-in-63b-binance-hack-points-finger-at-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Pyongyang has pushed back against the FBI’s attribution of the Binance attack, with Kim Yo Jong call...",
@@ -131,62 +149,44 @@
       "link": "https://cointelegraph.com/news/new-jersey-coinbase-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "New Jersey lifted its staking ban and dropped a $5 million penalty, clearing the way for Coinbase to...",
       "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6F487G3J8FRTKB5QXJC6MD5/larger-brian-armstrong.png"
-    },
-    {
-      "title": "AI poses greater threat to Bitcoin than quantum computing, Swan founder says",
-      "link": "https://cointelegraph.com/news/ai-hackers-threat-bitcoin-quantum-computing-swan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The Swan Bitcoin founder warned that hackers are using large language models to exploit security fla...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6F047PK32DP192ZJ19H5DWA/hi-who-are-bam2.png"
-    },
-    {
-      "title": "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
-      "link": "https://cointelegraph.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "A European entity may have lost $106 million from exchange accounts, while a wallet associated with ...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6EXKTXJV69233G9DJ6YY0M6/hi-victim-of-a-scam-heres-what-to-do-next-1.jpg"
-    },
-    {
-      "title": "Coinbase hit with 50% price target cut as post-earnings rout deepens",
-      "link": "https://cointelegraph.com/news/morgan-stanley-cuts-coinbase-target-to-120-as-earnings-recovery-outlook-weakens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Slowing trading activity and fallout from the Binance hack are clouding Coinbase’s revenue prospects...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ERG219T9H0636SG6JB00H1/hi-taxes-doesnt-apply-coinbasemanlaptop.png"
     }
   ],
   "various": [
     {
-      "title": "Mahmood scraps settlement plans for migrant care workers",
-      "link": "https://www.bbc.co.uk/news/articles/c6lye8g4w7g1o?at_medium=RSS&at_campaign=rss",
-      "desc": "The home secretary laid out a revised proposal for changing when migrants can claim permanent reside...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f63e/live/cc23f870-d6ff-11f1-a701-fddedf244c16.jpg"
+      "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+      "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+      "desc": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-call...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/665c/live/802099e0-d6de-11f1-b2be-0146bf989691.jpg"
     },
     {
-      "title": "Shop freezers in seven European countries hit by cyber-attack",
-      "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-      "desc": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31c7/live/152ec730-d6c3-11f1-93e1-3b657b665bcf.jpg"
+      "title": "US strikes Iran ahead of midterm elections",
+      "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+      "desc": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the B...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b14/live/7d50c580-d735-11f1-8523-e7796527683a.jpg"
     },
     {
-      "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
-      "link": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
-      "desc": "Dozens of supermarkets in seven European countries dumped huge quantities of food after refrigerator...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ffe/live/f76751a0-d6ee-11f1-93e1-3b657b665bcf.png"
+      "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+      "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
+      "desc": "Western officials stress that any force sent to Ukraine would not take part in any offensive operati...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4086/live/4322ff00-d6f3-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-      "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-      "desc": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the presid...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee1e/live/8480acc0-d6eb-11f1-a741-236ee91c2e25.png"
+      "title": "PM plans debt re-set for Commonwealth nations as slavery apology talks begin",
+      "link": "https://www.bbc.co.uk/news/articles/c58jzn1ve0kjo?at_medium=RSS&at_campaign=rss",
+      "desc": "The move comes as the prime minister begins talks about the UK issuing a formal apology for the slav...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d9b/live/e575c5c0-d712-11f1-b19c-4d0080e30e42.jpg"
     },
     {
-      "title": "Copilot in deadly Florida jet crash identified in reports as 20-year-old",
+      "title": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
       "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-      "desc": "In air traffic audio, a crew member can be heard shouting: \"We are going to crash into the ground!\"",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fc4/live/ff862190-d6f8-11f1-b983-c357054e4d1e.jpg"
+      "desc": "The National Transportation Safety Board also believes weather could have been a factor in the crash...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b940/live/17a71660-d714-11f1-b19c-4d0080e30e42.jpg"
     },
     {
-      "title": "What Florida jet audio and flight data tells us about its final moments",
-      "link": "https://www.bbc.co.uk/news/videos/c52e9lgxjz82o?at_medium=RSS&at_campaign=rss",
-      "desc": "A private jet crashed in Florida on Sunday, killing all nine people on board, according to US author...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d14/live/f2671810-d6ea-11f1-b441-2b33b063138f.jpg"
+      "title": "North Korea denies being behind record $6.3bn Binance hack",
+      "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+      "desc": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a90/live/75145840-d727-11f1-b237-93d5595d4291.jpg"
     }
   ]
 }
