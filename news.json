@@ -39,6 +39,12 @@
   ],
   "movies": [
     {
+      "title": "I Just Found Out What Christopher Nolan Made Universal’s Head Honcho Do When He Pitched The Odyssey",
+      "link": "https://www.cinemablend.com/movies/what-christopher-nolan-made-universal-head-honcho-do-amid-the-odyssey-pitch",
+      "desc": "The process of reading a Christopher Nolan script sounds like a spy thriller.",
+      "img": "https://cdn.mos.cms.futurecdn.net/zJrjdDsgYMQfjAZJSWTyDi-1920-80.jpg"
+    },
+    {
       "title": "What Dakota Johnson (Allegedly) ‘Respects’ Most About Rumored Boyfriend MGK",
       "link": "https://www.cinemablend.com/movies/what-dakota-johnson-allegedly-respects-most-boyfriend-mgk",
       "desc": "The alleged couple have been making headlines.",
@@ -67,12 +73,6 @@
       "link": "https://www.cinemablend.com/movies/mason-thames-interview-officially-dc-robin-dynamic-duo-manifested-it",
       "desc": "Sometimes you have to speak things into existence!",
       "img": "https://cdn.mos.cms.futurecdn.net/EKpBb2MgvvfLZvnq9Y98RT-1920-80.png"
-    },
-    {
-      "title": "Mckenna Grace Has A Surprising (And Disney-Oriented) Reason For Saying No To Nude Scenes",
-      "link": "https://www.cinemablend.com/movies/mckenna-grace-surprising-disney-oriented-reason-no-nude-scenes",
-      "desc": "I didn't see this reason coming.",
-      "img": "https://cdn.mos.cms.futurecdn.net/n4GPUpEbqAyCLEjNdEAUsF-1920-80.jpg"
     }
   ],
   "tech": [
@@ -115,13 +115,7 @@
   ],
   "crypto": [
     {
-      "title": "RUNE rallies 15% as THORChain restarts most swaps after halt",
-      "link": "https://cointelegraph.com/markets/rune-rallies-15-as-thorchain-restarts-most-swaps-after-outage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "THORChain has restored trading on Bitcoin, Ethereum and several other networks following a refund bu...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HX7RYCH2V2GKPP6BB2MVAX/thorchain-crypto-crowd-people-hype-mainstream-1.jpg"
-    },
-    {
-      "title": "US midterms election 2026 live: Mark Warner retains Virginia Senate seat",
+      "title": "US midterm election 2026 live: Democrats sweep Congress, flipping House and Senate",
       "link": "https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Follow live coverage of the 2026 US midterm elections, including key congressional races, crypto-bac...",
       "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HNW6N1NESPPP9VWMSTMCKP/hi-can-polymarket-and-augur-predict-the-next-us-elections2.jpg"
@@ -133,60 +127,66 @@
       "img": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
     },
     {
-      "title": "SpaceX blocks tokenized stock listing on OKXICE despite offshore trading boom",
-      "link": "https://cointelegraph.com/news/spacex-tokenization-okxice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "SpaceX joined several other issuers objecting to OKXICE tokenized trading, months after crypto platf...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HGH0BNNPHY4QQAS9295KYQ/okxice-with-stop-gesture.png"
+      "title": "Ethereum dev targets 2028 for quantum resistance, a year early",
+      "link": "https://cointelegraph.com/news/ethereum-post-quantum-transition-2028-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Ethereum researcher Justin Drake said it is their “hope” that Ethereum will achieve its post-quantum...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6JH4H7TR2ZYP94F0GBTNFV0/ethereum-post-quantum.png"
     },
     {
-      "title": "CFTC clears stock perpetual futures for trading on US exchanges",
-      "link": "https://cointelegraph.com/news/cftc-equity-perpetual-futures-trading-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "US regulators are opening the door to stock-based perpetual futures, extending a popular crypto trad...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HED4AVHBSQQHY2NWN6WVHE/hi-prediction-market-cftc-rule-2.png"
+      "title": "Democrats claim control of the US Senate",
+      "link": "https://cointelegraph.com/news/democrats-flip-us-senate-as-crypto-industry-faces-policy-reset?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The shift in Senate control could change the path for the CLARITY Act, reshape committee leadership ...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6J9F3G1623QRJQS2NY2JXXE/hi-blockchain-voting-is-the-alternative-for-trusted-democratic-elections1.jpg"
     },
     {
-      "title": "US midterms: Prediction markets favor Democrats in key crypto races",
-      "link": "https://cointelegraph.com/news/us-midterm-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Kalshi and Polymarket price a 75% chance of a Democratic sweep, days after markets misjudged Brazil’...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HQ1NKPD61CWKMF78RJP3VH/with-blended-okx-ice-logo.png"
+      "title": "ZachXBT identifies French bank as alleged victim of $133M crypto theft",
+      "link": "https://cointelegraph.com/news/zachxbt-french-bank-credit-mutuel-arkea-133m-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The French bank has not confirmed its alleged involvement in the crypto theft, which ZachXBT said co...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6J9R4VF5N3TX90MJQ3PZBSH/hack-theft-eu-bank.png"
+    },
+    {
+      "title": "1inch lawyer sees agencies driving US crypto regulation as midterms unfold",
+      "link": "https://cointelegraph.com/news/1inch-lawyer-sees-agencies-driving-us-crypto-regulation-as-midterms-unfold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Crypto executives expect US regulators to drive crypto policymaking regardless of the midterm electi...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4DJ3V1RSDPDYAETXYR8NEK1/hi-us-government-has-shut-down-bitcoin-crypto.jpg"
     }
   ],
   "various": [
     {
-      "title": "When will we know the results?",
-      "link": "https://www.bbc.co.uk/news/articles/cq20321y2nlyo?at_medium=RSS&at_campaign=rss",
-      "desc": "Once polls close, it is possible the results will not be projected for several hours, days or even w...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e286/live/58c44510-d6d2-11f1-b441-2b33b063138f.jpg"
+      "title": "Anthony Zurcher: Democrats tear up Trump's political map on historic night",
+      "link": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss",
+      "desc": "Two Senate races that a year ago were thought to be battlegrounds turned out to be slam-dunks for th...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f263/live/3f174b00-d815-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "title": "US voters name economy and state of democracy as top issues, poll says",
-      "link": "https://www.bbc.co.uk/news/articles/c39wz0970eypo?at_medium=RSS&at_campaign=rss",
-      "desc": "A major election day survey suggests voters are the most unhappy with the economy.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf83/live/f3608b00-d7e1-11f1-89b6-117585343da2.jpg"
+      "title": "How America voted in maps and charts",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
+      "desc": "See the maps and charts that show how America voted in the US midterm elections.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/125b/live/b5cca010-d6e4-11f1-93e1-3b657b665bcf.png"
     },
     {
-      "title": "How the US midterm results could unfold - as millions of Americans head to the polls",
-      "link": "https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss",
-      "desc": "The BBC's North America correspondent considers three different scenarios, and what they would mean ...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3a9/live/24cee420-d7bf-11f1-b441-2b33b063138f.jpg"
+      "title": "Ecstatic scenes and historic moments: What's happened so far in the midterms",
+      "link": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
+      "desc": "Democrats have taken control of Congress for the rest of Donald Trump's presidency - proving moments...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/878f/live/f3346690-d810-11f1-bc0e-b5a9e0785e4b.jpg"
     },
     {
-      "title": "The key US Senate races to watch",
-      "link": "https://www.bbc.co.uk/news/articles/cqy7ljkprvjko?at_medium=RSS&at_campaign=rss",
-      "desc": "All eyes are on a handful of Senate races that will decide control of the prized upper chamber. Here...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7ce/live/259c6b00-d1e5-11f1-a701-fddedf244c16.png"
+      "title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
+      "link": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss",
+      "desc": "\"This wasn't just a tsunami, not just a referendum, but this was a bloodbath,\" one expert told the B...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e3c/live/a1b3d4e0-d7ac-11f1-9092-abeae3cab3b1.jpg"
     },
     {
-      "title": "Queues, smiles and Uncle Sam: The US midterms in pictures",
-      "link": "https://www.bbc.co.uk/news/articles/cm89zn2kxjdno?at_medium=RSS&at_campaign=rss",
-      "desc": "From queues at polling stations to enthusiastic supporters, here is a look at the final days of the ...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d77/live/a953e9d0-d7b4-11f1-93e1-3b657b665bcf.jpg"
+      "title": "Miliband says slavery apology will not bring cost for UK taxpayers",
+      "link": "https://www.bbc.co.uk/news/articles/cm8ezneewr9lo?at_medium=RSS&at_campaign=rss",
+      "desc": "Speaking to BBC's Newscast, the foreign secretary says Britain cannot sweep its past \"under the carp...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/775f/live/b94b9cb0-d7ec-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-      "title": "Spanish transport minister resigns days after deadly train crash",
-      "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
-      "desc": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d61f/live/6dc1cd30-d7c6-11f1-a701-fddedf244c16.jpg"
+      "title": "'Multi-cancer' blood tests coming to some GP surgeries soon",
+      "link": "https://www.bbc.co.uk/news/articles/cm9qz93ew22no?at_medium=RSS&at_campaign=rss",
+      "desc": "The aim is to detect hard-to-diagnose abdominal cancers, including liver, ovarian and pancreatic can...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e57b/live/5bce4a50-d78e-11f1-9440-953b82c8f55a.jpg"
     }
   ]
 }
