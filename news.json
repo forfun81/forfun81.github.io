@@ -1,6 +1,18 @@
 {
   "games": [
     {
+      "title": "How Zelda: Ocarina Of Time Benefits From A Glaringly Obvious Tactic That Few Game Devs Follow",
+      "link": "https://www.gamespot.com/articles/how-zelda-ocarina-of-time-benefits-from-a-glaringly-obvious-tactic-that-few-game-devs-follow/",
+      "desc": "The Legend of Zelda: Ocarina of Time has been regarded as one of the best games ever made for nearly...",
+      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/125697-125698-nintendo-the-legend-of-zelda-ocarina-of-time-ss-5-1280x720-1.jpeg?w=300"
+    },
+    {
+      "title": "Nintendo Wanted Ocarina Of Time To Feel Better In The Remake, Not Just Different",
+      "link": "https://www.gamespot.com/articles/nintendo-wanted-ocarina-of-time-to-feel-better-in-the-remake-not-just-different/",
+      "desc": "Remaking a game like The Legend of Zelda: The Ocarina of Time required Nintendo to nail a fine balan...",
+      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/Oot-2026.jpg?w=300"
+    },
+    {
       "title": "WoW: Forever’s Launch Is Going Surprisingly Smooth",
       "link": "https://www.gamespot.com/articles/wow-forevers-launch-is-going-surprisingly-smooth/",
       "desc": "World of Warcraft: Forever's launch hit some minor hiccups immediately upon release, but overall is ...",
@@ -23,18 +35,6 @@
       "link": "https://www.gamespot.com/articles/gta-6-will-now-come-to-stores-sooner-but-its-not-playable-right-away/",
       "desc": "Rockstar Games has announced that Grand Theft Auto 6 will now released in stores two days earlier th...",
       "img": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA.jpg?w=300"
-    },
-    {
-      "title": "GTA 6 Is A Massive Download, But You May Qualify For A Free Speed Boost To Download It Faster",
-      "link": "https://www.gamespot.com/articles/gta-6-is-a-massive-download-but-you-may-qualify-for-a-free-speed-boost-to-download-it-faster/",
-      "desc": "Grand Theft Auto 6 launches on November 19, and the game's file size, 212GB, is truly massive. One i...",
-      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/Ambrosia_05_411239.jpg?w=300"
-    },
-    {
-      "title": "GTA 6 Survey Reveals People Really Want GTA Online, But It Hasn’t Been Confirmed Yet",
-      "link": "https://www.gamespot.com/articles/gta-6-survey-reveals-people-really-want-gta-online-but-it-hasnt-been-confirmed-yet/",
-      "desc": "Grand Theft Auto 6 releases on November 19, and a lot of people are very excited to play some kind o...",
-      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/Leonida_Keys_05_3223c4.jpg?w=300"
     }
   ],
   "movies": [
@@ -115,10 +115,10 @@
   ],
   "crypto": [
     {
-      "title": "Mercado Bitcoin says phased reopening to begin Monday, will cover losses",
-      "link": "https://cointelegraph.com/news/mercado-bitcoin-phased-reopening-to-begin-monday-pledges-to-cover-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Customers will initially be able to view their holdings, while withdrawals and trading remain suspen...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6MCS6V48YKBXE34JHPKFCDG/hi-gate-io-5.jpg"
+      "title": "Crédit Mutuel Arkéa resumes operations after attack, assesses losses",
+      "link": "https://cointelegraph.com/news/credit-mutuel-arkea-resumes-operations-133m-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The bank said customer funds were unaffected after attackers accessed its systems through a service ...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6N6NXVHKBRJXY07Q6DE59G9/bank-french-credit-mutuel-arkea.png"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -127,54 +127,42 @@
       "img": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
     },
     {
-      "title": "BitMart founder says security team ‘severely understaffed’ after new hack",
-      "link": "https://cointelegraph.com/news/bitmart-hack-security-staffing-crypto-exchange-restructuring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The crypto exchange’s founder warned of security staffing shortages amid restructuring as analysts f...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6M43XKTYRKM47HZ3A23XGYW/money-bank-fiat-case-safety-security-huobi.png"
+      "title": "Binance, Polymarket seek Polygon hard fork to recover $6.8M in stolen crypto",
+      "link": "https://cointelegraph.com/news/polygon-hard-fork-binance-polymarket-6-8m-hack-recovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Polygon block producers have already frozen the stolen tokens, but a proposed hard fork would allow ...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6N3H7D7JKVJG1M4FYAN87WP/polygon-hard-fork.png"
     },
     {
-      "title": "Crypto PACs eye 2028 ‘new map’ as Democrats take Congress",
-      "link": "https://cointelegraph.com/news/crypto-superpac-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Crypto super PACs spent more than $176 million on the midterms, but the Democratic sweep raises the ...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6M2SQWSSZNC87ZCPY0VEXAT/map-without-green-highlight.png"
+      "title": "‘Lawyer up’: Democrats target Trump, Big Tech after midterm sweep",
+      "link": "https://cointelegraph.com/news/lawyer-up-democrats-target-trump-big-tech-after-midterm-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Democrats wasted little time after their midterm victory, warning tech CEOs to prepare for subpoenas...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6N0Q7DG6MW0G7R7JK3YCJ78/hi-fungible-tokens-turn-monopoly-money-into-cryptocurrency-trump-2.jpg"
     },
     {
-      "title": "How Aussie Bitcoiners can avoid 2027’s shock CGT hike",
-      "link": "https://cointelegraph.com/magazine/how-aussie-bitcoiners-can-avoid-2027s-shock-cgt-increase-part-1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "From setting up an SMSF or a company, to just leaving the country entirely, here are some strategies...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HX2638MZP3S4KEEQP3HSTS/fred-magazine-artwork.png"
+      "title": "India warns AI-powered hackers targeting crypto exchanges at ‘machine speed’",
+      "link": "https://cointelegraph.com/news/india-warns-ai-powered-hackers-targeting-crypto-exchanges-at-machine-speed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "India’s cybersecurity agency says a threat actor is escalating an AI-assisted hacking campaign targe...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6MPCPYRKAQX7P4642EX1VWB/ai-hacker.jpg"
     },
     {
-      "title": "Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms",
-      "link": "https://cointelegraph.com/news/trump-linked-tokens-lead-crypto-losses-after-democrats-sweep-in-the-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The official Trump and World Liberty Financial tokens were the two biggest losers among the top 100 ...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6KTGBVFHWKW3CZF0886CX5A/trumpcoinelections.png"
+      "title": "Mercado Bitcoin says phased reopening to begin Monday, will cover losses",
+      "link": "https://cointelegraph.com/news/mercado-bitcoin-phased-reopening-to-begin-monday-pledges-to-cover-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Customers will initially be able to view their holdings, while withdrawals and trading remain suspen...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6MCS6V48YKBXE34JHPKFCDG/hi-gate-io-5.jpg"
     }
   ],
   "various": [
     {
-      "title": "Chris Mason: The US elections will change Trump - how will Burnham react?",
-      "link": "https://www.bbc.co.uk/news/articles/c615j8pw1y81o?at_medium=RSS&at_campaign=rss",
-      "desc": "The big question for the British government is does defeat at home make it more likely that Presiden...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e43/live/52316300-d88e-11f1-a97c-0fc6527f3052.jpg"
+      "title": "Vance walks Trump tightrope after blaming Iran war for election defeat",
+      "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+      "desc": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest break...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c74/live/1d4cf850-d8e5-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "title": "Pound rises to its highest level since the Brexit referendum",
-      "link": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
-      "desc": "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d226/live/51085d40-d897-11f1-bffe-b94c467713ac.jpg"
-    },
-    {
-      "title": "The NHS is relying more on charities - and that might be creating problems for patients",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn75g9d18o?at_medium=RSS&at_campaign=rss",
-      "desc": "Is it symptom a health service at breaking point - or a positive way of involving the public?",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2be5/live/eed75af0-d845-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-      "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
-      "desc": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f23/live/c9877cb0-d8a1-11f1-93e1-3b657b665bcf.png"
+      "title": "'Hopefully things get done': Americans react to historic political shift",
+      "link": "https://www.bbc.co.uk/news/videos/cwj0l61e2927o?at_medium=RSS&at_campaign=rss",
+      "desc": "The BBC spoke to voters from different states for their reaction to Democrats taking control of both...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61e6/live/144f7f70-d89f-11f1-a701-fddedf244c16.jpg"
     },
     {
       "title": "Interest rates expected to rise for first time in over three years",
@@ -183,10 +171,22 @@
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e8c/live/91074120-d849-11f1-b870-55415e6a9944.jpg"
     },
     {
-      "title": "British man infected with Ebola in DR Congo to be flown back to UK",
-      "link": "https://www.bbc.co.uk/news/articles/crq8nj7xqdv9o?at_medium=RSS&at_campaign=rss",
-      "desc": "The wider risk to the UK public from the deadly virus remains low, a government spokesperson says.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b714/live/371f2960-d86d-11f1-85ab-b3cc3b5498c6.jpg"
+      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+      "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+      "desc": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff8f/live/68eb4bf0-d8e4-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "title": "The NHS is relying more on charities - and that might be creating problems for patients",
+      "link": "https://www.bbc.co.uk/news/articles/c65yn75g9d18o?at_medium=RSS&at_campaign=rss",
+      "desc": "Is it symptom a health service at breaking point - or a positive way of involving the public?",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2be5/live/eed75af0-d845-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
+      "link": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
+      "desc": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30ea/live/eaa602a0-d75b-11f1-8f6b-d71817972456.jpg"
     }
   ]
 }
