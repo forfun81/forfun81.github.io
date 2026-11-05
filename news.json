@@ -1,6 +1,24 @@
 {
   "games": [
     {
+      "title": "EA Killed Mass Effect But Is Still Trying To Make Money On It",
+      "link": "https://www.gamespot.com/articles/ea-killed-mass-effect-but-is-still-trying-to-make-money-on-it/",
+      "desc": "Electronic Arts recently killed off Mass Effect and closed developer BioWare entirely, but the publi...",
+      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/N7Day-Large.jpeg?w=300"
+    },
+    {
+      "title": "Buy Games On Prime? Your Membership Now Gets You Free Uber Eats Delivery, Too",
+      "link": "https://www.gamespot.com/articles/buy-games-on-prime-your-membership-now-gets-you-free-uber-eats-delivery-too/",
+      "desc": "If you're among the millions of Amazon Prime subscribers--maybe you use the platform to buy games--y...",
+      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/Jason_and_Lucia_14.jpg?w=300"
+    },
+    {
+      "title": "Switch 2 Won’t Get Another Price Hike, At Least Not Soon, Nintendo Says",
+      "link": "https://www.gamespot.com/articles/switch-2-wont-get-another-price-hike-at-least-not-soon-nintendo-says/",
+      "desc": "As part of Nintendo's latest earnings briefing, the company said it has no plans to increase the Swi...",
+      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/Zelda-Large.jpeg?w=300"
+    },
+    {
       "title": "GTA 6 Looks Pretty Realistic, Until It Comes To Gym Etiquette",
       "link": "https://www.gamespot.com/articles/gta-6-looks-pretty-realistic-until-it-comes-to-gym-etiquette/",
       "desc": "Compared to previous games in the series, Grand Theft Auto 6 looks like it'll only be a few steps re...",
@@ -17,65 +35,71 @@
       "link": "https://www.gamespot.com/articles/gta-6-lots-of-new-images-have-been-released/",
       "desc": "Rockstar has released a big batch of new Grand Theft Auto 6 screenshots as part of what the develope...",
       "img": "https://www.gamespot.com/wp-content/uploads/2026/11/Jason.jpg?w=300"
-    },
-    {
-      "title": "Arkane Union Accuses Microsoft Of “Sabotaging” Development Of Marvel’s Blade",
-      "link": "https://www.gamespot.com/articles/arkane-union-accuses-microsoft-of-sabotaging-development-of-marvels-blade/",
-      "desc": "As the fate of Arkane Lyon hangs in the balance, a union representing workers from the French studio...",
-      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/Marvels-Blade-_-Announcement-Trailer-_-The-Game-Awards-2023-0-1-15.jpeg?w=300"
-    },
-    {
-      "title": "Marvel’s Wolverine Has Lost Its Momentum, And Sony’s Numbers Show It",
-      "link": "https://www.gamespot.com/articles/marvels-wolverine-has-lost-its-momentum-and-sonys-numbers-show-it/",
-      "desc": "Marvel's Wolverine got off to a strong start when it launched in September, but since then, it looks...",
-      "img": "https://www.gamespot.com/wp-content/uploads/2026/07/Wolverine-the-hand.jpg?w=300"
-    },
-    {
-      "title": "GTA 6 Boss Talks The Game’s Budget And Calls Out A “High-Profile” Game For Releasing In A Rough State",
-      "link": "https://www.gamespot.com/articles/gta-6-boss-talks-the-games-budget-and-calls-out-a-high-profile-game-for-releasing-in-a-rough-state/",
-      "desc": "Grand Theft Auto 6 is the biggest game that Rockstar Games has ever made, and it was no doubt very e...",
-      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/Lucia_Caminos_02.jpg?w=300"
     }
   ],
   "movies": [
+    {
+      "title": "Someone Finally Asked Matt Damon When He Knew The Odyssey Would Be A Hit. His Answer Was Really Satisfying",
+      "link": "https://www.cinemablend.com/movies/asked-matt-damon-when-knew-the-odyssey-hit-answer-satisfying",
+      "desc": "I figured it would be a hit, but did he?",
+      "img": "https://cdn.mos.cms.futurecdn.net/7Ns5AVveEByUwDhkKg2Z2A-1920-80.jpg"
+    },
+    {
+      "title": "This Crossword Puzzle Is Dedicated Entirely To Stephen King Adaptations",
+      "link": "https://www.cinemablend.com/movies/stephen-king-movie-adaptation-crossword-puzzle-quiz",
+      "desc": "How good is your Stephen King movie knowledge?",
+      "img": "https://cdn.mos.cms.futurecdn.net/Tzvj3qDWPJukLneM39rEam-1920-80.jpg"
+    },
+    {
+      "title": "Ramayana Is Making A Huge Global Push. I Still Can't Tell From Reviews What I'm Getting Into",
+      "link": "https://www.cinemablend.com/movies/ramayana-making-huge-global-push-still-cant-tell-from-reviews-what-getting-into",
+      "desc": "Just what should I be getting out of this Indian epic?",
+      "img": "https://cdn.mos.cms.futurecdn.net/Ze29QgkUYEHFBG5WKiSuTb-1920-80.jpg"
+    },
+    {
+      "title": "Forget Dunesday, Jack Black Would Like To Get Jumanji In On The Christmas Movie Nickname Fun",
+      "link": "https://www.cinemablend.com/movies/forget-dunesday-jack-black-jumanji-christmas-movie-nickname-fun",
+      "desc": "I just love this man.",
+      "img": "https://cdn.mos.cms.futurecdn.net/PDearTvh72YhH3wNZMQh4S-1920-80.jpg"
+    },
+    {
+      "title": "Godzilla Minus Zero Reviews Have Me Rethinking My Weekend Plans",
+      "link": "https://www.cinemablend.com/movies/godzilla-minus-zero-reviews-rethinking-my-weekend-plans",
+      "desc": "I might have to see the destruction for myself.",
+      "img": "https://cdn.mos.cms.futurecdn.net/LjrbEpmo8jFWuxqotHhKLP-1920-80.jpg"
+    },
     {
       "title": "Andrew Garfield Just Had A Really Morbid Take On Playing Spider-Man (But He’s Not Wrong)",
       "link": "https://www.cinemablend.com/movies/andrew-garfield-really-morbid-take-playing-spider-man-not-wrong",
       "desc": "Some superhero roles, if you'll forgive the pun, really do stick with you forever.",
       "img": "https://cdn.mos.cms.futurecdn.net/TQwuosAo2umgQwfNQTLDCf-1920-80.jpg"
-    },
-    {
-      "title": "Epic Universe Finally Announced Its New Dark Universe Ride. I Don’t Think It Will Stop The Rumors",
-      "link": "https://www.cinemablend.com/theme-parks/epic-universe-announced-new-dark-universe-ride-rumors-2027-fast-coaster-makeup",
-      "desc": "Oh I love this so much. Sign me up.",
-      "img": "https://cdn.mos.cms.futurecdn.net/Qt6eaVoMARbxYWrWG4mHNC-1920-80.jpg"
-    },
-    {
-      "title": "I Liked Street Fighter, But I’m Not Surprised By Its Box Office Run",
-      "link": "https://www.cinemablend.com/movies/box-office/liked-street-fighter-not-surprised-by-box-office-run",
-      "desc": "It looks like the third time isn't the charm when it comes to live-action Street Fighter.",
-      "img": "https://cdn.mos.cms.futurecdn.net/Wp37p69eX8qXpjgHPmFXmN-1920-80.jpg"
-    },
-    {
-      "title": "A Bunch Of Psychologists Were Asked About You Can See Everything, And Their Answers Are Fascinating",
-      "link": "https://www.cinemablend.com/movies/psychologists-asked-about-you-can-see-everything-answers-are-fascinating-elizabeth-holmes",
-      "desc": "What does Holmes’ unblinking stare tell us?",
-      "img": "https://cdn.mos.cms.futurecdn.net/sqzfxsujMqvvk4hhRWjdhM-1920-80.jpg"
-    },
-    {
-      "title": "I’d Been Missing Margot Robbie On The Red Carpet. She Was Just Perfection In Sheer Chanel",
-      "link": "https://www.cinemablend.com/movies/id-missing-margot-robbie-red-carpet-perfection-sheer-chanel",
-      "desc": "She's back, and she obviously looks amazing.",
-      "img": "https://cdn.mos.cms.futurecdn.net/BZS3Mcyo2VEt4w7xzeoUFT-1920-80.jpg"
-    },
-    {
-      "title": "Project Hail Mary’s Andy Weir Has One ‘Problem’ With Star Wars (And I See His Point)",
-      "link": "https://www.cinemablend.com/movies/project-hail-mary-andy-weir-one-problem-with-star-wars",
-      "desc": "The galaxy far, far away isn't immune to criticsm.",
-      "img": "https://cdn.mos.cms.futurecdn.net/Cs3M9vCVWJkE26UvmXENYE-1920-80.jpg"
     }
   ],
   "tech": [
+    {
+      "title": "Grab a Nintendo Switch 2 controller upgrade from $49, just in time for Zelda: Ocarina of Time's remaster",
+      "link": "https://www.tomshardware.com/video-games/handheld-gaming/grab-a-nintendo-switch-2-controller-upgrade-from-usd49-just-in-time-for-zelda-ocarina-of-times-remaster-secure-the-tools-to-defeat-ganondorf-with-these-top-wireless-gamepads-from-8bitdo-gamesir-and-others",
+      "desc": "A selection of the best Switch 2 controllers for getting your best Zelda game on.",
+      "img": "https://cdn.mos.cms.futurecdn.net/3NJwsDb2ZHUq86gkXxgZs8-1920-80.png"
+    },
+    {
+      "title": "Combined OpenSSH and musl-libc flaws let anyone into Alpine Linux and other distros by typing anything over 256 characters as a password",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/combined-flaws-let-anyone-into-alpine-linux-and-other-distros-by-typing-anything-over-256-characters-as-a-password-emergency-fixes-for-openssh-and-musl-libc-issued-for-millions-of-systems-patch-immediately",
+      "desc": "Combined OpenSSH and musl-libc flaws let anyone into Alpine Linux and other distros by typing anythi...",
+      "img": "https://cdn.mos.cms.futurecdn.net/BptY8MpPGXGUqczAtupMHF-1920-80.jpg"
+    },
+    {
+      "title": "India targets creating homegrown GPUs within 2 years and plans to commercialize indigenous SHAKTI and VEGA processors",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/india-targets-creating-homegrown-gpus-within-2-years-and-plans-to-commercialize-indigenous-shakti-and-vega-risc-v-processors-sees-ai-boom-as-a-potential-repeat-of-the-y2k-opportunity-for-its-it-industry",
+      "desc": "MeitY Secretary S. Krishnan says India plans to develop its own GPU under Semiconductor Mission 2.0,...",
+      "img": "https://cdn.mos.cms.futurecdn.net/EN5Ypr5L9wXQ4gEa4VKpKJ-1920-80.jpg"
+    },
+    {
+      "title": "Chinese AI lab Moonshot reportedly looked at European data centers to access Nvidia chips, report claims",
+      "link": "https://www.tomshardware.com/tech-industry/policy/chinese-ai-lab-moonshot-reportedly-looked-at-european-data-centers-to-access-nvidia-chips-report-claims-kimi-maker-primarily-interested-in-inferencing-capacity-but-also-asked-about-training-clusters",
+      "desc": "The lab is reportedly interested in renting at least 8,000 Nvidia Blackwell GPUs.",
+      "img": "https://cdn.mos.cms.futurecdn.net/fmbubhzMvhqdXsuXX8CbYA-1920-80.png"
+    },
     {
       "title": "Nintendo Switch 2 sales dropped by 41% from last year due to console's price increase",
       "link": "https://www.tomshardware.com/video-games/nintendo/nintendo-switch-2-sales-dropped-by-41-percent-from-last-year-due-to-consoles-price-increase-pressure-to-release-more-big-games-to-make-up-for-shortfall",
@@ -87,71 +111,53 @@
       "link": "https://www.tomshardware.com/monitors/portable-monitors/uperfect-gr14bu-portable-monitor-review",
       "desc": "With a 3K OLED panel and a 120 Hz refresh rate, the GR14BU comes out swinging.",
       "img": "https://cdn.mos.cms.futurecdn.net/ovT2E7EidRbcdL9BVSTsW8-1920-80.jpg"
-    },
-    {
-      "title": "Intel leaker claims Nova Lake desktop chips have 5.1 GHz clock limit beyond 90°C",
-      "link": "https://www.tomshardware.com/pc-components/cpus/intel-leaker-claims-nova-lake-desktop-chips-have-5-1-ghz-clock-limit-beyond-90-c-high-clock-speeds-could-demand-significant-cooling-for-next-gen-chips",
-      "desc": "A known Intel leaker claims that Intel's next-generation processors will top out at 5.1 GHz if the C...",
-      "img": "https://cdn.mos.cms.futurecdn.net/B4avSRi36yewaj7Wyj3k5Q-1920-80.jpg"
-    },
-    {
-      "title": "Micron's $4.5 billion Taoyuan plant construction halted amidst labor dispute",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/microns-usd4-5-billion-taoyuan-plant-construction-halted-amidst-labor-dispute-company-and-union-still-havent-reached-agreement-as-latter-asks-for-clearer-profit-sharing-terms",
-      "desc": "Micron and the Taoyuan labor union is set to meet again on November 6 as the two parties engage in a...",
-      "img": "https://cdn.mos.cms.futurecdn.net/xDHo6JHbRwqU3VtPmCmG2n-1920-80.png"
-    },
-    {
-      "title": "Boost your Nintendo Switch 2's storage for Zelda: Ocarina of Time with these microSD Express deals, starting at $48",
-      "link": "https://www.tomshardware.com/pc-components/microsd-cards/boost-your-nintendo-switch-2s-storage-for-zelda-ocarina-of-time-with-these-microsd-express-deals-starting-at-usd48-make-room-for-hyrule-with-these-high-speed-cards-that-double-or-triple-your-game-storage",
-      "desc": "With the Legend of Zelda: Ocarina of Time remake now available for the Nintendo Switch 2, you're goi...",
-      "img": "https://cdn.mos.cms.futurecdn.net/Q4r3HMpNUujz2WFpSvzgNe-1920-80.png"
-    },
-    {
-      "title": "Apple MacBook Pro with PROLED XDR Display review: The screen that every Mac deserves",
-      "link": "https://www.tomshardware.com/laptops/macbooks/apple-macbook-pro-with-proled-xdr-display-review",
-      "desc": "Apple's MacBook Pro with PROLED Display has lots of small tweaks that make it a major upgrade, inclu...",
-      "img": "https://cdn.mos.cms.futurecdn.net/LbMhawpHCpsfZcmbETFvA4-1920-80.jpg"
     }
   ],
   "crypto": [
     {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impac...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
+      "title": "Asian crypto exchanges bunker down as hacks surge: Asia Express",
+      "link": "https://cointelegraph.com/magazine/asian-crypto-exchanges-bunker-down-as-hacks-surge-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Asian crypto exchanges are scrambling to tighten security on fears of a wave of potentially AI-assis...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2RR0R87D4ZNY7FB45GN96P2/magazineasia-expressriver.jpg"
     },
     {
-      "title": "Blockchain is ‘perfect solution’ for AI agent trust, VeChain CEO says",
-      "link": "https://cointelegraph.com/news/blockchain-is-perfect-solution-for-ai-agent-trust-vechain-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Sunny Lu said AI agents would need identity and reputation systems, making the case while promoting ...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NVZ81DDBWF6QP902GQ9K32/crypto-assets-management.jpg"
+      "title": "Crypto ally French Hill wins reelection but set to lose House chair",
+      "link": "https://cointelegraph.com/news/crypto-ally-french-hill-wins-reelection-arkansas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Republican French Hill secured another term in Congress but will lose his leadership of the House Fi...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6PRB5HN8051MQNHPJKXZT9K/fortune-glass-for-vote-prediction.jpg"
     },
     {
-      "title": "Can decentralized phone networks power the AI revolution?",
-      "link": "https://cointelegraph.com/magazine/can-decentralized-phone-networks-power-the-ai-revolution?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Decentralized AI networks want to turn everyday phones into an alternative to centralized computing ...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6K289G5D1S84SBS2M2C0HF1/magazine-ai-agents-on-base.png"
+      "title": "Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack",
+      "link": "https://cointelegraph.com/news/binance-deribit-revoke-signalplus-api-fake-teams-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "SignalPlus said attackers compromised an engineer’s computer in a breach that resulted in losses of ...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6PE57WMSNEKDPGAVGB8MBPQ/password-fraud-hacker-scam.png"
     },
     {
-      "title": "Trump’s memecoin ventures derailed CLARITY Act, Scaramucci says",
-      "link": "https://cointelegraph.com/news/scaramucci-trump-memecoins-clarity-act-failure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The SkyBridge founder said disputes over ethics restrictions also stalled negotiations, with both si...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NRM1CFBRDW897ACTE4GX9T/trump-meme-coins.jpg"
+      "title": "Fed, OCC check US banks after Binance hack as experts flag security risks",
+      "link": "https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "US regulators reportedly contacted banks following last week’s $6.3 billion Binance security hack, w...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6PFFXJ4XKPEQ9E1ESY0C401/two-men-with-badges.png"
     },
     {
-      "title": "Thailand to block Bitget in December over unlicensed crypto trading",
-      "link": "https://cointelegraph.com/news/thailand-block-bitget-december-unlicensed-crypto-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Thailand’s SEC filed a criminal complaint against Bitget’s operator, with access to its website and ...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NPN42BG6Z4FSAM7R35THVD/hi-bitget-research-article-350000-crypto-currency-traders-in-japan-bitget-research-2.jpg"
+      "title": "Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum",
+      "link": "https://cointelegraph.com/news/amundi-tokenizes-european-equity-index-fund-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The new share class offers blockchain-based exposure to an index tracking 600 companies across Europ...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6P8H9870ZQY6MMMYHJSDGZ5/hi-how-binance-plans-to-bring-tokenized-us-stocks-4.png"
     },
     {
-      "title": "Bitcoin win rate vs. S&P 500 recovers as post-midterm history favors stocks",
-      "link": "https://cointelegraph.com/markets/bitcoin-win-rate-sp-500-us-midterms-stocks-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Bitcoin outperformed the S&P 500 in half of the past 90 US trading sessions, while historical midter...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NHVT2Y3ZSYPXGPS15XJ5BN/hi-japan-ipo-stocks-explained2-960x644-960x644.webp"
+      "title": "Paraguay president resigns after collapse of Ueno digital bank",
+      "link": "https://cointelegraph.com/news/paraguay-president-resigns-after-collapse-ueno-digital-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Santiago Peña stepped down amid mounting scrutiny over his former ties to Ueno Bank’s parent company...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6PC0KXVM1KKT7EEB7A24X5R/hi-bitcoin-a-property-as-of-paraguay.png"
     }
   ],
   "various": [
+    {
+      "title": "Russell Brand found guilty of rape and sexual assault",
+      "link": "https://www.bbc.co.uk/news/articles/ckyvrze96y70o?at_medium=RSS&at_campaign=rss",
+      "desc": "Brand is told to expect a prison sentence \"of some length\" and faces more rape allegations, it can n...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2478/live/e8f58d90-d94a-11f1-a701-fddedf244c16.jpg"
+    },
     {
       "title": "Watch: Met Police release Brand interview footage",
       "link": "https://www.bbc.co.uk/news/videos/c693ze38vywxo?at_medium=RSS&at_campaign=rss",
@@ -159,34 +165,28 @@
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d4b/live/2f491270-d938-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-      "title": "Russell Brand is being investigated over two new rape complaints, police say",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss",
-      "desc": "Det Supt Andy Furphy said he hoped other potential victims would gain \"courage\" and \"confidence\" fro...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/971f/live/99bc2d20-d930-11f1-93e1-3b657b665bcf.jpg"
+      "title": "Henry Nowak’s killer has minimum term increased to 25 years by Court of Appeal",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy9z5423p2o?at_medium=RSS&at_campaign=rss",
+      "desc": "Judges ruled Vickrum Digwa's original term was unduly lenient and refused his bid to have it cut.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac27/live/51d20e90-5dc4-11f1-ae8d-59e8183471b2.jpg"
     },
     {
-      "title": "Interest rates hiked to 4% in first increase in over three years",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
-      "desc": "Most analysts expected the increase from 3.75% to 4%.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e8c/live/91074120-d849-11f1-b870-55415e6a9944.jpg"
+      "title": "California governor commutes sentences for state's 548 death row inmates",
+      "link": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+      "desc": "California has historically had the largest population of people on death row in the US.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e11/live/430c9930-d956-11f1-b7f4-8bd3c0617693.jpg"
     },
     {
-      "title": "Married at First Sight UK cancelled after BBC revealed rape allegations",
-      "link": "https://www.bbc.co.uk/news/articles/cw33xm0de221o?at_medium=RSS&at_campaign=rss",
-      "desc": "Three women made allegations about the men they were partnered with. Channel 4 has apologised and sa...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d63/live/14362470-d936-11f1-b441-2b33b063138f.png"
+      "title": "Messages reveal how hoax threat was passed on by air traffic control",
+      "link": "https://www.bbc.co.uk/news/videos/cq398m8w41lyo?at_medium=RSS&at_campaign=rss",
+      "desc": "BBC Verify has been analysing messages after flights across Europe were targeted by fake bomb threat...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8ac/live/89154780-d945-11f1-a701-fddedf244c16.png"
     },
     {
-      "title": "A bitter end for Ronaldo - the icon who transformed Portugal announces international retirement",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&at_campaign=rss",
-      "desc": "As Cristiano Ronaldo retires from international football, Guillem Balague looks at why and what is n...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cf5/live/dfdded40-d915-11f1-a81d-35e942472442.jpg"
-    },
-    {
-      "title": "Watch: Was an Italian chef really fired over refusal to put pineapple on pizza?",
-      "link": "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo?at_medium=RSS&at_campaign=rss",
-      "desc": "The chef had stated that putting pineapple on pizza was \"offensive to his culture\".",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/272e/live/d04750e0-d903-11f1-93e1-3b657b665bcf.jpg"
+      "title": "King relishes 'politically charged' deployments, Palace aide says",
+      "link": "https://www.bbc.co.uk/news/articles/c8n5vvr906dvo?at_medium=RSS&at_campaign=rss",
+      "desc": "The monarch faced questions on the UK's involvement in the slave trade during his Caribbean tour.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33c2/live/26341c80-d94b-11f1-a701-fddedf244c16.jpg"
     }
   ]
 }
