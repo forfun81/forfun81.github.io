@@ -115,10 +115,28 @@
   ],
   "crypto": [
     {
-      "title": "Core Scientific to quit Bitcoin mining by year-end as AI business surges",
-      "link": "https://cointelegraph.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The former Bitcoin mining heavyweight plans to become a pure-play data center provider in 2027, with...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6Q3CQMWTQJT7XAQTHW92TAX/bitcoin-5.jpg"
+      "title": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool",
+      "link": "https://cointelegraph.com/news/zcash-nu7-upgrade-15m-sprout-funds-unspendable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Zcash’s NU7 upgrade has rendered about $15 million in legacy Sprout funds unspendable, although a fu...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2QZ8PA38PE2N6K2QE0N13TT/hi-top-5-biggest-mining-farms-zcash-2.jpg"
+    },
+    {
+      "title": "Hyperliquid Strategies seeks futures registration for perps",
+      "link": "https://cointelegraph.com/news/nasdaq-hyperliquid-strategies-futures-broker-license-onchain-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The HYPE treasury company spent $785 million on tokens during the quarter and wants to bring Hyperli...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6QXFT81EJZ5FY6966J6NXJE/hiblockchain-powered-prediction-platforms-hyperliquid-2.jpg"
+    },
+    {
+      "title": "Bitcoin, Ether ETFs post $530M outflows as election gains evaporate",
+      "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "US spot Bitcoin and Ether ETFs shed a combined $530 million Thursday as Bitcoin fell below $76,000 a...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3KK0Y54WJHFMWNR7WW9P8FT/hi-crypto-trading-basics-a-beginners-guide-to-cryptocurrency-order-types1-4.jpg"
+    },
+    {
+      "title": "Chainalysis says breach exposed password hashes and live tokens",
+      "link": "https://cointelegraph.com/news/chainalysis-cyberattack-password-hashes-live-tokens-exposed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Chainalysis disclosed password hashes and live tokens were exposed after initially reporting only no...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2005NQRX5E6SV5DN6KN3Z8T/hi-how-great-big-companies-use-blockchain3.jpg"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -127,66 +145,48 @@
       "img": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
     },
     {
-      "title": "American Bitcoin’s $126M profit masks mining pressure as rivals turn to AI",
-      "link": "https://cointelegraph.com/news/american-bitcoins-126m-profit-masks-mining-pressure-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The Eric Trump-backed miner reported $126 million in quarterly net income, largely driven by gains o...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6PN518266V0HS41TJ9DPJYP/make-bitcoin-great-again2.png"
-    },
-    {
-      "title": "Asian crypto exchanges batten down the hatches as hacks surge: Asia Express",
-      "link": "https://cointelegraph.com/magazine/asian-crypto-exchanges-bunker-down-as-hacks-surge-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Asian crypto exchanges are scrambling to tighten security on fears of a wave of potentially AI-assis...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2RR0R87D4ZNY7FB45GN96P2/magazineasia-expressriver.jpg"
-    },
-    {
-      "title": "Crypto ally French Hill wins reelection but set to lose House chair",
-      "link": "https://cointelegraph.com/news/crypto-ally-french-hill-wins-reelection-arkansas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Republican French Hill secured another term in Congress but will lose his leadership of the House Fi...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6PRB5HN8051MQNHPJKXZT9K/fortune-glass-for-vote-prediction.jpg"
-    },
-    {
-      "title": "Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack",
-      "link": "https://cointelegraph.com/news/binance-deribit-revoke-signalplus-api-fake-teams-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "SignalPlus said attackers compromised an engineer’s computer in a breach that resulted in losses of ...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6PE57WMSNEKDPGAVGB8MBPQ/password-fraud-hacker-scam.png"
+      "title": "Crypto exchanges tout cold storage ratios after Binance attack",
+      "link": "https://cointelegraph.com/news/binance-hack-puts-crypto-exchanges-cold-wallet-ratio-under-spotlight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Coinbase says it keeps more than 99% of customer assets offline, while Gate reports 88.26% of its to...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6QCQ9E3FBH5XSMVA720JM6M/cold-storage.jpg"
     }
   ],
   "various": [
     {
-      "title": "Russell Brand found guilty of rape and sexual assault",
-      "link": "https://www.bbc.co.uk/news/articles/ckyvrze96y70o?at_medium=RSS&at_campaign=rss",
-      "desc": "Brand is told to expect a prison sentence \"of some length\" and faces more rape allegations, it can n...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2478/live/e8f58d90-d94a-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
-      "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-      "desc": "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI indus...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e01/live/e1c54f70-d958-11f1-a800-d9dce9e5aa21.jpg"
+      "title": "Did a data centre revolt affect the US mid-term election results?",
+      "link": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o?at_medium=RSS&at_campaign=rss",
+      "desc": "BBC Verify examines whether US voters were influenced by the data centre boom - and the impact anti-...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c66b/live/909d6da0-d90b-11f1-b72c-d16cdc75f35f.jpg"
     },
     {
       "title": "Met chief warns policing 'heading for failure' without reform",
       "link": "https://www.bbc.co.uk/news/articles/cvglww2r307ko?at_medium=RSS&at_campaign=rss",
       "desc": "Sir Mark Rowley will argue that the current system is unable to cope with the sophistication of mode...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a50/live/01328a20-d94b-11f1-b2ee-87d22b17ac74.jpg"
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccfe/live/66892280-d9b4-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "title": "Firms told to publish salaries in job adverts ahead of new law",
+      "title": "'Misleading' student loans information left out examples of higher-salary repayments",
+      "link": "https://www.bbc.co.uk/news/articles/cqde8prpdge3o?at_medium=RSS&at_campaign=rss",
+      "desc": "The Treasury Committee chair says she is \"shocked\" after one university compared repayments to the p...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e096/live/0b65fa50-d936-11f1-8bce-2396c9c50357.jpg"
+    },
+    {
+      "title": "Watch: Met Police release Brand interview footage",
+      "link": "https://www.bbc.co.uk/news/videos/c693ze38vywxo?at_medium=RSS&at_campaign=rss",
+      "desc": "Brand was found guilty of one count of rape and three sexual assaults at Southwark Crown Court.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d4b/live/2f491270-d938-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "title": "Could the earliest weakening of the polar vortex on record bring UK snow?",
+      "link": "https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o?at_medium=RSS&at_campaign=rss",
+      "desc": "An unprecedented early weakening of the polar vortex is causing uncertainty amongst experts over the...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/107a/live/0dde0950-d9b1-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "Firms should publish salaries in job adverts ahead of new law, says PM",
       "link": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
       "desc": "The government argues the change will help jobseekers and could help to prevent pay discrimination.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e611/live/c517e390-d90f-11f1-94c6-3f8050561bf5.jpg"
-    },
-    {
-      "title": "California governor commutes sentences for state's 548 death row inmates",
-      "link": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
-      "desc": "California has historically had the largest population of people on death row in the US.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6243/live/f34ef550-d982-11f1-9367-d509fddfe31c.jpg"
-    },
-    {
-      "title": "Thatcher's Right to Buy split my estate. Now its days could be numbered",
-      "link": "https://www.bbc.co.uk/news/articles/c699zde85xn7o?at_medium=RSS&at_campaign=rss",
-      "desc": "Labour is weakening Margaret Thatcher's landmark housing policy. Will it really fix Britain's social...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71bf/live/e1a42f80-d92f-11f1-b441-2b33b063138f.jpg"
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ce1/live/dbc5f1c0-d9ca-11f1-a701-fddedf244c16.jpg"
     }
   ]
 }
