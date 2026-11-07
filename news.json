@@ -39,6 +39,30 @@
   ],
   "movies": [
     {
+      "title": "I Love Christopher Nolan’s Robert Pattinson-Oriented Oppenheimer Story. Robert Downey Jr. Telling It Is Even Better",
+      "link": "https://www.cinemablend.com/movies/i-love-christopher-nolans-robert-pattinson-oriented-oppenheimer-story-robert-downey-jr-telling-better",
+      "desc": "An incredible \"inception\" of an idea.",
+      "img": "https://cdn.mos.cms.futurecdn.net/HiYSS3wuoiZkVeQTHPGi8i-1920-80.jpg"
+    },
+    {
+      "title": "Two Scenes In There’s Something About Mary Led To A Six-Month Behind-The-Scenes Battle",
+      "link": "https://www.cinemablend.com/movies/something-abour-mary-zipper-hair-gel-scenes-battle-farrelly",
+      "desc": "Is that hair gel?",
+      "img": "https://cdn.mos.cms.futurecdn.net/3LQWT6xbnGxpvNd5bDkAoJ-1920-80.jpg"
+    },
+    {
+      "title": "You Can See Everything Has So Many Close-Ups Of Elizabeth Holmes’ Face. Nathan Fielder Explains Why",
+      "link": "https://www.cinemablend.com/movies/nathan-fielder-explains-you-can-see-everything-having-many-close-ups-elizabeth-holmes-face",
+      "desc": "As plain as the look on her face.",
+      "img": "https://cdn.mos.cms.futurecdn.net/JgkG5g4c9693K74NLBb7Ne-1920-80.jpg"
+    },
+    {
+      "title": "Brad Pitt Still Has Kids Who Haven’t Dropped His Name, But There’s Allegedly Not Good News",
+      "link": "https://www.cinemablend.com/movies/brad-pitt-kid-name-change-update-amid-estrangement",
+      "desc": "More than half of Pitt's children have dropped his name.",
+      "img": "https://cdn.mos.cms.futurecdn.net/J2usfn79kZk49DT5p6dA8a-1920-80.jpg"
+    },
+    {
       "title": "It's Really Trippy Watching Tom Holland Pop In And Out Of His Peter Parker Spider-Man Accent",
       "link": "https://www.cinemablend.com/movies/trippy-watching-tom-holland-pop-in-out-of-peter-parker-spider-man-accent",
       "desc": "I can't get enough of this.",
@@ -49,41 +73,17 @@
       "link": "https://www.cinemablend.com/movies/wildwood-isnt-doing-well-at-box-office-just-happy-it-exists-in-world-ai",
       "desc": "Laika is a studio that can do no wrong!",
       "img": "https://cdn.mos.cms.futurecdn.net/p8uwSEdv3Ub7WFYeSrEyE9-1920-80.jpg"
-    },
-    {
-      "title": "How Does Michael Jackson’s Son Prince Feel About Jaafar Playing The Late Singer?",
-      "link": "https://www.cinemablend.com/movies/how-does-michael-jackson-son-prince-feel-about-jaafar-jackson-playing-late-singer-prince-jackson",
-      "desc": "Prince Jackson recently opened up.",
-      "img": "https://cdn.mos.cms.futurecdn.net/mS4SsBER7rMoi7hsMD7oDA-1920-80.jpg"
-    },
-    {
-      "title": "The (Wild) Story Behind How The Rocky Statue Actually Caused Problems For I Play Rocky",
-      "link": "https://www.cinemablend.com/movies/wild-story-behind-how-rocky-statue-problems-i-play-rocky",
-      "desc": "The statue that pays homage to Rocky got in another Rocky homage's way.",
-      "img": "https://cdn.mos.cms.futurecdn.net/HJaTYfca4wC6E8Fjnaa6MB-1920-80.jpg"
-    },
-    {
-      "title": "Someone Asked Timothèe Chalamet How He Feels About Dune’s Ending (And Now I Can't Wait)",
-      "link": "https://www.cinemablend.com/movies/someone-asked-timothee-chalamet-how-feels-about-dune-part-three-ending-cant-wait",
-      "desc": "Can this be in theaters now?",
-      "img": "https://cdn.mos.cms.futurecdn.net/CiiTA72Y4FPQqaXR9QDSY8-1920-80.jpg"
-    },
-    {
-      "title": "Ali G Who Iz I Annoyed Me Because It Addressed The Wrong Problem With Sacha Baron Cohen's Character",
-      "link": "https://www.cinemablend.com/movies/ali-g-who-iz-i-annoyed-me-because-addressed-wrong-problem-with-sacha-baron-cohen-character",
-      "desc": "This only made me more upset when watching.",
-      "img": "https://cdn.mos.cms.futurecdn.net/jETnAmfQo7ov8dC46XqXHQ-1920-80.jpg"
     }
   ],
   "tech": [
     {
-      "title": "This week in Tom's Hardware Premium: November 7, 2026 — Micron roadmap, Apple's touchscreen ambitions, GlobalFoundries interview, and much more",
+      "title": "This week in Tom's Hardware Premium: November 7, 2026",
       "link": "https://www.tomshardware.com/tech-industry/this-week-in-toms-hardware-premium-november-7-2026-micron-roadmap-apples-touchscreen-ambitions-globalfoundries-interview-and-much-more",
       "desc": "This week on Tom's Hardware Premium, we've published in-depth interviews, roadmaps, and features you...",
       "img": "https://cdn.mos.cms.futurecdn.net/EJymn9UT9oot2ydST6x9yd-1920-80.jpg"
     },
     {
-      "title": "US intelligence believes Jensen Huang had romantic relationship with Chinese spy in honeypot operation",
+      "title": "US intelligence believes Jensen Huang had affair with Chinese spy in honeypot operation",
       "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-intelligence-believes-jensen-huang-had-romantic-relationship-with-chinese-spy-in-honeypot-operation-spy-suspect-linked-to-company-accused-of-smuggling-usd2-billion-in-ai-chips",
       "desc": "U.S. intelligence sources suggest that Nvidia chief Jensen Huang was targeted by Chinese intelligenc...",
       "img": "https://cdn.mos.cms.futurecdn.net/fjFkN4c5HUsWwQPK4dVKZR-1920-80.png"
@@ -153,40 +153,40 @@
   ],
   "various": [
     {
+      "title": "What we know about Krakow mass shooting so far",
+      "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "desc": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second ...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg"
+    },
+    {
       "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
       "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
       "desc": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic ...",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44f1/live/699ff730-daab-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-      "title": "Victims in rape cases must not feel like they are on trial, Burnham says",
-      "link": "https://www.bbc.co.uk/news/articles/crgj99j8y998o?at_medium=RSS&at_campaign=rss",
-      "desc": "The PM was responding after a police chief said comments made during Russell Brand's trial came clos...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c13/live/008276b0-da8d-11f1-b9cf-cdf633475efd.jpg"
+      "title": "Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride",
+      "link": "https://www.bbc.co.uk/news/articles/cwjdmm0z74plo?at_medium=RSS&at_campaign=rss",
+      "desc": "Laura Kuenssberg talks to government insiders about the prime minister opening the conversation abou...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ce4/live/95ac7ac0-da00-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-      "title": "Two men arrested after boy injured in sword attack",
-      "link": "https://www.bbc.co.uk/news/articles/cmwy99yzd0v9o?at_medium=RSS&at_campaign=rss",
-      "desc": "A 17-year-old boy from Gloucester has also been arrested on suspicion of assisting an offender.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acd6/live/c7e3b830-da98-11f1-8206-e519d24a9ca2.png"
+      "title": "Tens of thousands of tents flooded after heavy rains in Gaza",
+      "link": "https://www.bbc.co.uk/news/articles/cx240e5py64jo?at_medium=RSS&at_campaign=rss",
+      "desc": "Heavy rain has flooded temporary shelters used by Palestinians displaced during Israel's war with Ha...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f37/live/d00ac9e0-dac0-11f1-8c3b-f3c0d6bd7c4f.jpg"
+    },
+    {
+      "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
+      "link": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
+      "desc": "The BBC has asked the White House and TKO Holdings, the parent company of UFC, for comment.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f42/live/47f84090-dadf-11f1-88f9-d3c2139f8619.jpg"
     },
     {
       "title": "What happens if all the lights go out? This is the plan for a 'Black Sky' event",
       "link": "https://www.bbc.co.uk/news/articles/ck5ynnj05z8no?at_medium=RSS&at_campaign=rss",
-      "desc": "A Black Sky event could leave millions without power, water and communications. So how prepared is t...",
+      "desc": "How prepared is the UK for the type of event that could leave millions without power, water and comm...",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0eec/live/692e5ed0-d9e9-11f1-bbe5-797ee05bee69.jpg"
-    },
-    {
-      "title": "No clear winner after tight New Zealand general election",
-      "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-      "desc": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3578/live/a76cb0d0-dab5-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "title": "Monty Don bids 'final goodbye' to Gardeners' World after two decades",
-      "link": "https://www.bbc.co.uk/news/articles/c6wyrrwj9xlro?at_medium=RSS&at_campaign=rss",
-      "desc": "The head gardener on the long-running BBC TV series signed off from Longmeadow garden on Friday.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8e7/live/d1af1d60-d9f7-11f1-84c1-dbcae60402d7.jpg"
     }
   ]
 }
