@@ -39,6 +39,18 @@
   ],
   "movies": [
     {
+      "title": "How Does Michael Jackson’s Son Prince Feel About Jaafar Playing The Late Singer?",
+      "link": "https://www.cinemablend.com/movies/how-does-michael-jackson-son-prince-feel-about-jaafar-jackson-playing-late-singer-prince-jackson",
+      "desc": "Prince Jackson recently opened up.",
+      "img": "https://cdn.mos.cms.futurecdn.net/mS4SsBER7rMoi7hsMD7oDA-1920-80.jpg"
+    },
+    {
+      "title": "The (Wild) Story Behind How The Rocky Statue Actually Caused Problems For I Play Rocky",
+      "link": "https://www.cinemablend.com/movies/wild-story-behind-how-rocky-statue-problems-i-play-rocky",
+      "desc": "The statue that pays homage to Rocky got in another Rocky homage's way.",
+      "img": "https://cdn.mos.cms.futurecdn.net/HJaTYfca4wC6E8Fjnaa6MB-1920-80.jpg"
+    },
+    {
       "title": "Someone Asked Timothèe Chalamet How He Feels About Dune’s Ending (And Now I Can't Wait)",
       "link": "https://www.cinemablend.com/movies/someone-asked-timothee-chalamet-how-feels-about-dune-part-three-ending-cant-wait",
       "desc": "Can this be in theaters now?",
@@ -61,18 +73,6 @@
       "link": "https://www.cinemablend.com/movies/in-my-feelings-over-how-patrick-stewarts-logan-co-star-spoke-about-him-before-his-death-dafne-keen",
       "desc": "A heartwarming discussion about Professor X with Dafne Keen.",
       "img": "https://cdn.mos.cms.futurecdn.net/QkgzBmnqMpN6brm86c4QqD-1920-80.jpg"
-    },
-    {
-      "title": "I've Been Stumped Over Elizabeth Holmes Turning Down Money For You Can See Everything, But There May Be An Unavoidable Reason",
-      "link": "https://www.cinemablend.com/movies/i-stumped-elizabeth-holmes-turning-down-money-you-can-see-everything-unavoidable-reason",
-      "desc": "She’s not just sentenced to prison, remember.",
-      "img": "https://cdn.mos.cms.futurecdn.net/Mo7MBZHsQoubVEU2MndVDT-1920-80.jpg"
-    },
-    {
-      "title": "Everyone Pay Attention: Mckenna Grace Just Recreated Jennifer Lawrence's Iconic Sheer Floral Look",
-      "link": "https://www.cinemablend.com/movies/mckenna-grace-just-recreated-jennifer-lawrence-iconic-sheer-floral-look-hunger-games",
-      "desc": "Grace's Hunger Games fashion continues to kill it.",
-      "img": "https://cdn.mos.cms.futurecdn.net/EB8cQeFd8MzMb2KJoQnvhQ-1920-80.jpg"
     }
   ],
   "tech": [
@@ -159,6 +159,12 @@
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ee4/live/9c7c73d0-da1b-11f1-bba7-b50f1faa7672.jpg"
     },
     {
+      "title": "With Stephen Miller pick, Trump readies for a battle",
+      "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+      "desc": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/492d/live/41326240-da17-11f1-bba7-b50f1faa7672.jpg"
+    },
+    {
       "title": "Brand's barrister refers himself to regulator after report he confronted journalist",
       "link": "https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o?at_medium=RSS&at_campaign=rss",
       "desc": "Ian Winter allegedly confronted a reporter outside court who had investigated the comedian.",
@@ -169,12 +175,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cm4g1jqwylvgo?at_medium=RSS&at_campaign=rss",
       "desc": "The behaviour that formed the backdrop to Brand's prosecution also helped elevate him, writes the BB...",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c438/live/d83946e0-d87d-11f1-a364-a1fce50dd192.jpg"
-    },
-    {
-      "title": "Trump replaces White House chief of staff days after Republicans suffer midterm defeats",
-      "link": "https://www.bbc.co.uk/news/articles/cm9qzz5x9g5yo?at_medium=RSS&at_campaign=rss",
-      "desc": "Miller, considered the architect of Trump's hard-line immigration policy, will move into the role on...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5751/live/463b6050-da19-11f1-bba7-b50f1faa7672.jpg"
     },
     {
       "title": "New wave of bomb threats hit European airlines",
