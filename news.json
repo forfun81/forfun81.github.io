@@ -77,16 +77,16 @@
   ],
   "tech": [
     {
-      "title": "Elegoo M1 Ultra review: A good first entry into the scanner market",
-      "link": "https://www.tomshardware.com/3d-printing/3d-scanning/elegoo-m1-ultra-review",
-      "desc": "Elegoo’s first scanner is a useful tool, but it requires a little extra work.",
-      "img": "https://cdn.mos.cms.futurecdn.net/i66usdGjdEJZNFU6ocr58a-1920-80.jpg"
-    },
-    {
       "title": "GlobalFoundries VP details FDX Fusion technology, sporting 7nm-class performance without the need for EUV tools — company targets 2030 for high-volume manufacturing, with planar transistors in tow",
       "link": "https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-vp-details-fdx-fusion-technology-sporting-7nm-class-performance-without-the-need-for-euv-tools-company-targets-2030-for-high-volume-manufacturing-with-planar-transistors-in-tow",
       "desc": "GlobalFoundries reveals new details about its FDX Fusion technology, which promises 7nm-class perfor...",
       "img": "https://cdn.mos.cms.futurecdn.net/D9nDwQshY7nGhWkCejQmk5-1920-80.jpg"
+    },
+    {
+      "title": "Elegoo M1 Ultra review: A good first entry into the scanner market",
+      "link": "https://www.tomshardware.com/3d-printing/3d-scanning/elegoo-m1-ultra-review",
+      "desc": "Elegoo’s first scanner is a useful tool, but it requires a little extra work.",
+      "img": "https://cdn.mos.cms.futurecdn.net/i66usdGjdEJZNFU6ocr58a-1920-80.jpg"
     },
     {
       "title": "Protesters storm Microsoft AI data center construction site",
@@ -114,6 +114,12 @@
     }
   ],
   "crypto": [
+    {
+      "title": "Nvidia may face a more hostile post-election Washington: Report",
+      "link": "https://cointelegraph.com/news/nvidia-may-be-facing-a-more-hostile-post-election-washington-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "CEO Jensen Huang’s relationship with President Donald Trump probably won’t save the company from a m...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TF8XXVHRYCKDRNDMW19WCP/analys-analytics-bisiness-man-woman-down-city-crash-nvidia.jpg"
+    },
     {
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -143,50 +149,44 @@
       "link": "https://cointelegraph.com/news/us-401k-proposal-leaves-door-open-altcoins-hurdles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "While the proposal doesn’t exclude altcoins and smaller cryptocurrencies, experts say they could fac...",
       "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6S0G0RDKT5WK8GZZHWMB7ZP/hi-token-burning-explained-sec-1.png"
-    },
-    {
-      "title": "Russia finalizes crypto trading rules ahead of Nov. 17 rollout",
-      "link": "https://cointelegraph.com/news/russia-finalizes-crypto-trading-rules-november-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The rules allow retail investors to trade BTC, ETH and USDT through regulated intermediaries, with M...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6RZKYX3G2AZB93NGGBV65NX/digital-bank-russia.png"
     }
   ],
   "various": [
     {
-      "title": "Meghan's father Thomas Markle appears in court over child sex abuse material",
+      "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
       "link": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
-      "desc": "The 82-year-old was arrested in Florida after the FBI searched two Los Angeles-area storage units he...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ee4/live/9c7c73d0-da1b-11f1-bba7-b50f1faa7672.jpg"
+      "desc": "The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage uni...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97ed/live/4b09f660-da7c-11f1-a975-15a4138f9d40.jpg"
     },
     {
-      "title": "With Stephen Miller pick, Trump readies for a battle",
+      "title": "With Stephen Miller pick as new chief of staff, Trump readies for a battle",
       "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
       "desc": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets...",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/492d/live/41326240-da17-11f1-bba7-b50f1faa7672.jpg"
     },
     {
-      "title": "Brand's barrister refers himself to regulator after report he confronted journalist",
-      "link": "https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o?at_medium=RSS&at_campaign=rss",
-      "desc": "Ian Winter allegedly confronted a reporter outside court who had investigated the comedian.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85c4/live/0ca7fd10-da2f-11f1-a701-fddedf244c16.jpg"
+      "title": "Paraguay's president impeached after collapse of bank",
+      "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "desc": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access thei...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a65d/live/3fe15d20-da57-11f1-af22-a97b84c9ca63.jpg"
     },
     {
-      "title": "How 2000s lad culture helped Russell Brand to hide in plain sight",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g1jqwylvgo?at_medium=RSS&at_campaign=rss",
-      "desc": "The behaviour that formed the backdrop to Brand's prosecution also helped elevate him, writes the BB...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c438/live/d83946e0-d87d-11f1-a364-a1fce50dd192.jpg"
+      "title": "What happens if all the lights go out? This is the plan for a 'Black Sky' event",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ynnj05z8no?at_medium=RSS&at_campaign=rss",
+      "desc": "A Black Sky event could leave millions without power, water and communications. So how prepared is t...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0eec/live/692e5ed0-d9e9-11f1-bbe5-797ee05bee69.jpg"
     },
     {
-      "title": "New wave of bomb threats hit European airlines",
-      "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
-      "desc": "No link has been established between the threats against the airlines and those against the media ou...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c047/live/33f77d10-d9ed-11f1-a701-fddedf244c16.jpg"
+      "title": "Relief, tears and sadness: Married at First Sight UK cast react to show being axed",
+      "link": "https://www.bbc.co.uk/news/articles/crx233lx94n7o?at_medium=RSS&at_campaign=rss",
+      "desc": "It was cancelled after a BBC Panorama investigation heard allegations from three former cast members...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a50/live/ef30ec60-502c-11f1-89a3-d1f559421220.jpg"
     },
     {
-      "title": "Harry and five others seek to challenge Mail publisher privacy ruling",
-      "link": "https://www.bbc.co.uk/news/articles/c8p3gg2ex4wlo?at_medium=RSS&at_campaign=rss",
-      "desc": "The Duke of Sussex and other public figures lost a High Court case against the publisher of the Dail...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2978/live/7451bc60-da18-11f1-a701-fddedf244c16.jpg"
+      "title": "Pope in 'pretty good health' as he starts Latin America tour",
+      "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
+      "desc": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15d3/live/886b05a0-da75-11f1-85ad-fd31eff31154.jpg"
     }
   ]
 }
