@@ -39,6 +39,18 @@
   ],
   "movies": [
     {
+      "title": "It's Really Trippy Watching Tom Holland Pop In And Out Of His Peter Parker Spider-Man Accent",
+      "link": "https://www.cinemablend.com/movies/trippy-watching-tom-holland-pop-in-out-of-peter-parker-spider-man-accent",
+      "desc": "I can't get enough of this.",
+      "img": "https://cdn.mos.cms.futurecdn.net/4jSttJdhpMQax9GoakQD4j-1920-80.jpg"
+    },
+    {
+      "title": "I Know Wildwood Isn't Doing Well At The Box Office, But I'm Just Happy It Exists In A World Of AI",
+      "link": "https://www.cinemablend.com/movies/wildwood-isnt-doing-well-at-box-office-just-happy-it-exists-in-world-ai",
+      "desc": "Laika is a studio that can do no wrong!",
+      "img": "https://cdn.mos.cms.futurecdn.net/p8uwSEdv3Ub7WFYeSrEyE9-1920-80.jpg"
+    },
+    {
       "title": "How Does Michael Jackson’s Son Prince Feel About Jaafar Playing The Late Singer?",
       "link": "https://www.cinemablend.com/movies/how-does-michael-jackson-son-prince-feel-about-jaafar-jackson-playing-late-singer-prince-jackson",
       "desc": "Prince Jackson recently opened up.",
@@ -61,65 +73,47 @@
       "link": "https://www.cinemablend.com/movies/ali-g-who-iz-i-annoyed-me-because-addressed-wrong-problem-with-sacha-baron-cohen-character",
       "desc": "This only made me more upset when watching.",
       "img": "https://cdn.mos.cms.futurecdn.net/jETnAmfQo7ov8dC46XqXHQ-1920-80.jpg"
-    },
-    {
-      "title": "I Think One Wild Horse Nine Performance Is 100% Oscar-Worthy (And I’m Loving That Reviews Agree)",
-      "link": "https://www.cinemablend.com/movies/wild-horse-nine-performance-john-malkovich-100-percent-oscar-worthy-reviews-agree",
-      "desc": "A master at work.",
-      "img": "https://cdn.mos.cms.futurecdn.net/5zCgAHEbd7bHf96z8JoUgG-1920-80.jpg"
-    },
-    {
-      "title": "I’m In My Feelings Over How Patrick Stewart’s Logan Co-Star Spoke About Him Before His Death",
-      "link": "https://www.cinemablend.com/movies/in-my-feelings-over-how-patrick-stewarts-logan-co-star-spoke-about-him-before-his-death-dafne-keen",
-      "desc": "A heartwarming discussion about Professor X with Dafne Keen.",
-      "img": "https://cdn.mos.cms.futurecdn.net/QkgzBmnqMpN6brm86c4QqD-1920-80.jpg"
     }
   ],
   "tech": [
     {
-      "title": "GlobalFoundries VP details FDX Fusion technology, sporting 7nm-class performance without the need for EUV tools — company targets 2030 for high-volume manufacturing, with planar transistors in tow",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-vp-details-fdx-fusion-technology-sporting-7nm-class-performance-without-the-need-for-euv-tools-company-targets-2030-for-high-volume-manufacturing-with-planar-transistors-in-tow",
-      "desc": "GlobalFoundries reveals new details about its FDX Fusion technology, which promises 7nm-class perfor...",
-      "img": "https://cdn.mos.cms.futurecdn.net/D9nDwQshY7nGhWkCejQmk5-1920-80.jpg"
+      "title": "This week in Tom's Hardware Premium: November 7, 2026 — Micron roadmap, Apple's touchscreen ambitions, GlobalFoundries interview, and much more",
+      "link": "https://www.tomshardware.com/tech-industry/this-week-in-toms-hardware-premium-november-7-2026-micron-roadmap-apples-touchscreen-ambitions-globalfoundries-interview-and-much-more",
+      "desc": "This week on Tom's Hardware Premium, we've published in-depth interviews, roadmaps, and features you...",
+      "img": "https://cdn.mos.cms.futurecdn.net/EJymn9UT9oot2ydST6x9yd-1920-80.jpg"
     },
     {
-      "title": "Elegoo M1 Ultra review: A good first entry into the scanner market",
-      "link": "https://www.tomshardware.com/3d-printing/3d-scanning/elegoo-m1-ultra-review",
-      "desc": "Elegoo’s first scanner is a useful tool, but it requires a little extra work.",
-      "img": "https://cdn.mos.cms.futurecdn.net/i66usdGjdEJZNFU6ocr58a-1920-80.jpg"
+      "title": "US intelligence believes Jensen Huang had romantic relationship with Chinese spy in honeypot operation",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-intelligence-believes-jensen-huang-had-romantic-relationship-with-chinese-spy-in-honeypot-operation-spy-suspect-linked-to-company-accused-of-smuggling-usd2-billion-in-ai-chips",
+      "desc": "U.S. intelligence sources suggest that Nvidia chief Jensen Huang was targeted by Chinese intelligenc...",
+      "img": "https://cdn.mos.cms.futurecdn.net/fjFkN4c5HUsWwQPK4dVKZR-1920-80.png"
     },
     {
-      "title": "Protesters storm Microsoft AI data center construction site",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/protesters-storm-microsoft-ai-data-center-construction-site-amsterdam-reportedly-first-of-85-targeted-actions-across-europe",
-      "desc": "The protesters stormed over the walls and took over the construction site, with the Stop Dirty Data ...",
-      "img": "https://cdn.mos.cms.futurecdn.net/xXzamwF8bgCcyR6kJW47Pb-1920-80.png"
+      "title": "Grab a new Elegoo 3D printer from as little as $159 right now, thanks to Black Friday sale, now live",
+      "link": "https://www.tomshardware.com/3d-printing/grab-a-new-elegoo-3d-printer-from-as-little-as-usd159-right-now-thanks-to-black-friday-sale-now-live-early-discounts-mean-you-can-score-up-to-54-percent-off-filament-and-resin-machines-perfect-for-pro-hobbyists-and-beginners",
+      "desc": "Elegoo's November sale has begun, and you can score savings of up to 54% on a new printer for the en...",
+      "img": "https://cdn.mos.cms.futurecdn.net/t6fV9VsZ9pDvT9Pm4nJ8EG-1920-80.png"
     },
     {
-      "title": "Nvidia tightens tracking of AI GPUs in Southeast Asia as Chinese chip smuggling draws scrutiny, report claims",
-      "link": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-tightens-tracking-of-ai-gpus-in-southeast-asia-as-chinese-chip-smuggling-draws-scrutiny-report-claims-cloud-providers-must-join-monitoring-program-to-qualify-for-official-partner-status",
-      "desc": "Nvidia is requiring Southeast Asian cloud providers seeking Nvidia Cloud Partner status to enroll in...",
-      "img": "https://cdn.mos.cms.futurecdn.net/bBGEYE8htq38xZgt4xCdTQ-1920-80.jpg"
+      "title": "TeamGroup GA Pro 2TB SSD Review: A faltering attempt at a mid-range PCIe 5.0 SSD",
+      "link": "https://www.tomshardware.com/pc-components/ssds/teamgroup-ga-pro-2tb-ssd-review",
+      "desc": "The TeamGroup GA Pro mostly misses. Decent QD8 and steady-state writes can’t make up for weak overal...",
+      "img": "https://cdn.mos.cms.futurecdn.net/4uccTHKwWnDD6go5YwpkAk-1920-80.jpg"
     },
     {
-      "title": "Six pallets of Nvidia GPUs worth $11.4 million stolen in California cargo heist",
-      "link": "https://www.tomshardware.com/pc-components/gpus/six-pallets-of-nvidia-gpus-worth-usd11-4-million-stolen-in-california-cargo-heist-authorities-investigate-after-truck-posing-as-a-food-transport-company-disappears",
-      "desc": "The latest incident comes amid growing concerns over GPU theft, with experts warning that advanced N...",
-      "img": "https://cdn.mos.cms.futurecdn.net/WJysu4KWtLyywCbvdHhuLF-1920-80.jpg"
+      "title": "Nvidia's Jensen Huang officially called to Congress due to reports of a Chinese spy plot",
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/nvidias-jensen-huang-officially-called-to-congress-due-to-reports-of-a-chinese-spy-plot-officials-mention-growing-concerns-over-national-security",
+      "desc": "Nvidia's Jensen Huang officially called to Congress due to reports of Chinese plot — officials menti...",
+      "img": "https://cdn.mos.cms.futurecdn.net/umLVLKxLCxcj2CWHug2Wb8-1920-80.jpg"
     },
     {
-      "title": "Save 26% on this 142-piece toolkit for your PC repairs and hobbyist projects, now under $28",
-      "link": "https://www.tomshardware.com/desktops/pc-building/save-26-percent-on-this-142-piece-toolkit-for-your-pc-repairs-and-hobbyist-projects-now-under-usd28-precision-screwdriver-kit-includes-120-magnetic-bits-and-20-different-repair-tools-for-your-next-project",
-      "desc": "This 142-in-1 repair toolkit from Strebito has 120 bits and a number of other tools, and right now i...",
-      "img": "https://cdn.mos.cms.futurecdn.net/Zo53u7UxW9N6oLj6fqyZsN-1920-80.png"
+      "title": "TSMC denies exploring 3D DRAM at Nvidia's request",
+      "link": "https://www.tomshardware.com/pc-components/dram/tsmc-denies-exploring-3d-dram-at-nvidias-request-advanced-memory-tech-is-still-years-from-market-viability",
+      "desc": "Nvidia reportedly asks TSMC to produce '3D DRAM' to address memory shortages.",
+      "img": "https://cdn.mos.cms.futurecdn.net/inWCPzXNVFbyYDRmxtthn3-1920-80.jpg"
     }
   ],
   "crypto": [
-    {
-      "title": "Nvidia may face a more hostile post-election Washington: Report",
-      "link": "https://cointelegraph.com/news/nvidia-may-be-facing-a-more-hostile-post-election-washington-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "CEO Jensen Huang’s relationship with President Donald Trump probably won’t save the company from a m...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TF8XXVHRYCKDRNDMW19WCP/analys-analytics-bisiness-man-woman-down-city-crash-nvidia.jpg"
-    },
     {
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -127,48 +121,54 @@
       "img": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
     },
     {
-      "title": "US Treasury cuts off MEXC over alleged $16B in illicit transactions",
-      "link": "https://cointelegraph.com/news/us-treasury-bans-mexc-over-alleged-16b-illicit-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The US Treasury bureau FinCEN on Friday ordered US financial institutions to stop processing transfe...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6SANJYQTNY4SS6GASXKN37C/hi-cover-imagereview-of-mexc.png"
+      "title": "Ex-FBI counterintelligence agent stole almost $2.5M in crypto",
+      "link": "https://cointelegraph.com/news/ex-fbi-counterintelligence-agent-stole-almost-25m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Yaroch paid off his debts and intended to use the proceeds to finance a new life in Portugal, where ...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6V5PT52GJ6H06ZRY3P4BHFK/arrest-crime-police-hacker-fbi.jpg"
     },
     {
-      "title": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
-      "link": "https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The crypto debit card provider said customer funds remained safe despite the exposure of sensitive f...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6S6NT7VH41TT0QGTWN2DZYP/phone-crypto-cash-cards-evil-smile-hacker.png"
+      "title": "Bitcoin holders have received eCash — What can you do with it?",
+      "link": "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Bitcoin’s eCash fork gives eligible holders an equivalent balance of ECX, but questions remain over ...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NTSVE1D4C4XEP4NP4HXZRA/magazine-stablecoins-effect-the-genius-stablecoin-bill-will-have-on-bitcoin-adoption.png"
     },
     {
-      "title": "Binance hack is ‘cyber war,’ TRM Labs executive says",
-      "link": "https://cointelegraph.com/interview/trm-labs-binance-hack-interview?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "TRM Labs executive Ari Redbord called for governments to take offensive action against North Korean ...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6MAGXTEN3YDD171XWZ849SA/hacked-with-trm-logo.png"
+      "title": "US sanctions Canadian money-exchange firms over Iran ties",
+      "link": "https://cointelegraph.com/news/us-sanctions-canadian-money-exchange-firms-over-iran-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "US  also offers as much as $20 million and possible relocation for information about Iran’s nuclear ...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TV46HT5722N7KQ7PPJEREP/hi-crypto-users-in-iran-sanctions-1.jpg"
     },
     {
-      "title": "US 401(k) proposal leaves door open to altcoins, but hurdles remain",
-      "link": "https://cointelegraph.com/news/us-401k-proposal-leaves-door-open-altcoins-hurdles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "While the proposal doesn’t exclude altcoins and smaller cryptocurrencies, experts say they could fac...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6S0G0RDKT5WK8GZZHWMB7ZP/hi-token-burning-explained-sec-1.png"
+      "title": "Suspicious prediction market activity seen before election poll release: NYT",
+      "link": "https://cointelegraph.com/news/suspicious-prediction-market-activity-seen-before-election-poll-release-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Bets were placed shortly before two recent New York Times/Siena political polls were released to the...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TKZ82M5JMRKRWCTC3GH1QA/hi-one-month-left-to-polymarket-season.jpg"
+    },
+    {
+      "title": "Nvidia may face a more hostile post-election Washington: Report",
+      "link": "https://cointelegraph.com/news/nvidia-may-be-facing-a-more-hostile-post-election-washington-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "CEO Jensen Huang’s relationship with President Donald Trump probably won’t save the company from a m...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TF8XXVHRYCKDRNDMW19WCP/analys-analytics-bisiness-man-woman-down-city-crash-nvidia.jpg"
     }
   ],
   "various": [
     {
-      "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
-      "link": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
-      "desc": "The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage uni...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97ed/live/4b09f660-da7c-11f1-a975-15a4138f9d40.jpg"
+      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+      "desc": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic ...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44f1/live/699ff730-daab-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-      "title": "With Stephen Miller pick as new chief of staff, Trump readies for a battle",
-      "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
-      "desc": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/492d/live/41326240-da17-11f1-bba7-b50f1faa7672.jpg"
+      "title": "Victims in rape cases must not feel like they are on trial, Burnham says",
+      "link": "https://www.bbc.co.uk/news/articles/crgj99j8y998o?at_medium=RSS&at_campaign=rss",
+      "desc": "The PM was responding after a police chief said comments made during Russell Brand's trial came clos...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c13/live/008276b0-da8d-11f1-b9cf-cdf633475efd.jpg"
     },
     {
-      "title": "Paraguay's president impeached after collapse of bank",
-      "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-      "desc": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access thei...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a65d/live/3fe15d20-da57-11f1-af22-a97b84c9ca63.jpg"
+      "title": "Two men arrested after boy injured in sword attack",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy99yzd0v9o?at_medium=RSS&at_campaign=rss",
+      "desc": "A 17-year-old boy from Gloucester has also been arrested on suspicion of assisting an offender.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acd6/live/c7e3b830-da98-11f1-8206-e519d24a9ca2.png"
     },
     {
       "title": "What happens if all the lights go out? This is the plan for a 'Black Sky' event",
@@ -177,16 +177,16 @@
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0eec/live/692e5ed0-d9e9-11f1-bbe5-797ee05bee69.jpg"
     },
     {
-      "title": "Relief, tears and sadness: Married at First Sight UK cast react to show being axed",
-      "link": "https://www.bbc.co.uk/news/articles/crx233lx94n7o?at_medium=RSS&at_campaign=rss",
-      "desc": "It was cancelled after a BBC Panorama investigation heard allegations from three former cast members...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a50/live/ef30ec60-502c-11f1-89a3-d1f559421220.jpg"
+      "title": "No clear winner after tight New Zealand general election",
+      "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+      "desc": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3578/live/a76cb0d0-dab5-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "title": "Pope in 'pretty good health' as he starts Latin America tour",
-      "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
-      "desc": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15d3/live/886b05a0-da75-11f1-85ad-fd31eff31154.jpg"
+      "title": "Monty Don bids 'final goodbye' to Gardeners' World after two decades",
+      "link": "https://www.bbc.co.uk/news/articles/c6wyrrwj9xlro?at_medium=RSS&at_campaign=rss",
+      "desc": "The head gardener on the long-running BBC TV series signed off from Longmeadow garden on Friday.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8e7/live/d1af1d60-d9f7-11f1-84c1-dbcae60402d7.jpg"
     }
   ]
 }
