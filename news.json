@@ -39,6 +39,24 @@
   ],
   "movies": [
     {
+      "title": "Alexander Skarsgård Said Jumping Into His Wicker Role Was Tough (But Not For The Reason I Assumed)",
+      "link": "https://www.cinemablend.com/movies/alexander-skarsgard-jumping-wicker-tough-not-reason-assumed",
+      "desc": "I thought it'd have more to do with the wicker.",
+      "img": "https://cdn.mos.cms.futurecdn.net/nLYN92uXiJrKCkDHHdQVJS-1920-80.jpg"
+    },
+    {
+      "title": "Why Does The Cat In The Hat Have A Flip Phone? Bill Hader Has Thoughts",
+      "link": "https://www.cinemablend.com/movies/why-does-the-cat-in-the-hat-have-a-flip-phone-bill-hader-quinta-brunson-interview",
+      "desc": "I had to know.",
+      "img": "https://cdn.mos.cms.futurecdn.net/KwzLv8WRsmKDYqdbJ8prUA-1920-80.png"
+    },
+    {
+      "title": "Sydney Sweeney Sure Knows How To Make An Ad Splash. There's Conflicting Evidence About The Impact",
+      "link": "https://www.cinemablend.com/movies/sydney-sweeney-sure-knows-how-make-ad-splash-conflicting-evidence-impact",
+      "desc": "Let's talk about those ads.",
+      "img": "https://cdn.mos.cms.futurecdn.net/SADbkBCd5w9WmikaXewJc4-1920-80.jpg"
+    },
+    {
       "title": "I Love Christopher Nolan’s Robert Pattinson-Oriented Oppenheimer Story. Robert Downey Jr. Telling It Is Even Better",
       "link": "https://www.cinemablend.com/movies/i-love-christopher-nolans-robert-pattinson-oriented-oppenheimer-story-robert-downey-jr-telling-better",
       "desc": "An incredible \"inception\" of an idea.",
@@ -55,27 +73,15 @@
       "link": "https://www.cinemablend.com/movies/nathan-fielder-explains-you-can-see-everything-having-many-close-ups-elizabeth-holmes-face",
       "desc": "As plain as the look on her face.",
       "img": "https://cdn.mos.cms.futurecdn.net/JgkG5g4c9693K74NLBb7Ne-1920-80.jpg"
-    },
-    {
-      "title": "Brad Pitt Still Has Kids Who Haven’t Dropped His Name, But There’s Allegedly Not Good News",
-      "link": "https://www.cinemablend.com/movies/brad-pitt-kid-name-change-update-amid-estrangement",
-      "desc": "More than half of Pitt's children have dropped his name.",
-      "img": "https://cdn.mos.cms.futurecdn.net/J2usfn79kZk49DT5p6dA8a-1920-80.jpg"
-    },
-    {
-      "title": "It's Really Trippy Watching Tom Holland Pop In And Out Of His Peter Parker Spider-Man Accent",
-      "link": "https://www.cinemablend.com/movies/trippy-watching-tom-holland-pop-in-out-of-peter-parker-spider-man-accent",
-      "desc": "I can't get enough of this.",
-      "img": "https://cdn.mos.cms.futurecdn.net/4jSttJdhpMQax9GoakQD4j-1920-80.jpg"
-    },
-    {
-      "title": "I Know Wildwood Isn't Doing Well At The Box Office, But I'm Just Happy It Exists In A World Of AI",
-      "link": "https://www.cinemablend.com/movies/wildwood-isnt-doing-well-at-box-office-just-happy-it-exists-in-world-ai",
-      "desc": "Laika is a studio that can do no wrong!",
-      "img": "https://cdn.mos.cms.futurecdn.net/p8uwSEdv3Ub7WFYeSrEyE9-1920-80.jpg"
     }
   ],
   "tech": [
+    {
+      "title": "This RTX 5060 gaming PC costs less than the Steam Machine — grab the iBuyPower Slate prebuilt PC with massive $500 discount",
+      "link": "https://www.tomshardware.com/pc-components/this-rtx-5060-gaming-pc-costs-less-than-the-steam-machine-grab-the-ibuypower-slate-prebuilt-pc-with-massive-usd500-discount",
+      "desc": "Best Buy knocks $500 off the iBUYPOWER Slate, bringing this RTX 5060-powered gaming desktop down to ...",
+      "img": "https://cdn.mos.cms.futurecdn.net/9WfubkiBcJoBjUZEzfhJgG-1920-80.png"
+    },
     {
       "title": "This week in Tom's Hardware Premium: November 7, 2026",
       "link": "https://www.tomshardware.com/tech-industry/this-week-in-toms-hardware-premium-november-7-2026-micron-roadmap-apples-touchscreen-ambitions-globalfoundries-interview-and-much-more",
@@ -105,12 +111,6 @@
       "link": "https://www.tomshardware.com/tech-industry/big-tech/nvidias-jensen-huang-officially-called-to-congress-due-to-reports-of-a-chinese-spy-plot-officials-mention-growing-concerns-over-national-security",
       "desc": "Nvidia's Jensen Huang officially called to Congress due to reports of Chinese plot — officials menti...",
       "img": "https://cdn.mos.cms.futurecdn.net/umLVLKxLCxcj2CWHug2Wb8-1920-80.jpg"
-    },
-    {
-      "title": "TSMC denies exploring 3D DRAM at Nvidia's request",
-      "link": "https://www.tomshardware.com/pc-components/dram/tsmc-denies-exploring-3d-dram-at-nvidias-request-advanced-memory-tech-is-still-years-from-market-viability",
-      "desc": "Nvidia reportedly asks TSMC to produce '3D DRAM' to address memory shortages.",
-      "img": "https://cdn.mos.cms.futurecdn.net/inWCPzXNVFbyYDRmxtthn3-1920-80.jpg"
     }
   ],
   "crypto": [
@@ -153,10 +153,16 @@
   ],
   "various": [
     {
-      "title": "What we know about Krakow mass shooting so far",
+      "title": "What we know so far after Krakow gun attack",
       "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "desc": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second ...",
+      "desc": "Six people were killed in a random shooting in the city's main square, and three bodies were later f...",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg"
+    },
+    {
+      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+      "desc": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's electio...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ff8/live/d9aea170-daf1-11f1-a701-fddedf244c16.jpg"
     },
     {
       "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
@@ -179,14 +185,8 @@
     {
       "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
       "link": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
-      "desc": "The BBC has asked the White House and TKO Holdings, the parent company of UFC, for comment.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f42/live/47f84090-dadf-11f1-88f9-d3c2139f8619.jpg"
-    },
-    {
-      "title": "What happens if all the lights go out? This is the plan for a 'Black Sky' event",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ynnj05z8no?at_medium=RSS&at_campaign=rss",
-      "desc": "How prepared is the UK for the type of event that could leave millions without power, water and comm...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0eec/live/692e5ed0-d9e9-11f1-bbe5-797ee05bee69.jpg"
+      "desc": "The BBC has asked the White House and UFC whether the president's job offer is genuine.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8536/live/2fdfe760-dafd-11f1-b441-2b33b063138f.jpg"
     }
   ]
 }
