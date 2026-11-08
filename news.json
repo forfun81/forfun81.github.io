@@ -39,6 +39,30 @@
   ],
   "movies": [
     {
+      "title": "Zach Cregger Revealed One Part Of His Resident Evil Experience That ‘Frustrated’ Him, And I Get It",
+      "link": "https://www.cinemablend.com/movies/zach-cregger-revealed-aspect-resident-evil-experience-frustrated-him",
+      "desc": "You can outrun a zombie. Good luck outrunning the internet.",
+      "img": "https://cdn.mos.cms.futurecdn.net/pqVNDdZdbKrszcs2aUbLGB-1920-80.jpg"
+    },
+    {
+      "title": "Halle Berry’s Been Generous Sharing Her Relationship, But These Details About Custody Battle Support Are Even Sweeter",
+      "link": "https://www.cinemablend.com/movies/halle-berry-sweet-relationship-van-hunt-support-amid-custody-battle",
+      "desc": "The two have been together for several years now.",
+      "img": "https://cdn.mos.cms.futurecdn.net/g42CVreFZ3ZtSYTy63DDHY-1920-80.jpg"
+    },
+    {
+      "title": "One Of The Best Stephen King Adaptations Is Back On Netflix, And I Can't Wait To Watch It Again",
+      "link": "https://www.cinemablend.com/streaming-news/one-of-best-stephen-king-adaptations-back-on-netflix-cant-wait-watch-it-again-stand-by-me",
+      "desc": "It’s definitely my favorite.",
+      "img": "https://cdn.mos.cms.futurecdn.net/WFXyimBDrk84syjZNZoGhU-1920-80.jpg"
+    },
+    {
+      "title": "Steve Buscemi And Sam Rockwell Have VERY Different Takes On Getting Killed On-Screen",
+      "link": "https://www.cinemablend.com/movies/steve-buscemi-sam-rockwell-different-takes-getting-killed-on-screen-wild-horse-nine",
+      "desc": "They've died their fair share of times.",
+      "img": "https://cdn.mos.cms.futurecdn.net/EHwDmdGc9DCQih9UaxrZan-1920-80.jpg"
+    },
+    {
       "title": "Godzilla Minus Zero Ruled The Weekend Box Office And Hit A Monstrous Milestone",
       "link": "https://www.cinemablend.com/movies/box-office/godzilla-minus-zero-ruled-weekend-box-office-monstrous-milestone",
       "desc": "The kaiju movie pulled in a lot of money.",
@@ -49,33 +73,15 @@
       "link": "https://www.cinemablend.com/movies/wild-horse-nines-does-something-portrayal-hitmen-never-seen-sam-rockwell-john-malkovich",
       "desc": "They're so emotional in this film.",
       "img": "https://cdn.mos.cms.futurecdn.net/iaJhMopUabQyByHRRUFuT8-1920-80.jpg"
-    },
-    {
-      "title": "Sylvester Stallone Was Ready To Be ‘Hypercritical’ Of I Play Rocky… Then He Saw The Movie",
-      "link": "https://www.cinemablend.com/movies/sylvester-stallone-shares-honest-reaction-i-play-rocky-anthony-ipppolito",
-      "desc": "Stallone isn't exactly the easiest man to impress.",
-      "img": "https://cdn.mos.cms.futurecdn.net/cwPqsLTCnndNB8YC7Y4Fn-1920-80.jpg"
-    },
-    {
-      "title": "Tom Holland Had A ‘Real Fear’ Of Vomiting In His Spidey Suit. How It Got Fixed",
-      "link": "https://www.cinemablend.com/movies/tom-holland-reveals-real-fear-vomiting-in-spidey-suit-and-fix-made",
-      "desc": "Not an unfounded fear to have!",
-      "img": "https://cdn.mos.cms.futurecdn.net/LXon7wQ3am5zKMd53MFtpg-1920-80.jpg"
-    },
-    {
-      "title": "Kylie Jenner Glittered At LACMA Event, But I’m Still Thinking About Emily Ratajkowski’s Gravity-Defying Dress",
-      "link": "https://www.cinemablend.com/television/kylie-jenner-glittered-lacma-art-emily-ratajkowski-gravity-defying-gucci-dress",
-      "desc": "I think I have it figured out now, though?",
-      "img": "https://cdn.mos.cms.futurecdn.net/6S9z2puDDdsm7vvwAJa9qP-1920-80.jpg"
-    },
-    {
-      "title": "The Gambit-Related Mistake Channing Tatum Nearly Made: ‘It Would’ve Just Been A Catastrophe’",
-      "link": "https://www.cinemablend.com/movies/channing-tatum-reveals-gambit-related-mistake-nearly-made-deadpool-wolverine",
-      "desc": "I certainly see where he's coming from.",
-      "img": "https://cdn.mos.cms.futurecdn.net/P2RXkLrp8oUSjTm52KR2T6-1920-80.jpg"
     }
   ],
   "tech": [
+    {
+      "title": "Nvidia CEO Jensen Huang admits to having an affair with suspected Chinese spy",
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-ceo-jensen-huang-admits-to-having-an-affair-with-suspected-chinese-spy-jensen-apologizes-in-letter-to-staff-company-board-forms-independent-committee-to-investigate",
+      "desc": "Nvidia's board of directors is investigating a report about Jensen Huang's alleged affair with a cli...",
+      "img": "https://cdn.mos.cms.futurecdn.net/Kjestg9jiuvnbE868dhwjf-1920-80.jpg"
+    },
     {
       "title": "Diamond Foundry creates world's first 200mm single-crystal diamond wafer",
       "link": "https://www.tomshardware.com/pc-components/cooling/diamond-foundry-creates-worlds-first-200mm-single-crystal-diamond-wafer-massive-gem-aims-to-solve-ai-chip-cooling-crisis-envisioned-as-a-cooling-material-for-semiconductors",
@@ -105,15 +111,15 @@
       "link": "https://www.tomshardware.com/tech-industry/robotics/ukraine-builds-combat-robots-to-hunt-russian-troops-in-underground-gas-pipelines-ugvs-adapted-following-15-kilometer-subterranean-assault",
       "desc": "Ukraine is developing a new class of combat robots designed to operate inside underground gas pipeli...",
       "img": "https://cdn.mos.cms.futurecdn.net/LxFmy4cYLLRUZKdapra5MC-1920-80.jpg"
-    },
-    {
-      "title": "Nvidia released its 8800 GTX GPU 20 years ago today, celebrates with Steam game homage",
-      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-released-its-8800-gtx-gpu-20-years-ago-today-celebrates-with-steam-game-homage-interactive-demos-eye-watering-minimum-requirements-include-rtx-4070-32gb-ram-and-30gb-storage",
-      "desc": "On this day in 2006, Nvidia released the legendary GeForce 8800 GTX graphics card and it is celebrat...",
-      "img": "https://cdn.mos.cms.futurecdn.net/TmUVtxVZfu7Yc9Rnd5tCtA-1920-80.jpg"
     }
   ],
   "crypto": [
+    {
+      "title": "Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Vitalik Buterin wants Ethereum to embrace a store of value narrative, upsetting Bitcoin maxis. The c...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6YMNVH88N4KSXQB6XWMMW2K/screenshot-2026-11-09-093227.jpg"
+    },
     {
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -143,15 +149,15 @@
       "link": "https://cointelegraph.com/news/ex-fbi-counterintelligence-agent-stole-almost-25m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Yaroch paid off his debts and intended to use the proceeds to finance a new life in Portugal, where ...",
       "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6V5PT52GJ6H06ZRY3P4BHFK/arrest-crime-police-hacker-fbi.jpg"
-    },
-    {
-      "title": "Bitcoin holders have received eCash — What can you do with it?",
-      "link": "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Bitcoin’s eCash fork gives eligible holders an equivalent balance of ECX, but questions remain over ...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NTSVE1D4C4XEP4NP4HXZRA/magazine-stablecoins-effect-the-genius-stablecoin-bill-will-have-on-bitcoin-adoption.png"
     }
   ],
   "various": [
+    {
+      "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+      "link": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+      "desc": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4981/live/81f74f50-dbb8-11f1-86cb-c1d83392da32.jpg"
+    },
     {
       "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
       "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
@@ -165,28 +171,22 @@
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e401/live/d9d100d0-db91-11f1-b441-2b33b063138f.jpg"
     },
     {
+      "title": "Maya Jama steps down as host of reality TV show Love Island",
+      "link": "https://www.bbc.co.uk/news/articles/cwzrd5jj47ndo?at_medium=RSS&at_campaign=rss",
+      "desc": "The presenter tells fans it is \"time to throw myself into something new\" after recent Celebrity Trai...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f2c/live/327b8220-dbb3-11f1-b35d-8ff000e4934a.jpg"
+    },
+    {
       "title": "Seven dead and more than 100 injured after trains collide in Egypt",
       "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
       "desc": "Several carriages derailed after two trains travelling in the same direction crashed outside the cit...",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3886/live/ab03aa70-db8a-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "title": "Footage shows derailed carriages after fatal train crash in Egypt",
-      "link": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss",
-      "desc": "It is yet unclear what caused the accident but Egyptian President Abdel Fattah al-Sisi said an inves...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e6f/live/0d4d1a90-db8b-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "title": "Nandy defends linking Erasmus student scheme to Remembrance Sunday after backlash",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss",
-      "desc": "The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime ...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d4c/live/354198e0-db64-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "title": "Maya Jama steps down as host of reality TV show Love Island",
-      "link": "https://www.bbc.co.uk/news/articles/cwzrd5jj47ndo?at_medium=RSS&at_campaign=rss",
-      "desc": "The presenter tells fans it is \"time to throw myself into something new\" after recent Celebrity Trai...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f62e/live/6f108010-dbb2-11f1-93e1-3b657b665bcf.jpg"
+      "title": "Top House Democrat 'a hard yes' on impeaching Pete Hegseth",
+      "link": "https://www.bbc.co.uk/news/articles/cj4g1nwx39wno?at_medium=RSS&at_campaign=rss",
+      "desc": "But the Pentagon said the defence secretary would not be deterred by \"phony investigations\".",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c025/live/b24c5e80-dbbc-11f1-b441-2b33b063138f.jpg"
     }
   ]
 }
