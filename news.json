@@ -39,6 +39,24 @@
   ],
   "movies": [
     {
+      "title": "Godzilla Minus Zero Ruled The Weekend Box Office And Hit A Monstrous Milestone",
+      "link": "https://www.cinemablend.com/movies/box-office/godzilla-minus-zero-ruled-weekend-box-office-monstrous-milestone",
+      "desc": "The kaiju movie pulled in a lot of money.",
+      "img": "https://cdn.mos.cms.futurecdn.net/DxTm98iLzjA5sMD8DphZg9-1920-80.jpg"
+    },
+    {
+      "title": "Wild Horse Nine's Does Something In Its Portrayal Of Hitmen I've Never Seen",
+      "link": "https://www.cinemablend.com/movies/wild-horse-nines-does-something-portrayal-hitmen-never-seen-sam-rockwell-john-malkovich",
+      "desc": "They're so emotional in this film.",
+      "img": "https://cdn.mos.cms.futurecdn.net/iaJhMopUabQyByHRRUFuT8-1920-80.jpg"
+    },
+    {
+      "title": "Sylvester Stallone Was Ready To Be ‘Hypercritical’ Of I Play Rocky… Then He Saw The Movie",
+      "link": "https://www.cinemablend.com/movies/sylvester-stallone-shares-honest-reaction-i-play-rocky-anthony-ipppolito",
+      "desc": "Stallone isn't exactly the easiest man to impress.",
+      "img": "https://cdn.mos.cms.futurecdn.net/cwPqsLTCnndNB8YC7Y4Fn-1920-80.jpg"
+    },
+    {
       "title": "Tom Holland Had A ‘Real Fear’ Of Vomiting In His Spidey Suit. How It Got Fixed",
       "link": "https://www.cinemablend.com/movies/tom-holland-reveals-real-fear-vomiting-in-spidey-suit-and-fix-made",
       "desc": "Not an unfounded fear to have!",
@@ -55,24 +73,6 @@
       "link": "https://www.cinemablend.com/movies/channing-tatum-reveals-gambit-related-mistake-nearly-made-deadpool-wolverine",
       "desc": "I certainly see where he's coming from.",
       "img": "https://cdn.mos.cms.futurecdn.net/P2RXkLrp8oUSjTm52KR2T6-1920-80.jpg"
-    },
-    {
-      "title": "I Don't Think We're Going To Get A Street Fighter II, And Here's Why I'm Okay With That",
-      "link": "https://www.cinemablend.com/movies/dont-think-were-going-get-street-fighter-ii-okay-with-that",
-      "desc": "Continue? Or go home and be a family man?",
-      "img": "https://cdn.mos.cms.futurecdn.net/Kc2ESAGdzwQmsR6r7JXLwC-1920-80.jpg"
-    },
-    {
-      "title": "Test Footage Of Clayface's Suit Just Arrived Online, And I Can't Look Away",
-      "link": "https://www.cinemablend.com/movies/test-footage-clayface-suit-arrived-cant-look-away",
-      "desc": "This BTS video is insanely cool.",
-      "img": "https://cdn.mos.cms.futurecdn.net/J48KGg8rTC5ZWQNTA3fboY-1920-80.jpg"
-    },
-    {
-      "title": "I Play Rocky Is Coming, And Ryan Gosling Gave It His Stamp Of Approval",
-      "link": "https://www.cinemablend.com/movies/i-play-rocky-is-coming-and-ryan-gosling-gave-it-his-stamp-of-approval",
-      "desc": "He thought it was amaze!",
-      "img": "https://cdn.mos.cms.futurecdn.net/XwiQmLMVtiUqy2nRQvtMrA-1920-80.jpg"
     }
   ],
   "tech": [
@@ -153,40 +153,40 @@
   ],
   "various": [
     {
+      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+      "desc": "Further details have emerged about two police officers hailed for preventing a Polish gunman from ki...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5f9/live/5b43f440-db76-11f1-b1f1-3be4e895d0fe.jpg"
+    },
+    {
       "title": "King leads solemn Remembrance Sunday service at Cenotaph",
       "link": "https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o?at_medium=RSS&at_campaign=rss",
       "desc": "Wreaths are laid as 10,000 armed forces veterans, including 12 from World War Two, pay tribute in ce...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2837/live/b99276c0-db7b-11f1-b1f1-3be4e895d0fe.jpg"
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e401/live/d9d100d0-db91-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "title": "Watch: Royals and veterans reflect at Remembrance ceremony",
-      "link": "https://www.bbc.co.uk/news/videos/cw1l307v4edlo?at_medium=RSS&at_campaign=rss",
-      "desc": "King Charles has led the annual Remembrance Sunday commemorations, laying a wreath at the solemn cer...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24b8/live/46915d50-db7e-11f1-a701-fddedf244c16.jpg"
+      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+      "desc": "Several carriages derailed after two trains travelling in the same direction crashed outside the cit...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3886/live/ab03aa70-db8a-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "title": "'Time is up': Minister warns media industry to take abuse seriously in wake of Brand case",
-      "link": "https://www.bbc.co.uk/news/articles/ckn9r0zd0ynwo?at_medium=RSS&at_campaign=rss",
-      "desc": "Lisa Nandy tells the BBC \"many people\" in the media industry have come forward to her.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faca/live/23423a10-db77-11f1-b1f1-3be4e895d0fe.jpg"
+      "title": "Footage shows derailed carriages after fatal train crash in Egypt",
+      "link": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss",
+      "desc": "It is yet unclear what caused the accident but Egyptian President Abdel Fattah al-Sisi said an inves...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e6f/live/0d4d1a90-db8b-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "title": "Government looking at banning under-16s from Vinted and eBay",
-      "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
-      "desc": "The culture secretary confirms reports they could be in the list of platforms set to be banned next ...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1427/live/5d17fd80-db61-11f1-adda-c54f54e3ce6a.jpg"
+      "title": "Nandy defends linking Erasmus student scheme to Remembrance Sunday after backlash",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss",
+      "desc": "The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime ...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d4c/live/354198e0-db64-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "title": "My parents chose to die together and I was left to grieve alone",
-      "link": "https://www.bbc.co.uk/news/articles/c81dwllzv113o?at_medium=RSS&at_campaign=rss",
-      "desc": "Els and Jan sought medical intervention to end their lives after 50 happy years of marriage, leaving...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bdf/live/66ee1fc0-d90d-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "title": "The Trump coalition is shattered - what will Republicans do now?",
-      "link": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo?at_medium=RSS&at_campaign=rss",
-      "desc": "Republicans can stick with Trumpism or chart a new path, writes BBC Washington correspondent Daniel ...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa4b/live/74e0bf70-dae8-11f1-93e1-3b657b665bcf.jpg"
+      "title": "Maya Jama steps down as host of reality TV show Love Island",
+      "link": "https://www.bbc.co.uk/news/articles/cwzrd5jj47ndo?at_medium=RSS&at_campaign=rss",
+      "desc": "The presenter tells fans it is \"time to throw myself into something new\" after recent Celebrity Trai...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f62e/live/6f108010-dbb2-11f1-93e1-3b657b665bcf.jpg"
     }
   ]
 }
