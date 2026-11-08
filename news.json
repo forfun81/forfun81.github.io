@@ -39,6 +39,18 @@
   ],
   "movies": [
     {
+      "title": "Test Footage Of Clayface's Suit Just Arrived Online, And I Can't Look Away",
+      "link": "https://www.cinemablend.com/movies/test-footage-clayface-suit-arrived-cant-look-away",
+      "desc": "This BTS video is insanely cool.",
+      "img": "https://cdn.mos.cms.futurecdn.net/J48KGg8rTC5ZWQNTA3fboY-1920-80.jpg"
+    },
+    {
+      "title": "I Play Rocky Is Coming, And Ryan Gosling Gave It His Stamp Of Approval",
+      "link": "https://www.cinemablend.com/movies/i-play-rocky-is-coming-and-ryan-gosling-gave-it-his-stamp-of-approval",
+      "desc": "He thought it was amaze!",
+      "img": "https://cdn.mos.cms.futurecdn.net/XwiQmLMVtiUqy2nRQvtMrA-1920-80.jpg"
+    },
+    {
       "title": "Alexander Skarsgård Said Jumping Into His Wicker Role Was Tough (But Not For The Reason I Assumed)",
       "link": "https://www.cinemablend.com/movies/alexander-skarsgard-jumping-wicker-tough-not-reason-assumed",
       "desc": "I thought it'd have more to do with the wicker.",
@@ -61,18 +73,6 @@
       "link": "https://www.cinemablend.com/movies/i-love-christopher-nolans-robert-pattinson-oriented-oppenheimer-story-robert-downey-jr-telling-better",
       "desc": "An incredible \"inception\" of an idea.",
       "img": "https://cdn.mos.cms.futurecdn.net/HiYSS3wuoiZkVeQTHPGi8i-1920-80.jpg"
-    },
-    {
-      "title": "Two Scenes In There’s Something About Mary Led To A Six-Month Behind-The-Scenes Battle",
-      "link": "https://www.cinemablend.com/movies/something-abour-mary-zipper-hair-gel-scenes-battle-farrelly",
-      "desc": "Is that hair gel?",
-      "img": "https://cdn.mos.cms.futurecdn.net/3LQWT6xbnGxpvNd5bDkAoJ-1920-80.jpg"
-    },
-    {
-      "title": "You Can See Everything Has So Many Close-Ups Of Elizabeth Holmes’ Face. Nathan Fielder Explains Why",
-      "link": "https://www.cinemablend.com/movies/nathan-fielder-explains-you-can-see-everything-having-many-close-ups-elizabeth-holmes-face",
-      "desc": "As plain as the look on her face.",
-      "img": "https://cdn.mos.cms.futurecdn.net/JgkG5g4c9693K74NLBb7Ne-1920-80.jpg"
     }
   ],
   "tech": [
@@ -153,10 +153,10 @@
   ],
   "various": [
     {
-      "title": "What we know so far after Krakow gun attack",
-      "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "desc": "Six people were killed in a random shooting in the city's main square, and three bodies were later f...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg"
+      "title": "Briton among six killed in 'far-right' shooting in Krakow",
+      "link": "https://www.bbc.co.uk/news/articles/c6n9r01d2709o?at_medium=RSS&at_campaign=rss",
+      "desc": "Police in the Polish city say the attacker randomly fired at people after driving on to Main Market ...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d7f/live/340fa0a0-daf8-11f1-b9a2-091c4f802785.jpg"
     },
     {
       "title": "Israel's president tasks opposition leader Eisenkot with forming government",
@@ -165,10 +165,10 @@
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ff8/live/d9aea170-daf1-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
-      "desc": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic ...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44f1/live/699ff730-daab-11f1-93e1-3b657b665bcf.jpg"
+      "title": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
+      "link": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&at_campaign=rss",
+      "desc": "While some believe the site should be partially or completely rebuilt, others want it abandoned and ...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d01/live/81eb37e0-d877-11f1-a701-fddedf244c16.jpg"
     },
     {
       "title": "Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride",
@@ -177,16 +177,16 @@
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ce4/live/95ac7ac0-da00-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-      "title": "Tens of thousands of tents flooded after heavy rains in Gaza",
-      "link": "https://www.bbc.co.uk/news/articles/cx240e5py64jo?at_medium=RSS&at_campaign=rss",
-      "desc": "Heavy rain has flooded temporary shelters used by Palestinians displaced during Israel's war with Ha...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f37/live/d00ac9e0-dac0-11f1-8c3b-f3c0d6bd7c4f.jpg"
-    },
-    {
       "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
       "link": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
-      "desc": "The BBC has asked the White House and UFC whether the president's job offer is genuine.",
+      "desc": "It was unclear how genuine the president's offer was, although White later said he would travel to W...",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8536/live/2fdfe760-dafd-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "Royal Family join veterans and families at Festival of Remembrance",
+      "link": "https://www.bbc.co.uk/news/articles/cxvgd2nr3e30o?at_medium=RSS&at_campaign=rss",
+      "desc": "The senior royals attended the annual event at London's Royal Albert Hall on the eve of Remembrance ...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2980/live/0d4070d0-db11-11f1-a8c7-49f7fad62676.jpg"
     }
   ]
 }
