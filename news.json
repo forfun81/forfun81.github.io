@@ -39,6 +39,30 @@
   ],
   "movies": [
     {
+      "title": "Tom Holland Had A ‘Real Fear’ Of Vomiting In His Spidey Suit. How It Got Fixed",
+      "link": "https://www.cinemablend.com/movies/tom-holland-reveals-real-fear-vomiting-in-spidey-suit-and-fix-made",
+      "desc": "Not an unfounded fear to have!",
+      "img": "https://cdn.mos.cms.futurecdn.net/LXon7wQ3am5zKMd53MFtpg-1920-80.jpg"
+    },
+    {
+      "title": "Kylie Jenner Glittered At LACMA Event, But I’m Still Thinking About Emily Ratajkowski’s Gravity-Defying Dress",
+      "link": "https://www.cinemablend.com/television/kylie-jenner-glittered-lacma-art-emily-ratajkowski-gravity-defying-gucci-dress",
+      "desc": "I think I have it figured out now, though?",
+      "img": "https://cdn.mos.cms.futurecdn.net/6S9z2puDDdsm7vvwAJa9qP-1920-80.jpg"
+    },
+    {
+      "title": "The Gambit-Related Mistake Channing Tatum Nearly Made: ‘It Would’ve Just Been A Catastrophe’",
+      "link": "https://www.cinemablend.com/movies/channing-tatum-reveals-gambit-related-mistake-nearly-made-deadpool-wolverine",
+      "desc": "I certainly see where he's coming from.",
+      "img": "https://cdn.mos.cms.futurecdn.net/P2RXkLrp8oUSjTm52KR2T6-1920-80.jpg"
+    },
+    {
+      "title": "I Don't Think We're Going To Get A Street Fighter II, And Here's Why I'm Okay With That",
+      "link": "https://www.cinemablend.com/movies/dont-think-were-going-get-street-fighter-ii-okay-with-that",
+      "desc": "Continue? Or go home and be a family man?",
+      "img": "https://cdn.mos.cms.futurecdn.net/Kc2ESAGdzwQmsR6r7JXLwC-1920-80.jpg"
+    },
+    {
       "title": "Test Footage Of Clayface's Suit Just Arrived Online, And I Can't Look Away",
       "link": "https://www.cinemablend.com/movies/test-footage-clayface-suit-arrived-cant-look-away",
       "desc": "This BTS video is insanely cool.",
@@ -49,82 +73,70 @@
       "link": "https://www.cinemablend.com/movies/i-play-rocky-is-coming-and-ryan-gosling-gave-it-his-stamp-of-approval",
       "desc": "He thought it was amaze!",
       "img": "https://cdn.mos.cms.futurecdn.net/XwiQmLMVtiUqy2nRQvtMrA-1920-80.jpg"
-    },
-    {
-      "title": "Alexander Skarsgård Said Jumping Into His Wicker Role Was Tough (But Not For The Reason I Assumed)",
-      "link": "https://www.cinemablend.com/movies/alexander-skarsgard-jumping-wicker-tough-not-reason-assumed",
-      "desc": "I thought it'd have more to do with the wicker.",
-      "img": "https://cdn.mos.cms.futurecdn.net/nLYN92uXiJrKCkDHHdQVJS-1920-80.jpg"
-    },
-    {
-      "title": "Why Does The Cat In The Hat Have A Flip Phone? Bill Hader Has Thoughts",
-      "link": "https://www.cinemablend.com/movies/why-does-the-cat-in-the-hat-have-a-flip-phone-bill-hader-quinta-brunson-interview",
-      "desc": "I had to know.",
-      "img": "https://cdn.mos.cms.futurecdn.net/KwzLv8WRsmKDYqdbJ8prUA-1920-80.png"
-    },
-    {
-      "title": "Sydney Sweeney Sure Knows How To Make An Ad Splash. There's Conflicting Evidence About The Impact",
-      "link": "https://www.cinemablend.com/movies/sydney-sweeney-sure-knows-how-make-ad-splash-conflicting-evidence-impact",
-      "desc": "Let's talk about those ads.",
-      "img": "https://cdn.mos.cms.futurecdn.net/SADbkBCd5w9WmikaXewJc4-1920-80.jpg"
-    },
-    {
-      "title": "I Love Christopher Nolan’s Robert Pattinson-Oriented Oppenheimer Story. Robert Downey Jr. Telling It Is Even Better",
-      "link": "https://www.cinemablend.com/movies/i-love-christopher-nolans-robert-pattinson-oriented-oppenheimer-story-robert-downey-jr-telling-better",
-      "desc": "An incredible \"inception\" of an idea.",
-      "img": "https://cdn.mos.cms.futurecdn.net/HiYSS3wuoiZkVeQTHPGi8i-1920-80.jpg"
     }
   ],
   "tech": [
     {
-      "title": "This RTX 5060 gaming PC costs less than the Steam Machine — grab the iBuyPower Slate prebuilt PC with massive $500 discount",
-      "link": "https://www.tomshardware.com/pc-components/this-rtx-5060-gaming-pc-costs-less-than-the-steam-machine-grab-the-ibuypower-slate-prebuilt-pc-with-massive-usd500-discount",
-      "desc": "Best Buy knocks $500 off the iBUYPOWER Slate, bringing this RTX 5060-powered gaming desktop down to ...",
-      "img": "https://cdn.mos.cms.futurecdn.net/9WfubkiBcJoBjUZEzfhJgG-1920-80.png"
+      "title": "Diamond Foundry creates world's first 200mm single-crystal diamond wafer",
+      "link": "https://www.tomshardware.com/pc-components/cooling/diamond-foundry-creates-worlds-first-200mm-single-crystal-diamond-wafer-massive-gem-aims-to-solve-ai-chip-cooling-crisis-envisioned-as-a-cooling-material-for-semiconductors",
+      "desc": "This 200mm single-crystal diamond wafer is designed to efficiently remove heat and prevent hotspots ...",
+      "img": "https://cdn.mos.cms.futurecdn.net/PhYnHgbq2oQkd3ZZoMnZXj-1920-80.png"
     },
     {
-      "title": "This week in Tom's Hardware Premium: November 7, 2026",
-      "link": "https://www.tomshardware.com/tech-industry/this-week-in-toms-hardware-premium-november-7-2026-micron-roadmap-apples-touchscreen-ambitions-globalfoundries-interview-and-much-more",
-      "desc": "This week on Tom's Hardware Premium, we've published in-depth interviews, roadmaps, and features you...",
-      "img": "https://cdn.mos.cms.futurecdn.net/EJymn9UT9oot2ydST6x9yd-1920-80.jpg"
+      "title": "Logitech G502 X Lightspeed Review: No lights, same price",
+      "link": "https://www.tomshardware.com/peripherals/gaming-mice/logitech-g502-x-lightspeed-review",
+      "desc": "Logitech's G502 X Lightspeed strips the G502 X Plus of its lighting, but retains the $160 price tag.",
+      "img": "https://cdn.mos.cms.futurecdn.net/LRYNJSMjBm7jkB5d34dfZ9-1920-80.jpg"
     },
     {
-      "title": "US intelligence believes Jensen Huang had affair with Chinese spy in honeypot operation",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-intelligence-believes-jensen-huang-had-romantic-relationship-with-chinese-spy-in-honeypot-operation-spy-suspect-linked-to-company-accused-of-smuggling-usd2-billion-in-ai-chips",
-      "desc": "U.S. intelligence sources suggest that Nvidia chief Jensen Huang was targeted by Chinese intelligenc...",
-      "img": "https://cdn.mos.cms.futurecdn.net/fjFkN4c5HUsWwQPK4dVKZR-1920-80.png"
+      "title": "Japanese arcades suffer week-long blackout following Sega server hack",
+      "link": "https://www.tomshardware.com/video-games/japanese-arcades-suffer-week-long-blackout-following-sega-server-hack-bandai-namco-titles-resume-trial-operations-as-sega-games-remain-offline",
+      "desc": "The sensory overload in video game arcades in Japan was eerily absent from some venues this week.",
+      "img": "https://cdn.mos.cms.futurecdn.net/6bTepYkWP4cUUo6aw772iH-1920-80.jpg"
     },
     {
-      "title": "Grab a new Elegoo 3D printer from as little as $159 right now, thanks to Black Friday sale, now live",
-      "link": "https://www.tomshardware.com/3d-printing/grab-a-new-elegoo-3d-printer-from-as-little-as-usd159-right-now-thanks-to-black-friday-sale-now-live-early-discounts-mean-you-can-score-up-to-54-percent-off-filament-and-resin-machines-perfect-for-pro-hobbyists-and-beginners",
-      "desc": "Elegoo's November sale has begun, and you can score savings of up to 54% on a new printer for the en...",
-      "img": "https://cdn.mos.cms.futurecdn.net/t6fV9VsZ9pDvT9Pm4nJ8EG-1920-80.png"
+      "title": "The end of an era as Linux 7.5 purges the last 30-year-old Intel MMX optimizations from Pentium age",
+      "link": "https://www.tomshardware.com/software/linux/the-end-of-an-era-as-linux-7-5-purges-the-last-30-year-old-intel-mmx-optimizations-from-pentium-age-open-source-os-retires-ancient-1997-pentium-instructions-to-streamline-code",
+      "desc": "Linux developers are preparing to make Intel’s ancient MultiMedia eXtensions irrelevant, with the la...",
+      "img": "https://cdn.mos.cms.futurecdn.net/rXG5LfQBM4KrVowgfX4A3g-1920-80.jpg"
     },
     {
-      "title": "TeamGroup GA Pro 2TB SSD Review: A faltering attempt at a mid-range PCIe 5.0 SSD",
-      "link": "https://www.tomshardware.com/pc-components/ssds/teamgroup-ga-pro-2tb-ssd-review",
-      "desc": "The TeamGroup GA Pro mostly misses. Decent QD8 and steady-state writes can’t make up for weak overal...",
-      "img": "https://cdn.mos.cms.futurecdn.net/4uccTHKwWnDD6go5YwpkAk-1920-80.jpg"
+      "title": "Ukraine builds combat robots to hunt Russian troops in underground gas pipelines",
+      "link": "https://www.tomshardware.com/tech-industry/robotics/ukraine-builds-combat-robots-to-hunt-russian-troops-in-underground-gas-pipelines-ugvs-adapted-following-15-kilometer-subterranean-assault",
+      "desc": "Ukraine is developing a new class of combat robots designed to operate inside underground gas pipeli...",
+      "img": "https://cdn.mos.cms.futurecdn.net/LxFmy4cYLLRUZKdapra5MC-1920-80.jpg"
     },
     {
-      "title": "Nvidia's Jensen Huang officially called to Congress due to reports of a Chinese spy plot",
-      "link": "https://www.tomshardware.com/tech-industry/big-tech/nvidias-jensen-huang-officially-called-to-congress-due-to-reports-of-a-chinese-spy-plot-officials-mention-growing-concerns-over-national-security",
-      "desc": "Nvidia's Jensen Huang officially called to Congress due to reports of Chinese plot — officials menti...",
-      "img": "https://cdn.mos.cms.futurecdn.net/umLVLKxLCxcj2CWHug2Wb8-1920-80.jpg"
+      "title": "Nvidia released its 8800 GTX GPU 20 years ago today, celebrates with Steam game homage",
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-released-its-8800-gtx-gpu-20-years-ago-today-celebrates-with-steam-game-homage-interactive-demos-eye-watering-minimum-requirements-include-rtx-4070-32gb-ram-and-30gb-storage",
+      "desc": "On this day in 2006, Nvidia released the legendary GeForce 8800 GTX graphics card and it is celebrat...",
+      "img": "https://cdn.mos.cms.futurecdn.net/TmUVtxVZfu7Yc9Rnd5tCtA-1920-80.jpg"
     }
   ],
   "crypto": [
-    {
-      "title": "Binance’s  finance chief Kaiser Ng to leave company, report says",
-      "link": "https://cointelegraph.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Ng will be replaced by Justin Yek, who was formerly vice-president of finance at Airwallex.",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6X3D6NBXVQ58B0WF2EB2C96/bank-building-hall-entrance-door-binance.png"
-    },
     {
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impac...",
       "img": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
+    },
+    {
+      "title": "Binance France emails announce closure of its users’ accounts on Dec. 31",
+      "link": "https://cointelegraph.com/news/binance-france-emails-announce-closure-of-its-users-accounts-on-dec-31?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Any assets left on the exchange will be charged monthly fees starting on Nov. 29, company says.",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6XKMA4GCCY02X2C5H5XBVBP/hi-consortium-open-doors-binance.jpg"
+    },
+    {
+      "title": "Amsterdam protesters break into Microsoft data center construction site: Report",
+      "link": "https://cointelegraph.com/news/amsterdam-data-center-protesters-break-into-construction-site-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Dutch police said they detained 150-200 people for trespassing during the protest.",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6X8JFEEG972QNHB7E2TQ63J/hi-the-rise-of-major-institutions-is-inevitable-microsoft.jpg"
+    },
+    {
+      "title": "Binance’s  finance chief Kaiser Ng to leave company, report says",
+      "link": "https://cointelegraph.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Ng will be replaced by Justin Yek, who was formerly vice-president of finance at Airwallex.",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6X3D6NBXVQ58B0WF2EB2C96/bank-building-hall-entrance-door-binance.png"
     },
     {
       "title": "Ex-FBI counterintelligence agent stole almost $2.5M in crypto",
@@ -137,44 +149,32 @@
       "link": "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Bitcoin’s eCash fork gives eligible holders an equivalent balance of ECX, but questions remain over ...",
       "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NTSVE1D4C4XEP4NP4HXZRA/magazine-stablecoins-effect-the-genius-stablecoin-bill-will-have-on-bitcoin-adoption.png"
-    },
-    {
-      "title": "US sanctions Canadian money-exchange firms over Iran ties",
-      "link": "https://cointelegraph.com/news/us-sanctions-canadian-money-exchange-firms-over-iran-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "US  also offers as much as $20 million and possible relocation for information about Iran’s nuclear ...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TV46HT5722N7KQ7PPJEREP/hi-crypto-users-in-iran-sanctions-1.jpg"
-    },
-    {
-      "title": "Suspicious prediction market activity seen before election poll release: NYT",
-      "link": "https://cointelegraph.com/news/suspicious-prediction-market-activity-seen-before-election-poll-release-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Bets were placed shortly before two recent New York Times/Siena political polls were released to the...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TKZ82M5JMRKRWCTC3GH1QA/hi-one-month-left-to-polymarket-season.jpg"
     }
   ],
   "various": [
     {
-      "title": "Veterans shouldn't sleep rough this Christmas, Burnham says",
-      "link": "https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo?at_medium=RSS&at_campaign=rss",
-      "desc": "Downing Street says the prime minister will personally write to councils on Armistice Day to urge th...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa5e/live/9a627e50-dae8-11f1-93e1-3b657b665bcf.jpg"
+      "title": "King leads solemn Remembrance Sunday service at Cenotaph",
+      "link": "https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o?at_medium=RSS&at_campaign=rss",
+      "desc": "Wreaths are laid as 10,000 armed forces veterans, including 12 from World War Two, pay tribute in ce...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2837/live/b99276c0-db7b-11f1-b1f1-3be4e895d0fe.jpg"
     },
     {
-      "title": "Royal Family join veterans and families at Festival of Remembrance",
-      "link": "https://www.bbc.co.uk/news/articles/cxvgd2nr3e30o?at_medium=RSS&at_campaign=rss",
-      "desc": "The senior royals attended the annual event at London's Royal Albert Hall on the eve of Remembrance ...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2980/live/0d4070d0-db11-11f1-a8c7-49f7fad62676.jpg"
+      "title": "Watch: Royals and veterans reflect at Remembrance ceremony",
+      "link": "https://www.bbc.co.uk/news/videos/cw1l307v4edlo?at_medium=RSS&at_campaign=rss",
+      "desc": "King Charles has led the annual Remembrance Sunday commemorations, laying a wreath at the solemn cer...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24b8/live/46915d50-db7e-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "title": "Two seriously hurt in 30-vehicle crash on the M20 in Kent",
-      "link": "https://www.bbc.co.uk/news/articles/ck87z9exex2lo?at_medium=RSS&at_campaign=rss",
-      "desc": "The crash happened in fog on Saturday evening on the London-bound carriageway near Maidstone, Kent.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9db/live/1a0c2d60-db23-11f1-a701-fddedf244c16.jpg"
+      "title": "'Time is up': Minister warns media industry to take abuse seriously in wake of Brand case",
+      "link": "https://www.bbc.co.uk/news/articles/ckn9r0zd0ynwo?at_medium=RSS&at_campaign=rss",
+      "desc": "Lisa Nandy tells the BBC \"many people\" in the media industry have come forward to her.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faca/live/23423a10-db77-11f1-b1f1-3be4e895d0fe.jpg"
     },
     {
-      "title": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
-      "link": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&at_campaign=rss",
-      "desc": "While some believe the site should be partially or completely rebuilt, others want it abandoned and ...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d01/live/81eb37e0-d877-11f1-a701-fddedf244c16.jpg"
+      "title": "Government looking at banning under-16s from Vinted and eBay",
+      "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+      "desc": "The culture secretary confirms reports they could be in the list of platforms set to be banned next ...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1427/live/5d17fd80-db61-11f1-adda-c54f54e3ce6a.jpg"
     },
     {
       "title": "My parents chose to die together and I was left to grieve alone",
@@ -183,10 +183,10 @@
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bdf/live/66ee1fc0-d90d-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "title": "Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride",
-      "link": "https://www.bbc.co.uk/news/articles/cwjdmm0z74plo?at_medium=RSS&at_campaign=rss",
-      "desc": "Laura Kuenssberg talks to government insiders about the prime minister opening the conversation abou...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ce4/live/95ac7ac0-da00-11f1-93e1-3b657b665bcf.jpg"
+      "title": "The Trump coalition is shattered - what will Republicans do now?",
+      "link": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo?at_medium=RSS&at_campaign=rss",
+      "desc": "Republicans can stick with Trumpism or chart a new path, writes BBC Washington correspondent Daniel ...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa4b/live/74e0bf70-dae8-11f1-93e1-3b657b665bcf.jpg"
     }
   ]
 }
