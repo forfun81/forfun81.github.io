@@ -39,6 +39,12 @@
   ],
   "movies": [
     {
+      "title": "Ramayana Producer On How Being A ‘Fanboy’ Of Chris Nolan Films Inspired One Thing About The Epic",
+      "link": "https://www.cinemablend.com/movies/ramayana-producer-namit-malhotra-interview-fanboy-chris-nolan-inspired-hans-zimmer-score",
+      "desc": "The Indian movie features one awesome collab.",
+      "img": "https://cdn.mos.cms.futurecdn.net/8GZZyQqix4BQ34TtK5UGq9-1920-80.png"
+    },
+    {
       "title": "Zach Cregger Revealed One Part Of His Resident Evil Experience That ‘Frustrated’ Him, And I Get It",
       "link": "https://www.cinemablend.com/movies/zach-cregger-revealed-aspect-resident-evil-experience-frustrated-him",
       "desc": "You can outrun a zombie. Good luck outrunning the internet.",
@@ -67,12 +73,6 @@
       "link": "https://www.cinemablend.com/movies/box-office/godzilla-minus-zero-ruled-weekend-box-office-monstrous-milestone",
       "desc": "The kaiju movie pulled in a lot of money.",
       "img": "https://cdn.mos.cms.futurecdn.net/DxTm98iLzjA5sMD8DphZg9-1920-80.jpg"
-    },
-    {
-      "title": "Wild Horse Nine's Does Something In Its Portrayal Of Hitmen I've Never Seen",
-      "link": "https://www.cinemablend.com/movies/wild-horse-nines-does-something-portrayal-hitmen-never-seen-sam-rockwell-john-malkovich",
-      "desc": "They're so emotional in this film.",
-      "img": "https://cdn.mos.cms.futurecdn.net/iaJhMopUabQyByHRRUFuT8-1920-80.jpg"
     }
   ],
   "tech": [
@@ -115,6 +115,12 @@
   ],
   "crypto": [
     {
+      "title": "tBTC bridge partially resumes as $120M Aave reserve remains frozen",
+      "link": "https://cointelegraph.com/news/tbtc-bridge-resumes-aave-120m-reserve-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Threshold halted its tBTC bridge on Oct. 30 as operators addressed a critical Linux kernel vulnerabi...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6Z7HEM0J3VD1G6Q7DHXMEMM/bitcoin-bridge-paused.png"
+    },
+    {
       "title": "Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest",
       "link": "https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Vitalik Buterin wants Ethereum to embrace a store of value narrative, upsetting Bitcoin maxis. The c...",
@@ -143,32 +149,26 @@
       "link": "https://cointelegraph.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Ng will be replaced by Justin Yek, who was formerly vice-president of finance at Airwallex.",
       "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6X3D6NBXVQ58B0WF2EB2C96/bank-building-hall-entrance-door-binance.png"
-    },
-    {
-      "title": "Ex-FBI counterintelligence agent stole almost $2.5M in crypto",
-      "link": "https://cointelegraph.com/news/ex-fbi-counterintelligence-agent-stole-almost-25m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Yaroch paid off his debts and intended to use the proceeds to finance a new life in Portugal, where ...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6V5PT52GJ6H06ZRY3P4BHFK/arrest-crime-police-hacker-fbi.jpg"
     }
   ],
   "various": [
     {
-      "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
-      "link": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
-      "desc": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4981/live/81f74f50-dbb8-11f1-86cb-c1d83392da32.jpg"
+      "title": "Woman says Al Fayed's brother drugged and sexually abused her at Highland estate",
+      "link": "https://www.bbc.co.uk/news/articles/cm2d6kk0wzw4o?at_medium=RSS&at_campaign=rss",
+      "desc": "The woman says she was flown to the Fayed family's Balnagown estate, where she was repeatedly assaul...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c24/live/f91b8bd0-d863-11f1-85ab-b3cc3b5498c6.jpg"
     },
     {
-      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-      "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
-      "desc": "Further details have emerged about two police officers hailed for preventing a Polish gunman from ki...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5f9/live/5b43f440-db76-11f1-b1f1-3be4e895d0fe.jpg"
+      "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
+      "link": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
+      "desc": "Two doctors were eating near the Polish city's Main Market Square when a gunman began firing at rand...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30fc/live/a92bdf90-dbbe-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "title": "King leads solemn Remembrance Sunday service at Cenotaph",
-      "link": "https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o?at_medium=RSS&at_campaign=rss",
-      "desc": "Wreaths are laid as 10,000 armed forces veterans, including 12 from World War Two, pay tribute in ce...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e401/live/d9d100d0-db91-11f1-b441-2b33b063138f.jpg"
+      "title": "Dense fog threatens Monday morning rush-hour disruption",
+      "link": "https://www.bbc.co.uk/weather/articles/cj75p29nz6e6o?at_medium=RSS&at_campaign=rss",
+      "desc": "Fog could disrupt Monday morning’s commute",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2325/live/240bdfc0-db84-11f1-ab1c-6b6075dcdfe1.jpg"
     },
     {
       "title": "Maya Jama steps down as host of reality TV show Love Island",
@@ -177,16 +177,16 @@
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f2c/live/327b8220-dbb3-11f1-b35d-8ff000e4934a.jpg"
     },
     {
-      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
-      "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
-      "desc": "Several carriages derailed after two trains travelling in the same direction crashed outside the cit...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3886/live/ab03aa70-db8a-11f1-b441-2b33b063138f.jpg"
+      "title": "Nandy defends linking Erasmus student scheme to Remembrance Sunday after backlash",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss",
+      "desc": "The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime ...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d4c/live/354198e0-db64-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "title": "Top House Democrat 'a hard yes' on impeaching Pete Hegseth",
-      "link": "https://www.bbc.co.uk/news/articles/cj4g1nwx39wno?at_medium=RSS&at_campaign=rss",
-      "desc": "But the Pentagon said the defence secretary would not be deterred by \"phony investigations\".",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c025/live/b24c5e80-dbbc-11f1-b441-2b33b063138f.jpg"
+      "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss",
+      "desc": "Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian ...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3d5/live/8cacf090-dbdf-11f1-b348-cb75a5659779.jpg"
     }
   ]
 }
