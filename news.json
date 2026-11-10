@@ -39,6 +39,18 @@
   ],
   "movies": [
     {
+      "title": "An Internet User Just Made A Comment About James Gunn’s DC Tenure That Makes Me Feel Sad And Weird",
+      "link": "https://www.cinemablend.com/movies/internet-user-made-comment-about-james-gunn-dc-tenure-the-batman-part-ii",
+      "desc": "I didn't even consider this.",
+      "img": "https://cdn.mos.cms.futurecdn.net/PMVqHxJgcadGtunqDZ6WJF-1920-80.jpg"
+    },
+    {
+      "title": "Ian McKellen's Comments About Late Friend Patrick Stewart Are Making Me Emotional",
+      "link": "https://www.cinemablend.com/movies/ian-mckellen-candid-comments-late-friend-patrick-stewart-emotional",
+      "desc": "I'm not the only one crying... right?",
+      "img": "https://cdn.mos.cms.futurecdn.net/iYHfw4VvrNtsiwM7Wu9wt5-1920-80.jpg"
+    },
+    {
       "title": "I Wondered Why Toy Story 5’s Buzz Army Spent So Much Time In The Woods. Now We Know",
       "link": "https://www.cinemablend.com/movies/why-toy-story-5-buzz-army-spent-so-much-time-in-the-woods-director",
       "desc": "Finally, some answers about those Buzzes.",
@@ -61,21 +73,15 @@
       "link": "https://www.cinemablend.com/movies/robert-downey-jr-returns-doomsday-destroyed-marvel-record-and-paul-bettany-responds",
       "desc": "Some guys just can't let their former AI assistants have anything.",
       "img": "https://cdn.mos.cms.futurecdn.net/CTmveQYKfNgpTgM9XvWyMi-1920-80.jpg"
-    },
-    {
-      "title": "Lindsay Lohan Had A Mini Mean Girls Reunion On Set Of Her New Film. I’m Obsessed (And So Is Jonathan Bennett)",
-      "link": "https://www.cinemablend.com/streaming-news/lindsey-lohan-mini-mean-girls-reunion-netflix-return-to-you-film-jonathan-bennett",
-      "desc": "Get in, loser, we're going to a reunion!",
-      "img": "https://cdn.mos.cms.futurecdn.net/3GQgPPw3f2vnxQETSVRfgX-1920-80.png"
-    },
-    {
-      "title": "As A Godzilla Megafan, Here's Why Godzilla Minus Zero Is Better Than Minus One",
-      "link": "https://www.cinemablend.com/movies/as-godzilla-megafan-why-godzilla-minus-zero-better-than-minus-one",
-      "desc": "And no, I didn't JUST become a Godzilla fan.",
-      "img": "https://cdn.mos.cms.futurecdn.net/rRPHXjp9Agg7vJSbYz98be-1920-80.jpg"
     }
   ],
   "tech": [
+    {
+      "title": "Law firm files class-action lawsuit against Nvidia after CEO Jensen Huang confirms affair with alleged Chinese spy",
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/law-firm-files-class-action-lawsuit-against-nvidia-after-ceo-jensen-huang-confirms-affair-with-alleged-chinese-spy-more-to-come-as-multiple-other-law-firms-investigate-securities-fraud-following-stock-drop",
+      "desc": "Class-action lawsuit and legal investigations against Nvidia over securities fraud start flying",
+      "img": "https://cdn.mos.cms.futurecdn.net/vmfpT5LqUXTgKosXsbK9nj-1920-80.jpg"
+    },
     {
       "title": "Ethereum Foundation sued after firing employee over mandatory 'Source Seppuku' suicide pact",
       "link": "https://www.tomshardware.com/tech-industry/cryptocurrency/ethereum-foundation-sued-after-firing-employee-over-mandatory-source-seppuku-suicide-pact-crypto-firm-demanded-employees-pledge-to-take-their-own-lives-with-a-sword-to-protect-open-source-code-founder-vitalik-claims-1-000-year-mandate-just-artwork",
@@ -105,15 +111,21 @@
       "link": "https://www.tomshardware.com/laptops/gaming-laptops/acer-predator-helios-neo-16s-ai-review",
       "desc": "The Acer Predator Helios Neo 16S AI pairs strong gaming performance, a 240 Hz OLED display, and good...",
       "img": "https://cdn.mos.cms.futurecdn.net/cxkh6H4Rpe8N3eTK2ZZ24X-1920-80.jpg"
-    },
-    {
-      "title": "Nvidia RTX PRO 6000 user’s cables almost melted, even when limited to 500W",
-      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-pro-6000-users-cables-almost-melted-even-when-limited-to-500w-12v-2x6-cables-appear-to-still-cause-problems-show-clear-signs-of-melting",
-      "desc": "The 12V-2x6 connector nearly took out two RTX PRO 6000 Blackwell Workstation GPUs; luckily, the owne...",
-      "img": "https://cdn.mos.cms.futurecdn.net/NiWh9ANHtY2jbEjGf9jRq7-1920-80.png"
     }
   ],
   "crypto": [
+    {
+      "title": "OpenAI builds kill switch to stop rogue agents within 35 seconds",
+      "link": "https://cointelegraph.com/news/openai-builds-kill-switch-stop-rogue-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Control Room cuts off model output for internal research jobs when people or automated monitors flag...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M71N7GC9GWKMNHVENCJ5D0PB/hi-how-to-launch-and-push-prediction-markets-moonpay.jpg"
+    },
+    {
+      "title": "HIVE, MARA mine more Bitcoin but earn less as crypto prices fall",
+      "link": "https://cointelegraph.com/markets/hives-bitcoin-output-jumps-49-but-mining-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Both miners reported higher Bitcoin production but lower mining revenue and rising electricity costs...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M71EDYRZ1KBPHBPK0G449WJN/bitcoin-miner.jpg"
+    },
     {
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -137,31 +149,13 @@
       "link": "https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The proposed venue would offer 24/7 trading of tokenized shares from Galaxy Digital, Exodus and Forw...",
       "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70VDA13QECV5XSQ4V1SKPEE/hi-crypto-goes-for-nasdaq-solana-1.png"
-    },
-    {
-      "title": "Mercado Bitcoin begins post-hack reopening without a timeline for withdrawals",
-      "link": "https://cointelegraph.com/news/mercado-bitcoin-reopening-withdrawals-hack-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Customers can view their pre-hack balances as access returns in phases. The exchange has yet to say ...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4GS2W4DFN9GTK5VFGEJ9190/cover-b415ec149cce052d.jpg"
-    },
-    {
-      "title": "PNC Bank tests turning USDC payments into dollar deposits",
-      "link": "https://cointelegraph.com/news/pnc-bank-launches-usdc-payment-pilot-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The pilot lets eligible corporate and institutional clients accept USDC on Ethereum, with each token...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70HRDZHPXXKF87Y3Z5B9631/hi-a-list-of-most-prominent-fiat-backed-stablecoins-uk-2.png"
     }
   ],
   "various": [
     {
-      "title": "Russell Brand sentenced to 10-and-a-half years in prison for rape and sexual assault",
-      "link": "https://www.bbc.co.uk/news/articles/ckzd6dl18dmyo?at_medium=RSS&at_campaign=rss",
-      "desc": "The disgraced entertainer was sentenced on Monday following a four-week trial at Southwark Crown Cou...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7f6/live/fa928860-dc69-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "title": "Brand's ex Jemima Goldsmith accuses him of violence and abuse against her",
+      "title": "Russell Brand's ex Jemima Goldsmith accuses him of violence and abuse against her",
       "link": "https://www.bbc.co.uk/news/articles/c95ynylr8j6xo?at_medium=RSS&at_campaign=rss",
-      "desc": "She accuses the disgraced performer of \"violence, coercive control and abuse\" while the two were tog...",
+      "desc": "Goldsmith accuses the disgraced entertainer of \"violence, coercive control and abuse\" while the two ...",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc6f/live/9dd1bab0-dc78-11f1-b23d-9526db010e6c.jpg"
     },
     {
@@ -171,10 +165,10 @@
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94fc/live/b02c65a0-dc75-11f1-bbe9-83c09cc9b23f.jpg"
     },
     {
-      "title": "'Baffling but brilliant' post-apocalyptic novel The End of Everything wins Booker Prize",
-      "link": "https://www.bbc.co.uk/news/articles/cw0737kv52lko?at_medium=RSS&at_campaign=rss",
-      "desc": "M John Harrison becomes the oldest ever winner of the prestigious literary award at the age of 81.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db58/live/963bf0b0-dc49-11f1-a869-656dc96bd12d.jpg"
+      "title": "Hundreds more offenders to leave jail on Tuesday",
+      "link": "https://www.bbc.co.uk/news/articles/c51kdk8z7ym3o?at_medium=RSS&at_campaign=rss",
+      "desc": "At least 1,350 offenders have been released from jail early under the scheme so far.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d41e/live/421e5c00-dca0-11f1-9c8c-05853c802f05.jpg"
     },
     {
       "title": "Phones to be banned from pupils' bags or pockets under stricter rules for schools in England",
@@ -183,10 +177,16 @@
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47b9/live/31f56850-dc5a-11f1-8fe6-5becaee5408f.jpg"
     },
     {
-      "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
-      "link": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
-      "desc": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleg...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfeb/live/25c9f050-dc7d-11f1-ba95-5f07efd49f42.jpg"
+      "title": "Trump says more US attacks on Iran 'highly unlikely'",
+      "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
+      "desc": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should t...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6017/live/b94816e0-dca5-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "The superpower battle over energy – and what it means for your bills",
+      "link": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
+      "desc": "A tug-of-war between China and the US could have a big impact on energy costs, but who will win?",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b1f/live/f53bf9d0-dc57-11f1-b441-2b33b063138f.jpg"
     }
   ]
 }
