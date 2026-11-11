@@ -1,6 +1,12 @@
 {
   "games": [
     {
+      "title": "Steam’s Growing Review Backlog Has Cost Another Game Its Launch Date",
+      "link": "https://www.gamespot.com/articles/steam-growing-review-backlog-has-cost-another-game-its-launch-date/",
+      "desc": "Steam's growing backlog for approving game builds appears to be getting worse, as yet another studio...",
+      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/Australia-Did-It.jpg?w=300"
+    },
+    {
       "title": "Ocarina Of Time Remake Blasts Off With 5 Million Sales In Four Days; Nintendo’s Top-Selling Switch 2 Games Revealed",
       "link": "https://www.gamespot.com/gallery/nintendos-top-selling-switch-2-games-of-all-time/2900-7694/",
       "desc": "Top titles\n\n\n\nNintendo has 10 Switch 2 games that have sold more than 1 million units, and you can l...",
@@ -29,53 +35,71 @@
       "link": "https://www.gamespot.com/articles/gta-6-backflips-look-good-now-but-there-could-be-more-to-the-story/",
       "desc": "A new Grand Theft Auto 6 trailer debuted today, November 10, and the video showed off a race car dri...",
       "img": "https://www.gamespot.com/wp-content/uploads/2026/11/backflip.png?w=300"
-    },
-    {
-      "title": "Amid Higher Gas And Grocery Prices, GTA 6 Is A “Bargain” At $80, Take-Two CEO Says",
-      "link": "https://www.gamespot.com/articles/amid-higher-gas-and-grocery-prices-gta-6-is-a-bargain-at-80-take-two-ceo-says/",
-      "desc": "It's no secret that life is expensive. Gas and grocery prices are up, in particular, and against tha...",
-      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/Lucia_Caminos_07.jpg?w=300"
     }
   ],
   "movies": [
     {
-      "title": "A Major Avengers Return Was Just Set Up In VisionQuest, But I Have Another Doomsday Question",
-      "link": "https://www.cinemablend.com/movies/major-avengers-return-scarlet-witch-set-up-visionquest-have-another-doomsday-question",
-      "desc": "One character's future is confirmed, but...",
-      "img": "https://cdn.mos.cms.futurecdn.net/yHYBXsrbLfKYTMWpqpMcf3-1920-80.jpg"
+      "title": "Adam Sandler And Conan O’Brien Are Neighbors, But Admit It Gets Weird Living Behind Hollywood Hedges",
+      "link": "https://www.cinemablend.com/movies/adam-sandler-conan-obrien-neighbors-weird-living-behind-hollywood-hedges",
+      "desc": "No hedge is stopping Adam Sandler.",
+      "img": "https://cdn.mos.cms.futurecdn.net/63Bt9zhtDio4TWpGfLmcE3-1920-80.jpg"
     },
     {
-      "title": "Now That James Gunn's DC Universe Might Be Cooked, I Have A Suggestion",
-      "link": "https://www.cinemablend.com/movies/james-gunn-peter-safran-dc-universe-might-cooked-suggestion",
-      "desc": "Here's one change I really wouldn't mind.",
-      "img": "https://cdn.mos.cms.futurecdn.net/bVponALHQCQSroLDLpZCzX-1920-80.jpg"
+      "title": "Superman's Skyler Gisondo Told Us How He Feels About James Gunn Leaving DC",
+      "link": "https://www.cinemablend.com/movies/superman-skyler-gisondo-feels-james-gunn-leaving-dc",
+      "desc": "The Jimmy Olsen actor shared his reaction.",
+      "img": "https://cdn.mos.cms.futurecdn.net/AA7zjC4N4G6iGie5dfaaUG-1920-80.jpg"
     },
     {
-      "title": "Jessica Chastain Got So In Character For A New Role That It Changed How Her Face Looks (Without Makeup)",
-      "link": "https://www.cinemablend.com/streaming-news/jessica-chastain-got-so-in-character-new-role-changed-her-face-heartland",
-      "desc": "Heartland hits Netflix November 13th.",
-      "img": "https://cdn.mos.cms.futurecdn.net/Ruveqgcb57ExnE8MMuetLU-1920-80.jpg"
+      "title": "The New LOTR Is Heavily Under Wraps, But Jamie Dornan Just Made Two Big Admissions",
+      "link": "https://www.cinemablend.com/movies/lotr-hunt-for-gollum-heavily-under-wraps-jamie-dornan-two-admissions",
+      "desc": "Stepping into Aragorn's boots comes with some pretty big feelings.",
+      "img": "https://cdn.mos.cms.futurecdn.net/2C3fvzXrZF4GTXv78XgQ3H-1920-80.jpg"
     },
     {
-      "title": "I Know What Cat In The Hat Spinoff I Want To See (And The Cast Is So On Board)",
-      "link": "https://www.cinemablend.com/movies/the-cat-in-the-hat-spinoff-quinta-brunson-giancarlo-esposito-interview-on-board",
-      "desc": "Hint: It's not Pig in the Wig.",
-      "img": "https://cdn.mos.cms.futurecdn.net/XMaBb4zQZcjcwvCvGckbZL-1920-80.jpg"
+      "title": "Mckenna Grace Fully Proved That The Sheer And Little Black Dress Trends Go Together Perfectly",
+      "link": "https://www.cinemablend.com/movies/mckenna-grace-proved-sheer-little-black-dress-trends-go-together-hunger-games-sunrise-on-the-reaping",
+      "desc": "OK, she's Hollywood's new fashion princess.",
+      "img": "https://cdn.mos.cms.futurecdn.net/cLbXc4SW6uA8yQRwES9Mtb-1920-80.png"
     },
     {
-      "title": "I Did Not Expect Florence Pugh's Candid Take On Stomach Rolls And Cellulite While Filming",
-      "link": "https://www.cinemablend.com/movies/florence-pugh-candid-take-stomach-rolls-cellulite-filming-body-positivity",
-      "desc": "\"I just give it over to the art. \"",
-      "img": "https://cdn.mos.cms.futurecdn.net/hUE4uZRR5sJoHeq9vVti3e-1920-80.png"
+      "title": "Zoe Saldaña And Gwyneth Paltrow Just Bonded Over How Tough Marvel Sets Are: 'Literally The CIA'",
+      "link": "https://www.cinemablend.com/movies/zoe-saldana-gwyneth-paltrow-bonded-how-tough-marvel-sets-avengers-endgame",
+      "desc": "I get their frustration.",
+      "img": "https://cdn.mos.cms.futurecdn.net/aT7MLu3gX5DTNFd4PmTjBN-1920-80.png"
     },
     {
-      "title": "Rupert Grint Reveals His ‘Hope’ For The New Ron Weasley (And I’m Getting Emotional)",
-      "link": "https://www.cinemablend.com/television/rupert-grint-reveals-hope-new-ron-weasley-im-getting-emotional-harry-potter",
-      "desc": "Alastair Stout will play Rupert Grint's signature role on TV.",
-      "img": "https://cdn.mos.cms.futurecdn.net/3Rpas7yz4aNtxevNKuuGj8-1920-80.jpg"
+      "title": "Some Of These Harsh Reviews Of How To Rob A Bank Are Giving Me 2025's War Of The Worlds Vibes",
+      "link": "https://www.cinemablend.com/movies/-harsh-reviews-how-to-rob-a-bank-are-giving-2025-war-of-the-worlds-vibes-nicolaus-holt-zoe-kravitz",
+      "desc": "A muddled political message hidden behind a TikTok-style format",
+      "img": "https://cdn.mos.cms.futurecdn.net/ZuC6R8DMK4VbKSgurLuXUb-1920-80.jpg"
     }
   ],
   "tech": [
+    {
+      "title": "AMD’s Venice-X maxes out family at 5.3 GHz, returning 3D V-Cache to data center after four years",
+      "link": "https://www.tomshardware.com/pc-components/cpus/amds-venice-x-maxes-out-family-at-5-3-ghz-returning-3d-v-cache-to-data-center-after-four-years-chips-target-hpc-workloads-with-pcie-6-0-and-1-6-tb-s-memory-bandwidth",
+      "desc": "AMD's Venice-X CPUs launch in the second half of 2027, bringing 3D V-Cache back to the data center a...",
+      "img": "https://cdn.mos.cms.futurecdn.net/aLSGanWgBzwJhr9LcYMiwb-1920-80.jpg"
+    },
+    {
+      "title": "Prusa launches new carbon-fiber and carbon-nanotube-filled 3D printing filament for electronics manufacturing",
+      "link": "https://www.tomshardware.com/3d-printing/prusa-launches-new-carbon-3d-printing-filament-for-electronics-manufacturing-carbon-fiber-and-carbon-nanotube-filled-material-dissipates-electrostatic-energy-for-static-sensitive-electronics",
+      "desc": "Prusament PETG ESD is the cheapest ESD filament on the market, while being carbon-fiber reinforced, ...",
+      "img": "https://cdn.mos.cms.futurecdn.net/aBKxZmq6X4ehfScb2L2N4L-1920-80.jpg"
+    },
+    {
+      "title": "OpenAI and Georgia county leaders hit with Mafia-style RICO racketeering lawsuit over $30 billion AI data center",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/georgia-politicians-openai-slapped-with-racketeering-lawsuit-over-3-2-gigawatt-ai-data-centers-plaintiffs-allege-multiple-violations-were-part-of-a-coordinated-scheme-to-get-project-camellia-approved",
+      "desc": "The plaintiffs alleged that the parties committed fraud and concealment through NDAs and misleading ...",
+      "img": "https://cdn.mos.cms.futurecdn.net/rqn39aj9hMqYUZdPPwgxYd-1920-80.jpg"
+    },
+    {
+      "title": "PC peripheral maker Logitech giving all of its 7,000 employees the day off to play GTA 6",
+      "link": "https://www.tomshardware.com/video-games/pc-peripheral-maker-logitech-giving-all-of-its-7-000-employees-the-day-off-to-play-gta-6-company-announces-game-day-initiative-dedicated-vacation-day-to-play-video-games",
+      "desc": "Accessory maker Logitech has a new \"Logi Game Day\" initiative that allows employees to take a day of...",
+      "img": "https://cdn.mos.cms.futurecdn.net/aUeWUCPMkaib7UMDrpTLJ5-1920-80.png"
+    },
     {
       "title": "SpaceX develops its own ‘Kessel’ rack-scale system featuring 72 Nvidia Rubin GPUs for data centers in space, report claims",
       "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/spacex-develops-its-own-kessel-rack-scale-system-featuring-72-nvidia-rubin-gpus-for-data-centers-in-space-report-claims-replaces-conventional-nvlink-cable-assemblies-with-a-massive-84-layer-printed-circuit-board",
@@ -87,76 +111,52 @@
       "link": "https://www.tomshardware.com/tech-industry/data-centers/softbank-loses-usd3-7-billion-on-canceled-ai-data-center-gas-turbine-orders-days-after-denying-elon-musks-claim-it-was-defaulting-company-kills-reserved-13-gigawatts-of-power-more-than-six-hoover-dams-worth-of-capacity",
       "desc": "SoftBank might not have defaulted on a raft of gas turbine orders, but it has pulled out of deals fo...",
       "img": "https://cdn.mos.cms.futurecdn.net/oVtZCcAvC5GeZw8jGbrs65-1920-80.jpg"
-    },
-    {
-      "title": "ASRock quietly rolls out new firmware after disastrous previous update killed Radeon RX 7900-series GPUs",
-      "link": "https://www.tomshardware.com/pc-components/gpus/asrock-attempts-to-correct-botched-radeon-rx-7000-firmware-release-with-new-version-revised-release-should-work-ok-but-company-provides-no-explanation-for-bricked-cards",
-      "desc": "Asrock's VBIOS 1.0.6 update follows reports of Radeon RX 7900 XT and XTX graphics cards failing to b...",
-      "img": "https://cdn.mos.cms.futurecdn.net/vYFmafSqNeAuDCoRgWnUha-1920-80.jpg"
-    },
-    {
-      "title": "Montech King 95 3D Pro case review: The King has returned",
-      "link": "https://www.tomshardware.com/pc-components/pc-cases/montech-king-95-3d-pro-case-review",
-      "desc": "The new Montech King 95 3D case offers 3-panel panoramic views of the inside, loads of interior spac...",
-      "img": "https://cdn.mos.cms.futurecdn.net/ncbq6Yo9bTuXEL54DYNe9n-1920-80.jpg"
-    },
-    {
-      "title": "Nintendo unleashes DMCA takedown wave against open-source Switch modchip firmware, 144 tools disabled",
-      "link": "https://www.tomshardware.com/video-games/nintendo/nintendo-unleashes-dmca-takedown-wave-against-open-source-switch-modchip-firmware-144-tools-disabled-picofly-sx-core-and-hwfly-among-casualties-following-criminal-trial-victory",
-      "desc": "Nintendo is going after the open-source firmware behind hardware modchips on Nintendo Switch",
-      "img": "https://cdn.mos.cms.futurecdn.net/2DevTBcqmofqZHBebZKQwm-1920-80.jpg"
-    },
-    {
-      "title": "Cognichip reveals how its new AI-assisted program can slash chip design times from months to days — automating labor-intensive tasks cuts design time down, Chief Product Officer explains",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/cognichip-reveals-how-its-new-ai-assisted-program-can-slash-chip-design-times-from-months-to-days-automating-labor-intensive-tasks-cuts-design-time-down-chief-product-officer-explains",
-      "desc": "Cognichip claims its AI can slash chip design time from months to days, only that that design must b...",
-      "img": "https://cdn.mos.cms.futurecdn.net/SZynBTpuLwfL9Qk53EYMmW-1920-80.jpg"
     }
   ],
   "crypto": [
+    {
+      "title": "Uncalled US House races could send more crypto allies to Congress",
+      "link": "https://cointelegraph.com/news/uncalled-midterm-races-add-more-crypto-supporters-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The remaining races feature pro-crypto candidates and others without a stated position, giving advoc...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75XNMPSEVD2H0XM5RBPTJMR/different-crypto-logos.png"
+    },
+    {
+      "title": "Nomura explores sale of crypto unit Laser Digital: Bloomberg",
+      "link": "https://cointelegraph.com/news/nomura-sale-crypto-unit-laser-digital?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The potential sale of Laser Digital follows a fourth straight quarterly loss for Nomura’s European o...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M763TD8E1ZBRMPTMFSD5YQ3A/bithumb-acquisition-deal-off-2.png"
+    },
+    {
+      "title": "US data center restrictions could give Bitcoin miners an edge in AI, though challenges remain",
+      "link": "https://cointelegraph.com/news/us-data-center-restrictions-bitcoin-miners-edge-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "As US voters push back against new data centers, Bitcoin miners already expanding into AI could bene...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M73MEN38K2N8NDYPGWJFZGPZ/hi-bitcoin-nodes-vs-miners-protection.jpg"
+    },
+    {
+      "title": "OKXICE moves ahead with tokenized stocks as blue chips push back",
+      "link": "https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The Nov. 23 debut puts a new SEC exemption to the test as Nasdaq pursues its own tokenized stock pla...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75S911M6Z2QY1MHSS3BEKGB/hi-how-binance-plans-to-bring-tokenized-us-stocks-5.png"
+    },
+    {
+      "title": "Bitcoin hovers near $74K as stocks rise despite US bond yield rebound",
+      "link": "https://cointelegraph.com/markets/bitcoin-74k-stocks-us-bond-yield-inflation-cpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Bitcoin traded in a narrow range as investors bought the dip in tech stocks and US bond yields climb...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75N52D7VC58F2MJTGJCRMV1/bungee-jumping-bitcoin-1-960x640.webp"
+    },
     {
       "title": "Deutsche Bank launches crypto custody for companies and institutions",
       "link": "https://cointelegraph.com/news/deutsche-bank-debuts-digital-asset-custody-services-eu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Clients can store and transfer Bitcoin, Ether and select stablecoins through the bank, which manages...",
       "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75D0RVNVRMGT5GMDFRH6PZQ/hi-us-banks-have-deeper-interest-in-digital-than-previously-thought.jpg"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impac...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
-    },
-    {
-      "title": "Paraguay bank collapse shows stablecoins can offer a lifeline... of sorts",
-      "link": "https://cointelegraph.com/magazine/paraguay-bank-collapse-shows-stablecoins-can-offer-a-lifeline-of-sorts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Ueno’s collapse exposed the fragility of digital banking in Paraguay, as customers scrambled for acc...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72P50QB7YYQYFYB7ABTSVZ2/magazineai-banking-the-unbanked-in-africa-1.png"
-    },
-    {
-      "title": "Bitcoin Covenants Part 5: MATT and OP_CHECKCONTRACTVERIFY — How Bitcoin could carry state across transactions",
-      "link": "https://cointelegraph.com/research/bitcoin-covenants-part-5-matt-op-ccv?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "OP_CCV embeds contract state directly into Taproot output keys and enforces valid state transitions ...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5YMN410HHB04XQCTHZ2P4NF/crypto-bitcoin-storage.jpg"
-    },
-    {
-      "title": "CoreWeave stock jumps 15% premarket after Q3 revenue beats estimates",
-      "link": "https://cointelegraph.com/markets/coreweave-stock-surges-pre-market-q3-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "CoreWeave’s third-quarter revenue rose 168% to $3.66 billion, beating analyst estimates by 3.4%. Its...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7572VRXC31WERWWDCXZ6ZM2/hi-how-wall-street-is-using-ethereum-without-talking-about-ethereum-1.jpg"
-    },
-    {
-      "title": "FSB urgest Turkey to tighten crypto oversight, set stablecoin rules",
-      "link": "https://cointelegraph.com/news/fsb-turkey-crypto-oversight-stablecoin-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The Financial Stability Board cited progress on crypto licensing and urged stronger enforcement and ...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7578X1R0G4ARNS1V00H1SJF/regulation-office-document-paper-turkey.jpg"
     }
   ],
   "various": [
     {
-      "title": "Jonathan Ross 'horrified' by Walliams allegations and Brand conviction",
-      "link": "https://www.bbc.co.uk/news/articles/cmwy9jl18840o?at_medium=RSS&at_campaign=rss",
-      "desc": "The TV presenter says he was once \"friendly\" with David Walliams and Russell Brand, but was \"genuine...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3bc/live/7b73a580-dde2-11f1-b441-2b33b063138f.jpg"
+      "title": "Author says there were 'real concerns' about David Walliams within publishing industry",
+      "link": "https://www.bbc.co.uk/news/articles/c95y15830k77o?at_medium=RSS&at_campaign=rss",
+      "desc": "The comedian denies allegations of sexual misconduct, inappropriate behaviour and abusing his power ...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3da/live/be8fbc60-ddeb-11f1-a701-fddedf244c16.jpg"
     },
     {
       "title": "'I felt like I was being manipulated': Woman alleges Walliams groomed her as a teenager",
@@ -165,28 +165,28 @@
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d504/live/93f888e0-ddd4-11f1-b441-2b33b063138f.jpg"
     },
     {
+      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+      "desc": "Tens of thousands of people have been taking part in the strike, called by the country's main unions...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8f2/live/d0df2010-de11-11f1-a701-fddedf244c16.jpg"
+    },
+    {
       "title": "Scottish DJ, 32, confirmed as victim of Krakow shooting",
       "link": "https://www.bbc.co.uk/news/articles/cmx28e95g2rzo?at_medium=RSS&at_campaign=rss",
       "desc": "The man, who is understood to be James Thomas Campbell from Prestwick, died when a lone gunman opene...",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cee0/live/bf6f44c0-dddc-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "title": "Spain sees widespread disruption in first general strike for 14 years",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-      "desc": "Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parl...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49d4/live/b795f200-ddc1-11f1-a50f-85eebf9e50e5.jpg"
+      "title": "Thousands of schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
+      "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
+      "desc": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appe...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80c9/live/fc093bd0-ddc7-11f1-9053-236ccb99630c.jpg"
     },
     {
-      "title": "Watch: UK falls silent to mark Armistice Day",
-      "link": "https://www.bbc.co.uk/news/videos/c6lymnz44gn4o?at_medium=RSS&at_campaign=rss",
-      "desc": "People from Belfast to Cardiff, London to Edinburgh held the two-minute silence to mark the end of W...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e659/live/ee4e1330-ddd6-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "title": "Police helped remove Russell Brand after 'violent incident' at Jemima Goldsmith's home",
-      "link": "https://www.bbc.co.uk/news/articles/cqde1yddwk17o?at_medium=RSS&at_campaign=rss",
-      "desc": "Police confirm they asked Brand to leave his ex-girlfriend's house after she reported an alleged ass...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc6f/live/9dd1bab0-dc78-11f1-b23d-9526db010e6c.jpg"
+      "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
+      "link": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&at_campaign=rss",
+      "desc": "Following a wreath-laying ceremony marking Veterans Day, a group that included Defence Secretary Pet...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff27/live/573e7b50-de18-11f1-93e1-3b657b665bcf.jpg"
     }
   ]
 }
