@@ -1,6 +1,30 @@
 {
   "games": [
     {
+      "title": "GTA 6: What Will Review Scores Be? You Can Win A $500 Gift Card For Getting It Right",
+      "link": "https://www.gamespot.com/articles/gta-6-what-will-review-scores-be-you-can-win-a-500-gift-card-for-getting-it-right/",
+      "desc": "Rockstar's long-awaited open-world action game Grand Theft Auto 6 finally releases on November 19, a...",
+      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/Lucia_Caminos_13_84120d.jpg?w=300"
+    },
+    {
+      "title": "Sony Cancels Live-Service PS5 Game Fairgames, But No Layoffs",
+      "link": "https://www.gamespot.com/articles/sony-cancels-live-service-ps5-game-fairgames-but-no-layoffs/",
+      "desc": "Sony has canceled the upcoming live-service shooter Fairgame$, but there will be no job cuts connect...",
+      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/fairgames.png?w=300"
+    },
+    {
+      "title": "GTA 6 Backflips Look Good Now, But There Could Be More To The Story",
+      "link": "https://www.gamespot.com/articles/gta-6-backflips-look-good-now-but-there-could-be-more-to-the-story/",
+      "desc": "A new Grand Theft Auto 6 trailer debuted today, November 10, and the video showed off a race car dri...",
+      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/backflip.png?w=300"
+    },
+    {
+      "title": "Amid Higher Gas And Grocery Prices, GTA 6 Is A “Bargain” At $80, Take-Two CEO Says",
+      "link": "https://www.gamespot.com/articles/amid-higher-gas-and-grocery-prices-gta-6-is-a-bargain-at-80-take-two-ceo-says/",
+      "desc": "It's no secret that life is expensive. Gas and grocery prices are up, in particular, and against tha...",
+      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/Lucia_Caminos_07.jpg?w=300"
+    },
+    {
       "title": "Valve Is Giving You More Ways To Know If A Game Runs Well On Steam Deck",
       "link": "https://www.gamespot.com/articles/valve-is-giving-you-more-ways-to-know-if-a-game-runs-well-on-steam-deck/",
       "desc": "Valve's Steam Deck verification program has been a helpful, if somewhat flawed, method of determinin...",
@@ -11,33 +35,33 @@
       "link": "https://www.gamespot.com/articles/wow-forever-just-received-its-first-big-post-launch-changes/",
       "desc": "World of Warcraft: Forever received its first post-launch updates over the weekend, giving players a...",
       "img": "https://www.gamespot.com/wp-content/uploads/2026/11/WoW-Forever-First-Post-Launch-Changes.jpg?w=300"
-    },
-    {
-      "title": "GTA 6 Has Sold Almost 10 Million Copies So Far, And PS5 Is Massively Outselling Xbox (Of Course)",
-      "link": "https://www.gamespot.com/articles/gta-6-has-sold-almost-8-million-copies-so-far-and-ps5-is-dominating-the-split-of-course/",
-      "desc": "The video game research company Sensor Tower has updated its GTA 6 sales tracker to reveal the lates...",
-      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/Jason_and_Lucia_09-2.jpg?w=300"
-    },
-    {
-      "title": "Death Stranding 2 Headlines PlayStation Plus Game Catalog For November",
-      "link": "https://www.gamespot.com/articles/death-stranding-2-headlines-playstation-plus-game-catalog-for-november/",
-      "desc": "The next batch of games for the PlayStation Plus Game Catalog has been revealed. PS Plus Essential a...",
-      "img": "https://www.gamespot.com/wp-content/uploads/original/1816/18167535/4521342-death-stranding-2-best-weapons-gear-upgrades-early-game-.jpg?w=300"
-    },
-    {
-      "title": "Take-Two Boss Says Ocarina Of Time Is “Terrific,” But Is It Competing With GTA 6?",
-      "link": "https://www.gamespot.com/articles/take-two-boss-says-ocarina-of-time-is-terrific-but-is-it-competing-with-gta-6/",
-      "desc": "Take-Two boss Strauss Zelnick has reacted to the release of Nintendo's recent Switch 2 remake of The...",
-      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/ocarinaoftimeremake-1.png?w=300"
-    },
-    {
-      "title": "GTA 6 Is The Most Preordered Game Of All Time For PlayStation And Xbox",
-      "link": "https://www.gamespot.com/articles/gta-6-is-the-most-preordered-game-of-all-time-for-playstation-and-xbox/",
-      "desc": "Rockstar's Grand Theft Auto 6 releases on November 19 for PlayStation 5 and Xbox Series X|S, and the...",
-      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/Lucia_Caminos_14.jpg?w=300"
     }
   ],
   "movies": [
+    {
+      "title": "Rupert Grint Reveals His ‘Hope’ For The New Ron Weasley (And I’m Getting Emotional)",
+      "link": "https://www.cinemablend.com/television/rupert-grint-reveals-hope-new-ron-weasley-im-getting-emotional-harry-potter",
+      "desc": "Alastair Stout will play Rupert Grint's signature role on TV.",
+      "img": "https://cdn.mos.cms.futurecdn.net/3Rpas7yz4aNtxevNKuuGj8-1920-80.jpg"
+    },
+    {
+      "title": "Wait, Did Anthony Mackie Just Spoil A Surprise Avengers: Doomsday Character?",
+      "link": "https://www.cinemablend.com/movies/did-anthony-mackie-just-spoil-surprise-avengers-doomsday-character-vision-paul-bettany",
+      "desc": "Tom Holland might not be Marvel's biggest spoiler anymore.",
+      "img": "https://cdn.mos.cms.futurecdn.net/MDFWKuSBWeHkT345jXVMoe-1920-80.jpg"
+    },
+    {
+      "title": "While We Wait For Alan Ritchson And Arnold Schwarzenegger's New Movie, Jingle All The Way Is Streaming For Free",
+      "link": "https://www.cinemablend.com/movies/jingle-all-the-way-streaming-free-ahead-of-man-with-the-bag",
+      "desc": "Grab your Turbo Man and let's go!",
+      "img": "https://cdn.mos.cms.futurecdn.net/23X9MV7avTHHsrqYHBxSM-1920-80.jpg"
+    },
+    {
+      "title": "I'm All For A You've Got Mail Reboot, But They Need To Fix The Ending",
+      "link": "https://www.cinemablend.com/movies/all-for-youve-got-mail-reboot-change-end",
+      "desc": "I really can't get over the end of the 1998 movie.",
+      "img": "https://cdn.mos.cms.futurecdn.net/SYnGJqBnqTkWyRfTfCLeVB-1920-80.jpg"
+    },
     {
       "title": "People Praise Andy Serkis For His Gollum LOTR Work. It Does Take A Terrible Toll",
       "link": "https://www.cinemablend.com/movies/people-praise-andy-serkis-gollum-lotr-work-take-terrible-toll",
@@ -49,30 +73,6 @@
       "link": "https://www.cinemablend.com/movies/ken-russell-the-devils-uncensored-release",
       "desc": "You can finally see The Devils in all its uncensored glory.",
       "img": "https://cdn.mos.cms.futurecdn.net/ximE5LXsZtrF25nGuCjtuh-1920-80.jpg"
-    },
-    {
-      "title": "Sam Claflin Has A Great Idea For A Hunger Games Prequel (And The Role He Could Play In It)",
-      "link": "https://www.cinemablend.com/movies/sam-claflin-great-idea-hunger-games-prequel-role-he-play-finnick",
-      "desc": "I need this idea to catch fire.",
-      "img": "https://cdn.mos.cms.futurecdn.net/5RcEgDsA2jzw2b6jWKGiTX-1920-80.jpg"
-    },
-    {
-      "title": "Fan Reactions On James Gunn’s Goodbye Post Made Lanterns And DC Points I’m Also Concerned About",
-      "link": "https://www.cinemablend.com/movies/fan-reactions-james-gunn-goodbye-post-lanterns-dc-points-concerned-about",
-      "desc": "I have so many questions about DC's future.",
-      "img": "https://cdn.mos.cms.futurecdn.net/itG3WeSMygvsggBkTa4JPT-1920-80.jpg"
-    },
-    {
-      "title": "Simu Liu’s Out Here Working Out Shirtless For Marvel (And Trolling SNL’s Shane Gillis In The Process)",
-      "link": "https://www.cinemablend.com/movies/simu-lius-working-out-avengers-doomsday-marvel-trolling-snl-shane-gillis-inde-navarette-monologue",
-      "desc": "This is gonna end up as the most viral SNL moment this season...",
-      "img": "https://cdn.mos.cms.futurecdn.net/KuTqwwrfevD6nzEJrWXoTA-1920-80.jpg"
-    },
-    {
-      "title": "I Just Learned A Ben Affleck Batman Movie Led Jennifer Garner To One Fond Marriage Memory",
-      "link": "https://www.cinemablend.com/movies/i-just-learned-ben-affleck-batman-movie-led-jennifer-garner-fond-marriage-memory",
-      "desc": "It appears the Barefoot Contessa knew a thing or two about Batman's travel plans.",
-      "img": "https://cdn.mos.cms.futurecdn.net/7JRyhbkTq7mvUBq5bJKK8K-1920-80.jpg"
     }
   ],
   "tech": [
@@ -115,40 +115,40 @@
   ],
   "crypto": [
     {
-      "title": "Mercado Bitcoin to resume cash withdrawals after $49M hack",
-      "link": "https://cointelegraph.com/news/pix-withdrawals-resume-mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Starting next week, customers can deposit and withdraw money through Brazil’s instant payment system...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M732NFDQVGSJE1VGENNVNKQT/trading-app-crypto-messenger-phone.jpg"
+      "title": "CFTC warns Kalshi of imminent charges over notification of contracts: Politico",
+      "link": "https://cointelegraph.com/news/cftc-warns-kalshi-imminent-charges-over-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The prediction markets operator says the issue involves procedural errors affecting a handful of con...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M73XRY62MBKPK389ZQG0QV22/hi-the-mathematics-of-cftc.jpg"
     },
     {
-      "title": "Hot US inflation raises odds of half-point Fed hike in December",
-      "link": "https://cointelegraph.com/news/hot-us-inflation-raises-rate-hike-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "US inflation came in above forecasts in October, increasing expectations of a bigger rate hike in De...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7336RAJMBE41VQRYSYWFP63/us-federal-reserve-1.jpg"
-    },
-    {
-      "title": "Polymarket US trading volume jumps 266% despite regulatory battles",
-      "link": "https://cointelegraph.com/news/polymarket-us-trading-volume-jumps-regulatory-battles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Trading volume on Polymarket’s US exchange surged from June to October, fueled by sports betting, ev...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M733KDA3PZPHNST4578G33HY/hi-9-bets-declined-bad-influence-on-the-market-polymarket.png"
-    },
-    {
-      "title": "Bitcoin nears 11-week low after ‘discouraging’ US CPI inflation beat",
-      "link": "https://cointelegraph.com/markets/bitcoin-11-week-low-discouraging-us-cpi-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Bitcoin and US stocks initially fall after October inflation tops forecasts, with traders expecting ...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7321EC4JJA90DW6KN2X8639/us-inflation-1-960x640.webp"
-    },
-    {
-      "title": "Poland’s lower house backs sanctions bill covering crypto freezes",
-      "link": "https://cointelegraph.com/news/poland-bill-freeze-sanctions-crypto-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The bill is now before the Senate and would broaden the grounds for adding people and companies to P...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72PYD519ZQBWS31RRW4K0PX/edited-cointelegraph-illustration.png"
+      "title": "Global banks commit $270M to stablecoin venture targeting 2027 launch",
+      "link": "https://cointelegraph.com/news/banks-270m-project-faro-stablecoin-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Project Faro, backed by Goldman Sachs, Citigroup and BBVA, has secured $270 million in funding to la...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M73RYKH763P9CHNYH2J89SZ9/without-stars-1.png"
     },
     {
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impac...",
       "img": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
+    },
+    {
+      "title": "Can crypto trust firms compete with banks in US derivatives settlements?",
+      "link": "https://cointelegraph.com/news/crypto-trust-firms-compete-banks-us-derivatives-settlements?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Crypto custodians are moving into a market handling billions in daily settlements, but regulatory re...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M737F90C6VC7KHFB6CAJGABZ/hi-bank-of-international-settlements-and-crypto.png"
+    },
+    {
+      "title": "Across Protocol warns users to avoid app amid reports of drained wallets",
+      "link": "https://cointelegraph.com/news/across-protocol-warns-avoid-app-drained-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The protocol is investigating a potential security incident affecting its domain, while several user...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M73K15YFN3A2NRTYKWZDD5KZ/hi-company-hits-vulnerability-1.png"
+    },
+    {
+      "title": "Ava Labs exec says NYSE deal marks end of blockchain’s ‘general purpose era’",
+      "link": "https://cointelegraph.com/interview/ava-labs-nyse-general-purpose-chains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Ava Labs’ John Nahas said the collaboration with the NYSE shows institutions moving past pilots towa...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M71CKZSV2TF2K3QA6GMNV1K0/ava-labs-token-edit.png"
     }
   ],
   "various": [
@@ -156,7 +156,7 @@
       "title": "US Army soldier suspected of spying for Russia arrested in UK",
       "link": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
       "desc": "The 41-year-old senior soldier is accused of national security offences and is being questioned in L...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b91a/live/93bb42f0-dd3e-11f1-9ac0-6b8f7fc58221.png"
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c66f/live/939c6190-dd44-11f1-9ac0-6b8f7fc58221.png"
     },
     {
       "title": "David Walliams accused of sexual misconduct after losing injunction bid",
@@ -165,28 +165,28 @@
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e229/live/97ca3420-dd41-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "title": "Watch: What we know about the allegations against Walliams",
-      "link": "https://www.bbc.co.uk/news/videos/cmn9r90wyq2lo?at_medium=RSS&at_campaign=rss",
-      "desc": "The author and comedian recently lost a court battle trying to block publication of the allegations.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d49f/live/5f136980-dd3c-11f1-93e1-3b657b665bcf.jpg"
+      "title": "Why Walliams' unprecedented legal battle to stay anonymous failed",
+      "link": "https://www.bbc.co.uk/news/articles/cwx2922r4mrjo?at_medium=RSS&at_campaign=rss",
+      "desc": "The 55-year-old was named in reports by ITV News and the Guardian on Tuesday after losing a court bi...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e302/live/6c37fbd0-dd4b-11f1-a2ff-1f577adb9bef.jpg"
+    },
+    {
+      "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
+      "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
+      "desc": "The 82-year-old was placed under house detention in Florida last week after being charged over posse...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a13/live/1b8d2f10-dd47-11f1-9ac0-6b8f7fc58221.jpg"
+    },
+    {
+      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+      "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+      "desc": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try ag...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5391/live/eb55ba30-dd67-11f1-a701-fddedf244c16.jpg"
     },
     {
       "title": "Inside devastated front-line city that Russia wants Ukraine to give up",
       "link": "https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss",
       "desc": "The BBC gains rare access to a specialist drone unit defending the eastern city of Slovyansk from he...",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a97e/live/c6e282c0-dd33-11f1-ab46-9fae224bbf6f.jpg"
-    },
-    {
-      "title": "Train attack driver's '10 seconds' to change line",
-      "link": "https://www.bbc.co.uk/news/articles/cm5ynyzje424o?at_medium=RSS&at_campaign=rss",
-      "desc": "Andrew Johnson tells jurors he heard over the intercom \"'there's a knifeman stabbing people'\".",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d489/live/69dde890-dd32-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "title": "Watch: Meghan's first public appearance since father arrested",
-      "link": "https://www.bbc.co.uk/news/videos/cqj9k9dj7vzlo?at_medium=RSS&at_campaign=rss",
-      "desc": "Meghan arrived at the European Parliament in Brussels with her husband, Prince Harry, who delivered ...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e88d/live/6532bb60-dd03-11f1-a701-fddedf244c16.jpg"
     }
   ]
 }
