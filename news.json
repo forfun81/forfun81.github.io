@@ -39,6 +39,18 @@
   ],
   "movies": [
     {
+      "title": "I Know What Cat In The Hat Spinoff I Want To See (And The Cast Is So On Board)",
+      "link": "https://www.cinemablend.com/movies/the-cat-in-the-hat-spinoff-quinta-brunson-giancarlo-esposito-interview-on-board",
+      "desc": "Hint: It's not Pig in the Wig.",
+      "img": "https://cdn.mos.cms.futurecdn.net/XMaBb4zQZcjcwvCvGckbZL-1920-80.jpg"
+    },
+    {
+      "title": "I Did Not Expect Florence Pugh's Candid Take On Stomach Rolls And Cellulite While Filming",
+      "link": "https://www.cinemablend.com/movies/florence-pugh-candid-take-stomach-rolls-cellulite-filming-body-positivity",
+      "desc": "\"I just give it over to the art. \"",
+      "img": "https://cdn.mos.cms.futurecdn.net/hUE4uZRR5sJoHeq9vVti3e-1920-80.png"
+    },
+    {
       "title": "Rupert Grint Reveals His ‘Hope’ For The New Ron Weasley (And I’m Getting Emotional)",
       "link": "https://www.cinemablend.com/television/rupert-grint-reveals-hope-new-ron-weasley-im-getting-emotional-harry-potter",
       "desc": "Alastair Stout will play Rupert Grint's signature role on TV.",
@@ -61,18 +73,6 @@
       "link": "https://www.cinemablend.com/movies/all-for-youve-got-mail-reboot-change-end",
       "desc": "I really can't get over the end of the 1998 movie.",
       "img": "https://cdn.mos.cms.futurecdn.net/SYnGJqBnqTkWyRfTfCLeVB-1920-80.jpg"
-    },
-    {
-      "title": "People Praise Andy Serkis For His Gollum LOTR Work. It Does Take A Terrible Toll",
-      "link": "https://www.cinemablend.com/movies/people-praise-andy-serkis-gollum-lotr-work-take-terrible-toll",
-      "desc": "Turns out, sharing headspace with Gollum is murder on your sleep schedule.",
-      "img": "https://cdn.mos.cms.futurecdn.net/55zv3VuevknreDSgLMMfzi-1920-80.jpg"
-    },
-    {
-      "title": "One Of The Most Controversial Horror Movies Ever Made Is Finally Getting An Uncensored Release",
-      "link": "https://www.cinemablend.com/movies/ken-russell-the-devils-uncensored-release",
-      "desc": "You can finally see The Devils in all its uncensored glory.",
-      "img": "https://cdn.mos.cms.futurecdn.net/ximE5LXsZtrF25nGuCjtuh-1920-80.jpg"
     }
   ],
   "tech": [
@@ -115,78 +115,78 @@
   ],
   "crypto": [
     {
-      "title": "CFTC warns Kalshi of imminent charges over notification of contracts: Politico",
-      "link": "https://cointelegraph.com/news/cftc-warns-kalshi-imminent-charges-over-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The prediction markets operator says the issue involves procedural errors affecting a handful of con...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M73XRY62MBKPK389ZQG0QV22/hi-the-mathematics-of-cftc.jpg"
-    },
-    {
-      "title": "Global banks commit $270M to stablecoin venture targeting 2027 launch",
-      "link": "https://cointelegraph.com/news/banks-270m-project-faro-stablecoin-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Project Faro, backed by Goldman Sachs, Citigroup and BBVA, has secured $270 million in funding to la...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M73RYKH763P9CHNYH2J89SZ9/without-stars-1.png"
-    },
-    {
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impac...",
       "img": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
     },
     {
-      "title": "Can crypto trust firms compete with banks in US derivatives settlements?",
-      "link": "https://cointelegraph.com/news/crypto-trust-firms-compete-banks-us-derivatives-settlements?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Crypto custodians are moving into a market handling billions in daily settlements, but regulatory re...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M737F90C6VC7KHFB6CAJGABZ/hi-bank-of-international-settlements-and-crypto.png"
+      "title": "Initia confirms second exploit in 3 weeks, $3.27M stolen in latest attack",
+      "link": "https://cointelegraph.com/news/initia-second-crypto-exploit-three-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Initia said an attacker exploited compromised cloud credentials to move $3.27 million in crypto asse...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M74J6ATXFTZ5SBS14E1HH1X2/password-fraud-hacker-scam3-4.jpg"
     },
     {
-      "title": "Across Protocol warns users to avoid app amid reports of drained wallets",
-      "link": "https://cointelegraph.com/news/across-protocol-warns-avoid-app-drained-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The protocol is investigating a potential security incident affecting its domain, while several user...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M73K15YFN3A2NRTYKWZDD5KZ/hi-company-hits-vulnerability-1.png"
+      "title": "Across Protocol restores website after hackers hijack domain",
+      "link": "https://cointelegraph.com/news/across-protocol-restores-website-after-hackers-hijack-domain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The cross-chain bridge said a social engineering attack targeting domain registrar Namecheap allowed...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M74EHM7R9ATYZA82TJHYCP49/hi-the-dangers-of-perceived-anonymity-russian-hackers-bitcoin-trail02-1.jpg"
     },
     {
-      "title": "Ava Labs exec says NYSE deal marks end of blockchain’s ‘general purpose era’",
-      "link": "https://cointelegraph.com/interview/ava-labs-nyse-general-purpose-chains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Ava Labs’ John Nahas said the collaboration with the NYSE shows institutions moving past pilots towa...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M71CKZSV2TF2K3QA6GMNV1K0/ava-labs-token-edit.png"
+      "title": "Crypto ally Tom Emmer elected House GOP minority whip",
+      "link": "https://cointelegraph.com/news/crypto-ally-tom-emmer-elected-house-gop-minority-whip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The Minnesota lawmaker, who helped establish the Congressional Crypto Caucus, will stay on as Republ...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M74817RJCD4BF6Q6FT0BQTZN/hinew-us-government-crypto2-3.jpg"
+    },
+    {
+      "title": "LNbits rushes emergency patch after reported Bitcoin wallet thefts",
+      "link": "https://cointelegraph.com/news/lnbits-rushes-emergency-patch-after-reported-bitcoin-wallet-thefts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The project warned that installations running older versions were vulnerable and urged operators to ...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M742SBA2GA6V6RGES4J05W5E/doctor-medicine-tomography-bitcoin-2.jpg"
+    },
+    {
+      "title": "CFTC warns Kalshi of imminent charges over notification of contracts: Politico",
+      "link": "https://cointelegraph.com/news/cftc-warns-kalshi-imminent-charges-over-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The prediction markets operator says the issue involves procedural errors affecting a handful of con...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M73XRY62MBKPK389ZQG0QV22/hi-the-mathematics-of-cftc.jpg"
     }
   ],
   "various": [
     {
-      "title": "US Army soldier suspected of spying for Russia arrested in UK",
-      "link": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
-      "desc": "The 41-year-old senior soldier is accused of national security offences and is being questioned in L...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c66f/live/939c6190-dd44-11f1-9ac0-6b8f7fc58221.png"
-    },
-    {
-      "title": "David Walliams accused of sexual misconduct after losing injunction bid",
-      "link": "https://www.bbc.co.uk/news/articles/ckn8w8p9370zo?at_medium=RSS&at_campaign=rss",
-      "desc": "ITN and the Guardian allege the comedian preyed on teenage girls and young women. He has denied all ...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e229/live/97ca3420-dd41-11f1-a701-fddedf244c16.jpg"
+      "title": "Jonathan Ross 'horrified' by Walliams allegations and Brand conviction",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy9jl18840o?at_medium=RSS&at_campaign=rss",
+      "desc": "The TV presenter says he was once \"friendly\" with both David Walliams and Russell Brand, but was \"ge...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e955/live/1ca9a750-dd62-11f1-bbe9-135ba88862f9.jpg"
     },
     {
       "title": "Why Walliams' unprecedented legal battle to stay anonymous failed",
       "link": "https://www.bbc.co.uk/news/articles/cwx2922r4mrjo?at_medium=RSS&at_campaign=rss",
       "desc": "The 55-year-old was named in reports by ITV News and the Guardian on Tuesday after losing a court bi...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e302/live/6c37fbd0-dd4b-11f1-a2ff-1f577adb9bef.jpg"
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8079/live/b95c6cb0-dd6a-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-      "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
-      "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
-      "desc": "The 82-year-old was placed under house detention in Florida last week after being charged over posse...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a13/live/1b8d2f10-dd47-11f1-9ac0-6b8f7fc58221.jpg"
+      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+      "desc": "The US Department of Justice says the men were involved in a string of plots, including a major inci...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ba2/live/c17cf610-dd8f-11f1-8c82-87885cae71d3.jpg"
     },
     {
-      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
-      "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
-      "desc": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try ag...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5391/live/eb55ba30-dd67-11f1-a701-fddedf244c16.jpg"
+      "title": "Acquitted 'China spy': I was fall guy for security services",
+      "link": "https://www.bbc.co.uk/news/articles/c98rzzvde1llo?at_medium=RSS&at_campaign=rss",
+      "desc": "Thousands of messages seen by BBC show how a Chinese official sought details of sensitive political ...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6d5/live/e01d22c0-dd3f-11f1-9ac0-6b8f7fc58221.jpg"
     },
     {
-      "title": "Inside devastated front-line city that Russia wants Ukraine to give up",
-      "link": "https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss",
-      "desc": "The BBC gains rare access to a specialist drone unit defending the eastern city of Slovyansk from he...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a97e/live/c6e282c0-dd33-11f1-ab46-9fae224bbf6f.jpg"
+      "title": "Temperatures to dip to -5C as first cold health alerts of season issued",
+      "link": "https://www.bbc.co.uk/weather/articles/crq5n5148p7po?at_medium=RSS&at_campaign=rss",
+      "desc": "The most widespread frost of the season so far is forecast for many parts of the country. BBC Weathe...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a084/live/b99ca640-dcf7-11f1-9ef0-4b5930e2f80e.jpg"
+    },
+    {
+      "title": "US Army soldier suspected of spying for Russia arrested in UK",
+      "link": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+      "desc": "The 41-year-old senior soldier is accused of national security offences and is being questioned in L...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c66f/live/939c6190-dd44-11f1-9ac0-6b8f7fc58221.png"
     }
   ]
 }
