@@ -39,6 +39,24 @@
   ],
   "movies": [
     {
+      "title": "Daniel Radcliffe And Keira Knightley Have The Same Take On Fans Quoting Their Movies At Them",
+      "link": "https://www.cinemablend.com/movies/daniel-radcliffe-keira-knightley-same-take-fans-quoting-movies-harry-potter-love-actually",
+      "desc": "Don't quiz these two on their work!",
+      "img": "https://cdn.mos.cms.futurecdn.net/FsprdGiB4twdNEpkuGWfdZ-1920-80.png"
+    },
+    {
+      "title": "Club Kid's Director Explains Why Those Club Scenes (And the Darkroom Sequence) Go So Hard",
+      "link": "https://www.cinemablend.com/movies/club-kid-director-explains-why-club-scenes-darkroom-sequence-go-so-hard-jordan-firstman",
+      "desc": "I was shocked by how authentic the queer representation was.",
+      "img": "https://cdn.mos.cms.futurecdn.net/aK2TCsEWwDj8JJnPY375eU-1920-80.jpg"
+    },
+    {
+      "title": "Unlike Their Characters In Paper Tiger, Miles Teller And Adam Driver Explain Why They Can’t Keep A Secret From Their Wives",
+      "link": "https://www.cinemablend.com/movies/miles-teller-adam-driver-cant-keep-secret-from-wives-like-paper-tiger",
+      "desc": "If we're to be completely honest...",
+      "img": "https://cdn.mos.cms.futurecdn.net/MPqTX2uAtB84btZQrHsCR3-1920-80.jpg"
+    },
+    {
       "title": "Adam Sandler And Conan O’Brien Are Neighbors, But Admit It Gets Weird Living Behind Hollywood Hedges",
       "link": "https://www.cinemablend.com/movies/adam-sandler-conan-obrien-neighbors-weird-living-behind-hollywood-hedges",
       "desc": "No hedge is stopping Adam Sandler.",
@@ -55,27 +73,21 @@
       "link": "https://www.cinemablend.com/movies/lotr-hunt-for-gollum-heavily-under-wraps-jamie-dornan-two-admissions",
       "desc": "Stepping into Aragorn's boots comes with some pretty big feelings.",
       "img": "https://cdn.mos.cms.futurecdn.net/2C3fvzXrZF4GTXv78XgQ3H-1920-80.jpg"
-    },
-    {
-      "title": "Mckenna Grace Fully Proved That The Sheer And Little Black Dress Trends Go Together Perfectly",
-      "link": "https://www.cinemablend.com/movies/mckenna-grace-proved-sheer-little-black-dress-trends-go-together-hunger-games-sunrise-on-the-reaping",
-      "desc": "OK, she's Hollywood's new fashion princess.",
-      "img": "https://cdn.mos.cms.futurecdn.net/cLbXc4SW6uA8yQRwES9Mtb-1920-80.png"
-    },
-    {
-      "title": "Zoe Saldaña And Gwyneth Paltrow Just Bonded Over How Tough Marvel Sets Are: 'Literally The CIA'",
-      "link": "https://www.cinemablend.com/movies/zoe-saldana-gwyneth-paltrow-bonded-how-tough-marvel-sets-avengers-endgame",
-      "desc": "I get their frustration.",
-      "img": "https://cdn.mos.cms.futurecdn.net/aT7MLu3gX5DTNFd4PmTjBN-1920-80.png"
-    },
-    {
-      "title": "Some Of These Harsh Reviews Of How To Rob A Bank Are Giving Me 2025's War Of The Worlds Vibes",
-      "link": "https://www.cinemablend.com/movies/-harsh-reviews-how-to-rob-a-bank-are-giving-2025-war-of-the-worlds-vibes-nicolaus-holt-zoe-kravitz",
-      "desc": "A muddled political message hidden behind a TikTok-style format",
-      "img": "https://cdn.mos.cms.futurecdn.net/ZuC6R8DMK4VbKSgurLuXUb-1920-80.jpg"
     }
   ],
   "tech": [
+    {
+      "title": "Nvidia’s Board reportedly preparing to oust CEO Jensen Huang as second extra-marital affair emerges",
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidias-board-reportedly-preparing-to-oust-ceo-jensen-huang-as-second-extra-marital-affair-emerges-stock-has-plunged-20-percent-since-scandals-began-huang-has-been-first-and-only-ceo-for-33-years",
+      "desc": "Nvidia Board reportedly moves to expel Jensen Huang as stock tumbles on latest scandals and lack of ...",
+      "img": "https://cdn.mos.cms.futurecdn.net/e4nHqRWu6AkHKhFz9QVnLZ-1920-80.jpg"
+    },
+    {
+      "title": "Jensen Huang now accused of affair with Nvidia executive who reported to him, alleged cover-up attempt",
+      "link": "https://www.tomshardware.com/tech-industry/jensen-huang-now-accused-of-affair-with-nvidia-executive-who-reported-to-him-alleged-cover-up-attempt-new-indiscretion-comes-in-wake-of-admitted-affair-with-alleged-chinese-spy",
+      "desc": "Nvidia CEO Jensen Huang reportedly had an extramarital affair with a direct report, following a sepa...",
+      "img": "https://cdn.mos.cms.futurecdn.net/Q57X2C2kb7mvEAhLmcPtrj-1920-80.jpg"
+    },
     {
       "title": "AMD’s Venice-X maxes out family at 5.3 GHz, returning 3D V-Cache to data center after four years",
       "link": "https://www.tomshardware.com/pc-components/cpus/amds-venice-x-maxes-out-family-at-5-3-ghz-returning-3d-v-cache-to-data-center-after-four-years-chips-target-hpc-workloads-with-pcie-6-0-and-1-6-tb-s-memory-bandwidth",
@@ -99,21 +111,33 @@
       "link": "https://www.tomshardware.com/video-games/pc-peripheral-maker-logitech-giving-all-of-its-7-000-employees-the-day-off-to-play-gta-6-company-announces-game-day-initiative-dedicated-vacation-day-to-play-video-games",
       "desc": "Accessory maker Logitech has a new \"Logi Game Day\" initiative that allows employees to take a day of...",
       "img": "https://cdn.mos.cms.futurecdn.net/aUeWUCPMkaib7UMDrpTLJ5-1920-80.png"
-    },
-    {
-      "title": "SpaceX develops its own ‘Kessel’ rack-scale system featuring 72 Nvidia Rubin GPUs for data centers in space, report claims",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/spacex-develops-its-own-kessel-rack-scale-system-featuring-72-nvidia-rubin-gpus-for-data-centers-in-space-report-claims-replaces-conventional-nvlink-cable-assemblies-with-a-massive-84-layer-printed-circuit-board",
-      "desc": "SpaceX is reportedly developing a 'Kessel' rack-scale system design with 72 Nvidia Rubin GPUs that r...",
-      "img": "https://cdn.mos.cms.futurecdn.net/H9AoDYcDEGHaWVoTNcrLHK-1920-80.png"
-    },
-    {
-      "title": "Softbank loses $3.7 billion on canceled AI data center gas turbine orders days after denying Elon Musk’s claim it was defaulting",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/softbank-loses-usd3-7-billion-on-canceled-ai-data-center-gas-turbine-orders-days-after-denying-elon-musks-claim-it-was-defaulting-company-kills-reserved-13-gigawatts-of-power-more-than-six-hoover-dams-worth-of-capacity",
-      "desc": "SoftBank might not have defaulted on a raft of gas turbine orders, but it has pulled out of deals fo...",
-      "img": "https://cdn.mos.cms.futurecdn.net/oVtZCcAvC5GeZw8jGbrs65-1920-80.jpg"
     }
   ],
   "crypto": [
+    {
+      "title": "MSCI confirms Strategy’s removal from indexes at end of November",
+      "link": "https://cointelegraph.com/news/msci-confirms-strategys-removal-from-indexes-end-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Strategy, Metaplanet and Upexi are marked for deletion in MSCI’s final list, with changes taking eff...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M76H4XXFRZZF8PWNZVYPMH4D/hi-the-bitcoin-treasury-model-is-breaking-but-microstrategys-isnt-heres-why.jpg"
+    },
+    {
+      "title": "Suiet wallet to shut down in latest exit from Sui ecosystem",
+      "link": "https://cointelegraph.com/news/suiet-wallet-shut-down-latest-exit-sui-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The self-custodial wallet will keep its API services running through Nov. 14. Sui’s DeFi total value...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M764ZRJVHMZ7S56SH3QEE7QS/bank-building-hall-entrance-door-binance-1.png"
+    },
+    {
+      "title": "Nvidia preparing to oust CEO Jensen Huang after affairs: WSJ",
+      "link": "https://cointelegraph.com/news/nvidia-preparing-to-oust-ceo-jensen-huang-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The report about Huang’s possible departure came after the New York Times reported that he had a sec...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M76CF387681Y1K94VQ7BS0CN/nvidia.jpg"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impac...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
+    },
     {
       "title": "Uncalled US House races could send more crypto allies to Congress",
       "link": "https://cointelegraph.com/news/uncalled-midterm-races-add-more-crypto-supporters-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -125,44 +149,20 @@
       "link": "https://cointelegraph.com/news/nomura-sale-crypto-unit-laser-digital?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The potential sale of Laser Digital follows a fourth straight quarterly loss for Nomura’s European o...",
       "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M763TD8E1ZBRMPTMFSD5YQ3A/bithumb-acquisition-deal-off-2.png"
-    },
-    {
-      "title": "US data center restrictions could give Bitcoin miners an edge in AI, though challenges remain",
-      "link": "https://cointelegraph.com/news/us-data-center-restrictions-bitcoin-miners-edge-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "As US voters push back against new data centers, Bitcoin miners already expanding into AI could bene...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M73MEN38K2N8NDYPGWJFZGPZ/hi-bitcoin-nodes-vs-miners-protection.jpg"
-    },
-    {
-      "title": "OKXICE moves ahead with tokenized stocks as blue chips push back",
-      "link": "https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The Nov. 23 debut puts a new SEC exemption to the test as Nasdaq pursues its own tokenized stock pla...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75S911M6Z2QY1MHSS3BEKGB/hi-how-binance-plans-to-bring-tokenized-us-stocks-5.png"
-    },
-    {
-      "title": "Bitcoin hovers near $74K as stocks rise despite US bond yield rebound",
-      "link": "https://cointelegraph.com/markets/bitcoin-74k-stocks-us-bond-yield-inflation-cpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Bitcoin traded in a narrow range as investors bought the dip in tech stocks and US bond yields climb...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75N52D7VC58F2MJTGJCRMV1/bungee-jumping-bitcoin-1-960x640.webp"
-    },
-    {
-      "title": "Deutsche Bank launches crypto custody for companies and institutions",
-      "link": "https://cointelegraph.com/news/deutsche-bank-debuts-digital-asset-custody-services-eu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Clients can store and transfer Bitcoin, Ether and select stablecoins through the bank, which manages...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75D0RVNVRMGT5GMDFRH6PZQ/hi-us-banks-have-deeper-interest-in-digital-than-previously-thought.jpg"
     }
   ],
   "various": [
+    {
+      "title": "Some under-25s should get less benefits, Milburn review to say",
+      "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+      "desc": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benef...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad2c/live/98868060-de1f-11f1-a701-fddedf244c16.jpg"
+    },
     {
       "title": "Author says there were 'real concerns' about David Walliams within publishing industry",
       "link": "https://www.bbc.co.uk/news/articles/c95y15830k77o?at_medium=RSS&at_campaign=rss",
       "desc": "The comedian denies allegations of sexual misconduct, inappropriate behaviour and abusing his power ...",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3da/live/be8fbc60-ddeb-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "title": "'I felt like I was being manipulated': Woman alleges Walliams groomed her as a teenager",
-      "link": "https://www.bbc.co.uk/news/videos/c8g46y14ye3zo?at_medium=RSS&at_campaign=rss",
-      "desc": "Lilly Creightmore, who has alleged Walliams \"groomed\" her as a teenager, has told BBC Newsnight that...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d504/live/93f888e0-ddd4-11f1-b441-2b33b063138f.jpg"
     },
     {
       "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
@@ -171,22 +171,22 @@
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8f2/live/d0df2010-de11-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "title": "Scottish DJ, 32, confirmed as victim of Krakow shooting",
-      "link": "https://www.bbc.co.uk/news/articles/cmx28e95g2rzo?at_medium=RSS&at_campaign=rss",
-      "desc": "The man, who is understood to be James Thomas Campbell from Prestwick, died when a lone gunman opene...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cee0/live/bf6f44c0-dddc-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "title": "Thousands of schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
-      "desc": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appe...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80c9/live/fc093bd0-ddc7-11f1-9053-236ccb99630c.jpg"
-    },
-    {
       "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
       "link": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&at_campaign=rss",
-      "desc": "Following a wreath-laying ceremony marking Veterans Day, a group that included Defence Secretary Pet...",
+      "desc": "Following a ceremony marking Veterans Day, a group that included Defence Secretary Pete Hegseth was ...",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff27/live/573e7b50-de18-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "title": "Are max strength cold and flu pills worth the money?",
+      "link": "https://www.bbc.co.uk/news/articles/cjkgep4rgngro?at_medium=RSS&at_campaign=rss",
+      "desc": "Some cold and flu remedies cost 20 times as much as a basic pack of paracetamol or ibuprofen.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ebf/live/c7481d80-d48f-11f1-9a20-f717db279e3e.jpg"
+    },
+    {
+      "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
+      "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+      "desc": "The BBC understands the discount chain, which has been edging towards administration, will be given ...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a6e/live/a313f250-dd58-11f1-acd1-a78ce9f5fae0.jpg"
     }
   ]
 }
