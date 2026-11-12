@@ -1,43 +1,67 @@
 {
   "games": [
     {
+      "title": "Candy Crush Is Celebrating Xbox’s 25th Anniversary With Halo, Fallout, And Doom Crossovers, Including Remixed Music",
+      "link": "https://www.gamespot.com/articles/candy-crush-is-celebrating-xboxs-25th-anniversary-with-halo-fallout-and-doom-crossovers-including-remixed-music/",
+      "desc": "2026 is the 25th anniversary of Xbox, and it's been a tough year for the brand with mass layoffs, st...",
+      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/doom.png?w=300"
+    },
+    {
+      "title": "New Doom Game Seemingly Announced In The Weirdest Way After Half The Studio Was Laid Off",
+      "link": "https://www.gamespot.com/articles/new-doom-game-seemingly-announced-in-the-weirdest-way-after-half-the-studio-was-laid-off/",
+      "desc": "Xbox CEO Asha Sharma has announced that id Software is officially working on a new game, believed to...",
+      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/DoomGame.jpg?w=300"
+    },
+    {
+      "title": "Games Will Have A Physical Footprint Forever, Take-Two Boss Says, But It’ll Be “Very Small”",
+      "link": "https://www.gamespot.com/articles/games-will-have-a-physical-footprint-forever-take-two-boss-says-but-itll-be-very-small/",
+      "desc": "It's no secret that the market for physical video games is drying up, but don't expect physical medi...",
+      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/Jason_and_Lucia_17.jpg?w=300"
+    },
+    {
+      "title": "This Happy Ending For Two Games With Identical Names Was A Headache For Nintendo",
+      "link": "https://www.gamespot.com/articles/this-happy-ending-for-two-games-with-identical-names-was-a-headache-for-nintendo/",
+      "desc": "On November 25, two entirely separate games called Piece by Piece are releasing on Nintendo Switch. ...",
+      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/PieceByPiece.jpg?w=300"
+    },
+    {
+      "title": "Disney Teases “Major Announcements” For The Game Awards",
+      "link": "https://www.gamespot.com/articles/disney-teases-major-announcements-for-the-game-awards/",
+      "desc": "The Game Awards will air on Disney+ this year, and along with that, Disney has teased \"major announc...",
+      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/starwars.png?w=300"
+    },
+    {
       "title": "Xbox Has Spent 25 Years Tracking Your Gaming Habits; Now You Can See The Damage",
       "link": "https://www.gamespot.com/articles/xbox-has-spent-25-years-tracking-your-gaming-habits-now-you-can-see-the-damage/",
       "desc": "It's the 25th anniversary of Xbox, and to celebrate, you can see how much time you've spent--or wast...",
       "img": "https://www.gamespot.com/wp-content/uploads/2026/11/Xbox-Playback.jpg?w=300"
-    },
-    {
-      "title": "Final Fantasy 14 Players Are Mourning The Loss Of The Game’s Legendary Bassist",
-      "link": "https://www.gamespot.com/articles/final-fantasy-14-players-are-mourning-the-loss-of-the-games-legendary-bassist/",
-      "desc": "The Final Fantasy 14 community is in mourning following news that Eikichi Iwai, the bassist for the ...",
-      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/FF14-Eikichi-Iwai-Memorials.jpg?w=300"
-    },
-    {
-      "title": "Xbox CEO’s 25th Anniversary Message Is About AI, Even If She Won’t Say It",
-      "link": "https://www.gamespot.com/articles/xbox-ceos-25th-anniversary-message-is-about-ai-even-if-she-wont-say-it/",
-      "desc": "As Xbox celebrates its 25th anniversary, Xbox CEO Asha Sharma has shared her thoughts on where gamin...",
-      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/Xboxreset-1.png?w=300"
-    },
-    {
-      "title": "The Internet Reacts To Jensen Huang’s Resignation From Nvidia",
-      "link": "https://www.gamespot.com/articles/the-internet-reacts-to-jensen-huang-resignation-from-nvidia/",
-      "desc": "It's the end of an era for Nvidia, as its founder and longtime CEO, Jensen Huang, has resigned effec...",
-      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/Nvidia-Keynote-Huang.jpg?w=300"
-    },
-    {
-      "title": "It’s A Knight’s Roguelike Tale With This Week’s Epic Games Store Freebie",
-      "link": "https://www.gamespot.com/articles/free-games-epic-games-store/1100-6476419/",
-      "desc": "The Epic Games Store continues to give away a free game each week, and this week's offering is anoth...",
-      "img": "https://www.gamespot.com/wp-content/uploads/2026/06/Knightica-1.jpg?w=300"
-    },
-    {
-      "title": "Mario Kart World Switch 2 Bundle Black Friday Deal Brings The Price Back To 2025 Levels",
-      "link": "https://www.gamespot.com/articles/mario-kart-world-switch-2-bundle-black-friday-deal-brings-the-price-back-to-2025-levels/",
-      "desc": "Nintendo has announced its 2026 Black Friday deals, with a Mario Kart World Switch 2 hardware bundle...",
-      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/Switch-2-Mario-Kart-bundle.jpg?w=300"
     }
   ],
   "movies": [
+    {
+      "title": "Should You Read Sunrise On The Reaping Ahead Of The New Hunger Games Movie? The Director And Star Weigh In",
+      "link": "https://www.cinemablend.com/movies/should-you-read-sunrise-on-the-reaping-ahead-new-hunger-games-movie-joseph-zada-francis-lawrence",
+      "desc": "The new Hunger Games movie is nearly here.",
+      "img": "https://cdn.mos.cms.futurecdn.net/E7WL4hfGpDdZ9MRoM7HCbJ-1920-80.png"
+    },
+    {
+      "title": "Why I Decided To Take My Son To See Godzilla Minus Zero, Despite The R Rating",
+      "link": "https://www.cinemablend.com/movies/decided-take-son-see-godzilla-minus-zero-despite-r-rating",
+      "desc": "There's an A-bomb, but no F-bombs in Godzilla Minus Zero.",
+      "img": "https://cdn.mos.cms.futurecdn.net/9Myik7dpTKbkh27S7rEbED-1920-80.jpg"
+    },
+    {
+      "title": "Yes, Ramayana’s Ranbir Kapoor Went All In On His Rama Training (An Olympian Is Even Involved)",
+      "link": "https://www.cinemablend.com/movies/ramayana-ranbir-kapoor-all-in-rama-archery-training-olympian-involved-yoga",
+      "desc": "He's a great shot.",
+      "img": "https://cdn.mos.cms.futurecdn.net/HnCPoHtw8GD2MQtQjXkAbD-1920-80.png"
+    },
+    {
+      "title": "Karen Gillan Has Just One Question About The Jumanji Crop Top And Shorts As The Cast Says Goodbye",
+      "link": "https://www.cinemablend.com/movies/karen-gillan-one-question-jumanji-crop-top-shorts-cast-goodbye",
+      "desc": "The Ruby Roundhouse actress has something to ask.",
+      "img": "https://cdn.mos.cms.futurecdn.net/dmQsY9BwzmgsWpRwR3GLVm-1920-80.jpg"
+    },
     {
       "title": "I Knew Ebenezer Reviews Would Focus On Johnny Depp, But I Didn’t See That Muppets Comparison Coming",
       "link": "https://www.cinemablend.com/movies/knew-ebenezer-reviews-would-focus-johnny-depp-didnt-see-muppets-comparison-coming",
@@ -49,35 +73,17 @@
       "link": "https://www.cinemablend.com/movies/wait-for-daniel-craigs-bond-replacement-frustrating-denis-villeneuves-comments-encouraging",
       "desc": "It's been 5 years since No Time To Die.",
       "img": "https://cdn.mos.cms.futurecdn.net/XjBHMFaRaZ5epZcDD96rBg-1920-80.jpg"
-    },
-    {
-      "title": "This Crossword Puzzle Is Entirely About Heist And Thief Movies",
-      "link": "https://www.cinemablend.com/movies/heist-movie-crossword-puzzle-quiz",
-      "desc": "No stealing the answers to these heist movie clues!",
-      "img": "https://cdn.mos.cms.futurecdn.net/x9nc8UdaduzYcbRKyusEmh-1920-80.jpg"
-    },
-    {
-      "title": "Michael B. Jordan Dials Up The Action And The Heat In The New Thomas Crown Affair Trailer",
-      "link": "https://www.cinemablend.com/movies/michael-b-jordan-dials-up-action-heat-in-new-thomas-crown-affair-trailer-adria-arjona",
-      "desc": "This one is coming in hot!",
-      "img": "https://cdn.mos.cms.futurecdn.net/wYXg9gRYfKde87f63GFKyD-1920-80.jpg"
-    },
-    {
-      "title": "Ariana Grande Stepped Back Into The Spotlight For Focker-In-Law Premiere (And Her Dress Had A Meet The Parents Connection)",
-      "link": "https://www.cinemablend.com/movies/ariana-grande-back-spotlight-focker-in-law-premiere-dress-meet-the-parents-connection",
-      "desc": "Who knew the Focker family could inspire such a gorgeous fashion moment?",
-      "img": "https://cdn.mos.cms.futurecdn.net/mj3NYnP3k4TQK2DnvRZ7KM-1920-80.jpg"
-    },
-    {
-      "title": "Welp, These Red Carpet Comments About James Gunn Didn't Age Well",
-      "link": "https://www.cinemablend.com/movies/these-red-carpet-comments-about-james-gunn-didnt-age-well",
-      "desc": "It's been a crazy week for DC fans.",
-      "img": "https://cdn.mos.cms.futurecdn.net/qb4rkuSY5rX6TXiQc5rgR5-1920-80.jpg"
     }
   ],
   "tech": [
     {
-      "title": "Save $119 on DDR5 RAM with this high-end AM5 gaming combo from Newegg — 3-item gaming PC combo includes 9800X3D, 32GB Corsair Vengeance DDR5 RAM, and premium MSI X870E Carbon Wifi motherboard for only $1,250",
+      "title": "Russia’s Google says nearly 3% of its data was lost after crippling Ukraine drone strikes, opens secret availability zones",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/russias-google-says-nearly-3-percent-of-its-data-was-lost-after-crippling-ukraine-drone-strikes-opens-secret-availability-zones-yandex-cloud-blames-lack-of-user-backups-for-lost-data-now-forcibly-applies-backup-rules-by-default",
+      "desc": "Yandex Cloud boasted that it had 'restored access to more than 97% of customer data' after Ukrainian...",
+      "img": "https://cdn.mos.cms.futurecdn.net/SSHr8ChABANVpqAjMA7RPP-1920-80.jpg"
+    },
+    {
+      "title": "Save $119 on DDR5 RAM with this high-end AM5 gaming combo from Newegg",
       "link": "https://www.tomshardware.com/pc-components/save-usd119-on-ddr5-ram-with-this-high-end-am5-gaming-combo-from-newegg-3-item-gaming-pc-combo-includes-9800x3d-32gb-corsair-vengeance-ddr5-ram-and-premium-msi-x870e-carbon-wifi-motherboard-for-only-usd1-250",
       "desc": "Newegg's latest combo deal pairs 32GB of Corsair Vengeance DDR5-6000 RAM, Ryzen 7 9800X3D, a MSI X87...",
       "img": "https://cdn.mos.cms.futurecdn.net/UTVYgAgrmiW4oPuuxDS6r4-1920-80.png"
@@ -105,88 +111,82 @@
       "link": "https://www.tomshardware.com/tech-industry/nvidia-confirms-jensen-huang-has-resigned-as-ceo-colette-kress-executive-vice-president-and-chief-financial-officer-appointed-interim-ceo",
       "desc": "NVIDIA (NASDAQ: NVDA) Board of Directors announced today that Jensen Huang has resigned as President...",
       "img": "https://cdn.mos.cms.futurecdn.net/t75kmqCZia9XGcHiAKqZ5T-1920-80.jpg"
-    },
-    {
-      "title": "Noctua brings space-grade carbon nanotube thermal pad to AMD AM5 and AM4 processors",
-      "link": "https://www.tomshardware.com/pc-components/thermal-paste/noctua-brings-space-grade-carbon-nanotube-thermal-pad-to-amd-am5-and-am4-processors-promises-years-of-maintenance-free-performance-for-usd24-95",
-      "desc": "Noctua says the NT-CP1 uses carbon nanotubes originally developed for aerospace applications, with t...",
-      "img": "https://cdn.mos.cms.futurecdn.net/hdiDYx5ocDbtVydvJJ9bN8-1920-80.jpg"
     }
   ],
   "crypto": [
     {
-      "title": "Bitcoin slides toward $71K as Nvidia stock tumbles after Huang steps down",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-drops-71k-stocks-nvidia-huang-resignation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Bitcoin fell to its lowest leve since Aug. 20 as tech stocks slid following the resignation of Nvidi...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7859A9F3JFAC903AM8D1SAR/hi-beyond-bitcoin-the-future-of-digital-assets-bitcoin-price-us-iran-960x640.webp"
+      "title": "Maple Finance’s strategy rift sends co-founder, COO to the exits",
+      "link": "https://cointelegraph.com/news/maple-finance-strategy-rift-co-founder-coo-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Maple Finance co-founder Joe Flanagan and COO Ryan O’Shea are leaving over disagreements about the f...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78W1BXY18T2XKFJB5NNN63C/image-1.png"
     },
     {
-      "title": "Jensen Huang resigns as Nvidia CEO, exits board; shares plunge",
-      "link": "https://cointelegraph.com/news/jensen-huang-resigns-nvidia-ceo-board-member?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Colette Kress will remain Nvidia’s chief financial officer while serving as interim CEO as the board...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78FFGSYBN954VJZWS39264X/jensen-with-exact-cointelegraph-branding-1.png"
+      "title": "NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express",
+      "link": "https://cointelegraph.com/magazine/nk-hackers-join-memecoin-trenches-xstocks-adds-hong-kong-equities-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "North Korean hackers launch memecoins to launder funds stolen in the Binance hack, while xStocks pla...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M26Q2WGDD8GDA5QMCWQF3GB3/magazineasia-expresssnow.jpg"
     },
     {
-      "title": "Bit Digital stock falls 5% in pre-market after Q3 revenue miss",
-      "link": "https://cointelegraph.com/news/bit-digital-stock-falls-q3-revenue-miss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Bit Digital’s $27 million third-quarter revenue came in 16% below analyst consensus estimates, marki...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4B3MMABZE2GV838GSA8JBR1/hi-crypto-market-trading-trader-breaking-news-1.jpg"
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impac...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
     },
     {
-      "title": "Thailand proposes $148K daily cap on stablecoin deposits and withdrawals",
-      "link": "https://cointelegraph.com/news/thailand-tighter-stablecoin-rules-crypto-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Thailand’s SEC would set separate daily caps for stablecoin deposits and withdrawals and require cus...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M77Y7BBV3T43FJ34BFN7FBGA/thailand-sec-1.jpg"
+      "title": "Kalshi ends Donald Trump Jr. advisory role over Polymarket investment: Reuters",
+      "link": "https://cointelegraph.com/news/kalshi-ends-donald-trump-jr-advisory-role-polymarket-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The prediction market operator said the decision was mutual and followed 1789 Capital’s investment i...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78TX3PGYGRAKFVQT1WR50MD/hi-paying-the-price-kalshi-banned-politician-for-insider-trading.png"
     },
     {
-      "title": "Crypto hack losses equal 57 cents per $1 earned onchain: Ark’s Valente",
-      "link": "https://cointelegraph.com/news/crypto-hackers-stole-57-cents-every-1-earned-ark?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Crypto hackers stole $8.7 billion so far in 2026, surpassing the projected annual onchain revenue ge...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1P1ZHH851JBMYW8FC0YFCV0/hi-top-crypto-hacks-and-scams-to-beware-of-in-october-2024.jpg"
+      "title": "Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off",
+      "link": "https://cointelegraph.com/markets/strategy-shares-fall-5-msci-index-removal-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Strategy shares declined Thursday following MSCI’s decision to remove the company from its indexes, ...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78SKXFN30X2QXCVG2NCJ1VY/hi-how-strategyb-turned-k-into-m-using-a-high-risk-high-precision-strategy.png"
     },
     {
-      "title": "Are Alt-L1s over? Security, costs drive smaller chains to Ethereum",
-      "link": "https://cointelegraph.com/magazine/are-alt-l1s-over-security-costs-drive-smaller-chains-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "L1 blockchains Zilliqa, Gnosis and Ronin join the Ethereum ecosystem as the costs of going it alone ...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75B6EF6HGNZVZQ0Z43SYG66/magazineback-to-ethereum-1.jpg"
+      "title": "US Justice Department, business groups and DeFi firms challenge Illinois crypto tax",
+      "link": "https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Industry groups argued in court filings that Illinois’ crypto tax, which applies even when a transac...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78NNMK090K8VRSJK706GEH0/hi-more-irs-crypto-reporting-more-danger.png"
     }
   ],
   "various": [
     {
-      "title": "Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions",
+      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+      "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "desc": "US lawmakers now want to question Huang over whether one of his alleged relationships was with a Chi...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg"
+    },
+    {
+      "title": "How AI visionary Jensen Huang was undone by his own bad decisions",
       "link": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss",
       "desc": "Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cb2/live/0d989b10-dec3-11f1-a701-fddedf244c16.jpg"
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3345/live/4030f5a0-deea-11f1-9dd5-b5dd10100b88.jpg"
     },
     {
-      "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
-      "link": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
-      "desc": "The UK is seeing impressive growth, but will it last?",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d49/live/b6cded90-deb2-11f1-a701-fddedf244c16.jpg"
+      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+      "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+      "desc": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open ...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4c4/live/1934a9b0-deb3-11f1-8fb5-a771a656a227.jpg"
     },
     {
-      "title": "Some childhood offenders may no longer have to reveal convictions to employers",
-      "link": "https://www.bbc.co.uk/news/articles/c6wy0e44pjgdo?at_medium=RSS&at_campaign=rss",
-      "desc": "The proposals would change how crimes committed by children are disclosed to bosses in England and W...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73b5/live/938acbb0-dec0-11f1-8fb5-a771a656a227.jpg"
+      "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
+      "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+      "desc": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next roun...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0196/live/ef110310-de9c-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "title": "Microsoft users report outages amid tech giant 'connectivity issues'",
+      "link": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+      "desc": "Users worldwide report issues after tech giant says its infrastructure has been hit by \"elevated loa...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fa9/live/70d26730-deda-11f1-a701-fddedf244c16.jpg"
     },
     {
       "title": "Can Burnham avoid another Labour welfare rebellion?",
       "link": "https://www.bbc.co.uk/news/articles/c95y100nrm41o?at_medium=RSS&at_campaign=rss",
       "desc": "Any revolt among MPs is likely to be smaller than the one that badly damaged Keir Starmer's governme...",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de16/live/ad3f4d10-dec0-11f1-8fb5-a771a656a227.jpg"
-    },
-    {
-      "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
-      "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
-      "desc": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballist...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/333a/live/e63a2ff0-dea1-11f1-93e1-3b657b665bcf.png"
-    },
-    {
-      "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
-      "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-      "desc": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next roun...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0196/live/ef110310-de9c-11f1-a701-fddedf244c16.jpg"
     }
   ]
 }
