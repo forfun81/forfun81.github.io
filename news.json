@@ -1,6 +1,12 @@
 {
   "games": [
     {
+      "title": "Nvidia’s Board Is Weighing Jensen Huang’s Future After Second Affair Revelation",
+      "link": "https://www.gamespot.com/articles/nvidias-board-is-weighing-jensen-huangs-future-after-second-affair-revelation/",
+      "desc": "Things look dire for Nvidia CEO Jensen Huang, as his future at the company may be in jeopardy. Recen...",
+      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/Jensen-Huang-CTC-2026.jpg?w=300"
+    },
+    {
       "title": "Steam’s Growing Review Backlog Has Cost Another Game Its Launch Date",
       "link": "https://www.gamespot.com/articles/steam-growing-review-backlog-has-cost-another-game-its-launch-date/",
       "desc": "Steam's growing backlog for approving game builds appears to be getting worse, as yet another studio...",
@@ -29,12 +35,6 @@
       "link": "https://www.gamespot.com/articles/sony-cancels-live-service-ps5-game-fairgames-but-no-layoffs/",
       "desc": "Sony has canceled the upcoming live-service shooter Fairgame$, but there will be no job cuts connect...",
       "img": "https://www.gamespot.com/wp-content/uploads/2026/11/fairgames.png?w=300"
-    },
-    {
-      "title": "GTA 6 Backflips Look Good Now, But There Could Be More To The Story",
-      "link": "https://www.gamespot.com/articles/gta-6-backflips-look-good-now-but-there-could-be-more-to-the-story/",
-      "desc": "A new Grand Theft Auto 6 trailer debuted today, November 10, and the video showed off a race car dri...",
-      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/backflip.png?w=300"
     }
   ],
   "movies": [
@@ -77,6 +77,24 @@
   ],
   "tech": [
     {
+      "title": "Google reworks TPU silicon into specialized systems for agents and security",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-adds-two-new-specialized-chips-for-ai-agents-and-security-to-8th-gen-tpu-lineup-tpu-8i-max-puts-two-chips-on-one-package-for-long-context-work-tpu-8tx-swaps-arm-hosts-for-amd-epyc",
+      "desc": "Google’s TPU 8i Max and TPU 8tx reuse TPU 8i and TPU 8t silicon to target long-context agents and co...",
+      "img": "https://cdn.mos.cms.futurecdn.net/Ut57hXr6UTF3v4LJmkuGSi-1920-80.jpg"
+    },
+    {
+      "title": "Techie uses voltage glitching hack to turn $2,500 Nvidia 8GB cryptomining GPU into a full-fat $20,000 A100 with 80GB of VRAM",
+      "link": "https://www.tomshardware.com/pc-components/gpus/techie-turns-usd2-500-cmp-170hx-8gb-mining-card-into-a-full-fat-a100-80gb-with-voltage-glitching-carefully-blowing-onboard-fuses-to-unlock-entire-vram-and-shader-modules",
+      "desc": "A techie turned a $2,500 CMP-170HX 8GB mining card into a full-fat $20,000 A100 80GB by carefully bl...",
+      "img": "https://cdn.mos.cms.futurecdn.net/QaaiweaJKxjDDJTGrtCSU5-1920-80.jpg"
+    },
+    {
+      "title": "Struggling marijuana farmers pivot to becoming AI data center sites to escape falling weed revenue",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/cannabis-farmers-consider-joining-ai-bandwagon-due-to-falling-weed-revenue-existing-sites-could-house-mini-data-center-nodes-but-still-face-serious-challenges-during-conversion",
+      "desc": "One expert says that it still depends on the perfect confluence of cheap power, favorable regulation...",
+      "img": "https://cdn.mos.cms.futurecdn.net/vWebVo9EKENXbmKRqghcNg-1920-80.png"
+    },
+    {
       "title": "Nvidia’s Board reportedly preparing to oust CEO Jensen Huang as second extra-marital affair emerges",
       "link": "https://www.tomshardware.com/pc-components/gpus/nvidias-board-reportedly-preparing-to-oust-ceo-jensen-huang-as-second-extra-marital-affair-emerges-stock-has-plunged-20-percent-since-scandals-began-huang-has-been-first-and-only-ceo-for-33-years",
       "desc": "Nvidia Board reportedly moves to expel Jensen Huang as stock tumbles on latest scandals and lack of ...",
@@ -93,44 +111,26 @@
       "link": "https://www.tomshardware.com/pc-components/cpus/amds-venice-x-maxes-out-family-at-5-3-ghz-returning-3d-v-cache-to-data-center-after-four-years-chips-target-hpc-workloads-with-pcie-6-0-and-1-6-tb-s-memory-bandwidth",
       "desc": "AMD's Venice-X CPUs launch in the second half of 2027, bringing 3D V-Cache back to the data center a...",
       "img": "https://cdn.mos.cms.futurecdn.net/aLSGanWgBzwJhr9LcYMiwb-1920-80.jpg"
-    },
-    {
-      "title": "Prusa launches new carbon-fiber and carbon-nanotube-filled 3D printing filament for electronics manufacturing",
-      "link": "https://www.tomshardware.com/3d-printing/prusa-launches-new-carbon-3d-printing-filament-for-electronics-manufacturing-carbon-fiber-and-carbon-nanotube-filled-material-dissipates-electrostatic-energy-for-static-sensitive-electronics",
-      "desc": "Prusament PETG ESD is the cheapest ESD filament on the market, while being carbon-fiber reinforced, ...",
-      "img": "https://cdn.mos.cms.futurecdn.net/aBKxZmq6X4ehfScb2L2N4L-1920-80.jpg"
-    },
-    {
-      "title": "OpenAI and Georgia county leaders hit with Mafia-style RICO racketeering lawsuit over $30 billion AI data center",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/georgia-politicians-openai-slapped-with-racketeering-lawsuit-over-3-2-gigawatt-ai-data-centers-plaintiffs-allege-multiple-violations-were-part-of-a-coordinated-scheme-to-get-project-camellia-approved",
-      "desc": "The plaintiffs alleged that the parties committed fraud and concealment through NDAs and misleading ...",
-      "img": "https://cdn.mos.cms.futurecdn.net/rqn39aj9hMqYUZdPPwgxYd-1920-80.jpg"
-    },
-    {
-      "title": "PC peripheral maker Logitech giving all of its 7,000 employees the day off to play GTA 6",
-      "link": "https://www.tomshardware.com/video-games/pc-peripheral-maker-logitech-giving-all-of-its-7-000-employees-the-day-off-to-play-gta-6-company-announces-game-day-initiative-dedicated-vacation-day-to-play-video-games",
-      "desc": "Accessory maker Logitech has a new \"Logi Game Day\" initiative that allows employees to take a day of...",
-      "img": "https://cdn.mos.cms.futurecdn.net/aUeWUCPMkaib7UMDrpTLJ5-1920-80.png"
     }
   ],
   "crypto": [
     {
-      "title": "MSCI confirms Strategy’s removal from indexes at end of November",
-      "link": "https://cointelegraph.com/news/msci-confirms-strategys-removal-from-indexes-end-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Strategy, Metaplanet and Upexi are marked for deletion in MSCI’s final list, with changes taking eff...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M76H4XXFRZZF8PWNZVYPMH4D/hi-the-bitcoin-treasury-model-is-breaking-but-microstrategys-isnt-heres-why.jpg"
+      "title": "Tron and Tether bring in Chainalysis after T3 crime unit folds",
+      "link": "https://cointelegraph.com/news/tron-tether-chainalysis-cybercrime-task-force-laundering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The group will focus on illicit USDT activity on Tron and help law enforcement investigate suspiciou...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4ZBJQX8RA4RZN02APHYTQFS/hi-cybercrime-task-force-monitors-the-global-digital-financial-system.jpg"
     },
     {
-      "title": "Suiet wallet to shut down in latest exit from Sui ecosystem",
-      "link": "https://cointelegraph.com/news/suiet-wallet-shut-down-latest-exit-sui-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The self-custodial wallet will keep its API services running through Nov. 14. Sui’s DeFi total value...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M764ZRJVHMZ7S56SH3QEE7QS/bank-building-hall-entrance-door-binance-1.png"
+      "title": "Ethlabs drops Hegotá slot proposal in push for 2027 quantum readiness",
+      "link": "https://cointelegraph.com/news/ethlabs-ethereum-quantum-security-2027-quick-slots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Ethlabs’ roadmap aims to help Ethereum withstand quantum attacks and give users a way to protect the...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M77HNTV6D5P7J0G2ASP711HK/hi-quantum-computer-and-ethereum.jpg"
     },
     {
-      "title": "Nvidia preparing to oust CEO Jensen Huang after affairs: WSJ",
-      "link": "https://cointelegraph.com/news/nvidia-preparing-to-oust-ceo-jensen-huang-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The report about Huang’s possible departure came after the New York Times reported that he had a sec...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M76CF387681Y1K94VQ7BS0CN/nvidia.jpg"
+      "title": "BlackRock Bitcoin ETF outflows hit $2B over nine sessions",
+      "link": "https://cointelegraph.com/markets/blackrock-bitcoin-etf-ibit-outflows-nine-day-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "US spot Bitcoin ETF outflows rose to nearly $300 million on Wednesday, up from $95 million a day ear...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M77BC08M1JK1359QWDPVF1FQ/blackrock-2-billion.png"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -139,36 +139,36 @@
       "img": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
     },
     {
-      "title": "Uncalled US House races could send more crypto allies to Congress",
-      "link": "https://cointelegraph.com/news/uncalled-midterm-races-add-more-crypto-supporters-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The remaining races feature pro-crypto candidates and others without a stated position, giving advoc...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75XNMPSEVD2H0XM5RBPTJMR/different-crypto-logos.png"
+      "title": "South Korea to permit crypto withdrawal freezes during hacking threats",
+      "link": "https://cointelegraph.com/news/south-korea-crypto-withdrawal-freezes-suspected-hacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The move follows recent security incidents involving South Korean crypto exchanges, including GOPAX’...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M597BM0AMWQ1YPAXSBBRRVZN/south-korea-1.jpg"
     },
     {
-      "title": "Nomura explores sale of crypto unit Laser Digital: Bloomberg",
-      "link": "https://cointelegraph.com/news/nomura-sale-crypto-unit-laser-digital?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The potential sale of Laser Digital follows a fourth straight quarterly loss for Nomura’s European o...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M763TD8E1ZBRMPTMFSD5YQ3A/bithumb-acquisition-deal-off-2.png"
+      "title": "Binance CSO unwittingly foreshadowed $6.3B hack tactic months before attack",
+      "link": "https://cointelegraph.com/news/binance-cso-foreshadowed-6b-hack-tactic-months-before-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "In a July interview, Binance chief security officer Jimmy Su explained how fake coding assessments c...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M772C3WKZ2V15SYTV41CF4T1/hi-a-fake-crypto-job-interview-nearly-installed-malware-on-my-computer.jpg"
     }
   ],
   "various": [
     {
-      "title": "Some under-25s should get less benefits, Milburn review to say",
+      "title": "Some under-25s should get fewer benefits, Milburn review to say",
       "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
       "desc": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benef...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad2c/live/98868060-de1f-11f1-a701-fddedf244c16.jpg"
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/840b/live/ad0a7580-de80-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "title": "Author says there were 'real concerns' about David Walliams within publishing industry",
-      "link": "https://www.bbc.co.uk/news/articles/c95y15830k77o?at_medium=RSS&at_campaign=rss",
-      "desc": "The comedian denies allegations of sexual misconduct, inappropriate behaviour and abusing his power ...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3da/live/be8fbc60-ddeb-11f1-a701-fddedf244c16.jpg"
+      "title": "Activist Daniel Thomas admits criminal damage after slashing migrant dinghy in Channel",
+      "link": "https://www.bbc.co.uk/news/articles/c6x20x380z12o?at_medium=RSS&at_campaign=rss",
+      "desc": "Activist Danny Tommo pleads guilty to criminal damage at Portsmouth Crown Court.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b9c/live/988b6390-be7c-11f1-8a45-cd59664d243b.jpg"
     },
     {
-      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-      "desc": "Tens of thousands of people have been taking part in the strike, called by the country's main unions...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8f2/live/d0df2010-de11-11f1-a701-fddedf244c16.jpg"
+      "title": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
+      "link": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
+      "desc": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power ...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a2c/live/a70e9220-de61-11f1-a701-fddedf244c16.jpg"
     },
     {
       "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
@@ -177,16 +177,16 @@
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff27/live/573e7b50-de18-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-      "title": "Are max strength cold and flu pills worth the money?",
-      "link": "https://www.bbc.co.uk/news/articles/cjkgep4rgngro?at_medium=RSS&at_campaign=rss",
-      "desc": "Some cold and flu remedies cost 20 times as much as a basic pack of paracetamol or ibuprofen.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ebf/live/c7481d80-d48f-11f1-9a20-f717db279e3e.jpg"
+      "title": "DJ Tim Westwood denies two more sexual offences",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx1635xkkdo?at_medium=RSS&at_campaign=rss",
+      "desc": "His latest pleas of not guilty mean he now denies a total of 17 charges concerning allegations from ...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/408b/live/2498e9d0-de7f-11f1-b88b-3f1671ea859d.jpg"
     },
     {
-      "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
-      "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
-      "desc": "The BBC understands the discount chain, which has been edging towards administration, will be given ...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a6e/live/a313f250-dd58-11f1-acd1-a78ce9f5fae0.jpg"
+      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+      "desc": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nas...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d247/live/940d6f30-de7e-11f1-b88b-3f1671ea859d.jpg"
     }
   ]
 }
