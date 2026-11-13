@@ -115,6 +115,30 @@
   ],
   "crypto": [
     {
+      "title": "Bitcoin slides below $70K amid thin liquidity, ETF outflows",
+      "link": "https://cointelegraph.com/markets/bitcoin-falls-below-70k-crypto-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Bitcoin fell below $70,000 as crypto sentiment hit its lowest level in more than four months, with a...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79N7DA5EN5QTEX2W50DFFNH/hi-so-what-is-happening-to-bitcoin-bear-market-1.jpg"
+    },
+    {
+      "title": "Trump nominates Hester Peirce successor among SEC, CFTC picks",
+      "link": "https://cointelegraph.com/news/trump-nominates-hester-peirce-successor-among-sec-cftc-picks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The White House also named a former CFTC commissioner and two CLARITY Act veterans as nominees to fi...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79AVSJ6NY5RD5MSVWPM12XB/white-house-stablecoin-trump.jpg"
+    },
+    {
+      "title": "Former Nvidia CEO Huang had third alleged affair: Reuters",
+      "link": "https://cointelegraph.com/news/former-nvidia-ceo-huang-had-third-alleged-affair-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Reuters reported that Jensen Huang had a relationship with another Nvidia employee, hours after he r...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TF8XXVHRYCKDRNDMW19WCP/analys-analytics-bisiness-man-woman-down-city-crash-nvidia.jpg"
+    },
+    {
+      "title": "Gemini’s quarterly retail trading volume sinks to 3-year low",
+      "link": "https://cointelegraph.com/markets/geminis-quarterly-retail-trading-volume-sinks-to-3-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Gemini’s third-quarter trading rebound masked a deepening retail slump.",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79668CQYKG39DW60CKNSTF0/hi-gemini-review-2025-secure-regulated-and-feature-rich.jpg"
+    },
+    {
       "title": "Maple Finance’s strategy rift sends co-founder, COO to the exits",
       "link": "https://cointelegraph.com/news/maple-finance-strategy-rift-co-founder-coo-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Maple Finance co-founder Joe Flanagan and COO Ryan O’Shea are leaving over disagreements about the f...",
@@ -125,68 +149,44 @@
       "link": "https://cointelegraph.com/magazine/nk-hackers-join-memecoin-trenches-xstocks-adds-hong-kong-equities-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "North Korean hackers launch memecoins to launder funds stolen in the Binance hack, while xStocks pla...",
       "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M26Q2WGDD8GDA5QMCWQF3GB3/magazineasia-expresssnow.jpg"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impac...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
-    },
-    {
-      "title": "Kalshi ends Donald Trump Jr. advisory role over Polymarket investment: Reuters",
-      "link": "https://cointelegraph.com/news/kalshi-ends-donald-trump-jr-advisory-role-polymarket-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The prediction market operator said the decision was mutual and followed 1789 Capital’s investment i...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78TX3PGYGRAKFVQT1WR50MD/hi-paying-the-price-kalshi-banned-politician-for-insider-trading.png"
-    },
-    {
-      "title": "Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off",
-      "link": "https://cointelegraph.com/markets/strategy-shares-fall-5-msci-index-removal-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Strategy shares declined Thursday following MSCI’s decision to remove the company from its indexes, ...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78SKXFN30X2QXCVG2NCJ1VY/hi-how-strategyb-turned-k-into-m-using-a-high-risk-high-precision-strategy.png"
-    },
-    {
-      "title": "US Justice Department, business groups and DeFi firms challenge Illinois crypto tax",
-      "link": "https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Industry groups argued in court filings that Illinois’ crypto tax, which applies even when a transac...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78NNMK090K8VRSJK706GEH0/hi-more-irs-crypto-reporting-more-danger.png"
     }
   ],
   "various": [
     {
-      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-      "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-      "desc": "US lawmakers now want to question Huang over whether one of his alleged relationships was with a Chi...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg"
+      "title": "Firms help migrants pose as artists and tech experts for 'Global Talent' visas, BBC finds",
+      "link": "https://www.bbc.co.uk/news/articles/cmkgdw24l1kdo?at_medium=RSS&at_campaign=rss",
+      "desc": "Going undercover to expose an elaborate fraud aimed at obtaining fast-track settlement for wealthy m...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18bf/live/f63106d0-de89-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "title": "How AI visionary Jensen Huang was undone by his own bad decisions",
-      "link": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss",
-      "desc": "Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3345/live/4030f5a0-deea-11f1-9dd5-b5dd10100b88.jpg"
+      "title": "Piddlington military base asylum plans granted planning approval",
+      "link": "https://www.bbc.co.uk/news/articles/c58j4798874go?at_medium=RSS&at_campaign=rss",
+      "desc": "The Home Office's application to house up to 1,256 men at the site near Bicester was fast-tracked.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62a7/live/8843d9c0-df03-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
-      "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
-      "desc": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open ...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4c4/live/1934a9b0-deb3-11f1-8fb5-a771a656a227.jpg"
+      "title": "Junior doctor burnout putting maternity patients at risk, says regulator",
+      "link": "https://www.bbc.co.uk/news/articles/ckx28le8dv9wo?at_medium=RSS&at_campaign=rss",
+      "desc": "Trainee doctors delivering babies are more likely to suffer from overwork and burnout than other spe...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e505/live/77db9650-dec1-11f1-86d5-71a9f29d1c99.png"
     },
     {
-      "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
-      "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-      "desc": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next roun...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0196/live/ef110310-de9c-11f1-a701-fddedf244c16.jpg"
+      "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+      "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+      "desc": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to ...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f44f/live/57b45570-df06-11f1-9f71-7d0084202c8a.jpg"
     },
     {
-      "title": "Microsoft users report outages amid tech giant 'connectivity issues'",
-      "link": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
-      "desc": "Users worldwide report issues after tech giant says its infrastructure has been hit by \"elevated loa...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fa9/live/70d26730-deda-11f1-a701-fddedf244c16.jpg"
+      "title": "The school where white working-class pupils defy the odds",
+      "link": "https://www.bbc.co.uk/news/articles/cm369259g0j2o?at_medium=RSS&at_campaign=rss",
+      "desc": "Politicians are worried about the outcomes of white, working-class pupils. But one school in Sunderl...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2494/live/5aab5220-deb5-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-      "title": "Can Burnham avoid another Labour welfare rebellion?",
-      "link": "https://www.bbc.co.uk/news/articles/c95y100nrm41o?at_medium=RSS&at_campaign=rss",
-      "desc": "Any revolt among MPs is likely to be smaller than the one that badly damaged Keir Starmer's governme...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de16/live/ad3f4d10-dec0-11f1-8fb5-a771a656a227.jpg"
+      "title": "Timothée Chalamet among Hollywood stars and charity heroes stepping up for BBC Children In Need",
+      "link": "https://www.bbc.co.uk/news/articles/cqly4lnxn031o?at_medium=RSS&at_campaign=rss",
+      "desc": "Viewers of the annual TV charity event will see the actor playing a prank on Rylan.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3471/live/c65f7fb0-deaa-11f1-8253-3f203a001288.png"
     }
   ]
 }
