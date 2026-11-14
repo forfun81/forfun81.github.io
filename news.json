@@ -39,6 +39,12 @@
   ],
   "movies": [
     {
+      "title": "I Can’t Get Over Patrick Stewart And Ian McKellen’s Reactions When Two Avengers Were Caught Staring On Doomsday",
+      "link": "https://www.cinemablend.com/movies/cant-get-over-patrick-stewart-ian-mckellens-reactions-two-avengers-caught-staring-doomsday-anthony-mackie-sebastian-stan",
+      "desc": "Even Avengers get starstruck.",
+      "img": "https://cdn.mos.cms.futurecdn.net/r4Hpi2nbbACzgmVSVdSKxR-1920-80.jpg"
+    },
+    {
       "title": "Dunesday Is Exciting, But There’s Another Double Feature That’s Being Slept On",
       "link": "https://www.cinemablend.com/movies/dunesday-exciting-another-double-feature-slept-on-hunger-games-percy-jackson",
       "desc": "This one's for the YA book lovers.",
@@ -67,64 +73,70 @@
       "link": "https://www.cinemablend.com/movies/jessica-chastain-new-movie-filmed-on-broadway-nashville-recurring-problem-heartland-shana-feste",
       "desc": "I'm just thinking about all the Bachelorette parties.",
       "img": "https://cdn.mos.cms.futurecdn.net/7FqY6uCTzeuSAZ3agTFBa4-1920-80.jpg"
-    },
-    {
-      "title": "I Just Found Out Tom Holland Asked To Tailor His Odyssey Skirt Shorter For A Hilarious Reason",
-      "link": "https://www.cinemablend.com/movies/tom-holland-asked-tailor-odyssey-skirt-shorter-hilarious-reason",
-      "desc": "You can’t slip anything by Christopher Nolan.",
-      "img": "https://cdn.mos.cms.futurecdn.net/WyYxDEfN9rijm8VXYBx3ja-1920-80.jpg"
     }
   ],
   "tech": [
     {
-      "title": "Nvidia board reportedly approached Arm CEO Rene Haas during replacement search",
-      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-board-reportedly-approached-arm-ceo-rene-haas-during-replacement-search-jensen-huangs-transgressions-leave-nvidia-scrambling-to-fill-a-massive-void",
-      "desc": "Nvidia's board of directors reportedly approached Rene Haas, chief executive of Arm and a long-time ...",
-      "img": "https://cdn.mos.cms.futurecdn.net/qBiTnikCtK5QZ46zhHfiXm-1920-80.jpg"
+      "title": "Contractor turns a Milwaukee Hackzall into a portable Ethernet untwister after facing job requiring 50,000 custom Cat6 cables",
+      "link": "https://www.tomshardware.com/maker-stem/contractor-builds-ethernet-cable-untwisting-machine-after-facing-100-000-cat6-termination-job-modified-milwaukee-hackzall-straightens-cables-in-under-two-seconds",
+      "desc": "This Ethernet cable untwisting tool could cut halve the time needed to install an RJ45 connector.",
+      "img": "https://cdn.mos.cms.futurecdn.net/79nz5SP7fipRKcomFbiLQ6-1920-80.png"
     },
     {
-      "title": "Keyboards and keyboard accessories under $100 — budget-friendly gifts for keyboard enthusiasts",
-      "link": "https://www.tomshardware.com/gift-guides-seasonal-sales/keyboards-and-keyboard-accessories-under-usd100-budget-friendly-gifts-for-keyboard-enthusiasts",
-      "desc": "The best sub-$100 gifts to get the keyboard enthusiast in your life — even if they already have thei...",
-      "img": "https://cdn.mos.cms.futurecdn.net/VLDeVC2nS4LwgAxen2LvqJ-1920-80.jpg"
+      "title": "Pentagon ‘struggles to account for’ $31 billion in missing F-35 aircraft parts, weeks after shipment was swiped by China",
+      "link": "https://www.tomshardware.com/tech-industry/pentagon-struggles-to-account-for-usd31-billion-in-missing-f-35-aircraft-parts-weeks-after-shipment-was-swiped-by-china-tracking-of-estimated-26-million-parts-is-outdated-inaccurate-and-incomplete-says-watchdog",
+      "desc": "The Pentagon is struggling to track an astonishing 26 million F-35 warfighter parts, worth an estima...",
+      "img": "https://cdn.mos.cms.futurecdn.net/EekQz3qCtB2JkSggFCv4aK-1920-80.jpg"
     },
     {
-      "title": "10 great PC upgrades for under $100",
-      "link": "https://www.tomshardware.com/gift-guides-seasonal-sales/10-great-pc-upgrades-for-under-usd100-spice-up-your-setup-for-less-with-these-gifts-and-impulse-purchases",
-      "desc": "If you're in the market for a PC upgrade for a cheaper gift, here are 10 items under $100.",
-      "img": "https://cdn.mos.cms.futurecdn.net/V2jcLanD6fqrx3qJzuG94-1920-80.jpg"
+      "title": "Save up to $800 on an iBuyPower gaming PC right now in this massive Black Friday sale",
+      "link": "https://www.tomshardware.com/desktops/gaming-pcs/save-up-to-usd800-on-an-ibuypower-gaming-pc-right-now-in-this-massive-black-friday-sale-coupon-code-knocks-up-to-usd200-extra-off-high-spec-pre-built-rigs-fitted-with-nvidia-and-amd-gpus",
+      "desc": "iBuyPower's running a whole month of Black Friday sales this November on new gaming PCs.",
+      "img": "https://cdn.mos.cms.futurecdn.net/FqrDJiMnQWFqzoMxzR2ir5-1920-80.png"
     },
     {
-      "title": "Unannounced Intel Core Ultra 7 260K CPU surfaces in Newegg prebuilt gaming PCs",
-      "link": "https://www.tomshardware.com/pc-components/cpus/unannounced-intel-core-ultra-7-260k-cpu-surfaces-in-newegg-prebuilt-gaming-pcs-intel-doesnt-have-official-specs-list-available-for-exclusive-arrow-lake-chip",
-      "desc": "The mysterious Intel Core Ultra 7 260K has surfaced in some prebuilt gaming PCs on Newegg, despite n...",
-      "img": "https://cdn.mos.cms.futurecdn.net/oyZG7mCstmm8dWyPWJmMqU-1920-80.jpg"
+      "title": "Lawyer’s eight-V100 AI server moves DeepSeek from 2-bit to near-NVFP4 precision",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyer-upgrades-eight-v100-private-ai-server-to-run-80-percent-of-deepseek-v4-1-flash-at-4-bit-nvfp4-precision-adds-1tb-of-ram-an-nvidia-rtx-3090-and-fixes-crashes-caused-by-a-bad-psu",
+      "desc": "A lawyer’s eight-GPU Nvidia V100 server now runs DeepSeek V4.1 Flash’s most-used experts at NVFP4 pr...",
+      "img": "https://cdn.mos.cms.futurecdn.net/iRobEeMPfpiSTatZm5zucg-1920-80.jpg"
     },
     {
-      "title": "Malaysia and Singapore step up Nvidia AI chip probes amidst Jensen Huang controversy",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/malaysia-and-singapore-step-up-nvidia-ai-chip-probes-as-charges-brought-against-chinese-national-over-917-smuggled-servers-firm-at-center-of-jensen-huang-controversy-announces-inventory-audit-to-account-for-all-restricted-gpus",
-      "desc": "Malaysia is investigating possible re-exports of Nvidia AI hardware amid concerns about circumventio...",
-      "img": "https://cdn.mos.cms.futurecdn.net/Shoacr4XJZW9Mkip4RDNCA-1920-80.jpg"
+      "title": "China’s Air Force builds drone that shoots painkiller darts at wounded soldiers",
+      "link": "https://www.tomshardware.com/tech-industry/drones/chinas-air-force-builds-drone-that-shoots-painkiller-darts-at-wounded-soldiers-experimental-pla-uav-injects-emergency-meds-from-a-distance-to-keep-medics-out-of-danger-and-buys-time-during-the-golden-hour",
+      "desc": "The Air Force Medical University of the Chinese People's Liberation Army (PLA) built this drone so i...",
+      "img": "https://cdn.mos.cms.futurecdn.net/myZHnnUa8kGCL9qmu5HrhK-1920-80.png"
     },
     {
-      "title": "Popular gaming chair and desk maker Secretlab launches dedicated US brick-and-mortar locations — new shop in LA, spaces in Best Buy",
-      "link": "https://www.tomshardware.com/peripherals/popular-gaming-chair-and-desk-maker-secretlab-launches-dedicated-us-brick-and-mortar-locations-new-shop-in-la-spaces-in-best-buy",
-      "desc": "Secretlab now sells its wares inside Best Buy and in a dedicated store in LA.",
-      "img": "https://cdn.mos.cms.futurecdn.net/ghHpGyJDw2L8pgktkrkNzP-1920-80.jpg"
+      "title": "Commemorative plaque at Denny’s booth where Nvidia was born has been removed in wake of Jensen Huang scandals",
+      "link": "https://www.tomshardware.com/tech-industry/commemorative-plaque-at-dennys-booth-where-nvidia-was-born-has-been-removed-sign-removed-in-wake-of-jensens-scandals-marked-the-booth-that-launched-a-usd1-trillion-company",
+      "desc": "The San Jose, California, branch of Denny's once featured a plaque commemorating the booth where Jen...",
+      "img": "https://cdn.mos.cms.futurecdn.net/opSSug3wDFDcyQRCCGsHcJ-1920-80.png"
     }
   ],
   "crypto": [
-    {
-      "title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11",
-      "link": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "US spot Bitcoin ETFs recorded $185.4 million in net outflows Friday, with BlackRock’s IBIT accountin...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FQAANP3H5Z0XYV77PNYB10/hi-will-the-blockchain-stop-leaks-of-crypto.jpg"
-    },
     {
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impac...",
       "img": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
+    },
+    {
+      "title": "Microsoft confirms global outage resolved, rules out cyberattack",
+      "link": "https://cointelegraph.com/news/microsoft-365-outage-resolved-cyberattack-ruled-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Microsoft attributed the outage to a network capacity upgrade issue, confirming that the disruption ...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6X8JFEEG972QNHB7E2TQ63J/hi-the-rise-of-major-institutions-is-inevitable-microsoft.jpg"
+    },
+    {
+      "title": "MegaETH parent cuts 20% of staff amid restructuring, AI push",
+      "link": "https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "MegaETH co-founder Shuyao Kong said the restructuring affected employees who helped build the projec...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7CHQ8H5VMWGN9MBP9CQVNVC/layoffs-fired-human-resource-hr-leaving-quit-people-ai-2.jpg"
+    },
+    {
+      "title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11",
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "US spot Bitcoin ETFs recorded $185.4 million in net outflows Friday, with BlackRock’s IBIT accountin...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FQAANP3H5Z0XYV77PNYB10/hi-will-the-blockchain-stop-leaks-of-crypto.jpg"
     },
     {
       "title": "OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex",
@@ -137,56 +149,44 @@
       "link": "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Blockstream’s new custody system, developed with Thales, uses dedicated hardware for transaction sig...",
       "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7BCCR5CYZHHWDA4BH24H4DA/portraitadam-back.png"
-    },
-    {
-      "title": "Kraken parent Payward gains market share as slower trading weighs on earnings",
-      "link": "https://cointelegraph.com/news/kraken-parent-payward-gains-market-share-slower-trading-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Payward’s adjusted EBITDA fell 66% year over year to $60 million, even as its share of global spot t...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7BB5D5YR6N43P941FXA2NG0/hi-kraken-ipo-2.jpg"
-    },
-    {
-      "title": "US regulators move ahead on crypto trust charters as Senate scrutiny grows",
-      "link": "https://cointelegraph.com/news/us-regulators-crypto-trust-charters-senate-scrutiny-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Coinbase’s trust company received final clearance as lawmakers seek records on crypto firms’ complia...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2EYQFNBQWHSKS9XVTDG9HXS/regulation-papers.jpg"
     }
   ],
   "various": [
     {
-      "title": "What we know about the US ground stop and what to do if you're affected",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-      "desc": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "title": "Young people should have legal guarantee to job or training, review author tells BBC",
+      "title": "Young people should have legal guarantee of job or training, Milburn tells BBC",
       "link": "https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss",
-      "desc": "Speaking to the BBC, Alan Milburn also calls for a radical shift in government spending away from be...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee34/live/00e38c90-dfea-11f1-93e1-3b657b665bcf.jpg"
+      "desc": "The author of a major review on youth unemployment, due next week, acknowledges the change would mea...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e71/live/0cdca3f0-e009-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-      "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-      "desc": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman ...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg"
+      "title": "Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight",
+      "link": "https://www.bbc.co.uk/news/articles/cmg46qgkl7r4o?at_medium=RSS&at_campaign=rss",
+      "desc": "Milburn is not the first to try and fix the Neets problem - so what’s different this time round, ask...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51fc/live/6c07bc50-df75-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-      "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
-      "desc": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a5e/live/65a2f270-dfad-11f1-be1f-9dae57fabf82.jpg"
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "desc": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Ru...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
+      "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
       "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
-      "desc": "All passengers have been accounted for after a cargo ship collided with a docked cruise ship.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/880d/live/7334ea60-dfad-11f1-b441-2b33b063138f.jpg"
+      "desc": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in Ne...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3089/live/3bf0cfe0-e027-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "title": "Widespread frost and freezing fog forecast as cold health alerts continue",
-      "link": "https://www.bbc.co.uk/weather/articles/cqlyml59mdj0o?at_medium=RSS&at_campaign=rss",
-      "desc": "It's a weekend of two halves with a cold start on Saturday giving way to wetter and milder day on Su...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bbd/live/4a4cd730-df7a-11f1-b844-3146c4983677.png"
+      "title": "King jokes with Elton John as he marks 78th birthday with radio show",
+      "link": "https://www.bbc.co.uk/news/articles/ck0jx8pxxx6eo?at_medium=RSS&at_campaign=rss",
+      "desc": "The monarch appears on a special episode to coincide with his 78th birthday on Saturday.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88dc/live/3611e330-e030-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "title": "Brand, Walliams and Married at First Sight: Is this a reckoning for the entertainment industry?",
+      "link": "https://www.bbc.co.uk/news/articles/cqn70lz71lg8o?at_medium=RSS&at_campaign=rss",
+      "desc": "These stories represent the consequences of changes that began years ago, rather than being a sudden...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c24/live/0b3d63c0-dfc5-11f1-81d0-51c2d6384bd2.jpg"
     }
   ]
 }
