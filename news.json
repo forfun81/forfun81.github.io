@@ -39,43 +39,49 @@
   ],
   "movies": [
     {
+      "title": "I Rewatched The End Of Oak Street, And Yes, That Is A Battlestar Galactica Reference",
+      "link": "https://www.cinemablend.com/movies/rewatched-the-end-of-oak-street-yes-battlestar-galactica-reference-starbuck",
+      "desc": "Did you catch this?",
+      "img": "https://cdn.mos.cms.futurecdn.net/XmshJkZTM6z9pzrtV4ftPf-1920-80.png"
+    },
+    {
+      "title": "I’ve Been Wondering If Tangled 2 Will Happen Even With The Live-Action Remake. Someone Asked An Exec",
+      "link": "https://www.cinemablend.com/movies/ive-wondering-tangled-2-happen-with-live-action-remake-asked-exec",
+      "desc": "Will a sequel ever get out of its tower?",
+      "img": "https://cdn.mos.cms.futurecdn.net/uUYAoiPaDJJzFNK5mTbCEh-1920-80.jpg"
+    },
+    {
+      "title": "I Laughed Out Loud When I Learned About The Wicker ‘Sequel’ Alexander Skarsgård’s Been Pitching",
+      "link": "https://www.cinemablend.com/movies/alexander-skarsgard-reveals-hilarious-pitch-wicker-sequel",
+      "desc": "Everybody is just so creative!",
+      "img": "https://cdn.mos.cms.futurecdn.net/DGqppH6W6NXEG4f7QY3BGf-1920-80.jpg"
+    },
+    {
+      "title": "I Just Found Out Henry Cavill’s New Mustache IS A Justice League Nod. What Happened",
+      "link": "https://www.cinemablend.com/movies/henry-cavill-new-mustache-justice-league-nod",
+      "desc": "Our mustachioed Superman has returned!",
+      "img": "https://cdn.mos.cms.futurecdn.net/xgE3YevTNeXMo8ZfAUgBnV-1920-80.png"
+    },
+    {
+      "title": "I Love Suzanne Collins' Big Shoutout To Woody Harrelson For Making The New Hunger Games Possible",
+      "link": "https://www.cinemablend.com/movies/suzanne-collins-big-shoutout-woody-harrelson-hunger-games-sunrise-on-the-reaping",
+      "desc": "\"It's such a gift...\"",
+      "img": "https://cdn.mos.cms.futurecdn.net/swFs8C7aEUDfy32pFER92e-1920-80.png"
+    },
+    {
       "title": "I Can't Stop Thinking About This Pivotal Scene In The Only Living Pickpocket In New York",
       "link": "https://www.cinemablend.com/movies/cant-stop-thinking-about-pivotal-scene-the-only-living-pickpocket-in-new-york-john-turturro",
       "desc": "It's the best moment in the movie.",
       "img": "https://cdn.mos.cms.futurecdn.net/Xdwd9nSEHaDn2rF6UHT9Sk-1920-80.jpg"
-    },
-    {
-      "title": "Nothing Prepared Sam Claflin For Seeing What Johnny Depp Would Look Like In Ebenezer, NOTHING",
-      "link": "https://www.cinemablend.com/movies/nothing-prepared-sam-claflin-seeing-johnny-depp-ebenezer-nothing",
-      "desc": "Nothing prepared me for Andrea Riseborough and Tramell Tillman's transformations either.",
-      "img": "https://cdn.mos.cms.futurecdn.net/RQDbimyp6sQSy5PCXnRAma-1920-80.jpg"
-    },
-    {
-      "title": "The Internet Can't Stop Laughing Over Daniel Kaluuya And Tyriq Withers’ Viral Interview About Grounded Flights",
-      "link": "https://www.cinemablend.com/movies/internet-laughing-daniel-kaluuya-tyriq-withers-viral-interview-grounded-flights",
-      "desc": "This is the kind of comedy I like to see on social media.",
-      "img": "https://cdn.mos.cms.futurecdn.net/aTXFzoZbGKsGKtfhPDakJb-1920-80.jpg"
-    },
-    {
-      "title": "Florence Pugh’s Black Dress Was Giving What I Can Only Describe As Mickey Mouse Ears",
-      "link": "https://www.cinemablend.com/movies/florence-pugh-black-dress-mickey-mouse-ears-sleeves",
-      "desc": "They're like gorgeous Mickey Mouse ears, though.",
-      "img": "https://cdn.mos.cms.futurecdn.net/k9ktGA6iEifiEvb5drtZcR-1920-80.png"
-    },
-    {
-      "title": "I'm Not A Despicable Me Fan, Why Minions And Monsters Won Me Over Anyway",
-      "link": "https://www.cinemablend.com/movies/im-not-despicable-me-fan-why-minions-and-monsters-won-me-over",
-      "desc": "Has this one converted me?",
-      "img": "https://cdn.mos.cms.futurecdn.net/BbKBQ3nwUCqPtNieTLGn8m-1920-80.jpg"
-    },
-    {
-      "title": "I Can’t Get Over Patrick Stewart And Ian McKellen’s Reactions When Two Avengers Were Caught Staring On Doomsday",
-      "link": "https://www.cinemablend.com/movies/cant-get-over-patrick-stewart-ian-mckellens-reactions-two-avengers-caught-staring-doomsday-anthony-mackie-sebastian-stan",
-      "desc": "Even Avengers get starstruck.",
-      "img": "https://cdn.mos.cms.futurecdn.net/r4Hpi2nbbACzgmVSVdSKxR-1920-80.jpg"
     }
   ],
   "tech": [
+    {
+      "title": "Wacky PC and gadget gift guide",
+      "link": "https://www.tomshardware.com/gift-guides-seasonal-sales/wacky-pc-and-gadget-gift-guide-surprise-tech-lovers-with-10-different-options-like-wireless-power-buttons-dvd-burner-usb-hubs-and-clamp-on-pegboards",
+      "desc": "Our list of fun and wacky PC and gadget gifts is surprising, delightful, and actually useful.",
+      "img": "https://cdn.mos.cms.futurecdn.net/DtH6A4rUzysucGnkAEFLeS-1920-80.jpg"
+    },
     {
       "title": "Samsung's 1TB 990 SSD drops to 19 cents per GB amid the memory crisis — grab it for $40 off",
       "link": "https://www.tomshardware.com/pc-components/samsungs-1tb-990-ssd-drops-to-19-cents-per-gb-amid-the-memory-crisis-grab-it-for-usd40-off",
@@ -105,12 +111,6 @@
       "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/malaysia-plans-new-law-using-data-center-power-consumption-to-catch-ai-gpu-smugglers-but-real-world-tdp-variance-and-lack-of-physical-audits-could-undermine-it-new-law-also-forces-operators-to-pay-for-unused-electricity-capacity",
       "desc": "Malaysia plans to track AI GPU imports and data center power consumption to combat chip smuggling. B...",
       "img": "https://cdn.mos.cms.futurecdn.net/XC7BztBiYaLzNEMYPXdhWc-1920-80.jpg"
-    },
-    {
-      "title": "AMD's fastest gaming CPU and the Radeon RX 9070 just hit a massive $550 discount",
-      "link": "https://www.tomshardware.com/desktops/gaming-pcs/amds-fastest-gaming-cpu-and-the-radeon-rx-9070-just-hit-a-massive-usd550-discount-32gb-ddr5-ram-and-1tb-ssd-round-off-usd1-749-99-gaming-rig",
-      "desc": "Alongside the Ryzen 7 9800X3D and Radeon RX 9070, buyers get a 360mm AIO liquid cooler, 850W PSU, 32...",
-      "img": "https://cdn.mos.cms.futurecdn.net/gXVr5e46qSaMd9JE7fJdb7-1920-80.jpg"
     }
   ],
   "crypto": [
@@ -153,40 +153,40 @@
   ],
   "various": [
     {
-      "title": "The ‘Magic: The Gathering’ Show Is Real, and It’s Called ‘Planeswalker’",
-      "link": "https://gizmodo.com/the-magic-the-gathering-show-is-real-and-its-called-planeswalker-2000839836",
-      "desc": "If you're waiting to watch 'Magic: The Gathering' on TV, stay in line, because that's what 'Planeswa...",
-      "img": "https://gizmodo.com/app/uploads/2026/11/magic-planeswalker-chandra-1280x853.jpg"
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "desc": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "title": "Watch SpaceX Try to Salvage Its Attempt to Catch a Starship",
-      "link": "https://gizmodo.com/watch-spacex-try-to-salvage-its-attempt-to-catch-a-starship-2000840083",
-      "desc": "The booster catch was spectacularly aborted. An upper stage catch attempt is still pending.",
-      "img": "https://gizmodo.com/app/uploads/2026/11/starship-booster-explosion-1280x854.jpg"
+      "title": "Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight",
+      "link": "https://www.bbc.co.uk/news/articles/cmg46qgkl7r4o?at_medium=RSS&at_campaign=rss",
+      "desc": "Milburn is not the first to try and fix the Neets problem - so what’s different this time round, ask...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51fc/live/6c07bc50-df75-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "title": "How Do You Define ‘Spy’?",
-      "link": "https://gizmodo.com/trump-allies-debate-spy-claims-nvidia-scandal-sacks-bessent-2000839745",
-      "desc": "Trump allies are awfully concerned with what to call Alice Huang. Perhaps there's a reason for that.",
-      "img": "https://gizmodo.com/app/uploads/2026/11/jensen-nvidia-spy-argument1-1280x853.jpg"
+      "title": "Alleged Russell Brand rape victim wants age of consent law changed",
+      "link": "https://www.bbc.co.uk/news/articles/cm3rgx9p583zo?at_medium=RSS&at_campaign=rss",
+      "desc": "Mia Latter, who says she was 16 when she met the convicted rapist, wants a staggered age of consent.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a7f/live/9f8b6970-dcf8-11f1-9ef0-4b5930e2f80e.jpg"
     },
     {
-      "title": "James Gunn Gets Back to Shooting Down ‘Man of Tomorrow’ Rumors",
-      "link": "https://gizmodo.com/james-gunn-gets-back-to-shooting-down-man-of-tomorrow-rumors-2000840024",
-      "desc": "Whatever you've been hearing about 'Man of Tomorrow' lately, Gunn wants you to put those things out ...",
-      "img": "https://gizmodo.com/app/uploads/2025/07/superman-james-gunn-david-corenswet-1280x853.jpg"
+      "title": "New Orleans port sues tanker owners over cruise ship collision for $1m",
+      "link": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
+      "desc": "All cruise ship passengers and crew were accounted for, though 32 people were left with non-serious ...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29c1/live/cbb69f00-e073-11f1-b214-7b8eb8913400.jpg"
     },
     {
-      "title": "‘Vampire: the Masquerade’ Alpha 2.0 Playtest Undoes Controversial Changes",
-      "link": "https://gizmodo.com/vampire-the-masquerade-alpha-2-0-playtest-undoes-controversial-changes-2000839946",
-      "desc": "Health and vitae are once again separate after players pushed back against the combined resources.",
-      "img": "https://gizmodo.com/app/uploads/2026/07/vampire-the-masquerade-6th-edition-logo-1280x853.jpg"
+      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+      "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+      "desc": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aeb5/live/e1baf430-e074-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "title": "Sony Will Push ‘Spider-Man: Brand New Day’ for Oscar Glory",
-      "link": "https://gizmodo.com/sony-will-push-spider-man-brand-new-day-for-oscar-glory-2000839981",
-      "desc": "Sony chairman Tom Rothman explains why he thinks the latest 'Spider-Man' movie deserves awards recog...",
-      "img": "https://gizmodo.com/app/uploads/2026/08/Destin-Daniel-Cretton-Spider-Man-1280x853.jpg"
+      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+      "desc": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equ...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea11/live/3adfb390-e05f-11f1-9e26-b3b65586122f.jpg"
     }
   ]
 }
