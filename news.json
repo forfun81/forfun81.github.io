@@ -39,6 +39,12 @@
   ],
   "movies": [
     {
+      "title": "Dunesday Is Exciting, But There’s Another Double Feature That’s Being Slept On",
+      "link": "https://www.cinemablend.com/movies/dunesday-exciting-another-double-feature-slept-on-hunger-games-percy-jackson",
+      "desc": "This one's for the YA book lovers.",
+      "img": "https://cdn.mos.cms.futurecdn.net/5rbwmG9m7x8dYR5DZmHEMm-1920-80.png"
+    },
+    {
       "title": "I Knew Josh Brolin Still Had Love For Thanos, But Would He Come Back As Deadpool 2’s Cable?",
       "link": "https://www.cinemablend.com/movies/josh-brolin-still-had-love-thanos-would-he-come-back-deadpool-2-cable-doomsday",
       "desc": "See what the Mad Titan has to say.",
@@ -67,12 +73,6 @@
       "link": "https://www.cinemablend.com/movies/tom-holland-asked-tailor-odyssey-skirt-shorter-hilarious-reason",
       "desc": "You can’t slip anything by Christopher Nolan.",
       "img": "https://cdn.mos.cms.futurecdn.net/WyYxDEfN9rijm8VXYBx3ja-1920-80.jpg"
-    },
-    {
-      "title": "Club Kid Ending: Why The Movie Doesn't Show That Reunion (Even If We Wanted To See It)",
-      "link": "https://www.cinemablend.com/movies/club-kid-ending-why-the-movie-doesnt-show-reunion-we-wanted-to-see-it-jordan-firstman-a24",
-      "desc": "Jordan Firstman spoke to CinemaBlend about his movie's conclusion.",
-      "img": "https://cdn.mos.cms.futurecdn.net/HBY2R6maJbv4h9KiaZBrMf-1920-80.jpg"
     }
   ],
   "tech": [
@@ -115,6 +115,12 @@
   ],
   "crypto": [
     {
+      "title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11",
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "US spot Bitcoin ETFs recorded $185.4 million in net outflows Friday, with BlackRock’s IBIT accountin...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FQAANP3H5Z0XYV77PNYB10/hi-will-the-blockchain-stop-leaks-of-crypto.jpg"
+    },
+    {
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impac...",
@@ -143,20 +149,26 @@
       "link": "https://cointelegraph.com/news/us-regulators-crypto-trust-charters-senate-scrutiny-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Coinbase’s trust company received final clearance as lawmakers seek records on crypto firms’ complia...",
       "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2EYQFNBQWHSKS9XVTDG9HXS/regulation-papers.jpg"
-    },
-    {
-      "title": "Metaplanet swings to $170M loss as Bitcoin sale hits earnings",
-      "link": "https://cointelegraph.com/news/metaplanet-swings-170m-loss-bitcoin-sale-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Bitcoin sales, valuation losses and rising borrowing costs weighed on the Japanese company’s earning...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7AWR4AB715ADV7EW9WZVKDA/hi-how-a-small-crypto-trader-turned-k-into-m-using-a-high-risk-high-precision-strategy-metaplanet.png"
     }
   ],
   "various": [
     {
-      "title": "Police investigating David Walliams over reports alleging serious sexual offences",
-      "link": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss",
-      "desc": "The Met Police said the allegations are separate from those reported by ITV and the Guardian earlier...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d86/live/54377b90-df86-11f1-b441-2b33b063138f.jpg"
+      "title": "What we know about the US ground stop and what to do if you're affected",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+      "desc": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "Young people should have legal guarantee to job or training, review author tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss",
+      "desc": "Speaking to the BBC, Alan Milburn also calls for a radical shift in government spending away from be...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee34/live/00e38c90-dfea-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+      "desc": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman ...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg"
     },
     {
       "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
@@ -165,28 +177,16 @@
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a5e/live/65a2f270-dfad-11f1-be1f-9dae57fabf82.jpg"
     },
     {
-      "title": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
-      "link": "https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss",
-      "desc": "The American military says there were no injuries or damage after \"suspected unauthorised drone acti...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d291/live/9c151020-dfa5-11f1-ab35-8541e0a03fdd.jpg"
+      "title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
+      "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
+      "desc": "All passengers have been accounted for after a cargo ship collided with a docked cruise ship.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/880d/live/7334ea60-dfad-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
-      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-      "desc": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big ...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg"
-    },
-    {
-      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
-      "desc": "The fact the question of European security now features in discussions is viewed in Moscow as a vict...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69b4/live/54139cb0-df82-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "title": "Goalkeeper involved in fatal collision gets 12-game ban",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm98xy2j8k1ko?at_medium=RSS&at_campaign=rss",
-      "desc": "Jesus Owono is given a 12-match suspension by the Spanish football federation's disciplinary committ...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e32e/live/2f147b80-dfa7-11f1-a701-fddedf244c16.jpg"
+      "title": "Widespread frost and freezing fog forecast as cold health alerts continue",
+      "link": "https://www.bbc.co.uk/weather/articles/cqlyml59mdj0o?at_medium=RSS&at_campaign=rss",
+      "desc": "It's a weekend of two halves with a cold start on Saturday giving way to wetter and milder day on Su...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bbd/live/4a4cd730-df7a-11f1-b844-3146c4983677.png"
     }
   ]
 }
