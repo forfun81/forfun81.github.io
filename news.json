@@ -39,6 +39,30 @@
   ],
   "movies": [
     {
+      "title": "Jessica Chastain Finally Dressed As Jessica Rabbit (And I’m Surprised It’s Happening After Halloween)",
+      "link": "https://www.cinemablend.com/movies/jessica-chastain-finally-wore-jessica-rabbit-costume-after-halloween",
+      "desc": "This really has been a long time coming.",
+      "img": "https://cdn.mos.cms.futurecdn.net/9xmQ4TjDhvEHeDAnrpHquH-1920-80.jpg"
+    },
+    {
+      "title": "Some Of The Olsen Twins’ Iconic Movies Are Finally Streaming, But I’m Still Hoping Another Film Gets Added",
+      "link": "https://www.cinemablend.com/streaming-news/some-mary-kate-and-ashley-olsen-movies-streaming-hoping-another-film-added",
+      "desc": "Brb, I'm gonna make popcorn!",
+      "img": "https://cdn.mos.cms.futurecdn.net/VELCbNpXqrSGzN9mNVvKo7-1920-80.png"
+    },
+    {
+      "title": "People Said Daniel Radcliffe Was ‘F--ked’ After Harry Potter. How He Succeeded Anyway",
+      "link": "https://www.cinemablend.com/movies/people-said-daniel-radcliffe-would-struggle-after-harry-potter-how-he-succeeded",
+      "desc": "The boy who really lived.",
+      "img": "https://cdn.mos.cms.futurecdn.net/ZSQx72xQH2UQamVbkubziR-1920-80.jpg"
+    },
+    {
+      "title": "Oprah Just Found Out People NOT Named Tom Cruise Can Actually Order The Tom Cruise Christmas Cake",
+      "link": "https://www.cinemablend.com/movies/oprah-winfrey-found-out-people-can-order-tom-cruise-christmas-cake",
+      "desc": "My mouth is already watering!",
+      "img": "https://cdn.mos.cms.futurecdn.net/H8kG6mg6sCQPtTWZE8wfsX-1920-80.jpg"
+    },
+    {
       "title": "Johnny Depp Earned His First Box Office Win In 8 Years, But Does That Mean He’s Back?",
       "link": "https://www.cinemablend.com/movies/johnny-depp-box-office-ebenezer-career-back",
       "desc": "Let's talk about Depp's career.",
@@ -49,33 +73,27 @@
       "link": "https://www.cinemablend.com/movies/rewatched-jackie-chan-rumble-in-the-bronx-we-forget-why-this-such-gem",
       "desc": "\"Come on, Jackie Chan.Uh uh uh uh uh oh!\"",
       "img": "https://cdn.mos.cms.futurecdn.net/oceJsXjP9vQrxgR2WpD9q3-1920-80.jpg"
-    },
-    {
-      "title": "I Threw On Avengers Endgame: Encore To Grab All The New Doomsday Scene Timestamps",
-      "link": "https://www.cinemablend.com/movies/i-grabbed-avengers-endgame-encore-doomsday-scene-timestamps",
-      "desc": "MCU die-hards will want to check these out.",
-      "img": "https://cdn.mos.cms.futurecdn.net/CgypbLXJn5uoqLKtTZhpbf-1920-80.jpg"
-    },
-    {
-      "title": "Elizabeth Holmes’ Partner Wants To Set The Record Straight On New Business NOT Being ‘Theranos 3’",
-      "link": "https://www.cinemablend.com/movies/elizabeth-holmes-partner-billy-evans-set-record-straight-new-business-not-theranos-3-interview",
-      "desc": "He says you can see it's not the same thing...",
-      "img": "https://cdn.mos.cms.futurecdn.net/jJhEWbVWXoVpn6FeuutjUS-1920-80.jpg"
-    },
-    {
-      "title": "Alan Ritchson Already Has A Christmas Movie Coming, But The Reacher Star Knows One Holiday Role He'd Crush",
-      "link": "https://www.cinemablend.com/streaming-news/alan-ritchson-christmas-movie-man-with-the-bag-wants-role-grinch",
-      "desc": "This would be a gnarly performance!",
-      "img": "https://cdn.mos.cms.futurecdn.net/4hXmF26F2U2o5q7vSu6amE-1920-80.jpg"
-    },
-    {
-      "title": "I Was Hoping For More Diverse Projects From James Gunn. Here's Why His Departure Stinks",
-      "link": "https://www.cinemablend.com/movies/hoping-more-diverse-projects-from-james-gunn-why-departure-stinks",
-      "desc": "What could have been!",
-      "img": "https://cdn.mos.cms.futurecdn.net/wpGQLrzHG6KoGTdhYwHjo-1920-80.jpg"
     }
   ],
   "tech": [
+    {
+      "title": "30 must-have PC tool gifts for hobbyists and makers",
+      "link": "https://www.tomshardware.com/gift-guides-seasonal-sales/30-must-have-pc-tool-gifts-for-hobbyists-and-makers-essential-bench-upgrades-for-enthusiasts-with-a-project-from-electric-screwdrivers-to-cordless-air-dusters",
+      "desc": "Whether you're a PC builder or a hobbyist with a 3D printer, you'll need tools to build, clean, repa...",
+      "img": "https://cdn.mos.cms.futurecdn.net/FSp9tWj3BREGgiDNZx5CAM-1920-80.png"
+    },
+    {
+      "title": "Nvidia engineer leaves company over lack of transparency around Jensen Huang’s exit, details decision",
+      "link": "https://www.tomshardware.com/tech-industry/robotics-engineer-leaves-nvidia-over-lack-of-transparency-around-jensen-huangs-exit-details-decision-joins-chorus-of-disgruntled-staff-as-petition-to-reinstate-former-ceo-passes-150-000-signatures",
+      "desc": "Dai's post shows how much Nvidia employees looked up to the former CEO.",
+      "img": "https://cdn.mos.cms.futurecdn.net/V58pCYCTU9ChhLRLiLHMe5-1920-80.jpg"
+    },
+    {
+      "title": "Cockpit-Simulator 737X CDU (v2) Review: An Essential Component for Flight Sim Enthusiasts",
+      "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/cockpit-simulator-737x-cdu-v2-review-an-essential-component-for-flight-sim-enthusiasts",
+      "desc": "The CS 737X CDU (v2) by Cockpit-Simulator is a plug-and-play, 1:1 replica of a Boeing 737 Control Di...",
+      "img": "https://cdn.mos.cms.futurecdn.net/jRejPtkqej7rnRWfn2XWgH-1920-80.jpg"
+    },
     {
       "title": "Nvidia RTX 5090 stock returns to Newegg with 21 models",
       "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-5090-stock-returns-to-newegg-with-21-models-but-scarcity-pricing-keeps-the-cheapest-air-cooled-cards-at-least-three-times-msrp",
@@ -93,24 +111,6 @@
       "link": "https://www.tomshardware.com/pc-components/cpus/357-detailed-cpu-die-shots-spanning-1971-to-2024-crammed-into-a-new-gallery-motorola-68000-intel-486dx2-amd-athlon-xp-apple-m1-and-many-more-in-beautiful-detail",
       "desc": "A CPU enthusiast has put together an eye-popping visual database containing crystal clear detailed d...",
       "img": "https://cdn.mos.cms.futurecdn.net/HPnMtb7oLbF3AwF8u3rXDU-1920-80.jpg"
-    },
-    {
-      "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/microsoft-365-outage-leads-to-chlorine-gas-poisoning-of-15-hotel-guests-email-warning-system-fails-40-first-responders-deployed-for-triage-four-hospitalized",
-      "desc": "The 'maintenance safety system' relied on Microsoft Outlook to send warning messages to the operator...",
-      "img": "https://cdn.mos.cms.futurecdn.net/LVU3kxMU42xw93Lbc2p2Wc-1920-80.jpg"
-    },
-    {
-      "title": "Judge denies motion to dismiss DRAM price-fixing lawsuit against Micron, Samsung, and SK hynix, finds evidence of DRAM collusion plausible after 500% price surge",
-      "link": "https://www.tomshardware.com/tech-industry/big-tech/judge-denies-motion-to-dismiss-dram-price-fixing-lawsuit-against-micron-samsung-and-sk-hynix-says-chipmakers-acted-like-hawks-flying-in-formation-finds-evidence-of-dram-collusion-plausible-after-500-percent-price-surge",
-      "desc": "The judge characterized the three companies as \"hawks flying in formation\" when it came to their bus...",
-      "img": "https://cdn.mos.cms.futurecdn.net/vnqdtRupVqWHAik43ZWctH-1920-80.jpg"
-    },
-    {
-      "title": "3D printing dev’s free tool unlocks curved printing along all three axes",
-      "link": "https://www.tomshardware.com/3d-printing/3d-printing-developer-creates-self-hostable-non-planar-printing-slicer-pancakeslicer-makes-non-planar-3d-printing-accessible-potentially-leading-to-rapid-community-development",
-      "desc": "PancakeSlicer is a self-hostable non-planar 3D printing slicer that might finally make non-planar sl...",
-      "img": "https://cdn.mos.cms.futurecdn.net/SD4QE3FpnQwctLP45wf3y5-1920-80.jpg"
     }
   ],
   "crypto": [
@@ -153,40 +153,40 @@
   ],
   "various": [
     {
-      "title": "Disney Wants You to Know ‘VisionQuest’ Ended As a Success",
-      "link": "https://gizmodo.com/disney-wants-you-to-know-visionquest-ended-as-a-success-2000840104",
-      "desc": "The 'VisionQuest' finale gave Marvel TV its biggest win in years and even paid it forward to 'Avenge...",
-      "img": "https://gizmodo.com/app/uploads/2026/11/visionquest-107-vision-ultron-1280x853.jpg"
+      "title": "Staggered age of consent to be discussed after Brand case, minister says",
+      "link": "https://www.bbc.co.uk/news/articles/cwdr1dmn563do?at_medium=RSS&at_campaign=rss",
+      "desc": "A woman who alleges she was raped by the jailed comedian when she was 16 is campaigning to see relat...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/786b/live/57899d60-e0f2-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "title": "Roborock Saros 20 Flow Review: Hope You Like Spending Money",
-      "link": "https://gizmodo.com/roborock-saros-20-flow-review-2000834018",
-      "desc": "The Saros 20 Flow is one of the best all-around floor-bots out there, but it’s just not worth the co...",
-      "img": "https://gizmodo.com/app/uploads/2026/11/Roborock-Saros-20-Flow-top-1280x853.jpg"
+      "title": "Man and woman die and four arrested after police pursuit crash in Leeds",
+      "link": "https://www.bbc.co.uk/news/articles/cm3eg8x9zkvno?at_medium=RSS&at_campaign=rss",
+      "desc": "Four people have been arrested on suspicion of causing death by dangerous driving, police say.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c47/live/464f7b70-e0e6-11f1-a701-fddedf244c16.png"
     },
     {
-      "title": "The Terms of Cybercab Ownership Don’t Add Up, Musk Admits",
-      "link": "https://gizmodo.com/the-terms-of-cybercab-ownership-dont-add-up-musk-admits-2000840094",
-      "desc": "Tesla's monthly fee, geofencing requirements, and other limitations, are all pretty deflating.",
-      "img": "https://gizmodo.com/app/uploads/2025/12/cybercab-1280x960.jpg"
+      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+      "desc": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bb5/live/938b6e20-e114-11f1-a7db-d90284d21c62.jpg"
     },
     {
-      "title": "Marvel Comics Is Letting Angela Fly Once Again",
-      "link": "https://gizmodo.com/marvel-comics-is-letting-angela-fly-once-again-2000839963",
-      "desc": "As part Marvel's new creative relaunch, the fan-favorite Queen of Hel gets to headline a new superna...",
-      "img": "https://gizmodo.com/app/uploads/2026/11/marvel-angela-hed-1280x853.jpg"
+      "title": "Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns",
+      "link": "https://www.bbc.co.uk/news/articles/c6jd7k7g57x5o?at_medium=RSS&at_campaign=rss",
+      "desc": "Warren Arter faced claims of sexually exploiting crime victims - his wife was found in a blood-stain...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de9b/live/b551c6d0-e010-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "title": "Transportation Secretary Gestures Vaguely at Copper Wiring to Explain Flight Grounding",
-      "link": "https://gizmodo.com/transportation-secretary-gestures-vaguely-at-copper-wiring-to-explain-flight-grounding-2000840089",
-      "desc": "Apparently the longest flight grounding since 9/11 had something to do with the switch from copper t...",
-      "img": "https://gizmodo.com/app/uploads/2026/11/sean-duffy-transportation-secretary-1280x853.jpg"
+      "title": "Minister backs legal right to job support for young people",
+      "link": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
+      "desc": "The work and pensions secretary said the level of support currently on offer was too vague.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e89/live/00849640-e0f3-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "title": "The Love for ‘Wildwood’ Keeps on Growing",
-      "link": "https://gizmodo.com/the-love-for-wildwood-keeps-on-growing-2000839863",
-      "desc": "High praise and Laika's stop-motion history are helping 'Wildwood' stay strong as the holiday movie ...",
-      "img": "https://gizmodo.com/app/uploads/2025/10/wildwood-hed-1280x853.jpg"
+      "title": "Pope Leo rides in helicopter cockpit during Peru trip",
+      "link": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
+      "desc": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc34/live/e2a8fc70-e11e-11f1-b441-2b33b063138f.jpg"
     }
   ]
 }
