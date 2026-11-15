@@ -1,6 +1,12 @@
 {
   "games": [
     {
+      "title": "GTA 6 Is Like The Olympics – “A Rare Cultural Moment” With Massive Ripple Effects",
+      "link": "https://www.gamespot.com/articles/gta-6-is-like-the-olympics-a-rare-cultural-moment-with-massive-ripple-effects/",
+      "desc": "After years of development, multiple delays, and what can only be assumed to be one of the biggest p...",
+      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/Jason_and_Lucia_17_338c4e.jpg?w=300"
+    },
+    {
       "title": "“Physical” GTA 6 Copies Might Be Vulnerable To A Very Stupid But Serious Trick",
       "link": "https://www.gamespot.com/articles/physical-gta-6-copies-might-be-vulnerable-to-a-very-stupid-but-serious-trick/",
       "desc": "Grand Theft Auto 6 ditched traditional discs for its \"physical\" launch, with Rockstar's game being s...",
@@ -29,12 +35,6 @@
       "link": "https://www.gamespot.com/articles/official-zelda-website-raises-eyebrows-by-labeling-3ds-game-as-playable-on-switch/",
       "desc": "Nintendo is celebrating The Legend of Zelda's 40th anniversary in many different ways, but one detai...",
       "img": "https://www.gamespot.com/wp-content/uploads/2026/11/Nintendo-3DS-and-2DS-The-Legend-of-Zelda_-A-Link-Between-Worlds-Trailer-0-1-48.jpeg?w=300"
-    },
-    {
-      "title": "GTA 6 And These Other Games Can Justify An $80 Price, Expert Says",
-      "link": "https://www.gamespot.com/articles/gta-6-and-these-other-games-can-justify-an-80-price-expert-says/",
-      "desc": "Rockstar's Grand Theft Auto 6 finally releases on November 19, and you'll have to pay at least $80 f...",
-      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/Vice_City_03.jpg?w=300"
     }
   ],
   "movies": [
@@ -115,6 +115,18 @@
   ],
   "crypto": [
     {
+      "title": "Coinone warns of phishing, identity theft after customer data breach",
+      "link": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The South Korean crypto exchange said potentially exposed information includes passwords, bank accou...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7F3YVA7631KKAGKFRGDJWMH/coinone.png"
+    },
+    {
+      "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
+      "link": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The stUSDT team did not disclose a reason for winding down the RWA protocol but assured holders that...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4STR9GPNQXV18RZ1XBHZJV9/hi-coinflares-exit-and-the-future-of-cloud-mining-3.jpg"
+    },
+    {
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impac...",
@@ -137,32 +149,14 @@
       "link": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "US spot Bitcoin ETFs recorded $185.4 million in net outflows Friday, with BlackRock’s IBIT accountin...",
       "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FQAANP3H5Z0XYV77PNYB10/hi-will-the-blockchain-stop-leaks-of-crypto.jpg"
-    },
-    {
-      "title": "OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex",
-      "link": "https://cointelegraph.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "OpenAI’s new payment wallet lets AI agents complete purchases using existing card networks, with pla...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7BD90N5TZ75ZZMC6V10AW2D/hi-what-is-elon-musk-and-openai.png"
-    },
-    {
-      "title": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system",
-      "link": "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Blockstream’s new custody system, developed with Thales, uses dedicated hardware for transaction sig...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7BCCR5CYZHHWDA4BH24H4DA/portraitadam-back.png"
     }
   ],
   "various": [
     {
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-      "desc": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc82/live/f8afbeb0-e087-11f1-b780-31cc9daf154a.jpg"
-    },
-    {
-      "title": "Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight",
-      "link": "https://www.bbc.co.uk/news/articles/cmg46qgkl7r4o?at_medium=RSS&at_campaign=rss",
-      "desc": "Milburn is not the first to try and fix the Neets problem - so what’s different this time round, ask...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51fc/live/6c07bc50-df75-11f1-a701-fddedf244c16.jpg"
+      "title": "Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns",
+      "link": "https://www.bbc.co.uk/news/articles/c6jd7k7g57x5o?at_medium=RSS&at_campaign=rss",
+      "desc": "Warren Arter faced claims of sexually exploiting crime victims - his wife was found in a blood-stain...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de9b/live/b551c6d0-e010-11f1-a701-fddedf244c16.jpg"
     },
     {
       "title": "Alleged Russell Brand rape victim wants age of consent law changed",
@@ -171,22 +165,28 @@
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a7f/live/9f8b6970-dcf8-11f1-9ef0-4b5930e2f80e.jpg"
     },
     {
-      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+      "title": "Watch: SpaceX catches part of its Starship rocket on return to Earth",
       "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
       "desc": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aeb5/live/e1baf430-e074-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-      "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-      "desc": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equ...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea11/live/3adfb390-e05f-11f1-9e26-b3b65586122f.jpg"
+      "title": "Man and woman die in police pursuit crash",
+      "link": "https://www.bbc.co.uk/news/articles/cm3eg8x9zkvno?at_medium=RSS&at_campaign=rss",
+      "desc": "Four people have been arrested on suspicion of causing death by dangerous driving, police say.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5736/live/0b3ce7d0-6a43-11f1-9742-4f68b41a569d.png"
     },
     {
-      "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
-      "link": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
-      "desc": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision w...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6592/live/907a90a0-e090-11f1-a701-fddedf244c16.jpg"
+      "title": "Hannah Fry feels 'unbelievably lucky' after cervical cancer treatment",
+      "link": "https://www.bbc.co.uk/news/articles/cw62p4n3n1xyo?at_medium=RSS&at_campaign=rss",
+      "desc": "The presenter says she has received a 'five-year clear' after having a hysterectomy in her thirties.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36ca/live/a5a42090-e06d-11f1-99e6-531f8829f5a3.jpg"
+    },
+    {
+      "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+      "desc": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c19/live/fcdf6660-e0ce-11f1-a701-fddedf244c16.jpg"
     }
   ]
 }
