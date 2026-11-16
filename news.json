@@ -115,22 +115,10 @@
   ],
   "crypto": [
     {
-      "title": "Jensen Huang weighs Nvidia comeback days after shock exit: FT",
-      "link": "https://cointelegraph.com/news/jensen-huang-weighs-nvidia-comeback-days-after-shock-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Silicon Valley executives are reportedly organizing a campaign to bring Huang back and are looking t...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7GS2G61SYB3FQX1TYFRT8TR/nvidia-knock.jpg"
-    },
-    {
-      "title": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest",
-      "link": "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Anchorage Digital data suggests the Bitcoin selloff is being driven by US investors. A “war room” ha...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7GHDR0B3KQVHBYYPZ3528NV/jensen-in-flames.png"
-    },
-    {
-      "title": "Enterprise blockchain is going to come back from the dead",
-      "link": "https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "With scalability, privacy tools and onchain liquidity improving, businesses may finally have the inf...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ZMF6J25WASD4RQJDF0BRKT/hi-if-blockchain-is-the-door-to-the-future-of-finance-liquidity-is-the-key.jpg"
+      "title": "Harvard, Dartmouth keep Bitcoin ETF stakes steady as fund gains 42% in Q3",
+      "link": "https://cointelegraph.com/news/harvard-dartmouth-bitcoin-etf-ibit-up-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Harvard’s gold ETF share count rose nearly 20-fold in Q3, while Dartmouth kept its positions in Sola...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7HJNRJ2VQQN7Q5P88574B90/studentbitcoin-etfwoman.jpg"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -139,54 +127,66 @@
       "img": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
     },
     {
-      "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
-      "link": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7FBMZXNH6CNG3W9M8RNBHCN/hi-meet-the-trader-who-lost-bitcoin-bear-market.jpg"
+      "title": "Aster CEO suspects foul play after token plunges 32% in minutes",
+      "link": "https://cointelegraph.com/markets/aster-ceo-suspects-foul-play-after-token-plunges-32-in-minutes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Aster’s CEO attributed the extreme volatility to highly leveraged liquidations but said the exchange...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7HCTKP0DY9SJ6Z1XG7SGW4T/aquapark-falling-market-red.jpg"
     },
     {
-      "title": "Coinone warns of phishing, identity theft after customer data breach",
-      "link": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The South Korean crypto exchange said potentially exposed information includes passwords, bank accou...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7F3YVA7631KKAGKFRGDJWMH/coinone.png"
+      "title": "Asian chip stocks tumble ahead of Nvidia Q3 earnings",
+      "link": "https://cointelegraph.com/markets/asian-chip-stocks-tumble-ahead-of-nvidia-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The weakness came amid a wider sell-off in regional equity markets, with Japan’s Nikkei 225 down 2% ...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7HAG95YKRDAYZ26YFMBK4VQ/stocks-1.jpg"
+    },
+    {
+      "title": "Luxor CEO warns of AI ‘dark forest’ following Bitcoin miner hijack",
+      "link": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Attackers redirected customers’ Bitcoin mining power through Luxor’s Commander platform over the wee...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1JT29BT8ARQ99J5C2455XSJ/hi-ai-is-now-paying-bitcoin-miners-more-than-mining-1.jpg"
+    },
+    {
+      "title": "Jensen Huang weighs Nvidia comeback days after shock exit: FT",
+      "link": "https://cointelegraph.com/news/jensen-huang-weighs-nvidia-comeback-days-after-shock-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Silicon Valley executives are reportedly organizing a campaign to bring Huang back and are looking t...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7GS2G61SYB3FQX1TYFRT8TR/nvidia-knock.jpg"
     }
   ],
   "various": [
     {
-      "title": "‘Avengers: Doomsday’ Will Make the X-Men Worth It",
-      "link": "https://gizmodo.com/avengers-doomsday-will-make-the-x-men-worth-it-2000840107",
-      "desc": "Kevin Feige and the X-Men actors want you to know this last go with the Fox crew will do them right ...",
-      "img": "https://gizmodo.com/app/uploads/2026/01/avengers-doomsday-cyclops-1280x853.jpg"
+      "title": "Cut National Insurance for under-25s to create jobs, Milburn report to say",
+      "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+      "desc": "The report being launched this week will suggest gradually reducing employment costs over five years...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69ea/live/b856ca50-e18d-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-      "title": "‘Neuromancer’ Wants to Be More Than the Book’s Legacy",
-      "link": "https://gizmodo.com/neuromancer-wants-to-be-more-than-the-books-legacy-2000840181",
-      "desc": "Showrunners JD Dillard and Graham Roland talk about working with WIlliam GIbson and keeping 'Neuroma...",
-      "img": "https://gizmodo.com/app/uploads/2026/11/neuromancer-appletv-hed-1280x853.jpg"
+      "title": "UK lost more than it gained from Brexit, Burnham to say ahead of EU summit",
+      "link": "https://www.bbc.co.uk/news/articles/crp3e1n5kezpo?at_medium=RSS&at_campaign=rss",
+      "desc": "The prime minister will say the \"Brexit we were given has not worked\" in a speech on Monday.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/832a/live/0baf51f0-e192-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-      "title": "There’s a Burgeoning ‘Stand With Jensen’ Movement",
-      "link": "https://gizmodo.com/theres-a-burgeoning-stand-with-jensen-movement-2000840178",
-      "desc": "Some are expressing support in emotional terms. To others it's just a matter of dollars and cents.",
-      "img": "https://gizmodo.com/app/uploads/2025/08/jensen-huang-july-23-2025-1280x853.jpg"
+      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+      "desc": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a51/live/78372760-e180-11f1-9386-1b849272ca8f.jpg"
     },
     {
-      "title": "Oh, *Now* ‘Blade Runner’ Could Get a Major Video Game",
-      "link": "https://gizmodo.com/oh-now-blade-runner-could-get-a-major-video-game-2000840102",
-      "desc": "Alcon wants to expand 'Blade Runner' any way it can—does that mean can it get things together to mak...",
-      "img": "https://gizmodo.com/app/uploads/2026/11/Blade_Runner_2099_Hunter_Schafer_Michelle_Yeoh-1280x853.jpg"
+      "title": "Yellow weather warnings issued for snow and ice as temperatures plummet",
+      "link": "https://www.bbc.co.uk/weather/articles/c6y97j2xq531o?at_medium=RSS&at_campaign=rss",
+      "desc": "A spell of colder, wintry weather will grip some northern parts of the UK, bringing a threat of ice ...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f1b/live/2225a470-e133-11f1-a204-d95dd4dbb76b.png"
     },
     {
-      "title": "Disney Wants You to Know ‘VisionQuest’ Ended As a Success",
-      "link": "https://gizmodo.com/disney-wants-you-to-know-visionquest-ended-as-a-success-2000840104",
-      "desc": "The 'VisionQuest' finale gave Marvel TV its biggest win in years and even paid it forward to 'Avenge...",
-      "img": "https://gizmodo.com/app/uploads/2026/11/visionquest-107-vision-ultron-1280x853.jpg"
+      "title": "60 minutes of perfection, 30 minutes of chaos - an England win for the ages",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c933ge310n33o?at_medium=RSS&at_campaign=rss",
+      "desc": "England's stunning win in Spain had everything - and was their best under Thomas Tuchel, writes Phil...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b361/live/48cfe320-e146-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-      "title": "Roborock Saros 20 Flow Review: Hope You Like Spending Money",
-      "link": "https://gizmodo.com/roborock-saros-20-flow-review-2000834018",
-      "desc": "The Saros 20 Flow is one of the best all-around floor-bots out there, but it’s just not worth the co...",
-      "img": "https://gizmodo.com/app/uploads/2026/11/Roborock-Saros-20-Flow-top-1280x853.jpg"
+      "title": "Prince and Princess of Wales arrive in India ahead of meeting with Modi",
+      "link": "https://www.bbc.co.uk/news/articles/c5lyk0e3n1jxo?at_medium=RSS&at_campaign=rss",
+      "desc": "Most of the engagements the royal couple will attend are related to the Earthshot Prize, which Princ...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f44/live/ad955780-e18d-11f1-952d-674f3722bb9f.jpg"
     }
   ]
 }
