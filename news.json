@@ -39,6 +39,30 @@
   ],
   "movies": [
     {
+      "title": "I Just Learned There’s A Project Hail Mary Video Game, And Rocky’s Role Sounds ‘Amaze’",
+      "link": "https://www.cinemablend.com/movies/just-learned-about-project-hail-mary-video-game-rocky-role-amaze",
+      "desc": "Fans are really going to want to try this out.",
+      "img": "https://cdn.mos.cms.futurecdn.net/5vgVogE9ErBYPSArHJq5ik-1920-80.jpg"
+    },
+    {
+      "title": "Ebenezer Ending: Sam Claflin On What It Meant To Have Johnny Depp’s Ebenezer Say ‘Merry Christmas’",
+      "link": "https://www.cinemablend.com/movies/ebenezer-ending-sam-claflin-meant-johnny-depp-ebenezer-merry-christmas",
+      "desc": "It's way better than Bah Humbug.",
+      "img": "https://cdn.mos.cms.futurecdn.net/Uk4MvytqMLUnpQN6xvkohP-1920-80.jpg"
+    },
+    {
+      "title": "What ‘Brad's Friends’ Think About What Happened To His Family After Split With Angelina Jolie",
+      "link": "https://www.cinemablend.com/movies/what-brad-pitt-friends-think-about-family-drama-angelina-jolie-split",
+      "desc": "Pitt's friends allegedly weigh in amid the drama.",
+      "img": "https://cdn.mos.cms.futurecdn.net/D3WLThcHeBF62iuhJJjZe-1920-80.jpg"
+    },
+    {
+      "title": "Dustin Hoffman Tried To 'Fire Himself' From Rain Man, But A Tom Cruise Scene Changed His Mind",
+      "link": "https://www.cinemablend.com/movies/dustin-hoffman-tried-fire-himself-from-rain-man-tom-cruise-scene-changed-mind",
+      "desc": "An Oscar-winning role that almost didn’t happen",
+      "img": "https://cdn.mos.cms.futurecdn.net/eGpDBzWosWNR7hYD4vWnqj-1920-80.jpg"
+    },
+    {
       "title": "Jessica Chastain Finally Dressed As Jessica Rabbit (And I’m Surprised It’s Happening After Halloween)",
       "link": "https://www.cinemablend.com/movies/jessica-chastain-finally-wore-jessica-rabbit-costume-after-halloween",
       "desc": "This really has been a long time coming.",
@@ -49,30 +73,6 @@
       "link": "https://www.cinemablend.com/streaming-news/some-mary-kate-and-ashley-olsen-movies-streaming-hoping-another-film-added",
       "desc": "Brb, I'm gonna make popcorn!",
       "img": "https://cdn.mos.cms.futurecdn.net/VELCbNpXqrSGzN9mNVvKo7-1920-80.png"
-    },
-    {
-      "title": "People Said Daniel Radcliffe Was ‘F--ked’ After Harry Potter. How He Succeeded Anyway",
-      "link": "https://www.cinemablend.com/movies/people-said-daniel-radcliffe-would-struggle-after-harry-potter-how-he-succeeded",
-      "desc": "The boy who really lived.",
-      "img": "https://cdn.mos.cms.futurecdn.net/ZSQx72xQH2UQamVbkubziR-1920-80.jpg"
-    },
-    {
-      "title": "Oprah Just Found Out People NOT Named Tom Cruise Can Actually Order The Tom Cruise Christmas Cake",
-      "link": "https://www.cinemablend.com/movies/oprah-winfrey-found-out-people-can-order-tom-cruise-christmas-cake",
-      "desc": "My mouth is already watering!",
-      "img": "https://cdn.mos.cms.futurecdn.net/H8kG6mg6sCQPtTWZE8wfsX-1920-80.jpg"
-    },
-    {
-      "title": "Johnny Depp Earned His First Box Office Win In 8 Years, But Does That Mean He’s Back?",
-      "link": "https://www.cinemablend.com/movies/johnny-depp-box-office-ebenezer-career-back",
-      "desc": "Let's talk about Depp's career.",
-      "img": "https://cdn.mos.cms.futurecdn.net/XZovMeGey5ZWcYZtbMYsi4-1920-80.jpg"
-    },
-    {
-      "title": "I Rewatched Jackie Chan's Rumble In The Bronx And We Forget Why This Is Such A Gem",
-      "link": "https://www.cinemablend.com/movies/rewatched-jackie-chan-rumble-in-the-bronx-we-forget-why-this-such-gem",
-      "desc": "\"Come on, Jackie Chan.Uh uh uh uh uh oh!\"",
-      "img": "https://cdn.mos.cms.futurecdn.net/oceJsXjP9vQrxgR2WpD9q3-1920-80.jpg"
     }
   ],
   "tech": [
@@ -115,6 +115,18 @@
   ],
   "crypto": [
     {
+      "title": "Jensen Huang weighs Nvidia comeback days after shock exit: FT",
+      "link": "https://cointelegraph.com/news/jensen-huang-weighs-nvidia-comeback-days-after-shock-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Silicon Valley executives are reportedly organizing a campaign to bring Huang back and are looking t...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7GS2G61SYB3FQX1TYFRT8TR/nvidia-knock.jpg"
+    },
+    {
+      "title": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Anchorage Digital data suggests the Bitcoin selloff is being driven by US investors. A “war room” ha...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7GHDR0B3KQVHBYYPZ3528NV/jensen-in-flames.png"
+    },
+    {
       "title": "Enterprise blockchain is going to come back from the dead",
       "link": "https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "With scalability, privacy tools and onchain liquidity improving, businesses may finally have the inf...",
@@ -137,56 +149,44 @@
       "link": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The South Korean crypto exchange said potentially exposed information includes passwords, bank accou...",
       "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7F3YVA7631KKAGKFRGDJWMH/coinone.png"
-    },
-    {
-      "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
-      "link": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The stUSDT team did not disclose a reason for winding down the RWA protocol but assured holders that...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4STR9GPNQXV18RZ1XBHZJV9/hi-coinflares-exit-and-the-future-of-cloud-mining-3.jpg"
-    },
-    {
-      "title": "Microsoft confirms global outage resolved, rules out cyberattack",
-      "link": "https://cointelegraph.com/news/microsoft-365-outage-resolved-cyberattack-ruled-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Microsoft attributed the outage to a network capacity upgrade issue, confirming that the disruption ...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6X8JFEEG972QNHB7E2TQ63J/hi-the-rise-of-major-institutions-is-inevitable-microsoft.jpg"
     }
   ],
   "various": [
     {
-      "title": "Staggered age of consent to be discussed after Brand case, minister says",
-      "link": "https://www.bbc.co.uk/news/articles/cwdr1dmn563do?at_medium=RSS&at_campaign=rss",
-      "desc": "A woman who alleges she was raped by the jailed comedian when she was 16 is campaigning to see relat...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/786b/live/57899d60-e0f2-11f1-a701-fddedf244c16.jpg"
+      "title": "‘Avengers: Doomsday’ Will Make the X-Men Worth It",
+      "link": "https://gizmodo.com/avengers-doomsday-will-make-the-x-men-worth-it-2000840107",
+      "desc": "Kevin Feige and the X-Men actors want you to know this last go with the Fox crew will do them right ...",
+      "img": "https://gizmodo.com/app/uploads/2026/01/avengers-doomsday-cyclops-1280x853.jpg"
     },
     {
-      "title": "Man and woman die and four arrested after police pursuit crash in Leeds",
-      "link": "https://www.bbc.co.uk/news/articles/cm3eg8x9zkvno?at_medium=RSS&at_campaign=rss",
-      "desc": "Four people have been arrested on suspicion of causing death by dangerous driving, police say.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c47/live/464f7b70-e0e6-11f1-a701-fddedf244c16.png"
+      "title": "‘Neuromancer’ Wants to Be More Than the Book’s Legacy",
+      "link": "https://gizmodo.com/neuromancer-wants-to-be-more-than-the-books-legacy-2000840181",
+      "desc": "Showrunners JD Dillard and Graham Roland talk about working with WIlliam GIbson and keeping 'Neuroma...",
+      "img": "https://gizmodo.com/app/uploads/2026/11/neuromancer-appletv-hed-1280x853.jpg"
     },
     {
-      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-      "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
-      "desc": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bb5/live/938b6e20-e114-11f1-a7db-d90284d21c62.jpg"
+      "title": "There’s a Burgeoning ‘Stand With Jensen’ Movement",
+      "link": "https://gizmodo.com/theres-a-burgeoning-stand-with-jensen-movement-2000840178",
+      "desc": "Some are expressing support in emotional terms. To others it's just a matter of dollars and cents.",
+      "img": "https://gizmodo.com/app/uploads/2025/08/jensen-huang-july-23-2025-1280x853.jpg"
     },
     {
-      "title": "Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns",
-      "link": "https://www.bbc.co.uk/news/articles/c6jd7k7g57x5o?at_medium=RSS&at_campaign=rss",
-      "desc": "Warren Arter faced claims of sexually exploiting crime victims - his wife was found in a blood-stain...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de9b/live/b551c6d0-e010-11f1-a701-fddedf244c16.jpg"
+      "title": "Oh, *Now* ‘Blade Runner’ Could Get a Major Video Game",
+      "link": "https://gizmodo.com/oh-now-blade-runner-could-get-a-major-video-game-2000840102",
+      "desc": "Alcon wants to expand 'Blade Runner' any way it can—does that mean can it get things together to mak...",
+      "img": "https://gizmodo.com/app/uploads/2026/11/Blade_Runner_2099_Hunter_Schafer_Michelle_Yeoh-1280x853.jpg"
     },
     {
-      "title": "Minister backs legal right to job support for young people",
-      "link": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
-      "desc": "The work and pensions secretary said the level of support currently on offer was too vague.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e89/live/00849640-e0f3-11f1-a701-fddedf244c16.jpg"
+      "title": "Disney Wants You to Know ‘VisionQuest’ Ended As a Success",
+      "link": "https://gizmodo.com/disney-wants-you-to-know-visionquest-ended-as-a-success-2000840104",
+      "desc": "The 'VisionQuest' finale gave Marvel TV its biggest win in years and even paid it forward to 'Avenge...",
+      "img": "https://gizmodo.com/app/uploads/2026/11/visionquest-107-vision-ultron-1280x853.jpg"
     },
     {
-      "title": "Pope Leo rides in helicopter cockpit during Peru trip",
-      "link": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
-      "desc": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc34/live/e2a8fc70-e11e-11f1-b441-2b33b063138f.jpg"
+      "title": "Roborock Saros 20 Flow Review: Hope You Like Spending Money",
+      "link": "https://gizmodo.com/roborock-saros-20-flow-review-2000834018",
+      "desc": "The Saros 20 Flow is one of the best all-around floor-bots out there, but it’s just not worth the co...",
+      "img": "https://gizmodo.com/app/uploads/2026/11/Roborock-Saros-20-Flow-top-1280x853.jpg"
     }
   ]
 }
