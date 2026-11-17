@@ -1,6 +1,24 @@
 {
   "games": [
     {
+      "title": "Delete GTA 6 For A Chance To Win Another Game",
+      "link": "https://www.gamespot.com/articles/delete-gta-6-for-a-chance-to-win-another-game/",
+      "desc": "Rockstar's Grand Theft Auto 6 finally releases this week. The game looms so large that other compani...",
+      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/Jason_and_Lucia_02_4d89cc.jpg?w=300"
+    },
+    {
+      "title": "The Head Of GTA 6’s Parent Company Helped Make One Of The Best Christmas Movies Of All Time",
+      "link": "https://www.gamespot.com/articles/the-head-of-gta-6s-parent-company-helped-make-one-of-the-best-christmas-movies-of-all-time/",
+      "desc": "One of the most memorable and beloved Christmas movies is 1990's Home Alone, but it almost didn't ha...",
+      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/homealone-Large.jpeg?w=300"
+    },
+    {
+      "title": "WoW: Forever’s Dungeons Have Gotten Yet Another Big Change",
+      "link": "https://www.gamespot.com/articles/wow-forevers-dungeons-have-gotten-yet-another-big-change/",
+      "desc": "World of Warcraft: Forever's dungeons have changed once again, with developer Blizzard's most recent...",
+      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/WoW-Forever-Dungeon-Changes.jpg?w=300"
+    },
+    {
       "title": "GTA 6 Should Help Boost PS5 And Xbox Sales, But Their Astronomical Prices Could Hurt",
       "link": "https://www.gamespot.com/articles/gta-6-should-help-boost-ps5-and-xbox-sales-but-their-astronomical-prices-could-hurt/",
       "desc": "Rockstar's Grand Theft Auto 6 launches on November 19, and it's expected to help boost console sales...",
@@ -17,27 +35,33 @@
       "link": "https://www.gamespot.com/articles/rockstar-could-have-released-gta-6-sooner-as-gta-5-5-but-you-have-to-take-big-swings/",
       "desc": "After years of development, multiple delays, and loads of hype, Rockstar Games is finally releasing ...",
       "img": "https://www.gamespot.com/wp-content/uploads/2026/11/Vice_City_13_3d2957.jpg?w=300"
-    },
-    {
-      "title": "NBA 2K27’s GTA 6 Crossover Includes A Whole GTA-Inspired Limited Edition Of The Game",
-      "link": "https://www.gamespot.com/articles/nba-2k27-gta-6-crossover-includes-a-whole-gta-inspired-limited-edition-of-the-game/",
-      "desc": "Ahead of the GTA 6 release this week, publisher Take-Two Interactive and 2K Sports have announced an...",
-      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/NBA-2K27-Bam.jpg?w=300"
-    },
-    {
-      "title": "Shooting Suspect In Custody After Opening Fire Near Xbox Dev’s Studio",
-      "link": "https://www.gamespot.com/articles/shooting-suspect-in-custody-after-opening-fire-near-xbox-devs-studio/",
-      "desc": "A drive-by shooting in Southern California ended with no injuries and an arrest after the gunman rep...",
-      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/cwr-image.jpg?w=300"
-    },
-    {
-      "title": "Xbox Game Pass Gets Even More Games In November",
-      "link": "https://www.gamespot.com/articles/xbox-game-pass-gets-even-more-games-in-november/",
-      "desc": "The second half of November is usually quiet for several reasons when it comes to new game releases–...",
-      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/Paw-Patrol-Dino-World.jpg?w=300"
     }
   ],
   "movies": [
+    {
+      "title": "Johnny Depp Didn’t Just Leave Hollywood. He Left The US",
+      "link": "https://www.cinemablend.com/movies/johnny-depp-talks-about-leaving-hollywood-and-us-bahamas",
+      "desc": "Jack Sparrow isn't the only one who appreciates a private island.",
+      "img": "https://cdn.mos.cms.futurecdn.net/W8oehA8c65cFynapRYTgqJ-1920-80.jpg"
+    },
+    {
+      "title": "Jennifer Lawrence Dropped A Throwback Post With The Hunger Games’ Peeta And Gale (And Her Caption Is A+)",
+      "link": "https://www.cinemablend.com/movies/jennifer-lawrence-throwback-post-hunger-games-josh-hutcherson-liam-hemsworth-funny-caption",
+      "desc": "The actress is taking her fans back in time.",
+      "img": "https://cdn.mos.cms.futurecdn.net/eegvmyS4EUn9aJFsh2JZqj-1920-80.jpg"
+    },
+    {
+      "title": "Should Spider-Man: Brand New Day Get An Oscar Nom For Best Picture? A Sony Exec Makes The Case",
+      "link": "https://www.cinemablend.com/movies/should-spider-man-brand-new-day-get-an-oscar-nom-for-best-picture-a-sony-exec-makes-the-case",
+      "desc": "Conquering the box office may have only been the beginning.",
+      "img": "https://cdn.mos.cms.futurecdn.net/LkuivUFG36D8EVdEGYGfY5-1920-80.jpg"
+    },
+    {
+      "title": "Off Campus' Stephen Kalyn Admitted He Trolled Timothèe Chalamet HARD At The Beginning Of His Career",
+      "link": "https://www.cinemablend.com/streaming-news/off-campus-stephen-kalyn-admitted-he-trolled-timothee-chalamet-hard",
+      "desc": "You gotta admire his honesty.",
+      "img": "https://cdn.mos.cms.futurecdn.net/eYhGQ9fdaoPzPNvyMnPDAG-1920-80.jpg"
+    },
     {
       "title": "Now That We Know Who Is Playing James Bond, Who Could Be The Next Bond Girl?",
       "link": "https://www.cinemablend.com/movies/now-that-we-know-who-playing-james-bond-who-could-be-next-bond-girl-margaret-qualley-sydney-sweeney",
@@ -49,100 +73,76 @@
       "link": "https://www.cinemablend.com/movies/divorce-big-part-jlos-story-i-love-how-well-she-took-fan-joke-about-it",
       "desc": "JLo has heard comments about her love life for years.",
       "img": "https://cdn.mos.cms.futurecdn.net/GiPVS9w8ztAX22r9hYX9xg-1920-80.jpg"
-    },
-    {
-      "title": "I'm Glad Even Chris Pratt Is Talking Guardians Of The Galaxy Now James Gunn's Schedule Is Wide Open",
-      "link": "https://www.cinemablend.com/movies/im-glad-even-chris-pratt-talking-guardians-of-the-galaxy-james-gunns-schedule-open",
-      "desc": "Somebody check if Feige still has James Gunn's number.",
-      "img": "https://cdn.mos.cms.futurecdn.net/BNbpC7E3bqqkyaMjmyH4Bf-1920-80.jpg"
-    },
-    {
-      "title": "Fans Have BIG Reactions To Robert Pattinson Becoming The New Bond (And Pass The Popcorn)",
-      "link": "https://www.cinemablend.com/movies/fans-have-big-reactions-robert-pattinson-becoming-new-bond-007",
-      "desc": "Denis Villeneuve's Bond was finally revealed, and fans have thoughts.",
-      "img": "https://cdn.mos.cms.futurecdn.net/JUqJGP2qH2koF4KuFbmRU9-1920-80.jpg"
-    },
-    {
-      "title": "The New James Bond Is Finally Confirmed, And I’m Shocked",
-      "link": "https://www.cinemablend.com/movies/new-james-bond-finally-confirmed-im-shocked-robert-pattinson",
-      "desc": "We finally have a new Bond!",
-      "img": "https://cdn.mos.cms.futurecdn.net/XE8DS9Z4P6h4FLt5QkmCg7-1920-80.jpg"
-    },
-    {
-      "title": "We’ve Heard From Amanda Seyfried, But What About You Can See Everything’s Other Surprise Cameo Star?",
-      "link": "https://www.cinemablend.com/movies/heard-from-amanda-seyfried-what-about-you-can-see-everything-other-surprise-cameo-star-christopher-abbott",
-      "desc": "She’s not the only star in the movie.",
-      "img": "https://cdn.mos.cms.futurecdn.net/zkV57hucXMiJggUSGWJRyg-1920-80.jpg"
     }
   ],
   "tech": [
     {
-      "title": "Trump calls for Jensen Huang reinstatement as Nvidia CEO",
-      "link": "https://www.tomshardware.com/tech-industry/trump-calls-for-jensen-huang-reinstatement-as-nvidia-ceo-nvidia-board-reportedly-refuses-to-reinstate-disgraced-ceo-due-to-ongoing-national-security-investigation-into-jensen",
-      "desc": "President Trump has called for Jensen Huang to return as Nvidia CEO, but a new report says the board...",
-      "img": "https://cdn.mos.cms.futurecdn.net/AcvQdNE4MvE4MZ6pKF6f9Y-1920-80.jpg"
+      "title": "The best Warhammer 40K-themed gifts for your gaming setup",
+      "link": "https://www.tomshardware.com/gift-guides-seasonal-sales/the-best-warhammer-40k-themed-gifts-for-your-gaming-setup-chairs-desks-backpacks-toys-and-games-that-will-please-the-imperium",
+      "desc": "Check out these great gift ideas for all fans of the grimdark future.",
+      "img": "https://cdn.mos.cms.futurecdn.net/t6dCXLDYnmivLFrDD8g3xH-1920-80.jpg"
     },
     {
-      "title": "Top tech gift ideas for frequent travelers — from USB wall chargers to power banks, here are the best options",
-      "link": "https://www.tomshardware.com/gift-guides-seasonal-sales/top-tech-gift-ideas-for-frequent-travelers-from-usb-wall-chargers-to-power-banks-here-are-the-best-options",
-      "desc": "Our list of useful accessories for folks who spend countless days and nights traversing hotels and a...",
-      "img": "https://cdn.mos.cms.futurecdn.net/oRppG3ZA2CS5ySKyScied9-1920-80.jpg"
+      "title": "15 retro tech gift ideas for the nostalgic gamer or builder in your life",
+      "link": "https://www.tomshardware.com/gift-guides-seasonal-sales/15-retro-tech-gift-ideas-for-the-nostalgic-gamer-or-builder-in-your-life-old-school-designs-packed-with-modern-hardware-from-game-controllers-to-desk-accessories",
+      "desc": "Pick up a retro tech gift for yourself or a loved one this holiday season, from mini PCs to old-scho...",
+      "img": "https://cdn.mos.cms.futurecdn.net/tisv5WRb3nvy2mmNFVUVs8-1920-80.png"
     },
     {
-      "title": "Intel bets on Classiq acquisition to turn Quantum efforts into commercially viable business — deal positions company as leading vendor of qubit chips, acquisition to close by the first half of 2027",
-      "link": "https://www.tomshardware.com/tech-industry/quantum-computing/intel-bets-on-classiq-acquisition-to-turn-quantum-efforts-into-commercially-viable-business-deal-positions-company-as-leading-vendor-of-qubit-chips-acquisition-to-close-by-the-first-half-of-2027",
-      "desc": "Intel aims to turn its quantum computing research effort into a commercial business by combining its...",
-      "img": "https://cdn.mos.cms.futurecdn.net/jFuLeDoS3yepBpNT3uuUaN-1920-80.jpg"
+      "title": "China retains fastest supercomputer in the world crown as AI data centers soak up new hardware",
+      "link": "https://www.tomshardware.com/tech-industry/supercomputers/china-retains-fastest-supercomputer-in-the-world-crown-as-ai-data-centers-soak-up-new-hardware-top500-records-fewest-new-systems-in-33-years",
+      "desc": "The Top 500 list records the fewest new entrants in its history amid a massive shift in compute infr...",
+      "img": "https://cdn.mos.cms.futurecdn.net/kiQWCdGYbYcrsLVKdCSDi3-1920-80.jpg"
     },
     {
-      "title": "Minisforum Elite Mini M2 Air-304 review: A quiet and compact Wildcat",
-      "link": "https://www.tomshardware.com/desktops/mini-pcs/minisforum-elite-mini-m2-air-304-review",
-      "desc": "With an Intel Wildcat Lake CPU, the Minisforum Elite Mini M2 Air-304 PC runs cool and quiet, but is ...",
-      "img": "https://cdn.mos.cms.futurecdn.net/G3ccF7itdX36LKpD7tVq9i-1920-80.jpg"
+      "title": "New US rules aim to restrict Chinese firms’ remote access to AI servers and infrastructure",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/new-us-rules-aim-to-restrict-remote-access-to-ai-servers-and-infrastructure-seeks-to-combat-cloud-rental-workarounds-to-gpu-export-controls",
+      "desc": "The Bureau of Industry and Security has announced a new interim final rule to ensure restrictions on...",
+      "img": "https://cdn.mos.cms.futurecdn.net/n4uucZP4dV7mmuFv43MWGE-1920-80.jpg"
     },
     {
-      "title": "Anthropic says Claude Mythos Preview cut AMD MI355X onboarding from up to 12 months to around three days",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
-      "desc": "Anthropic says Claude Mythos Preview brought up prompt processing for one model on AMD Instinct MI35...",
-      "img": "https://cdn.mos.cms.futurecdn.net/jcG9LwCNh8XUGiSJ9Pxw7Z-1920-80.jpg"
+      "title": "Researchers ‘recognize that AI will never replace HPC,’ says AMD executive — high-precision workloads will ‘exist for a very long time’ even as AI usage expands",
+      "link": "https://www.tomshardware.com/tech-industry/supercomputers/researchers-recognize-that-ai-will-never-replace-hpc-says-amd-executive-high-precision-workloads-will-exist-for-a-very-long-time-even-as-ai-usage-expands",
+      "desc": "The emergence of AI has seemingly posed a threat to high-precision FP64 computation, but AMD doesn't...",
+      "img": "https://cdn.mos.cms.futurecdn.net/odrYnFH3kdkxQe7pL2cCGb-1920-80.jpg"
     },
     {
-      "title": "Overlocker uses vibecoded BIOS modification to target Intel's non-K overclocking restrictions",
-      "link": "https://www.tomshardware.com/pc-components/cpus/overlocker-uses-vibecoded-bios-modification-to-target-intels-non-k-overclocking-restrictions-attempts-to-revive-asrocks-discontinued-skyoc-technology",
-      "desc": "ASRock discontinued SkyOC following Intel's efforts to block non-K CPU overclocking, but an enthusia...",
-      "img": "https://cdn.mos.cms.futurecdn.net/upv5CLs6eZgME2q4v4v9MX-1920-80.jpg"
+      "title": "AMD grabs over 40% of new TOP500 list for supercomputers, up 14% since last year",
+      "link": "https://www.tomshardware.com/tech-industry/supercomputers/amd-grabs-over-40-percent-of-new-top500-list-for-supercomputers-up-14-percent-since-last-year-new-lux-system-developed-between-amd-and-department-of-energy-debuts-at-no-14-with-epyc-cpus-and-instinct-mi355x-gpus",
+      "desc": "AMD's Lux supercomputer debuted at position 14 on the new TOP500 list published during SC26. It's on...",
+      "img": "https://cdn.mos.cms.futurecdn.net/kiQWCdGYbYcrsLVKdCSDi3-1920-80.jpg"
     }
   ],
   "crypto": [
     {
-      "title": "Nvidia turmoil tests Bitcoin miners’ AI funding plans",
-      "link": "https://cointelegraph.com/news/nvidia-turmoil-tests-bitcoin-miners-ai-funding-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Nvidia’s leadership upheaval and Texas permit restrictions sharpen the divide between miners with fu...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JEWHRV64CGR31PRV4XXWS7/hi-the-power-in-energy-and-how-new-technologies-can-shift-bitcoin-ai.jpg"
+      "title": "Hackers inject credit card, crypto-stealing malware into 178 major websites",
+      "link": "https://cointelegraph.com/news/hackers-inject-malware-into-178-major-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Ledger and Coinpass were among the businesses whose websites served malware designed to steal visito...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7KGB8P723WG4K1R3Q3WMM6J/hi-how-cybercriminals-use-youtube-and-github-to-spread-crypto-malware.jpg"
     },
     {
-      "title": "Safe wallet reportedly loses $6.5M as Zodiac suspects key compromise",
-      "link": "https://cointelegraph.com/news/safe-wallet-reportedly-loses-millions-after-key-compromise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Zodiac’s co-founder said a likely compromised key and overly permissive wallet settings enabled the ...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JKHE8AKT8EG64S6TQC9CZW/hi-why-spot-the-typo-is-no-longer-enough-for-crypto-security-1.png"
+      "title": "Nvidia shares fall 4% as board reportedly rules out Huang return",
+      "link": "https://cointelegraph.com/news/nvidia-shares-fall-4-as-board-reportedly-rules-out-huang-return?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The chipmaker’s board is reportedly focused on investigating Huang’s conduct, even as a petition cal...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7KABBJFAJNZZ9Y5F7TA19N8/ripping-paper-white-hands.jpg"
     },
     {
-      "title": "Bitcoin price fails to hold $65K as US stocks drop further on AI nerves",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-fails-to-hold-65k-us-stocks-drop-on-ai-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Bitcoin and US equities saw pressure to start the week as traders weighed the impact of forthcoming ...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JHP4NCX2Y0XJ53GG2CQ9P5/article-covers-251323-bitcoin-market-enters-full-capitulation-price-dips-below-63k-1280x853.webp"
+      "title": "Custodia Bank loses Supreme Court bid for direct Fed payment access",
+      "link": "https://cointelegraph.com/news/custodia-bank-loses-supreme-court-bid-for-direct-fed-payment-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The Supreme Court refused to hear Custodia Bank’s appeal, meaning a lower court ruling allowing the ...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7K7K4XWRM18K351JQ17SMMQ/hi-traditional-bank-account-vs-bitcoin-custodial-storage.jpg"
     },
     {
-      "title": "Zelle picks Solana for ZelleUSD stablecoin and international payments",
-      "link": "https://cointelegraph.com/news/zelle-solana-zelleusd-stablecoin-international-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Zelle plans to use Solana for its ZelleUSD stablecoin and international payments, with confidential ...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7J2PYBEKD9SZX7YQXC7QW4N/network-with-transparent-logos.png"
+      "title": "German lawmakers back crypto freezes outside criminal cases",
+      "link": "https://cointelegraph.com/news/german-lawmakers-back-crypto-freezes-outside-criminal-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Customs authorities could hold “suspicious” assets for 30 days under the bill, with court oversight ...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M236GTB6R3NKE0V3DBECZ26A/hi-here-is-why-germany-leads-the-crypto-friendly-countries-ranking3.jpg"
     },
     {
-      "title": "Lighter pauses withdrawals after reported $10M account theft",
-      "link": "https://cointelegraph.com/news/lighter-dex-pauses-withdrawals-10m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Lighter has paused withdrawals after reporting a leaked trader API key, with Bubblemaps tracking $10...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7J8N3NZM3XQTBBET43XGEQG/hi-the-role-of-cryptocurrencies-in-the-rise-of-ransomware2-1.jpg"
+      "title": "Binance hack may push institutions to outside custody, FalconX exec says",
+      "link": "https://cointelegraph.com/news/binance-hack-institutional-crypto-custody-falconx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "FalconX’s Joshua Lim says the Binance hack could push institutions to keep crypto off exchanges and ...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JYN3X9NPASHKCFA1BBHM7P/bank-building-hall-entrance-door-binance-2.png"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -153,40 +153,40 @@
   ],
   "various": [
     {
-      "title": "Russell Brand prison message 'appalling' and being investigated, No 10 says",
-      "link": "https://www.bbc.co.uk/news/articles/cm9d7pe8y559o?at_medium=RSS&at_campaign=rss",
-      "desc": "Brand's wife read out comments from the comedian on their podcast in which the convicted rapist said...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6a9/live/58ecf9b0-e1bd-11f1-99b6-a35a62fa4264.jpg"
+      "title": "'Complete system reset' needed to get 440,000 young people into work, says major review",
+      "link": "https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss",
+      "desc": "Alan Milburn's review will call for sweeping reforms to the education, work and welfare systems.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a76/live/fbd49eb0-e1e2-11f1-9f14-b33806cfd783.jpg"
     },
     {
-      "title": "As new Bond, Pattinson takes on one of film's most high-profile roles",
-      "link": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
-      "desc": "Robert Pattinson has been announced as the next James Bond, becoming the seventh actor to take up th...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6849/live/22d15940-e1ed-11f1-99a1-253766e7ad8b.jpg"
+      "title": "The young people caught up in Britain's Neets crisis",
+      "link": "https://www.bbc.co.uk/news/articles/cj75pkgrv151o?at_medium=RSS&at_campaign=rss",
+      "desc": "BBC News speaks to four of the million young people aged 16 to 24 who are not in work, education or ...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c942/live/82d4fd40-dcf9-11f1-a701-fddedf244c16.png"
     },
     {
-      "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
-      "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
-      "desc": "Some parents are so desperate for their children to find a job that they've offered to pay their wag...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/283e/live/4753f640-e1ae-11f1-b0a4-450a350911f4.jpg"
+      "title": "Robert Pattinson to replace Daniel Craig as James Bond",
+      "link": "https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo?at_medium=RSS&at_campaign=rss",
+      "desc": "The 40-year old is best known for his role in films including Twilight, The Batman and The Odyssey.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cce/live/ac752f20-e209-11f1-99a1-253766e7ad8b.jpg"
     },
     {
-      "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
-      "link": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
-      "desc": "The 36-year-old's first trial this year fell apart when a 12-person jury failed to reach a verdict.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f3a/live/c50f43d0-e1dd-11f1-99a1-253766e7ad8b.jpg"
+      "title": "Cass report author says she does not support draft conversion practices bill",
+      "link": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss",
+      "desc": "The gender care review author says the bill’s wording risks \"serious unintended consequences\" for pa...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67e4/live/e4fbabb0-e1f2-11f1-99b6-a35a62fa4264.jpg"
     },
     {
-      "title": "UK lost more than it gained from Brexit, Burnham to say ahead of EU summit",
-      "link": "https://www.bbc.co.uk/news/articles/crp3e1n5kezpo?at_medium=RSS&at_campaign=rss",
-      "desc": "The prime minister will say the \"Brexit we were given has not worked\" in a speech on Monday.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc0f/live/f8a1dcb0-e1df-11f1-99a1-253766e7ad8b.jpg"
+      "title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
+      "link": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
+      "desc": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ce/live/59eafa00-e1c3-11f1-8a52-0b287ff76f43.jpg"
     },
     {
-      "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
-      "link": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
-      "desc": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f174/live/bc6fa8f0-e1c4-11f1-a094-5fdc692f3e33.jpg"
+      "title": "Failed asylum seekers face removal without five-day notice period",
+      "link": "https://www.bbc.co.uk/news/articles/cq20xnp2egm8o?at_medium=RSS&at_campaign=rss",
+      "desc": "Under proposed new rules, the Home Office would have six months in which to remove a person without ...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8c2/live/ba87c490-e210-11f1-a541-6d0c391a4254.jpg"
     }
   ]
 }
