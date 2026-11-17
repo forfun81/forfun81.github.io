@@ -1,6 +1,18 @@
 {
   "games": [
     {
+      "title": "GTA 6 Has Teamed Up With The Weather Channel To Show How Dynamic Leonida Can Be",
+      "link": "https://www.gamespot.com/articles/gta-6-has-teamed-up-with-the-weather-channel-to-show-how-dynamic-leonida-can-be/",
+      "desc": "Rockstar Games has found an unexpected partner to show off one of GTA 6's most impressive features: ...",
+      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/large-2-1.jpg?w=300"
+    },
+    {
+      "title": "How To Play GTA 6 Early On Xbox Using This Trick",
+      "link": "https://www.gamespot.com/articles/how-to-play-gta-6-early-on-xbox-using-this-trick/",
+      "desc": "Due to GTA 6's non-simultaneous release, people in New Zealand will be the first in the world to pla...",
+      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/Jason_and_Lucia_03-1.jpg?w=300"
+    },
+    {
       "title": "Delete GTA 6 For A Chance To Win Another Game",
       "link": "https://www.gamespot.com/articles/delete-gta-6-for-a-chance-to-win-another-game/",
       "desc": "Rockstar's Grand Theft Auto 6 finally releases this week. The game looms so large that other compani...",
@@ -23,18 +35,6 @@
       "link": "https://www.gamespot.com/articles/gta-6-should-help-boost-ps5-and-xbox-sales-but-their-astronomical-prices-could-hurt/",
       "desc": "Rockstar's Grand Theft Auto 6 launches on November 19, and it's expected to help boost console sales...",
       "img": "https://www.gamespot.com/wp-content/uploads/2026/11/Ambrosia_05_4aee24.jpg?w=300"
-    },
-    {
-      "title": "EA Begs You To Not Delete Madden 27 For GTA 6",
-      "link": "https://www.gamespot.com/articles/ea-begs-you-to-not-delete-madden-27-for-gta-6/",
-      "desc": "We all know what's coming: Grand Theft Auto 6. Whether you're ready for it or not, the most anticipa...",
-      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/madden-image.jpg?w=300"
-    },
-    {
-      "title": "Rockstar Could Have Released GTA 6 Sooner As GTA 5.5, But “You Have To Take Big Swings”",
-      "link": "https://www.gamespot.com/articles/rockstar-could-have-released-gta-6-sooner-as-gta-5-5-but-you-have-to-take-big-swings/",
-      "desc": "After years of development, multiple delays, and loads of hype, Rockstar Games is finally releasing ...",
-      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/Vice_City_13_3d2957.jpg?w=300"
     }
   ],
   "movies": [
@@ -77,6 +77,18 @@
   ],
   "tech": [
     {
+      "title": "403 hyperscale US data centers used staggering 82 terawatts of electricity in a year, more than 80% of Michigan’s entire consumption",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/403-hyperscale-us-data-centers-used-staggering-82-terawatts-of-electricity-in-a-year-more-than-80-percent-of-michigans-entire-consumption-generated-26-million-tons-of-co2-in-a-single-year-gas-and-coal-supplied-54-percent-of-the-power-harvard-led-study-estimates",
+      "desc": "A Harvard-led study in Nature Sustainability estimates 403 US hyperscale data centers used about 82 ...",
+      "img": "https://cdn.mos.cms.futurecdn.net/yt7DhwrTmvkzH8fB3o5ee6-1920-80.jpg"
+    },
+    {
+      "title": "China engineers behind J-35 fighter jet pioneer 3D-printed load-bearing structures in military aircraft",
+      "link": "https://www.tomshardware.com/3d-printing/china-engineers-behind-j-35-fighter-jet-pioneer-3d-printed-load-bearing-structures-in-military-aircraft-behemoth-16-4-foot-part-uses-segmented-printing-and-fusion-techniques",
+      "desc": "China's first aircraft research institute and developer of the J-35 fighter jets 3D-printed a primar...",
+      "img": "https://cdn.mos.cms.futurecdn.net/Yor5wFMpDto8hLSN5gezbG-1920-80.jpg"
+    },
+    {
       "title": "The best Warhammer 40K-themed gifts for your gaming setup",
       "link": "https://www.tomshardware.com/gift-guides-seasonal-sales/the-best-warhammer-40k-themed-gifts-for-your-gaming-setup-chairs-desks-backpacks-toys-and-games-that-will-please-the-imperium",
       "desc": "Check out these great gift ideas for all fans of the grimdark future.",
@@ -99,94 +111,82 @@
       "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/new-us-rules-aim-to-restrict-remote-access-to-ai-servers-and-infrastructure-seeks-to-combat-cloud-rental-workarounds-to-gpu-export-controls",
       "desc": "The Bureau of Industry and Security has announced a new interim final rule to ensure restrictions on...",
       "img": "https://cdn.mos.cms.futurecdn.net/n4uucZP4dV7mmuFv43MWGE-1920-80.jpg"
-    },
-    {
-      "title": "Researchers ‘recognize that AI will never replace HPC,’ says AMD executive — high-precision workloads will ‘exist for a very long time’ even as AI usage expands",
-      "link": "https://www.tomshardware.com/tech-industry/supercomputers/researchers-recognize-that-ai-will-never-replace-hpc-says-amd-executive-high-precision-workloads-will-exist-for-a-very-long-time-even-as-ai-usage-expands",
-      "desc": "The emergence of AI has seemingly posed a threat to high-precision FP64 computation, but AMD doesn't...",
-      "img": "https://cdn.mos.cms.futurecdn.net/odrYnFH3kdkxQe7pL2cCGb-1920-80.jpg"
-    },
-    {
-      "title": "AMD grabs over 40% of new TOP500 list for supercomputers, up 14% since last year",
-      "link": "https://www.tomshardware.com/tech-industry/supercomputers/amd-grabs-over-40-percent-of-new-top500-list-for-supercomputers-up-14-percent-since-last-year-new-lux-system-developed-between-amd-and-department-of-energy-debuts-at-no-14-with-epyc-cpus-and-instinct-mi355x-gpus",
-      "desc": "AMD's Lux supercomputer debuted at position 14 on the new TOP500 list published during SC26. It's on...",
-      "img": "https://cdn.mos.cms.futurecdn.net/kiQWCdGYbYcrsLVKdCSDi3-1920-80.jpg"
     }
   ],
   "crypto": [
     {
-      "title": "Hackers inject credit card, crypto-stealing malware into 178 major websites",
-      "link": "https://cointelegraph.com/news/hackers-inject-malware-into-178-major-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Ledger and Coinpass were among the businesses whose websites served malware designed to steal visito...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7KGB8P723WG4K1R3Q3WMM6J/hi-how-cybercriminals-use-youtube-and-github-to-spread-crypto-malware.jpg"
+      "title": "Google says hackers use AI agents to find and exploit software flaws",
+      "link": "https://cointelegraph.com/news/google-ai-agents-automated-cyberattacks-software-flaws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Google says attackers are using AI agents to find and exploit software flaws automatically, reducing...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5W8CX3ZEBAQRD95ZBDZ13BW/hi-using-ai-in-crypto-do-it-at-your-own-risk2.jpg"
     },
     {
-      "title": "Nvidia shares fall 4% as board reportedly rules out Huang return",
-      "link": "https://cointelegraph.com/news/nvidia-shares-fall-4-as-board-reportedly-rules-out-huang-return?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The chipmaker’s board is reportedly focused on investigating Huang’s conduct, even as a petition cal...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7KABBJFAJNZZ9Y5F7TA19N8/ripping-paper-white-hands.jpg"
+      "title": "US judge clears brothers in $25M Ethereum MEV case after mistrial",
+      "link": "https://cointelegraph.com/news/us-judge-acquits-brothers-25m-ethereum-mev-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Judge Jessica Clarke said the transactions did not involve false promises, but the ruling did not de...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7MCZMSF8D1C0PFBB5NPBZM3/b-lawsuit-1.jpg"
     },
     {
-      "title": "Custodia Bank loses Supreme Court bid for direct Fed payment access",
-      "link": "https://cointelegraph.com/news/custodia-bank-loses-supreme-court-bid-for-direct-fed-payment-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The Supreme Court refused to hear Custodia Bank’s appeal, meaning a lower court ruling allowing the ...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7K7K4XWRM18K351JQ17SMMQ/hi-traditional-bank-account-vs-bitcoin-custodial-storage.jpg"
+      "title": "Goldman Sachs reports $1.22B in Ether ETFs as ETHA share count jumps",
+      "link": "https://cointelegraph.com/news/goldman-sachs-reports-122b-ether-etfs-etha-shares-jumps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Goldman Sachs increased its Ether ETF shares in Q3, bringing its reported holdings to $1.22 billion,...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7M3NS6S1T6ZRE6SXTFKRZMG/hi-goldman-sachs-and-crypto-recap-1.jpg"
     },
     {
-      "title": "German lawmakers back crypto freezes outside criminal cases",
-      "link": "https://cointelegraph.com/news/german-lawmakers-back-crypto-freezes-outside-criminal-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Customs authorities could hold “suspicious” assets for 30 days under the bill, with court oversight ...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M236GTB6R3NKE0V3DBECZ26A/hi-here-is-why-germany-leads-the-crypto-friendly-countries-ranking3.jpg"
-    },
-    {
-      "title": "Binance hack may push institutions to outside custody, FalconX exec says",
-      "link": "https://cointelegraph.com/news/binance-hack-institutional-crypto-custody-falconx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "FalconX’s Joshua Lim says the Binance hack could push institutions to keep crypto off exchanges and ...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JYN3X9NPASHKCFA1BBHM7P/bank-building-hall-entrance-door-binance-2.png"
+      "title": "Ex-Robinhood engineer pleads guilty to $125K Hyperliquid trading scheme",
+      "link": "https://cointelegraph.com/news/ex-robinhood-engineer-pleads-guilty-125k-crypto-trading-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The former Robinhood engineer used confidential information about upcoming Robinhood token listings ...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7M0N6T0X8R2T86X53TY8QQG/hammer-doj.png"
     },
     {
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impac...",
       "img": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
+    },
+    {
+      "title": "Trezor customer data exposed in 3rd partner breach this year",
+      "link": "https://cointelegraph.com/news/trezor-customer-data-exposed-in-3rd-partner-breach-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Trezor warned an attacker has been able to access customer names, phone numbers and delivery address...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7KSMV6VXD8X0C6CPDG5WCNC/trezor.jpg"
     }
   ],
   "various": [
     {
-      "title": "'Complete system reset' needed to get 440,000 young people into work, says major review",
-      "link": "https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss",
-      "desc": "Alan Milburn's review will call for sweeping reforms to the education, work and welfare systems.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a76/live/fbd49eb0-e1e2-11f1-9f14-b33806cfd783.jpg"
-    },
-    {
       "title": "The young people caught up in Britain's Neets crisis",
       "link": "https://www.bbc.co.uk/news/articles/cj75pkgrv151o?at_medium=RSS&at_campaign=rss",
       "desc": "BBC News speaks to four of the million young people aged 16 to 24 who are not in work, education or ...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c942/live/82d4fd40-dcf9-11f1-a701-fddedf244c16.png"
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1e5/live/5f356310-e263-11f1-a094-5fdc692f3e33.jpg"
     },
     {
-      "title": "Robert Pattinson to replace Daniel Craig as James Bond",
-      "link": "https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo?at_medium=RSS&at_campaign=rss",
-      "desc": "The 40-year old is best known for his role in films including Twilight, The Batman and The Odyssey.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cce/live/ac752f20-e209-11f1-99a1-253766e7ad8b.jpg"
+      "title": "Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "desc": "Ukraine says the attack took weeks to plan, while the Kremlin vows to rebuild the strategic bridge.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3f8/live/238ed940-e263-11f1-900c-895604014268.jpg"
     },
     {
-      "title": "Cass report author says she does not support draft conversion practices bill",
+      "title": "How Met failed to stop rape-unit detective who abused women",
+      "link": "https://www.bbc.co.uk/news/articles/c6kgq8d779lro?at_medium=RSS&at_campaign=rss",
+      "desc": "Warren Arter used his position - running a team investigating sexual assaults - to target women.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f492/live/73e8fc20-e1f2-11f1-99a1-253766e7ad8b.png"
+    },
+    {
+      "title": "Watch: Predatory Met detective's behaviour became increasingly extreme",
+      "link": "https://www.bbc.co.uk/news/videos/cqlymxe49g30o?at_medium=RSS&at_campaign=rss",
+      "desc": "The Metropolitan Police repeatedly missed opportunities to stop det insp Warren Arter, BBC Panorama ...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/210f/live/3ab82110-e251-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "title": "Woman who accuses Russell Brand of rape says prison message 'upsetting'",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg27zyrd99o?at_medium=RSS&at_campaign=rss",
+      "desc": "Mia Latter spoke to the BBC after the jailed comedian claimed he was innocent of offences against fo...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1138/live/ab486c50-e274-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "title": "Cass report author tells BBC draft conversion practices bill is not workable",
       "link": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss",
       "desc": "The gender care review author says the bill’s wording risks \"serious unintended consequences\" for pa...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67e4/live/e4fbabb0-e1f2-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
-      "link": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
-      "desc": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ce/live/59eafa00-e1c3-11f1-8a52-0b287ff76f43.jpg"
-    },
-    {
-      "title": "Failed asylum seekers face removal without five-day notice period",
-      "link": "https://www.bbc.co.uk/news/articles/cq20xnp2egm8o?at_medium=RSS&at_campaign=rss",
-      "desc": "Under proposed new rules, the Home Office would have six months in which to remove a person without ...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8c2/live/ba87c490-e210-11f1-a541-6d0c391a4254.jpg"
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64f6/live/4c3df530-e261-11f1-a094-5fdc692f3e33.jpg"
     }
   ]
 }
