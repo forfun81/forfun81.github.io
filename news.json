@@ -115,10 +115,22 @@
   ],
   "crypto": [
     {
-      "title": "Nvidia board rejects Huang comeback despite record $116B quarter",
-      "link": "https://cointelegraph.com/markets/nvidia-board-rejects-huang-comeback-amid-record-116b-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Nvidia beat Wall Street’s revenue expectations by 5.6% and issued a stronger-than-expected sales for...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7P04TMY3ZNTQGGY0NY9GWNQ/hi-why-low-latency-is-important-for-cryptocurrency-exchanges-nvidia.jpg"
+      "title": "World Bank partners with Circle, Citi to explore stablecoins for payments",
+      "link": "https://cointelegraph.com/news/world-bank-circle-citi-explore-stablecoins-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The initiative builds on the World Bank’s existing blockchain platform, which aims to create more fu...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1P74NCJ7VVQEWSD26T81DZH/digital-bank-2.jpg"
+    },
+    {
+      "title": "SOL comes out of Breakpoint 7% higher as Solana exits beta",
+      "link": "https://cointelegraph.com/markets/solana-sol-gains-7-percent-breakpoint-beta-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Solana’s token reached $75.12 on Tuesday, outpacing Bitcoin and Ether after the network retired the ...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7PVBTFSABZPYDQ0WHD9YNKW/price-movements-solana.png"
+    },
+    {
+      "title": "Bitcoin ETFs lose $240M as CryptoQuant flags bearish market phase",
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-240-million-outflow-bearish-phase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Bitcoin ETF outflows returned after a one-day pause as CryptoQuant warned that Bitcoin had returned ...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5HJSXMPY51PCJ82B9PXHE2E/hi-market-correction-vs-bear-market-btc-2.jpg"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -127,66 +139,54 @@
       "img": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
     },
     {
-      "title": "CFTC halts some Kalshi Trump mention markets over manipulation concerns",
-      "link": "https://cointelegraph.com/news/cftc-kalshi-trump-mention-markets-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The CFTC stayed Kalshi’s Trump-related mention markets after raising concerns about manipulation ris...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7NNKAA0TZDN6AEJDCQCDBHM/hi-comparison-us-elections-1.png"
+      "title": "Ledger hardware implant saga reaches Dubai’s Virgin Megastore",
+      "link": "https://cointelegraph.com/news/ledger-hardware-implant-saga-reaches-dubais-virgin-megastore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Two Ledger owners reported losing a combined $604,000 in crypto from hardware wallets they said were...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7P83FWSZ6BPXQ3S3FXWM9VP/hi-ledger0.jpg"
     },
     {
-      "title": "Maple Finance CEO targets up to $15B in assets by the end of 2027",
-      "link": "https://cointelegraph.com/news/maple-finance-15b-assets-target-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Sidney Powell aims to reach $15 billion in assets under management by the end of 2027 as the firm lo...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7NF6KGF5937HFV5G808MCSV/maple-branded-header.png"
-    },
-    {
-      "title": "Eastern Europe crypto flows fall 7.9% as Ukraine draws $12B in stablecoins",
-      "link": "https://cointelegraph.com/news/eastern-europe-crypto-activity-decline-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Chainalysis found that Eastern Europe recorded the steepest decline in crypto activity of any region...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7N9V9STHF6S9E0M81Y5Q7RA/hi-eastern-europe.png"
-    },
-    {
-      "title": "Lighter incident exposes risks beyond withdrawal controls",
-      "link": "https://cointelegraph.com/news/lighter-incident-exposes-risks-beyond-withdrawal-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Crypto platforms need enforceable limits on every route an API key can use to transfer value, includ...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7N1GK3FJ1PBDSJP9B84C5F0/blockchain-tangled-cats-cradle-defi-2.jpg"
+      "title": "Nvidia board rejects Huang comeback despite record $116B quarter",
+      "link": "https://cointelegraph.com/markets/nvidia-board-rejects-huang-comeback-amid-record-116b-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Nvidia beat Wall Street’s revenue expectations by 5.6% and issued a stronger-than-expected sales for...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7P04TMY3ZNTQGGY0NY9GWNQ/hi-why-low-latency-is-important-for-cryptocurrency-exchanges-nvidia.jpg"
     }
   ],
   "various": [
     {
-      "title": "What Does Nvidia Have to Say About Jensen Huang? Don’t Ask",
-      "link": "https://gizmodo.com/what-does-nvidia-have-to-say-about-jensen-huang-dont-ask-2000841459",
-      "desc": "Everything has changed for the company, but its leadership is doing whatever it can to convince shar...",
-      "img": "https://gizmodo.com/app/uploads/2026/11/Nvidia-1280x853.jpg"
+      "title": "Lammy urges Burnham take UK back into the EU",
+      "link": "https://www.bbc.co.uk/news/articles/cm9q8jx05q3go?at_medium=RSS&at_campaign=rss",
+      "desc": "The former deputy PM's intervention comes after Burnham reopened a debate over the UK's long-term fu...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c37/live/55e74ef0-e32a-11f1-acde-0b701d18dadb.jpg"
     },
     {
-      "title": "Nvidia Stops Shipping H200s to Customers in China",
-      "link": "https://gizmodo.com/nvidia-stops-shipping-h200s-to-customers-in-china-2000841474",
-      "desc": "It was a big deal when Trump started allowing these sales. That's over now.",
-      "img": "https://gizmodo.com/app/uploads/2026/11/NvidiaHQ-1280x853.jpg"
+      "title": "What's gone wrong at Britain's worst bathing site?",
+      "link": "https://www.bbc.co.uk/news/articles/cm752w35lkz3o?at_medium=RSS&at_campaign=rss",
+      "desc": "The BBC looks at why in a dry summer with few sewage spills, one bathing site failed so many water q...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ad3/live/f181e450-e1c3-11f1-8a52-0b287ff76f43.jpg"
     },
     {
-      "title": "‘Critical Role’ Announces Cast for New ‘Daggerheart’ Campaign",
-      "link": "https://gizmodo.com/critical-role-announces-cast-for-new-daggerheart-campaign-2000841377",
-      "desc": "Whitney Moore, Taliesin Jaffe, Robbie Daymond, and Luis Carazo are the players in the upcoming 'Reig...",
-      "img": "https://gizmodo.com/app/uploads/2026/11/reign-of-the-weredragon-crop-1280x853.jpg"
+      "title": "Burnham promises to 'move quickly' on Neets report",
+      "link": "https://www.bbc.co.uk/news/articles/c8n50457edd4o?at_medium=RSS&at_campaign=rss",
+      "desc": "The prime minister tells the BBC he wants to get \"stuck in\" after the Milburn report proposes wide-r...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6d5/live/68b519f0-e31a-11f1-a094-5fdc692f3e33.jpg"
     },
     {
-      "title": "North Korea’s Favorite Bitcoin Mixer Criticized for Not Blocking Stolen Funds",
-      "link": "https://gizmodo.com/north-koreas-favorite-bitcoin-mixer-criticized-for-not-blocking-stolen-funds-2000841351",
-      "desc": "The operator of the largest coordinator of on-chain bitcoin mixes was celebrating its growth on X wh...",
-      "img": "https://gizmodo.com/app/uploads/2025/12/crypto_mixer-1280x853.jpg"
+      "title": "Harry Styles, Cher, Sam Fender and Billie Eilish to headline Glastonbury 2027",
+      "link": "https://www.bbc.co.uk/news/articles/crwy4w381nlpo?at_medium=RSS&at_campaign=rss",
+      "desc": "The festival will also host Cher in the Sunday \"legends\" slot, the unofficial fourth headline set.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63ff/live/dc5ef950-e2d1-11f1-99ed-7de3e5932968.jpg"
     },
     {
-      "title": "Kalshi Is Forced to Halt Bets on What President Trump Might Say",
-      "link": "https://gizmodo.com/kalshi-is-forced-to-halt-bets-on-what-president-trump-might-say-2000841326",
-      "desc": "Federal regulators say these prediction markets may be susceptible to manipulation.",
-      "img": "https://gizmodo.com/app/uploads/2026/08/Best-VPN-for-Kalshi-e1792616108753-1280x854.jpg"
+      "title": "William and Kate on Earthshot Prize green carpet in Mumbai",
+      "link": "https://www.bbc.co.uk/news/videos/c6x2ev29v87no?at_medium=RSS&at_campaign=rss",
+      "desc": "The pair arrived at the ceremony where five £1m prizes were awarded to projects aimed at solving cli...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac99/live/a44fd170-e2ad-11f1-a094-5fdc692f3e33.jpg"
     },
     {
-      "title": "Google to Keep AI Chat Logs for Two Months, Even With Gemini History Turned Off",
-      "link": "https://gizmodo.com/google-to-keep-ai-chat-logs-for-two-months-even-with-gemini-history-turned-off-2000841271",
-      "desc": "It's for your own good, Google says.",
-      "img": "https://gizmodo.com/app/uploads/2026/11/gemini-logo-1280x853.jpg"
+      "title": "Home secretary plans to tackle 'perception of two-tier policing'",
+      "link": "https://www.bbc.co.uk/news/articles/c3vg24wpg040o?at_medium=RSS&at_campaign=rss",
+      "desc": "Shabana Mahmood will announce stronger guidance on police impartiality.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4035/live/d90bfb90-e2c2-11f1-a9da-01a195e70ea0.jpg"
     }
   ]
 }
