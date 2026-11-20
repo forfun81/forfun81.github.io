@@ -1,6 +1,12 @@
 {
   "games": [
     {
+      "title": "GTA 6 Nearing 25 Million Copies Sold And $2.4 Billion In Revenue On Day 1, Report Says; Take-Two To Reveal Official Sales Data Soon",
+      "link": "https://www.gamespot.com/articles/gta-6-has-sold-almost-8-million-copies-so-far-and-ps5-is-dominating-the-split-of-course/",
+      "desc": "The video game research company Sensor Tower has updated its GTA 6 sales tracker to reveal the lates...",
+      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/Jason_and_Lucia_09-2.jpg?w=300"
+    },
+    {
       "title": "GTA 6 Dog Who Saves You Is Seemingly Based On A Very Cool Real-Life Dog",
       "link": "https://www.gamespot.com/articles/gta-6-dog-who-saves-you-is-seemingly-based-on-a-very-cool-real-life-dog/",
       "desc": "One of the first cool things that people discovered in Grand Theft Auto 6 is that if you swim out in...",
@@ -29,15 +35,15 @@
       "link": "https://www.gamespot.com/articles/you-can-play-grand-theft-auto-6-at-60fps-using-this-absurdly-complicated-method/",
       "desc": "Grand Theft Auto VI is finally out for consoles, and it's every bit the visual showcase of the gener...",
       "img": "https://www.gamespot.com/wp-content/uploads/2026/05/Grand-Theft-Auto-VI-Trailer-1-1-16-screenshot-Large.jpeg?w=300"
-    },
-    {
-      "title": "How WoW: Forever Is Overhauling Classic WoW’s Infamous PvP Honor Grind",
-      "link": "https://www.gamespot.com/articles/how-wow-forever-is-overhauling-classic-wows-infamous-pvp-honor-grind/",
-      "desc": "World of Warcraft: Forever's player vs. player systems will work much differently than in previous v...",
-      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/WoW-Forever-PvP-System-Explained.jpg?w=300"
     }
   ],
   "movies": [
+    {
+      "title": "That Time Robert Pattinson’s The Odyssey Request Was Immediately Shot Down By Christopher Nolan",
+      "link": "https://www.cinemablend.com/movies/robert-pattinson-the-odyssey-request-immediately-shot-down-christopher-nolan-matt-damon-wigs",
+      "desc": "\"...literally allergic to anything like that. \"",
+      "img": "https://cdn.mos.cms.futurecdn.net/Cdtr2RCeSnqfGPMVsxXPNj-1920-80.jpg"
+    },
     {
       "title": "If You've Seen Interstellar Enough Times, You Should Ace This Crossword Puzzle Quiz",
       "link": "https://www.cinemablend.com/movies/interstellar-movie-crossword-puzzle-quiz",
@@ -67,15 +73,15 @@
       "link": "https://www.cinemablend.com/movies/marvel-fans-arent-holding-back-after-we-got-first-look-doomsday-hero-nightcrawler-alan-cumming",
       "desc": "One Marvel hero isn't getting love from fans.",
       "img": "https://cdn.mos.cms.futurecdn.net/tW2swtiwvTnEkbbDcXgJKZ-1920-80.jpg"
-    },
-    {
-      "title": "Sunrise On The Reaping’s Whitney Peak Has Seen Your Unfettered Bird Dress Hot Takes, & Responded",
-      "link": "https://www.cinemablend.com/movies/sunrise-on-the-reapings-whitney-peak-seen-bird-dress-hot-takes-responded-jesse-plemons",
-      "desc": "Let's talk about Whitney Peak, Jesse Plemons and that bird.",
-      "img": "https://cdn.mos.cms.futurecdn.net/x5UniiG7v6M9PL42PR7quW-1920-80.jpg"
     }
   ],
   "tech": [
+    {
+      "title": "Get an RTX 5070 for just $839.99, a rare savings in the GPU wasteland",
+      "link": "https://www.tomshardware.com/pc-components/get-an-rtx-5070-for-just-usd839-99-a-rare-savings-in-the-gpu-wasteland-msi-geforce-rtx-5070-ventus-2x-oc-12-gb-is-currently-on-sale-at-newegg",
+      "desc": "Get an RTX 5070 for just $839.99 — MSI GeForce RTX 5070 Ventus 2X OC  12 GB is currently on sale at ...",
+      "img": "https://cdn.mos.cms.futurecdn.net/x5Wt639xFBjw8uibLD6PtX-1920-80.jpg"
+    },
     {
       "title": "Score TP-Link Archer with full Wi-Fi 7 support and 10 Gbps wired networking for incredible 55% off its regular price",
       "link": "https://www.tomshardware.com/networking/routers/score-tp-link-archer-with-full-wi-fi-7-support-and-10-gbps-wired-networking-for-incredible-55-percent-off-its-regular-price-be9500-router-is-now-just-usd89-99-a-steep-discount-from-the-regular-usd199-99-price",
@@ -105,26 +111,26 @@
       "link": "https://www.tomshardware.com/tech-industry/big-tech/supermicro-sued-by-shareholders-over-claims-nvidia-executives-wife-must-have-known-about-illicit-china-sales-former-chief-growth-officer-cenly-chen-is-married-to-outgoing-nvidia-vp-jay-puri",
       "desc": "A civil lawsuit claimed that there was \"no way Cenly Chen lacked knowledge about the company's illic...",
       "img": "https://cdn.mos.cms.futurecdn.net/Rs4SbA8spx4NMQeGPyN2G8-1920-80.jpg"
-    },
-    {
-      "title": "Developer vibe codes Windows 11 alternative operating system for amd64, arm64, and riscv64 hardware",
-      "link": "https://www.tomshardware.com/software/windows/developer-vibe-codes-windows-11-alternative-operating-system-for-amd64-arm64-and-riscv64-hardware-libernt-is-a-free-64-bit-clone-promising-reliable-stable-and-efficient-performance",
-      "desc": "There’s a new vibe-coded OS in town going by the name of LiberNT.",
-      "img": "https://cdn.mos.cms.futurecdn.net/5p8cbG9PKWyM6kkPPAFXyP-1920-80.jpg"
     }
   ],
   "crypto": [
+    {
+      "title": "Institutions pile back into US Bitcoin ETFs in Q3 after selling streak",
+      "link": "https://cointelegraph.com/markets/institutional-bitcoin-etf-holdings-clock-record-quarter-after-selling-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Asset managers added the equivalent of 49,229 Bitcoin to their US Bitcoin ETF holdings in the third ...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M399X14JGMZWTWX9787D6BTC/hi-what-are-inflows-and-outflows-on-crypto-exchanges-bitcoin-etf.jpg"
+    },
+    {
+      "title": "Ledger CTO Charles Guillemet to leave after nine years at company",
+      "link": "https://cointelegraph.com/news/ledger-cto-charles-guillemet-to-leave-after-nine-years-at-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Guillemet helped establish Ledger’s Donjon security lab and says his departure has been planned for ...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7V13YNHJY11MWW37WA0R9X8/hi-can-locked-liquidity-still-put-defi-users-at-risk.jpg"
+    },
     {
       "title": "Binance’s $6.5B freeze order, Hong Kong ‘suspicious’ of HYPE: Asia Express",
       "link": "https://cointelegraph.com/magazine/binances-65b-freeze-order-hong-kong-suspicious-of-hype-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Binance obtains court orders freezing assets stolen in October’s hack. Hong Kong warns citizens abou...",
       "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7TW6KD0H9BEVC27QRWR5CP8/asia-express-jacket.png"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impac...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
     },
     {
       "title": "MoonPay seeks US bank charter for stablecoin, custody services",
@@ -143,50 +149,44 @@
       "link": "https://cointelegraph.com/news/sec-nominees-johnson-levine-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Former CFTC Commissioner and Democrat Kristin Johnson and ex-SEC aide Steven Levine appeared before ...",
       "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7TFD02FRZ10BM2N4QZ1NBPG/hi-the-evolution-of-crypto-regulations-in-2024-what-it-means-for-2027.png"
-    },
-    {
-      "title": "Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns",
-      "link": "https://cointelegraph.com/news/ethereum-glamsterdam-could-slip-to-may-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Ethereum developers are weighing changes to gas pricing proposals that could disrupt existing smart ...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7T8797NST8JEDN3F6EH12SR/hi-can-crypto-exchanges-be-trusted-with-hard-forks.png"
     }
   ],
   "various": [
     {
       "title": "Woman drugged and advertised for sex by husband speaks out as abusers found guilty",
       "link": "https://www.bbc.co.uk/news/articles/crq5n5pe935no?at_medium=RSS&at_campaign=rss",
-      "desc": "Joanne Young said the actions of her husband over 13 years had \"cost me my life as I knew it.\"",
+      "desc": "Joanne Young said the actions of her husband over 13 years had \"cost me my life as I knew it\".",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db7d/live/acdc01e0-e467-11f1-99b6-a35a62fa4264.jpg"
     },
     {
-      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-      "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
-      "desc": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire indus...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b7d/live/94082910-e452-11f1-a094-5fdc692f3e33.jpg"
+      "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+      "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
+      "desc": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3db/live/57d6aa20-d769-11f1-a956-ff083523ef77.jpg"
     },
     {
-      "title": "Bowen: Myanmar genocide verdict is historic and could have far-reaching implications",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly58ndgd0no?at_medium=RSS&at_campaign=rss",
-      "desc": "Lawyers will study the way in which Gambia proved the crucial point that Myanmar intended to commit ...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c260/live/4384ee10-e439-11f1-99b6-a35a62fa4264.jpg"
+      "title": "UK-EU mobility scheme to benefit up to 200,000 young people a year, BBC understands",
+      "link": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
+      "desc": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and car...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e07f/live/98894190-e498-11f1-9cd2-85bef55939bc.jpg"
     },
     {
-      "title": "Covid inquiry report: key findings on testing, tracing and 'the pingdemic'",
-      "link": "https://www.bbc.co.uk/news/articles/crx20q8ql4gwo?at_medium=RSS&at_campaign=rss",
-      "desc": "Early efforts to contain coronavirus \"were doomed to fail\", the public inquiry has found. Here's wha...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/907e/live/c7d0e7d0-e37d-11f1-b879-03485a55c082.png"
+      "title": "GTA 6 breaks records as sales top $2.3bn - industry estimate",
+      "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+      "desc": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch eve...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ccb/live/0f9f2750-e493-11f1-a094-5fdc692f3e33.jpg"
     },
     {
-      "title": "Watch: What did Trump, Xi and Putin get out of their historic meeting?",
-      "link": "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&at_campaign=rss",
-      "desc": "Trump, Putin and Xi have issued a \"joint declaration of peace\" after historical trilateral talks, bu...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f353/live/34533260-e445-11f1-99b6-a35a62fa4264.jpg"
+      "title": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
+      "desc": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f02b/live/b8c81f90-e447-11f1-9192-3924a59e54c7.jpg"
     },
     {
-      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-      "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
-      "desc": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fd8/live/5c168a90-e44a-11f1-a094-5fdc692f3e33.jpg"
+      "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
+      "link": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss",
+      "desc": "Daily pill daraxonrasib appears to shrink and possibly even eliminate tumours in some patients with ...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ca3/live/9b3a4680-e445-11f1-9192-3924a59e54c7.jpg"
     }
   ]
 }
