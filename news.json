@@ -1,6 +1,12 @@
 {
   "games": [
     {
+      "title": "GTA 6’s Console Wars Are Already Over, And Xbox Lost",
+      "link": "https://www.gamespot.com/articles/gta-6-console-wars-are-already-over-and-xbox-lost/",
+      "desc": "Grand Theft Auto games have never shied away from satirizing life, and GTA 6 has plenty of digs at f...",
+      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-JoySysytem.jpg?w=300"
+    },
+    {
       "title": "GTA 6 Nearing 25 Million Copies Sold And $2.4 Billion In Revenue On Day 1, Report Says; Take-Two To Reveal Official Sales Data Soon",
       "link": "https://www.gamespot.com/articles/gta-6-has-sold-almost-8-million-copies-so-far-and-ps5-is-dominating-the-split-of-course/",
       "desc": "The video game research company Sensor Tower has updated its GTA 6 sales tracker to reveal the lates...",
@@ -29,12 +35,6 @@
       "link": "https://www.gamespot.com/articles/want-to-start-lifting-effectively-gta-6-is-a-good-teacher/",
       "desc": "Rockstar's Grand Theft Auto 6 is finally here, and people are discovering all manner of little detai...",
       "img": "https://www.gamespot.com/wp-content/uploads/2026/11/Grand-Theft-Auto-VI_20261101163230_.jpg?w=300"
-    },
-    {
-      "title": "You Can Play Grand Theft Auto 6 At 60fps Using This Absurdly Complicated Method",
-      "link": "https://www.gamespot.com/articles/you-can-play-grand-theft-auto-6-at-60fps-using-this-absurdly-complicated-method/",
-      "desc": "Grand Theft Auto VI is finally out for consoles, and it's every bit the visual showcase of the gener...",
-      "img": "https://www.gamespot.com/wp-content/uploads/2026/05/Grand-Theft-Auto-VI-Trailer-1-1-16-screenshot-Large.jpeg?w=300"
     }
   ],
   "movies": [
@@ -77,116 +77,116 @@
   ],
   "tech": [
     {
-      "title": "Get an RTX 5070 for just $839.99, a rare savings in the GPU wasteland",
-      "link": "https://www.tomshardware.com/pc-components/get-an-rtx-5070-for-just-usd839-99-a-rare-savings-in-the-gpu-wasteland-msi-geforce-rtx-5070-ventus-2x-oc-12-gb-is-currently-on-sale-at-newegg",
-      "desc": "Get an RTX 5070 for just $839.99 — MSI GeForce RTX 5070 Ventus 2X OC  12 GB is currently on sale at ...",
-      "img": "https://cdn.mos.cms.futurecdn.net/x5Wt639xFBjw8uibLD6PtX-1920-80.jpg"
+      "title": "Jensen Huang question gets reporter ejected from Trump-Xi-Putin summit",
+      "link": "https://www.tomshardware.com/tech-industry/policy/jensen-huang-question-gets-reporter-ejected-from-trump-xi-putin-summit-journalist-asked-us-president-if-former-nvidia-ceo-had-been-disloyal-to-the-united-states",
+      "desc": "Annmarie Hordern, Bloomberg's chief political correspondent and co-host of its leading program, was ...",
+      "img": "https://cdn.mos.cms.futurecdn.net/Jj5rQBoFuhyRFUsAEEPdUj-1920-80.png"
     },
     {
-      "title": "Score TP-Link Archer with full Wi-Fi 7 support and 10 Gbps wired networking for incredible 55% off its regular price",
-      "link": "https://www.tomshardware.com/networking/routers/score-tp-link-archer-with-full-wi-fi-7-support-and-10-gbps-wired-networking-for-incredible-55-percent-off-its-regular-price-be9500-router-is-now-just-usd89-99-a-steep-discount-from-the-regular-usd199-99-price",
-      "desc": "Get TP-Link Archer BE9500 with full Wi-Fi 7 support and 10 Gbps WAN for just $89.99, or 55% off its ...",
-      "img": "https://cdn.mos.cms.futurecdn.net/vsNY4VMBQw9aPkkMSiUbZY-1920-80.png"
+      "title": "Lawyer’s $9,450 private AI server with 12 used Nvidia V100s now runs every DeepSeek V4.1 Flash expert",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyers-usd9-450-private-ai-server-of-12-used-nvidia-v100s-now-runs-every-deepseek-v4-1-flash-expert-at-4-bit-nvfp4-up-to-184-tokens-per-second-on-code-and-long-documents-start-answering-in-about-half-the-time",
+      "desc": "A lawyer’s private AI server now runs DeepSeek V4.1 Flash on 12 used Nvidia V100 GPUs, with every ex...",
+      "img": "https://cdn.mos.cms.futurecdn.net/qrcXVadrnHCujLevKcYhvG-1920-80.jpg"
     },
     {
-      "title": "New Windows 11 lock screen zero-day unlocks BitLocker-protected PCs with just a few keystrokes",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/new-windows-11-lock-screen-zero-day-unlocks-bitlocker-protected-pcs-with-just-a-few-keystrokes-win-u-keyboard-trick-lets-physical-attackers-run-usb-payloads-or-create-new-admin-accounts",
-      "desc": "Windows 0-day lets attackers run software by partially bypass the lock screen with just some keystro...",
-      "img": "https://cdn.mos.cms.futurecdn.net/sR3wn4pbkQv44DiMtCfRCY-1920-80.jpg"
+      "title": "MSI EdgeMesa N AI+ review — RTX Spark power comes to Windows on Arm desktops, but there are trade-offs",
+      "link": "https://www.tomshardware.com/desktops/mini-pcs/msi-edgemesa-n-ai-plus-review",
+      "desc": "MSI's EdgeMesa N AI+ brings Nvidia RTX Spark N1X power to a Windows-on-Arm mini PC with 128GB of uni...",
+      "img": "https://cdn.mos.cms.futurecdn.net/WPYDMgTLPyiFtgLo3Et3bn-1920-80.jpg"
     },
     {
-      "title": "AI data center power demand will double by 2030 thanks to $4 trillion in spending, adding an entire Great Britain to energy strain",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-center-power-demand-will-double-by-2030-thanks-to-usd4-trillion-in-spending-adding-an-entire-great-britain-to-energy-strain-93-large-ai-factories-with-projected-capacity-of-around-50-gigawatts",
-      "desc": "IEA's report says that power production and distribution is barely keeping up with the rapid growth ...",
-      "img": "https://cdn.mos.cms.futurecdn.net/3pB5DDnWsYfMZvsBuMorfF-1920-80.png"
+      "title": "Amazon lists the Asus ROG Strix G16 at a new all-time low price of $1,179",
+      "link": "https://www.tomshardware.com/laptops/gaming-laptops/amazon-lists-the-asus-rog-strix-g16-at-a-new-all-time-low-price-of-usd1-179-rtx-5060-powered-gaming-laptop-comes-with-16gb-of-ddr5-ram-and-a-1tb-ssd",
+      "desc": "Pick up a new gaming laptop for less with $575 off the Asus ROG G16 at Amazon.",
+      "img": "https://cdn.mos.cms.futurecdn.net/ZUxYdLw5BLA2Gktg8o7JqD-1920-80.jpg"
     },
     {
-      "title": "Intel continues layoffs with cuts to its IT department, hundreds of employees reportedly affected",
-      "link": "https://www.tomshardware.com/pc-components/cpus/intel-continues-layoffs-with-cuts-to-its-it-department-hundreds-of-employees-reportedly-affected-companys-workforce-reduced-by-27-800-under-lip-bu-tan",
-      "desc": "Intel continues to reduce headcount, IT department affected this time.",
-      "img": "https://cdn.mos.cms.futurecdn.net/HtxYQrfbwNDmi4SjXbdcqn-1920-80.jpg"
+      "title": "Power and cooling limits force AI clusters with 100,000+ accelerators to use multiple data centers",
+      "link": "https://www.tomshardware.com/tech-industry/supercomputers/power-and-cooling-limits-push-100-000-accelerator-ai-clusters-past-single-data-centers-google-cisco-and-marvell-target-scale-across-networking-across-regions",
+      "desc": "Faster GPUs are no longer enough as power constraints, network congestion, and communication overhea...",
+      "img": "https://cdn.mos.cms.futurecdn.net/MQEF3FGDnEs6gC4KtkGjKG-1920-80.jpg"
     },
     {
-      "title": "Supermicro sued by shareholders over claims Nvidia executive’s wife knew about illicit China sales",
-      "link": "https://www.tomshardware.com/tech-industry/big-tech/supermicro-sued-by-shareholders-over-claims-nvidia-executives-wife-must-have-known-about-illicit-china-sales-former-chief-growth-officer-cenly-chen-is-married-to-outgoing-nvidia-vp-jay-puri",
-      "desc": "A civil lawsuit claimed that there was \"no way Cenly Chen lacked knowledge about the company's illic...",
-      "img": "https://cdn.mos.cms.futurecdn.net/Rs4SbA8spx4NMQeGPyN2G8-1920-80.jpg"
+      "title": "Score a huge 49% saving on a 2TB Samsung 9100 Pro SSD while you can",
+      "link": "https://www.tomshardware.com/pc-components/ssds/score-a-huge-49-percent-saving-on-a-2tb-samsung-9100-pro-ssd-while-you-can-now-17-5-cents-per-gb-ultra-fast-gen-5-drive-is-the-perfect-pc-storage-upgrade-down-to-usd349-99",
+      "desc": "A huge discount on Amazon has brought the Gen 5 2TB Samsung 9100 Pro down to $349.99, an almost half...",
+      "img": "https://cdn.mos.cms.futurecdn.net/dLCGM4xDdqrkkKcVv3vJrC-1920-80.png"
     }
   ],
   "crypto": [
     {
-      "title": "Institutions pile back into US Bitcoin ETFs in Q3 after selling streak",
-      "link": "https://cointelegraph.com/markets/institutional-bitcoin-etf-holdings-clock-record-quarter-after-selling-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Asset managers added the equivalent of 49,229 Bitcoin to their US Bitcoin ETF holdings in the third ...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M399X14JGMZWTWX9787D6BTC/hi-what-are-inflows-and-outflows-on-crypto-exchanges-bitcoin-etf.jpg"
+      "title": "Binance hacker moves nearly $600M in ETH, routes funds through THORChain, Chainflip",
+      "link": "https://cointelegraph.com/news/binance-hacker-600m-eth-routes-thorchain-chainflip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "OnChain Lens tracked nearly $600 million in ETH transfers over two days as the Binance hackers moved...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KZARS72JZC0FSMD8WX2PAG/aml-money-laundering-crypto-1.jpg"
     },
     {
-      "title": "Ledger CTO Charles Guillemet to leave after nine years at company",
-      "link": "https://cointelegraph.com/news/ledger-cto-charles-guillemet-to-leave-after-nine-years-at-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Guillemet helped establish Ledger’s Donjon security lab and says his departure has been planned for ...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7V13YNHJY11MWW37WA0R9X8/hi-can-locked-liquidity-still-put-defi-users-at-risk.jpg"
+      "title": "VanEck to end Gemini ETF custody deals, keeps Coinbase",
+      "link": "https://cointelegraph.com/news/vaneck-gemini-etf-custody-end-keep-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "VanEck plans to end Gemini’s custody agreements for three crypto ETFs in February 2027, while Coinba...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7W70S79VWG5A9Q3C9MCT7R8/vvv.png"
     },
     {
-      "title": "Binance’s $6.5B freeze order, Hong Kong ‘suspicious’ of HYPE: Asia Express",
-      "link": "https://cointelegraph.com/magazine/binances-65b-freeze-order-hong-kong-suspicious-of-hype-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Binance obtains court orders freezing assets stolen in October’s hack. Hong Kong warns citizens abou...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7TW6KD0H9BEVC27QRWR5CP8/asia-express-jacket.png"
+      "title": "Bitcoin nears repeat of chart pattern that preceded 2023’s $25K retest",
+      "link": "https://cointelegraph.com/markets/bitcoin-first-death-cross-repeat-2023-bottom-25k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Bitcoin’s 21-day moving average fell below its 200-day average, and analyst Keith Alan expects a sec...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7W5JM0BJ0Z5FQEW9GD5YQE3/article-covers-252484-bitcoin-price-chart-death-cross-back-late-cycle-fears-960x640.webp"
     },
     {
-      "title": "MoonPay seeks US bank charter for stablecoin, custody services",
-      "link": "https://cointelegraph.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "MoonPay’s proposed national trust bank would offer stablecoin issuance and redemption, reserve manag...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7TRZBKZ9CRA2JGQ7AM7G08Z/hi-company-wants-to-launch-digital-currency-bank-stablecoin-eu-1.png"
+      "title": "BlackRock’s IBIT loses record $541M amid Anthropic market debut",
+      "link": "https://cointelegraph.com/markets/blackrock-ibit-record-single-day-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "BlackRock’s IBIT posted its largest daily outflow on record, taking three-session outflows near $900...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7VWM2HDCADQ2AM2AK506KFS/btc-1.png"
     },
     {
-      "title": "Hyperliquid Anthropic futures priced within 1% of Nasdaq opening price",
-      "link": "https://cointelegraph.com/markets/hyperliquid-anthropic-futures-nasdaq-opening-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Hyperliquid traders priced Anthropic futures within 1% of the stock’s Nasdaq opening price, as tradi...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7TJNVM868BCDV9G2DVS1TSG/hi-kraken-ipo.png"
+      "title": "SEC charges eight firms over fake crypto platforms tied to $37M fraud",
+      "link": "https://cointelegraph.com/news/sec-charges-eight-fake-crypto-platforms-37m-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Fraudsters allegedly used social media ads, chat groups and forged SEC filings to defraud US investo...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7VWVJFSAZCDB7METDY1P77G/hi-otc-over-the-counter-trade-fraud.jpg"
     },
     {
-      "title": "Trump’s SEC nominee Johnson backs formal rulemaking for tokenized stock trading",
-      "link": "https://cointelegraph.com/news/sec-nominees-johnson-levine-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Former CFTC Commissioner and Democrat Kristin Johnson and ex-SEC aide Steven Levine appeared before ...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7TFD02FRZ10BM2N4QZ1NBPG/hi-the-evolution-of-crypto-regulations-in-2024-what-it-means-for-2027.png"
+      "title": "Anthropic’s $81B IPO draws half the net retail buying of SpaceX’s",
+      "link": "https://cointelegraph.com/markets/anthropic-ipo-spacex-retail-buying-first-day-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Retail investors traded $772 million in Anthropic shares on Thursday, the most Vanda Research has re...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7VR4SBEADEQX33JBG2WPEJD/hi-ipo-market-september-overview.jpg"
     }
   ],
   "various": [
     {
-      "title": "Woman drugged and advertised for sex by husband speaks out as abusers found guilty",
-      "link": "https://www.bbc.co.uk/news/articles/crq5n5pe935no?at_medium=RSS&at_campaign=rss",
-      "desc": "Joanne Young said the actions of her husband over 13 years had \"cost me my life as I knew it\".",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db7d/live/acdc01e0-e467-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+      "title": "Secret UK cyber operation protected tens of thousands of fridges from hackers",
       "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
       "desc": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3db/live/57d6aa20-d769-11f1-a956-ff083523ef77.jpg"
     },
     {
-      "title": "UK-EU mobility scheme to benefit up to 200,000 young people a year, BBC understands",
-      "link": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
-      "desc": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and car...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e07f/live/98894190-e498-11f1-9cd2-85bef55939bc.jpg"
+      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+      "desc": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f9c/live/c3767190-e4e1-11f1-a094-5fdc692f3e33.jpg"
     },
     {
-      "title": "GTA 6 breaks records as sales top $2.3bn - industry estimate",
-      "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-      "desc": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch eve...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ccb/live/0f9f2750-e493-11f1-a094-5fdc692f3e33.jpg"
+      "title": "Calls for consent law change after Joanne Young rape case",
+      "link": "https://www.bbc.co.uk/news/articles/cqy4jvprxyrdo?at_medium=RSS&at_campaign=rss",
+      "desc": "Joanne Young's daughter joins her mother in calling for a change to the law on consent.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bf1/live/0fd5d6a0-e4b2-11f1-a1dc-9f4190df3aa7.png"
     },
     {
-      "title": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
-      "desc": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f02b/live/b8c81f90-e447-11f1-9192-3924a59e54c7.jpg"
+      "title": "'Dishonest' police officers guilty of misconduct over fatal crash",
+      "link": "https://www.bbc.co.uk/news/articles/cm2klg8512z0o?at_medium=RSS&at_campaign=rss",
+      "desc": "PC Richard Hardwick and PC Lauren Livingstone faced allegations over their actions around a 2023 cra...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68b8/live/57700650-e4e1-11f1-99b6-a35a62fa4264.jpg"
     },
     {
       "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
       "link": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss",
       "desc": "Daily pill daraxonrasib appears to shrink and possibly even eliminate tumours in some patients with ...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ca3/live/9b3a4680-e445-11f1-9192-3924a59e54c7.jpg"
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4568/live/3c973e20-e4be-11f1-99a1-253766e7ad8b.png"
+    },
+    {
+      "title": "UK braces for coldest night of autumn so far with temperature of -10C forecast",
+      "link": "https://www.bbc.co.uk/weather/articles/c30rkzwvwy49o?at_medium=RSS&at_campaign=rss",
+      "desc": "Friday night is expected to be the coldest of the autumn so far with temperatures dropping as low as...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/deb6/live/abdec670-e4c5-11f1-a094-5fdc692f3e33.jpg"
     }
   ]
 }
