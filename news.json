@@ -1,6 +1,18 @@
 {
   "games": [
     {
+      "title": "Cheeky Malware Linked To Popular Gacha Game Cracks City Security",
+      "link": "https://www.gamespot.com/articles/cheeky-malware-linked-to-popular-gacha-game-cracks-city-security/",
+      "desc": "East Asia--and particularly Japan--has been suffering a rash of cybersecurity incidents as of late, ...",
+      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/Clipboard_11-20-2026_02.jpg?w=300"
+    },
+    {
+      "title": "GTA 6 Players Captivated By Mandy Apparently Include A Former Nintendo President",
+      "link": "https://www.gamespot.com/articles/gta-6-players-captivated-by-mandy-apparently-include-a-former-nintendo-president/",
+      "desc": "A character named Mandy has the attention of many Grand Theft Auto 6 players--and that appears to in...",
+      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-Mandy-screenshot.jpg?w=300"
+    },
+    {
       "title": "GTA 6 Has Dexter References, And Now Dexter Himself Has Reacted",
       "link": "https://www.gamespot.com/articles/gta-6-has-dexter-references-and-now-dexter-himself-has-reacted/",
       "desc": "Actor Michael C. Hall has reacted to how GTA 6 features references to his Miami-set TV show Dexter, ...",
@@ -23,21 +35,33 @@
       "link": "https://www.gamespot.com/articles/gta-6-is-crashing-on-some-ps5s-with-ce-108255-1-error-code/",
       "desc": "After years of waiting, GTA fans can finally play GTA 6, but some players are encountering a dreaded...",
       "img": "https://www.gamespot.com/wp-content/uploads/2026/11/GTALucia.png?w=300"
-    },
-    {
-      "title": "GTA 6 Doesn’t Have Any Doja Cat Music, And She Didn’t Censor Her Message To Rockstar",
-      "link": "https://www.gamespot.com/articles/gta-6-doesnt-have-any-doja-cat-music-and-she-didnt-censor-her-message-to-rockstar/",
-      "desc": "Rockstar's Grand Theft Auto 6 is out now, and the game features a lot of music from famous real-worl...",
-      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/Lucia_Caminos_12.jpg?w=300"
-    },
-    {
-      "title": "GTA 7? Please, Let GTA 6 Cook First, Take-Two CEO Says",
-      "link": "https://www.gamespot.com/articles/gta-7-please-let-gta-6-cook-first-take-two-ceo-says/",
-      "desc": "Rockstar Games just launched Grand Theft Auto 6 on November 19 to rave reviews and huge sales. Every...",
-      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/DreQuan_Priest_01-1.jpg?w=300"
     }
   ],
   "movies": [
+    {
+      "title": "Someone Made Obsession Look Like A Disney Channel Movie, And Why Does This Fit SO Well?",
+      "link": "https://www.cinemablend.com/movies/obsession-disney-channel-movie-fits-so-well-inde-navarrette-michael-johnston",
+      "desc": "I did not see this crossover coming.",
+      "img": "https://cdn.mos.cms.futurecdn.net/Kg6C9KchEDPFGiaroWDXLJ-1920-80.png"
+    },
+    {
+      "title": "I Rewatched Anthony Bourdain's Tony Because It's Heartwarming (But Making It Felt Like 'Being Stabbed In The Stomach')",
+      "link": "https://www.cinemablend.com/movies/i-rewatched-anthony-bourdain-tony-heartwarming-making-felt-stabbed-stomach-matt-johnson-dominic-sessa",
+      "desc": "The movie is wonderful, but I see their point.",
+      "img": "https://cdn.mos.cms.futurecdn.net/6t7WRwAcNW2rcMwZzkLUiB-1920-80.jpg"
+    },
+    {
+      "title": "Billie From Hexed Has Just Landed At Disney Parks, But The Directors Already Have Bigger Ideas",
+      "link": "https://www.cinemablend.com/theme-parks/billie-hexed-landed-disney-parks-directors-bigger-ideas",
+      "desc": "This would be magical.",
+      "img": "https://cdn.mos.cms.futurecdn.net/BQunGBP2JQDp5Ae8KsuftR-1920-80.png"
+    },
+    {
+      "title": "I Thought Rocky And Creed's Big Fight Scene Would Be The End Of I Play Rocky. So What Happened?",
+      "link": "https://www.cinemablend.com/movies/i-thought-rocky-creed-fight-scene-end-i-play-rocky-what-happened-credits",
+      "desc": "And why is it in the credits?",
+      "img": "https://cdn.mos.cms.futurecdn.net/MnCaMmdEtr5YjpbXjTjVWd-1920-80.jpg"
+    },
     {
       "title": "Channing Tatum's Josephine Is Not An Easy Watch, But Here's Why I Think It's A Must-See Film",
       "link": "https://www.cinemablend.com/movies/channing-tatum-josephine-not-easy-watch-why-must-see-film",
@@ -49,30 +73,6 @@
       "link": "https://www.cinemablend.com/movies/fired-home-alone-star-sad-every-christmas-has-put-up-with-more-stories-what-happened-daniel-roebuck-daniel-stern",
       "desc": "It’s not such a merry Christmas.",
       "img": "https://cdn.mos.cms.futurecdn.net/SgQk2s5Lk4hfy5cTDxXEyT-1920-80.jpg"
-    },
-    {
-      "title": "This Sunrise On The Reaping BTS Photodump Just Solved A Huge Hunger Games Mystery",
-      "link": "https://www.cinemablend.com/movies/sunrise-on-the-reaping-bts-photodump-solved-huge-hunger-games-mystery-lucy-gray-baird",
-      "desc": "There's nothing you can take from her.",
-      "img": "https://cdn.mos.cms.futurecdn.net/ko4Qgw7ZpqZnKiQVQ8YkPY-1920-80.jpg"
-    },
-    {
-      "title": "Mckenna Grace Rocked Purple, And I Can’t Decide If It’s A Tribute To Maysilee Or Scooby-Doo’s Daphne",
-      "link": "https://www.cinemablend.com/movies/mckenna-grace-rocked-purple-cant-decide-tribute-to-maysilee-or-scooby-doo-daphne",
-      "desc": "Either way, purple is her color.",
-      "img": "https://cdn.mos.cms.futurecdn.net/xNgeeoqghUxLxkueh5wCMU-1920-80.jpg"
-    },
-    {
-      "title": "I Just Learned The Incredible Amount Johnny Depp Earned, Then Lost After Pirates",
-      "link": "https://www.cinemablend.com/movies/just-learned-incredible-amount-johnny-depp-earned-then-lost-after-pirates",
-      "desc": "It’s not surprising, but it IS shocking.",
-      "img": "https://cdn.mos.cms.futurecdn.net/kbrPTcXToqEN7pQsHCzDsd-1920-80.jpg"
-    },
-    {
-      "title": "What's Next, Doomsday? The Internet Can't Stop With The Robert Pattinson Is In Everything Jokes",
-      "link": "https://www.cinemablend.com/movies/whats-next-doomsday-internet-cant-stop-with-robert-pattinson-in-everything-jokes",
-      "desc": "The Bond news is the gift that keeps on giving.",
-      "img": "https://cdn.mos.cms.futurecdn.net/zpHmHtQShQaFGNBqukyGib-1920-80.jpg"
     }
   ],
   "tech": [
@@ -83,7 +83,7 @@
       "img": "https://cdn.mos.cms.futurecdn.net/bjpdQwBbxRAym237ixtkPo-1920-80.jpg"
     },
     {
-      "title": "Save $2,400 on a tricked-out Corsair RTX 5090 prebuilt in Black Friday run-up sale — sweet spec list also includes 9950X3D, 64GB RAM, and 4TB storage",
+      "title": "Save $2,400 on a tricked-out Corsair RTX 5090 prebuilt gaming PC in Black Friday run-up sale — sweet spec list also includes 9950X3D, 64GB RAM, and 4TB storage",
       "link": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd2-400-on-a-tricked-out-corsair-rtx-5090-prebuilt-in-black-friday-run-up-sale-sweet-spec-list-also-includes-9950x3d-64gb-ram-and-4tb-storage",
       "desc": "Prices for RTX 5090 prebuilt PCs have spiked above five figures almost everywhere, but you can still...",
       "img": "https://cdn.mos.cms.futurecdn.net/6JyFA4XWM4oKDGDKs5qFeh-1920-80.jpg"
@@ -165,16 +165,10 @@
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd6d/live/fa851d90-e4fe-11f1-a8e4-b1e12a49db15.jpg"
     },
     {
-      "title": "Russian missile hits Poland as Kyiv's allies hold military exercise, says Tusk",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-      "desc": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbb7/live/b5de9720-e4ea-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "title": "What we know about the latest Russian missile strikes on Ukraine",
-      "link": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
-      "desc": "What we know about the latest Russian missile strikes on Ukraine.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2f6/live/3145d4a0-e4f0-11f1-99b6-a35a62fa4264.jpg"
+      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "desc": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into c...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f08/live/599393b0-e50f-11f1-99b6-a35a62fa4264.jpg"
     },
     {
       "title": "Man guilty of murdering woman he groomed on fetish site",
@@ -183,10 +177,16 @@
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f693/live/ae3fccb0-89c7-11f1-a501-d9a9d2e9b6c1.jpg"
     },
     {
-      "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-      "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-      "desc": "Other tech companies have also taken a hit as share markets broadly slump.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f08/live/599393b0-e50f-11f1-99b6-a35a62fa4264.jpg"
+      "title": "Russian missile hits Poland as Kyiv's allies hold military exercise, says Tusk",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+      "desc": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbb7/live/b5de9720-e4ea-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "title": "Sales of baby sleeping bag halted by Next after new mum raises alarm",
+      "link": "https://www.bbc.co.uk/news/articles/cw9874p114dro?at_medium=RSS&at_campaign=rss",
+      "desc": "The sleeping bag’s neck hole was far too big, meaning Emma's baby daughter could wriggle down and it...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fff/live/40c02ae0-e50c-11f1-b40b-5f46e8cf687c.jpg"
     }
   ]
 }
