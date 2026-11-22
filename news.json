@@ -39,81 +39,93 @@
   ],
   "movies": [
     {
+      "title": "The Hunger Games Prequel Just Put Up A Huge Number At The Box Office",
+      "link": "https://www.cinemablend.com/movies/the-hunger-games-prequel-sunrise-reaping-i-play-rocky",
+      "desc": "The Hunger Games is back in a big way.",
+      "img": "https://cdn.mos.cms.futurecdn.net/frGcSa6EqJZ3BQ4f7qMY7V-1920-80.jpg"
+    },
+    {
+      "title": "Minutes Before Macaulay Culkin’s Home Alone Sequel News, The OG Director Said It Couldn’t Happen",
+      "link": "https://www.cinemablend.com/movies/minutes-before-macaulay-culkin-home-alone-sequel-news-og-director-shared-doubts",
+      "desc": "A bit of awkward timing, but the filmmaker makes some good points.",
+      "img": "https://cdn.mos.cms.futurecdn.net/HwjqJLACygTRWBAamaUfs6-1920-80.jpg"
+    },
+    {
+      "title": "5 Of The Best Sci-Fi Movies From This Century Are All Streaming In The Same Place",
+      "link": "https://www.cinemablend.com/streaming-news/great-sci-fi-movies-this-century-streaming-one-place",
+      "desc": "Get the popcorn ready and strap in!",
+      "img": "https://cdn.mos.cms.futurecdn.net/ZbHkMoYqV7ZHBi6fqsrUTk-1920-80.jpg"
+    },
+    {
+      "title": "Why Gen Z Is Claiming Robert Pattinson As Their James Bond",
+      "link": "https://www.cinemablend.com/movies/why-gen-z-claiming-robert-pattinson-as-their-james-bond",
+      "desc": "He's Z, Gen Z.",
+      "img": "https://cdn.mos.cms.futurecdn.net/Zf93vfLQQtZY36UM37bQZR-1920-80.png"
+    },
+    {
+      "title": "Jennifer Lawrence Had One Complaint About Playing Mystique In X-Men I Didn't See Coming",
+      "link": "https://www.cinemablend.com/movies/jennifer-lawrence-one-complaint-playing-mystique-x-men-wig-surprise-mullet",
+      "desc": "Just when you think you’ve heard everything.",
+      "img": "https://cdn.mos.cms.futurecdn.net/5sKfx9RYbWtuWDuzq3BZ5K-1920-80.jpg"
+    },
+    {
       "title": "John Madden Famously Quit The Raiders. One Madden Star Had To Film This On Day 1",
       "link": "https://www.cinemablend.com/movies/madden-star-sienna-miller-first-day-filmed-john-madden-quitting-raiders",
       "desc": "Talk about pressure on your first day!",
       "img": "https://cdn.mos.cms.futurecdn.net/nt4gFKkzMV78C78pdhszGa-1920-80.jpg"
-    },
-    {
-      "title": "Olivia Colman Saw Those Wild Wicker Memes, And I Love Her Thoughts On Them",
-      "link": "https://www.cinemablend.com/movies/olivia-colman-wild-wicker-memes-love-thoughts-ikea-popcorn-bucket",
-      "desc": "\"Guys, we’ve made it.\"",
-      "img": "https://cdn.mos.cms.futurecdn.net/47ks6hJHyqZZ2o92MThiTe-1920-80.png"
-    },
-    {
-      "title": "What Inspired Glen Powell To Play A Country Singer? It Involves Shotgunning Beer With Luke Combs",
-      "link": "https://www.cinemablend.com/movies/inspired-glen-powell-play-country-singer-comeback-king-involves-shotgunning-beer-luke-combs-twisters",
-      "desc": "Certainly not mad about seeing Glen Powell in a cowboy hat again.",
-      "img": "https://cdn.mos.cms.futurecdn.net/v2AHJUZxc9ShAakYAxhTLk-1920-80.jpg"
-    },
-    {
-      "title": "I Thought People Would Recognize Andrew Scott From Sherlock, But Another Role Comes Up Way More",
-      "link": "https://www.cinemablend.com/movies/i-thought-people-would-recognize-andrew-scott-from-sherlock-but-another-role-comes-up-way-more",
-      "desc": "His appeal goes far beyond Baker Street.",
-      "img": "https://cdn.mos.cms.futurecdn.net/gPWYfBNQ9BxSPWgzsRbe6Z-1920-80.jpg"
-    },
-    {
-      "title": "I Didn’t See A Bikini Wax Story Coming When Ariana Grande Was Asked About Hearing Her Music In Public",
-      "link": "https://www.cinemablend.com/streaming-news/ariana-grande-shares-bikini-wax-story-while-discussing-hearing-her-music-publicly",
-      "desc": "I never would have guessed.",
-      "img": "https://cdn.mos.cms.futurecdn.net/XTzjqhudoZfdcQox9gj9UD-1920-80.jpg"
-    },
-    {
-      "title": "I Honestly Didn't See ‘Bird’ Becoming The Hot New Red Carpet Trend, But We Can Thank Hunger Games And Rosalía",
-      "link": "https://www.cinemablend.com/movies/bird-red-carpet-trend-thank-hunger-games-rosalia-whitney-peak-mckenna-grace",
-      "desc": "This trend seems to be taking flight.",
-      "img": "https://cdn.mos.cms.futurecdn.net/s46pYmGDEpcS2D6ifekWWo-1920-80.jpg"
     }
   ],
   "tech": [
     {
-      "title": "Ditch cloud subscriptions with a $132 discount on a 4-Bay UGreen DXP4800 GT NAS enclosure in Amazon Black Friday deal — offers dual 10GbE ports and supports up to 144TB of storage",
-      "link": "https://www.tomshardware.com/pc-components/nas/ditch-cloud-subscriptions-with-a-usd132-discount-on-a-4-bay-ugreen-dxp4800-gt-nas-enclosure-in-amazon-black-friday-deal-offers-dual-10gbe-ports-and-supports-up-to-144tb-of-storage",
-      "desc": "For those looking to ditch cloud storage this Black Friday, UGreen's DXP4800 GT 4-bay NAS enclosure ...",
-      "img": "https://cdn.mos.cms.futurecdn.net/i8rwB8URaczwLpZfHZafV9-1920-80.jpg"
+      "title": "Maker builds Mad Max-inspired wall of 100 Noctua PC fans",
+      "link": "https://www.tomshardware.com/pc-components/case-fans/maker-builds-mad-max-inspired-wall-of-100-noctua-pc-fans-stress-tests-usd2-355-open-source-openfan-xl-controller",
+      "desc": "A wall of 100 Noctua PC fans was built by maker Sasa Karanovic because \"why not\" and to demo his new...",
+      "img": "https://cdn.mos.cms.futurecdn.net/Y3DebBKkA5ePUXBxKFiiX3-1920-80.jpg"
     },
     {
-      "title": "MSI's magnificent 32-inch 4K QD-OLED gaming monitor tumbles to just $569 — save $130 at B&H Photo with this Black Friday MAG 321UP deal, the perfect gaming upgrade for your PC",
-      "link": "https://www.tomshardware.com/monitors/gaming-monitors/msis-magnificent-32-inch-4k-qd-oled-gaming-monitor-tumbles-to-just-usd569-save-usd130-at-b-and-h-photo-with-this-black-friday-mag-321up-deal-the-perfect-gaming-upgrade-for-your-pc",
-      "desc": "Save $130 on this gorgeous 32-inch QD-OLED gaming monitor from MSI and experience crisp visuals in 4...",
-      "img": "https://cdn.mos.cms.futurecdn.net/7hki2krtRZm5yV8JJwiB4n-1920-80.jpg"
+      "title": "Lenovo Pro 9n review: 18-core RTX Spark in a fancy chassis",
+      "link": "https://www.tomshardware.com/laptops/lenovo-pro-9n-review",
+      "desc": "The Lenovo Pro 9n is a lighter alternative to the Surface Laptop Ultra, offering a vivid OLED panel ...",
+      "img": "https://cdn.mos.cms.futurecdn.net/ZXSfLv5CgGWf6ginq5ZsFA-1920-80.jpg"
     },
     {
-      "title": "OLED gaming laptop with RTX 5060 and Intel Core Ultra 7 CPU price crashes by $650 in Black Friday offer — Lenovo Legion 5i laptop drops to $1,349 with free games at B&H",
-      "link": "https://www.tomshardware.com/laptops/gaming-laptops/oled-gaming-laptop-with-rtx-5060-and-intel-core-ultra-7-cpu-price-crashes-by-usd650-in-black-friday-offer-lenovo-legion-5i-laptop-drops-to-usd1-349-with-free-games-at-b-and-h",
-      "desc": "Getting a gaming laptop this holiday season doesn't have to mean spending thousands of dollars, as t...",
-      "img": "https://cdn.mos.cms.futurecdn.net/cTh3nz3Ucy6S4o2GLZ38Mb-1920-80.jpg"
+      "title": "Arm yourself against online threats with 30% off YubiKey 5C NFC bundles at Best Buy",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/arm-yourself-against-online-threats-with-30-percent-off-yubikey-5c-nfc-bundles-at-best-buy-at-usd37-per-key-this-deal-could-save-you-more-than-just-cash",
+      "desc": "The YubiKey 5 NFC security key has dropped to an effective $ 37 per key at Best Buy when purchasing ...",
+      "img": "https://cdn.mos.cms.futurecdn.net/9jsuZfixRJWfn4dcgK92eR-1920-80.jpg"
     },
     {
-      "title": "Alienware Aurora PC with RTX 5070, 32GB of RAM drops to $1,899 in Amazon Black Friday offer — Core Ultra 7 equipped PC is one of the best value prebuilt deals we’ve seen so far",
-      "link": "https://www.tomshardware.com/desktops/gaming-pcs/alienware-aurora-pc-with-rtx-5070-32gb-of-ram-drops-to-usd1-899-in-amazon-black-friday-offer-core-ultra-7-equipped-pc-is-one-of-the-best-value-prebuilt-deals-weve-seen-so-far",
-      "desc": "Pick up a gaming PC bargain this Black Friday with this RTX 5070-powered Alienware Aurora rig, which...",
-      "img": "https://cdn.mos.cms.futurecdn.net/ufYQsPFUJ5uDE2gai7nKYk-1920-80.jpg"
+      "title": "Neuralink trial participant ditches mouth stick to play GTA 6 with his mind",
+      "link": "https://www.tomshardware.com/peripherals/wearable-tech/neuralink-trial-participant-ditches-mouth-stick-to-play-gta-6-with-his-mind-brain-computer-interface-maps-imagined-ring-finger-taps-and-hand-slides-to-a-playstation-5-controller",
+      "desc": "This is one of the most complicated games yet to be played using Neuralink, with the patient using i...",
+      "img": "https://cdn.mos.cms.futurecdn.net/pBECYsfzY5sUbRWdhLESLc-1920-80.png"
     },
     {
-      "title": "Act fast to score Intel's Core i7-14700K for its lowest price ever at $249.99",
-      "link": "https://www.tomshardware.com/pc-components/cpus/act-fast-to-score-intels-core-i7-14700k-for-its-lowest-price-ever-at-usd249-99-raptor-lake-refresh-cpu-is-a-bargain-that-supports-ddr5-and-ddr4-motherboards",
-      "desc": "After months of inconsistent pricing, Intel's Core i7-14700K is down to its lowest price ever at $24...",
-      "img": "https://cdn.mos.cms.futurecdn.net/g8GEeRCc4TmLGLborEkbjR-1920-80.jpg"
+      "title": "KFC offers disc-shaped fried chicken to sad disc-less GTA VI fans",
+      "link": "https://www.tomshardware.com/video-games/kfc-offers-disc-shaped-fried-chicken-to-sad-disc-less-gta-vi-fans-kfc-spains-the-replacement-disc-campaign-delivers-where-rockstar-disappoints-after-selling-usd3-79-billion-of-gta-vi-without-a-physical-disc",
+      "desc": "KFC Spain is offering free fried chicken discs to GTA 6 game owners bringing in their empty game cas...",
+      "img": "https://cdn.mos.cms.futurecdn.net/REUeVWr8RDsDbWAVjeiuW3-1920-80.jpg"
     },
     {
-      "title": "Save $78 on Corsair's triple-chamber AIR 5400 RS-R midtower PC case at new all-time low price",
-      "link": "https://www.tomshardware.com/pc-components/pc-cases/save-usd78-on-corsairs-triple-chamber-air-5400-rs-r-midtower-pc-case-at-new-all-time-low-price-chassis-includes-three-pre-installed-rs-r-argb-fans-and-back-connector-motherboard-support",
-      "desc": "Corsair's triple-chamber AIR 5400 RS-R is down to its lowest price ever in a run-up Black Friday sal...",
-      "img": "https://cdn.mos.cms.futurecdn.net/RL6obet6tAasHLvYEbJVHG-1920-80.jpg"
+      "title": "Ukraine revives its grounded fleet of 500+ US-made Puma drones with homegrown anti-jamming tech",
+      "link": "https://www.tomshardware.com/tech-industry/drones/ukraine-revives-its-grounded-fleet-of-500-us-made-puma-drones-with-homegrown-anti-jamming-tech-anti-jamming-upgrade-triples-range-to-31-miles",
+      "desc": "The Puma AE reconnaissance drones had been grounded by electromagnetic warfare until they received t...",
+      "img": "https://cdn.mos.cms.futurecdn.net/b6CuzvV6Dix5T3C6D6x8ZK-1920-80.jpg"
     }
   ],
   "crypto": [
+    {
+      "title": "The future of onchain FX could start with users, not institutional liquidity",
+      "link": "https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Onchain FX does not need to recreate the trillion-dollar institutional market to become useful. Real...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7HXR8PX0V9ND83QRBCRCYJB/hi-international-association-of-trusted-blockchain-applications-dollar.jpg"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impac...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
+    },
     {
       "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
       "link": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -133,60 +145,48 @@
       "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M80VMG116PQ22VH13YJ5ANN8/hacky-hack-2.png"
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impac...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
-    },
-    {
       "title": "ECB seeks industry partners for tokenized deposits, securities experiments",
       "link": "https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Industry groups have until Dec. 11 to apply for the ECB’s first experimental exercises under its App...",
       "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M34BTQXP52VJEXVV822SS5QM/hi-what-is-a-decentralized-money-market-and-eu-stablecoin-2.jpg"
-    },
-    {
-      "title": "US lawmakers propose up to 30% rewards for prediction market whistleblowers",
-      "link": "https://cointelegraph.com/news/us-prediction-market-whistleblower-rewards-30-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Whistleblowers could receive 10% to 30% of monetary sanctions in qualifying prediction market fraud ...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3TG0M8S1BAV7KN2AJ34JJE9/prediction-market.jpg"
     }
   ],
   "various": [
     {
-      "title": "'Move on!' Former PMs pile in with advice for Andy Burnham, but will he listen?",
-      "link": "https://www.bbc.co.uk/news/articles/cjn5023e6ez4o?at_medium=RSS&at_campaign=rss",
-      "desc": "Theresa May, David Cameron and Tony Blair have weighed in on Burnham's plans on moving closer to the...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02d1/live/bf55afa0-e4ea-11f1-99a1-253766e7ad8b.jpg"
+      "title": "All Delta Flights Through Atlanta Are Delayed",
+      "link": "https://gizmodo.com/all-delta-flights-through-atlanta-are-delayed-2000843658",
+      "desc": "The single-airline hiccup comes shortly after a historic four-hour grounding of all flights.",
+      "img": "https://gizmodo.com/app/uploads/2025/07/delta-flight-2025-1280x853.jpg"
     },
     {
-      "title": "How a teen gamer and his mother helped rescue a missing girl",
-      "link": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
-      "desc": "When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother hel...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e06/live/d8778490-e503-11f1-9e2f-7fb5281f0b3c.jpg"
+      "title": "Adapting ‘Sunrise on the Reaping’ Was a Secret Years In the Making",
+      "link": "https://gizmodo.com/adapting-sunrise-on-the-reaping-was-a-secret-years-in-the-making-2000843550",
+      "desc": "Even as a book, 'Sunrise on the Reaping' was a big deal, so keeping it and its movie under wraps req...",
+      "img": "https://gizmodo.com/app/uploads/2026/10/hunger-games-sunrise-on-the-reaping-joseph-zada-main-1280x853.jpg"
     },
     {
-      "title": "Verstappen wins extraordinary Las Vegas Grand Prix as Ferraris collide",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cqx2ex25pvn9o?at_medium=RSS&at_campaign=rss",
-      "desc": "Red Bull's Max Verstappen wins an extraordinary Las Vegas Grand Prix that featured 34 lead changes a...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53c5/live/4cf95270-e631-11f1-9a7b-83df752dd747.jpg"
+      "title": "Super El Niño Fails to Spur Action as COP31 Ends in Disaster",
+      "link": "https://gizmodo.com/super-el-nino-fails-to-spur-action-as-cop31-ends-in-disaster-2000843655",
+      "desc": "Just because you can now feel climate change when you step outside, that doesn't mean climate politi...",
+      "img": "https://gizmodo.com/app/uploads/2026/10/El-nino-waves-beach-1280x853.jpg"
     },
     {
-      "title": "Catherine talks openly about how cancer changed her in documentary on BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c85y14zvexz9o?at_medium=RSS&at_campaign=rss",
-      "desc": "\"There is a much, much deeper part to what a cancer diagnosis shifts in you,\" says Catherine in the ...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c010/live/8fc02730-e5a7-11f1-8df2-d7de7bfd91b9.jpg"
+      "title": "Aaron Pierre Is Ready For Whatever His DC Future Holds",
+      "link": "https://gizmodo.com/aaron-pierre-is-ready-for-whatever-his-dc-future-holds-2000843523",
+      "desc": "The 'Lanterns' star addresses the recent DC shakeup and where John Stewart could end up because of i...",
+      "img": "https://gizmodo.com/app/uploads/2026/10/Lanterns-Ep-8-Aaron-Pierre-1280x853.jpg"
     },
     {
-      "title": "BBC apologises for 'any offence caused' by Strictly noise disruption",
-      "link": "https://www.bbc.co.uk/news/articles/cm8e0p5dexy6o?at_medium=RSS&at_campaign=rss",
-      "desc": "Lancashire police says a mobile phone has been seized and it is assessing whether any criminal offen...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73a1/live/9ea5a0c0-e621-11f1-99a1-253766e7ad8b.jpg"
+      "title": "Anker Solix S5000 Review: The Little Big Battery to Beat",
+      "link": "https://gizmodo.com/anker-solix-s5000-review-2000838055",
+      "desc": "A great 5kWh battery if you don’t need super high-watt output.",
+      "img": "https://gizmodo.com/app/uploads/2026/11/Anker-Solix-S5000-1280x853.jpg"
     },
     {
-      "title": "Employers are being asked to give interview feedback - here's what applicants want",
-      "link": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
-      "desc": "People say they often hear nothing back after applying for jobs. But could employers be forced to re...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb80/live/784ad260-e4e1-11f1-99b6-a35a62fa4264.jpg"
+      "title": "AI Cops Are Now Tracking Crypto Transactions Through the Dystopian Blockchain Panopticon",
+      "link": "https://gizmodo.com/ai-cops-are-now-tracking-crypto-transactions-through-the-dystopian-blockchain-panopticon-2000843186",
+      "desc": "They can see everything.",
+      "img": "https://gizmodo.com/app/uploads/2026/11/crypto-hack-1280x853.jpg"
     }
   ]
 }
