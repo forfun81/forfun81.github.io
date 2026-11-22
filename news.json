@@ -39,81 +39,87 @@
   ],
   "movies": [
     {
+      "title": "I Just Found Out Sylvester Stallone Caused Some DRAMA After I Play Rocky Got Announced",
+      "link": "https://www.cinemablend.com/movies/sylvester-stallone-caused-drama-after-i-play-rocky-announced",
+      "desc": "A little misunderstanding led to a BIG issue.",
+      "img": "https://cdn.mos.cms.futurecdn.net/LPHMDG3Ncxd9dEWvcpniJ9-1920-80.jpg"
+    },
+    {
+      "title": "Wondered What's Going On With Disney World's Indiana Jones Ride? We Have Our First Look",
+      "link": "https://www.cinemablend.com/theme-parks/new-look-disney-world-indiana-jones-ride-imageneers",
+      "desc": "The Imagineers definitely aren't making this up as they go.",
+      "img": "https://cdn.mos.cms.futurecdn.net/wKGKLvu6hs5Vg8Q9ogXvsa-1920-80.jpg"
+    },
+    {
+      "title": "One Hunger Games Book Change Bothered Me Back In The Day, But Now I Understand Why It Was Made",
+      "link": "https://www.cinemablend.com/movies/hunger-games-rewatch-book-change-bothered-me-understand-why",
+      "desc": "I've changed my tune since 2012.",
+      "img": "https://cdn.mos.cms.futurecdn.net/mLDE4wAewaJziURGzT9Wc4-1920-80.png"
+    },
+    {
+      "title": "The Hunger Games' Haymitch Actor Had A Hot Take About Sunrise On The Reaping Making Him Say 'Lenore Dove' Over And Over",
+      "link": "https://www.cinemablend.com/movies/the-hunger-games-haymitch-actor-joseph-zada-hot-take-about-sunrise-on-the-reaping-repeating-lenore-dove",
+      "desc": "Can he be completely honest?",
+      "img": "https://cdn.mos.cms.futurecdn.net/4VTBqg73ufeBoitmHs6uZW-1920-80.jpg"
+    },
+    {
+      "title": "Anthony Mackie Ranked His MCU Screen Partners (And Shots Fired At Sebastian Stan)",
+      "link": "https://www.cinemablend.com/movies/anthony-mackie-ranked-mcu-screen-partners-threw-shade-sebastian-stan",
+      "desc": "The dude didn't even hesitate.",
+      "img": "https://cdn.mos.cms.futurecdn.net/TBYiQXEceYtPRENh726Wg9-1920-80.jpg"
+    },
+    {
       "title": "The Hunger Games Prequel Just Put Up A Huge Number At The Box Office",
       "link": "https://www.cinemablend.com/movies/the-hunger-games-prequel-sunrise-reaping-i-play-rocky",
       "desc": "The Hunger Games is back in a big way.",
       "img": "https://cdn.mos.cms.futurecdn.net/frGcSa6EqJZ3BQ4f7qMY7V-1920-80.jpg"
-    },
-    {
-      "title": "Minutes Before Macaulay Culkin’s Home Alone Sequel News, The OG Director Said It Couldn’t Happen",
-      "link": "https://www.cinemablend.com/movies/minutes-before-macaulay-culkin-home-alone-sequel-news-og-director-shared-doubts",
-      "desc": "A bit of awkward timing, but the filmmaker makes some good points.",
-      "img": "https://cdn.mos.cms.futurecdn.net/HwjqJLACygTRWBAamaUfs6-1920-80.jpg"
-    },
-    {
-      "title": "5 Of The Best Sci-Fi Movies From This Century Are All Streaming In The Same Place",
-      "link": "https://www.cinemablend.com/streaming-news/great-sci-fi-movies-this-century-streaming-one-place",
-      "desc": "Get the popcorn ready and strap in!",
-      "img": "https://cdn.mos.cms.futurecdn.net/ZbHkMoYqV7ZHBi6fqsrUTk-1920-80.jpg"
-    },
-    {
-      "title": "Why Gen Z Is Claiming Robert Pattinson As Their James Bond",
-      "link": "https://www.cinemablend.com/movies/why-gen-z-claiming-robert-pattinson-as-their-james-bond",
-      "desc": "He's Z, Gen Z.",
-      "img": "https://cdn.mos.cms.futurecdn.net/Zf93vfLQQtZY36UM37bQZR-1920-80.png"
-    },
-    {
-      "title": "Jennifer Lawrence Had One Complaint About Playing Mystique In X-Men I Didn't See Coming",
-      "link": "https://www.cinemablend.com/movies/jennifer-lawrence-one-complaint-playing-mystique-x-men-wig-surprise-mullet",
-      "desc": "Just when you think you’ve heard everything.",
-      "img": "https://cdn.mos.cms.futurecdn.net/5sKfx9RYbWtuWDuzq3BZ5K-1920-80.jpg"
-    },
-    {
-      "title": "John Madden Famously Quit The Raiders. One Madden Star Had To Film This On Day 1",
-      "link": "https://www.cinemablend.com/movies/madden-star-sienna-miller-first-day-filmed-john-madden-quitting-raiders",
-      "desc": "Talk about pressure on your first day!",
-      "img": "https://cdn.mos.cms.futurecdn.net/nt4gFKkzMV78C78pdhszGa-1920-80.jpg"
     }
   ],
   "tech": [
     {
-      "title": "Maker builds Mad Max-inspired wall of 100 Noctua PC fans",
-      "link": "https://www.tomshardware.com/pc-components/case-fans/maker-builds-mad-max-inspired-wall-of-100-noctua-pc-fans-stress-tests-usd2-355-open-source-openfan-xl-controller",
-      "desc": "A wall of 100 Noctua PC fans was built by maker Sasa Karanovic because \"why not\" and to demo his new...",
-      "img": "https://cdn.mos.cms.futurecdn.net/Y3DebBKkA5ePUXBxKFiiX3-1920-80.jpg"
+      "title": "Corsair's tiny Xeneon Edge PC touchscreen discounted by $50 in all five colors",
+      "link": "https://www.tomshardware.com/pc-components/corsairs-tiny-xeneon-edge-pc-touchscreen-discounted-by-usd50-in-all-five-colors-14-5-inch-lcd-touchscreen-drops-to-usd199-99-comes-with-a-built-in-stand",
+      "desc": "Corsair has all five colors of its 14.5-inch Xeneon Edge touchscreen on sale for Black Friday for $5...",
+      "img": "https://cdn.mos.cms.futurecdn.net/XqEQmS7rgfr3KxJ9WVgfuG-1920-80.jpg"
     },
     {
-      "title": "Lenovo Pro 9n review: 18-core RTX Spark in a fancy chassis",
-      "link": "https://www.tomshardware.com/laptops/lenovo-pro-9n-review",
-      "desc": "The Lenovo Pro 9n is a lighter alternative to the Surface Laptop Ultra, offering a vivid OLED panel ...",
-      "img": "https://cdn.mos.cms.futurecdn.net/ZXSfLv5CgGWf6ginq5ZsFA-1920-80.jpg"
+      "title": "17-year-old Windows 7 gets unofficial DirectX 12 and Vulkan 1.4 support",
+      "link": "https://www.tomshardware.com/software/windows/17-year-old-windows-7-gets-unofficial-directx-12-and-vulkan-1-4-support-enthusiasts-bring-nvidia-rtx-50-amd-rx-9000-and-intel-arc-gpus-to-the-aging-os",
+      "desc": "A community-developed project brings DirectX 12 and Vulkan 1.4 support to Microsoft's retired operat...",
+      "img": "https://cdn.mos.cms.futurecdn.net/MAS29A8ZaDyac63oybzR59-1920-80.jpg"
     },
     {
-      "title": "Arm yourself against online threats with 30% off YubiKey 5C NFC bundles at Best Buy",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/arm-yourself-against-online-threats-with-30-percent-off-yubikey-5c-nfc-bundles-at-best-buy-at-usd37-per-key-this-deal-could-save-you-more-than-just-cash",
-      "desc": "The YubiKey 5 NFC security key has dropped to an effective $ 37 per key at Best Buy when purchasing ...",
-      "img": "https://cdn.mos.cms.futurecdn.net/9jsuZfixRJWfn4dcgK92eR-1920-80.jpg"
+      "title": "An under-desk headphone hanger with three charging ports (up to 20W) for less than $10",
+      "link": "https://www.tomshardware.com/peripherals/usb/under-desk-headphone-hanger-with-three-charging-ports-drops-below-usd10-cozoos-20w-combo-device-has-been-a-useful-addition-to-my-standing-desk-since-2023",
+      "desc": "With two hanging hooks, notches for six cables and 20W of charging, Cozoo's quirky combo device has ...",
+      "img": "https://cdn.mos.cms.futurecdn.net/8KyuHRs6JWrZnGjKRsXoJm-1920-80.jpg"
     },
     {
-      "title": "Neuralink trial participant ditches mouth stick to play GTA 6 with his mind",
-      "link": "https://www.tomshardware.com/peripherals/wearable-tech/neuralink-trial-participant-ditches-mouth-stick-to-play-gta-6-with-his-mind-brain-computer-interface-maps-imagined-ring-finger-taps-and-hand-slides-to-a-playstation-5-controller",
-      "desc": "This is one of the most complicated games yet to be played using Neuralink, with the patient using i...",
-      "img": "https://cdn.mos.cms.futurecdn.net/pBECYsfzY5sUbRWdhLESLc-1920-80.png"
+      "title": "Nintendo Switch 2 bundles drop to pre-hike pricing in Black Friday run-up sale",
+      "link": "https://www.tomshardware.com/video-games/handheld-gaming/nintendo-switch-2-bundles-drop-to-pre-hike-pricing-in-black-friday-run-up-sale-get-a-switch-2-along-with-mario-kart-world-and-nintendo-switch-online-for-usd50-off",
+      "desc": "The Nintendo Switch 2 is down to its pre-hike pricing in a Black Friday run-up sale, knocking a rare...",
+      "img": "https://cdn.mos.cms.futurecdn.net/ptNhHsYDmJvKfBw5V7v5mn-1920-80.jpg"
     },
     {
-      "title": "KFC offers disc-shaped fried chicken to sad disc-less GTA VI fans",
-      "link": "https://www.tomshardware.com/video-games/kfc-offers-disc-shaped-fried-chicken-to-sad-disc-less-gta-vi-fans-kfc-spains-the-replacement-disc-campaign-delivers-where-rockstar-disappoints-after-selling-usd3-79-billion-of-gta-vi-without-a-physical-disc",
-      "desc": "KFC Spain is offering free fried chicken discs to GTA 6 game owners bringing in their empty game cas...",
-      "img": "https://cdn.mos.cms.futurecdn.net/REUeVWr8RDsDbWAVjeiuW3-1920-80.jpg"
+      "title": "Give your gaming setup a serious upgrade with the Razer Basilisk V3 for half price",
+      "link": "https://www.tomshardware.com/pc-components/give-your-gaming-setup-a-serious-upgrade-with-the-razer-basilisk-v3-for-half-price-for-just-usd32-99-you-get-26-000-dpi-sensitivity-programmable-buttons-and-plenty-of-rgb",
+      "desc": "Whether you play competitive shooters, racing games, or RPGs, the Basilisk V3 offers customizable co...",
+      "img": "https://cdn.mos.cms.futurecdn.net/zXx7uqULfyYC8yS2BXAiFX-1920-80.jpg"
     },
     {
-      "title": "Ukraine revives its grounded fleet of 500+ US-made Puma drones with homegrown anti-jamming tech",
-      "link": "https://www.tomshardware.com/tech-industry/drones/ukraine-revives-its-grounded-fleet-of-500-us-made-puma-drones-with-homegrown-anti-jamming-tech-anti-jamming-upgrade-triples-range-to-31-miles",
-      "desc": "The Puma AE reconnaissance drones had been grounded by electromagnetic warfare until they received t...",
-      "img": "https://cdn.mos.cms.futurecdn.net/b6CuzvV6Dix5T3C6D6x8ZK-1920-80.jpg"
+      "title": "Grab Keychron's full-sized low-profile K5 V2 wireless mechanical keyboard for its lowest-ever price of just $56",
+      "link": "https://www.tomshardware.com/peripherals/mice/grab-keychrons-full-sized-low-profile-k5-v2-wireless-mechanical-keyboard-for-its-lowest-ever-price-of-just-usd56-108-key-low-profile-clacker-supports-qmk-sports-three-layers-of-foam",
+      "desc": "If you're after a full-sized mechanical keyboard on a budget, this is one of the best deals around d...",
+      "img": "https://cdn.mos.cms.futurecdn.net/7LtugFN2JLpbPykAtUPxu5-1920-80.jpg"
     }
   ],
   "crypto": [
+    {
+      "title": "Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Bitcoin rebounded sharply from its new cycle low, but is $55,110 really the bottom? Ledger investiga...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M82HY5BRFTHNBV47HXBFNCPV/nov-23.jpg"
+    },
     {
       "title": "The future of onchain FX could start with users, not institutional liquidity",
       "link": "https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -143,15 +149,15 @@
       "link": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Chainflip offered the attacker a 10% bounty to return 90% of the stolen funds by Nov. 23, promising ...",
       "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M80VMG116PQ22VH13YJ5ANN8/hacky-hack-2.png"
-    },
-    {
-      "title": "ECB seeks industry partners for tokenized deposits, securities experiments",
-      "link": "https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Industry groups have until Dec. 11 to apply for the ECB’s first experimental exercises under its App...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M34BTQXP52VJEXVV822SS5QM/hi-what-is-a-decentralized-money-market-and-eu-stablecoin-2.jpg"
     }
   ],
   "various": [
+    {
+      "title": "‘Sunrise on the Reaping’ Box Office Proves ‘Hunger Games’ Still Got It",
+      "link": "https://gizmodo.com/sunrise-on-the-reaping-box-office-proves-hunger-games-still-got-it-2000843666",
+      "desc": "For fans of prequels and stories about teens fighting to survive, 'Sunrise on the Reaping' made for ...",
+      "img": "https://gizmodo.com/app/uploads/2026/09/the-hunger-games-sunrise-on-the-reaping-1280x853.jpg"
+    },
     {
       "title": "All Delta Flights Through Atlanta Are Delayed",
       "link": "https://gizmodo.com/all-delta-flights-through-atlanta-are-delayed-2000843658",
@@ -181,12 +187,6 @@
       "link": "https://gizmodo.com/anker-solix-s5000-review-2000838055",
       "desc": "A great 5kWh battery if you don’t need super high-watt output.",
       "img": "https://gizmodo.com/app/uploads/2026/11/Anker-Solix-S5000-1280x853.jpg"
-    },
-    {
-      "title": "AI Cops Are Now Tracking Crypto Transactions Through the Dystopian Blockchain Panopticon",
-      "link": "https://gizmodo.com/ai-cops-are-now-tracking-crypto-transactions-through-the-dystopian-blockchain-panopticon-2000843186",
-      "desc": "They can see everything.",
-      "img": "https://gizmodo.com/app/uploads/2026/11/crypto-hack-1280x853.jpg"
     }
   ]
 }
