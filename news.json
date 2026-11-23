@@ -1,6 +1,12 @@
 {
   "games": [
     {
+      "title": "GTA 6: Don’t Finish Chapter 2 Before Doing These Things",
+      "link": "https://www.gamespot.com/articles/gta-6-dont-finish-chapter-2-before-doing-these-things/",
+      "desc": "GTA 6's first chapter is a lengthy prologue that gets you up to speed on the gameplay, the character...",
+      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-launch-screens-7-2.jpg?w=300"
+    },
+    {
       "title": "Cheeky Malware Linked To Popular Gacha Game Cracks City Security",
       "link": "https://www.gamespot.com/articles/cheeky-malware-linked-to-popular-gacha-game-cracks-city-security/",
       "desc": "East Asia--and particularly Japan--has been suffering a rash of cybersecurity incidents as of late, ...",
@@ -29,15 +35,15 @@
       "link": "https://www.gamespot.com/articles/gta-6-hit-32-5-million-copies-sold-and-almost-4-billion-on-day-one/",
       "desc": "GTA 6 is an enormous hit--it's the biggest gaming release ever. Take-Two just announced that GTA 6 r...",
       "img": "https://www.gamespot.com/wp-content/uploads/2026/11/GTASales.png?w=300"
-    },
-    {
-      "title": "GTA 6 Is Crashing On Some PS5s With CE-108255-1 Error Code",
-      "link": "https://www.gamespot.com/articles/gta-6-is-crashing-on-some-ps5s-with-ce-108255-1-error-code/",
-      "desc": "After years of waiting, GTA fans can finally play GTA 6, but some players are encountering a dreaded...",
-      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/GTALucia.png?w=300"
     }
   ],
   "movies": [
+    {
+      "title": "Could Kim Kardashian Really Become The Next Bond Girl? An Insider Drops Claims",
+      "link": "https://www.cinemablend.com/movies/insider-claims-about-kim-kardashian-wanting-bond-girl-role",
+      "desc": "This would be a major role for Kim K.",
+      "img": "https://cdn.mos.cms.futurecdn.net/C9LZ8QCSGL32YQqi9HXaiP-1920-80.jpg"
+    },
     {
       "title": "I Just Found Out Sylvester Stallone Caused Some DRAMA After I Play Rocky Got Announced",
       "link": "https://www.cinemablend.com/movies/sylvester-stallone-caused-drama-after-i-play-rocky-announced",
@@ -67,126 +73,120 @@
       "link": "https://www.cinemablend.com/movies/anthony-mackie-ranked-mcu-screen-partners-threw-shade-sebastian-stan",
       "desc": "The dude didn't even hesitate.",
       "img": "https://cdn.mos.cms.futurecdn.net/TBYiQXEceYtPRENh726Wg9-1920-80.jpg"
-    },
-    {
-      "title": "The Hunger Games Prequel Just Put Up A Huge Number At The Box Office",
-      "link": "https://www.cinemablend.com/movies/the-hunger-games-prequel-sunrise-reaping-i-play-rocky",
-      "desc": "The Hunger Games is back in a big way.",
-      "img": "https://cdn.mos.cms.futurecdn.net/frGcSa6EqJZ3BQ4f7qMY7V-1920-80.jpg"
     }
   ],
   "tech": [
     {
-      "title": "Corsair's tiny Xeneon Edge PC touchscreen discounted by $50 in all five colors",
-      "link": "https://www.tomshardware.com/pc-components/corsairs-tiny-xeneon-edge-pc-touchscreen-discounted-by-usd50-in-all-five-colors-14-5-inch-lcd-touchscreen-drops-to-usd199-99-comes-with-a-built-in-stand",
-      "desc": "Corsair has all five colors of its 14.5-inch Xeneon Edge touchscreen on sale for Black Friday for $5...",
-      "img": "https://cdn.mos.cms.futurecdn.net/XqEQmS7rgfr3KxJ9WVgfuG-1920-80.jpg"
+      "title": "The RTX 5090’s 16-pin connector just got a free pin-by-pin watchdog",
+      "link": "https://www.tomshardware.com/pc-components/gpus/the-rtx-5090s-16-pin-connector-just-got-a-free-pin-by-pin-watchdog-rtx-lens-taps-asus-astral-wireview-pro-ii-and-msi-psu-sensors-to-alert-your-phone-or-shut-down-your-pc",
+      "desc": "RTX Lens, a free open-source Windows app, reads per-pin current from Asus ROG Astral GPUs, WireView ...",
+      "img": "https://cdn.mos.cms.futurecdn.net/rbu2h6JFJkeByAw3SJAbrg-1920-80.jpg"
     },
     {
-      "title": "17-year-old Windows 7 gets unofficial DirectX 12 and Vulkan 1.4 support",
-      "link": "https://www.tomshardware.com/software/windows/17-year-old-windows-7-gets-unofficial-directx-12-and-vulkan-1-4-support-enthusiasts-bring-nvidia-rtx-50-amd-rx-9000-and-intel-arc-gpus-to-the-aging-os",
-      "desc": "A community-developed project brings DirectX 12 and Vulkan 1.4 support to Microsoft's retired operat...",
-      "img": "https://cdn.mos.cms.futurecdn.net/MAS29A8ZaDyac63oybzR59-1920-80.jpg"
+      "title": "MacBook modder turns Apple’s Force Touch trackpad into a speaker using haptic engine",
+      "link": "https://www.tomshardware.com/laptops/macbooks/macbook-modder-turns-apples-force-touch-trackpad-into-a-speaker-using-haptic-engine-macbook-talks-using-only-vibrations-from-the-motor-can-play-speech-tones-and-even-music",
+      "desc": "The MacBook's Force Touch trackpad with its haptic engine can be used to make it into a speaker usin...",
+      "img": "https://cdn.mos.cms.futurecdn.net/8LbPpwzJEHe4D8keozHWja-1920-80.jpg"
     },
     {
-      "title": "An under-desk headphone hanger with three charging ports (up to 20W) for less than $10",
-      "link": "https://www.tomshardware.com/peripherals/usb/under-desk-headphone-hanger-with-three-charging-ports-drops-below-usd10-cozoos-20w-combo-device-has-been-a-useful-addition-to-my-standing-desk-since-2023",
-      "desc": "With two hanging hooks, notches for six cables and 20W of charging, Cozoo's quirky combo device has ...",
-      "img": "https://cdn.mos.cms.futurecdn.net/8KyuHRs6JWrZnGjKRsXoJm-1920-80.jpg"
+      "title": "AI server makers hike prices up to 45% months after contracts are signed as RAM shortage triples memory-heavy CPU node costs",
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/ai-server-makers-hike-prices-up-to-45-percent-months-after-contracts-are-signed-as-ram-shortage-triples-memory-heavy-cpu-node-costs-financial-firms-still-pay-up-as-the-compute-is-valuable",
+      "desc": "AI server OEMs are hiking prices post-contract up to 45% — financial firms building datacenters stil...",
+      "img": "https://cdn.mos.cms.futurecdn.net/ZJSVRpaCtkGTUSuxavfnsC-1920-80.jpg"
     },
     {
-      "title": "Nintendo Switch 2 bundles drop to pre-hike pricing in Black Friday run-up sale",
-      "link": "https://www.tomshardware.com/video-games/handheld-gaming/nintendo-switch-2-bundles-drop-to-pre-hike-pricing-in-black-friday-run-up-sale-get-a-switch-2-along-with-mario-kart-world-and-nintendo-switch-online-for-usd50-off",
-      "desc": "The Nintendo Switch 2 is down to its pre-hike pricing in a Black Friday run-up sale, knocking a rare...",
-      "img": "https://cdn.mos.cms.futurecdn.net/ptNhHsYDmJvKfBw5V7v5mn-1920-80.jpg"
+      "title": "Walmart has slashed $1,090 off this RTX 5070 gaming laptop, nearly half price",
+      "link": "https://www.tomshardware.com/laptops/gaming-laptops/walmart-has-slashed-usd1-090-off-this-rtx-5070-gaming-laptop-nearly-half-price-get-a-ryzen-9-powered-machine-for-just-usd1-299",
+      "desc": "Save nearly 50% on this HyperX gaming laptop with RTX 5070.",
+      "img": "https://cdn.mos.cms.futurecdn.net/gnYFKKHRHLETCN4XLrbUpi-1920-80.jpg"
     },
     {
-      "title": "Give your gaming setup a serious upgrade with the Razer Basilisk V3 for half price",
-      "link": "https://www.tomshardware.com/pc-components/give-your-gaming-setup-a-serious-upgrade-with-the-razer-basilisk-v3-for-half-price-for-just-usd32-99-you-get-26-000-dpi-sensitivity-programmable-buttons-and-plenty-of-rgb",
-      "desc": "Whether you play competitive shooters, racing games, or RPGs, the Basilisk V3 offers customizable co...",
-      "img": "https://cdn.mos.cms.futurecdn.net/zXx7uqULfyYC8yS2BXAiFX-1920-80.jpg"
+      "title": "President Trump says Nvidia board rehiring Jensen Huang would be best for the company and US",
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/president-trump-says-nvidia-board-rehiring-jensen-huang-would-be-best-for-the-company-and-the-us-treasury-sec-bessent-walks-back-outsider-ceo-comments-claims-huang-is-technically-an-outsider-now",
+      "desc": "After saying that Nvidia's new CEO should come \"outside the company,\" U.S. Treasury Secretary Scott ...",
+      "img": "https://cdn.mos.cms.futurecdn.net/NfVpgKshf2uGNfh2twNZmj-1920-80.jpg"
     },
     {
-      "title": "Grab Keychron's full-sized low-profile K5 V2 wireless mechanical keyboard for its lowest-ever price of just $56",
-      "link": "https://www.tomshardware.com/peripherals/mice/grab-keychrons-full-sized-low-profile-k5-v2-wireless-mechanical-keyboard-for-its-lowest-ever-price-of-just-usd56-108-key-low-profile-clacker-supports-qmk-sports-three-layers-of-foam",
-      "desc": "If you're after a full-sized mechanical keyboard on a budget, this is one of the best deals around d...",
-      "img": "https://cdn.mos.cms.futurecdn.net/7LtugFN2JLpbPykAtUPxu5-1920-80.jpg"
+      "title": "Save $730 on this RTX 5070 Ti gaming PC from Cyberpower",
+      "link": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd730-on-this-rtx-5070-ti-gaming-pc-from-cyberpower-32gb-of-ram-16gb-of-vram-and-a-2tb-ssd-make-for-an-impressive-spec-sheet-for-only-usd2-479",
+      "desc": "An impressive gaming PC prebuilt with an RTX 5070 TI 16GB powering the graphics. All for just $2.479...",
+      "img": "https://cdn.mos.cms.futurecdn.net/sHdkNN5MPDW6WMRUbXhvn7-1920-80.jpg"
     }
   ],
   "crypto": [
     {
-      "title": "Billionaire Bill Ackman warns Fed will make a rate ‘mistake’ in December",
-      "link": "https://cointelegraph.com/markets/billionaire-bill-ackman-warns-fed-rate-hikes-could-trigger-recession?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Markets and economists widely expect the US Federal Reserve to raise interest rates by 25 basis poin...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8341FZ3Y20X594GP00EB6TG/hi-what-the-feds-rate-cut-means-for-crypto-markets-2.jpg"
+      "title": "Strategy buys 457 Bitcoin, spends $212M on preferred share buybacks",
+      "link": "https://cointelegraph.com/news/strategy-buy-457-bitcoin-btc-treasury-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Strategy raised its preferred stock buyback limit to $4 billion and authorized the transfer of up to...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4QZS9YXDW2XY08FHFBXVMGD/hi-how-michael-saylors-strategy-became-the-largest-bitcoin-holder-3.jpg"
     },
     {
-      "title": "Half of wallets on Trump’s dinner list got tokens from non-US exchanges",
-      "link": "https://cointelegraph.com/news/half-wallets-trumps-dinner-list-got-tokens-from-non-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Public Citizen traced 66 of 130 qualifying wallets to exchanges that restrict US users, raising ques...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M82Y4PMA2YN6DTA00JY4GVH4/hi-crypto-charts-101-how-to-read-cryptocurrency-charts-trump.jpg"
+      "title": "AI agents are using credit cards. Where does that leave crypto?",
+      "link": "https://cointelegraph.com/magazine/ai-agents-are-using-credit-cards-where-does-that-leave-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "AI agents are already using credit cards to transact, raising questions about where crypto fits in t...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M81KPV0M9CF68V4DWCFN377B/magazine-ai-agents-are-trading-crypto-now-but-beware-these-rookie-mistakes.jpg"
     },
     {
-      "title": "Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest",
-      "link": "https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Bitcoin rebounds sharply from its new cycle low, but is $55,111 really the bottom? Ledger investigat...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M82HY5BRFTHNBV47HXBFNCPV/nov-23.jpg"
+      "title": "Critics of Netflix’s FTX drama point to Obama’s producer credit",
+      "link": "https://cointelegraph.com/news/netflix-ftx-scrutiny-obama-production-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Series creator Graham Moore said he invented a scene in which Changpeng Zhao urges Alameda Research ...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M84271VEY1A4FBZ2QESHRR99/q123412312312313.png"
     },
     {
-      "title": "The future of onchain FX could start with users, not institutional liquidity",
-      "link": "https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Onchain FX does not need to recreate the trillion-dollar institutional market to become useful. Real...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7HXR8PX0V9ND83QRBCRCYJB/hi-international-association-of-trusted-blockchain-applications-dollar.jpg"
+      "title": "ECB to let banks pledge more tokenized securities as collateral",
+      "link": "https://cointelegraph.com/news/ecb-expands-eurosystem-collateral-tokenized-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The ECB aims to start accepting securities issued on platforms licensed under the EU’s distributed l...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M39CZ68WWY72HF76F9JQMDJD/hi-what-is-a-decentralized-money-market-and-eu-stablecoin-3.jpg"
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impac...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
+      "title": "BTC price gains 12% from $55K: Three things to know in Bitcoin this week",
+      "link": "https://cointelegraph.com/markets/btc-price-stock-futures-rebound-three-things-know-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Nasdaq-100 futures rose 3.1% before Monday’s open, while Wednesday’s US inflation report could shape...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M83YQPM05E5SW3G40M782ZTV/coma-crypto-market-falling-bitcoin-1-960x640.webp"
     },
     {
-      "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
-      "link": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Kraken said all orders were processed correctly and found no evidence of a security breach or compro...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M819JW0D1CC9W3NZY32KQ4A0/hi-kraken2-1.jpg"
+      "title": "‘MoldyRoost’ ads can steal crypto wallet recovery phrases from iPhones",
+      "link": "https://cointelegraph.com/news/moldyroost-malware-drain-iphone-wallets-one-tap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The campaign used at least 480 ad domains to target users in more than 47 countries and could infect...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M83RJPB5W0JGE4R8CY2NR656/hi-how-to-identify-crypto-scams-ads-on-social-media.jpg"
     }
   ],
   "various": [
     {
-      "title": "‘Sunrise on the Reaping’ Box Office Proves ‘Hunger Games’ Still Got It",
-      "link": "https://gizmodo.com/sunrise-on-the-reaping-box-office-proves-hunger-games-still-got-it-2000843666",
-      "desc": "For fans of prequels and stories about teens fighting to survive, 'Sunrise on the Reaping' made for ...",
-      "img": "https://gizmodo.com/app/uploads/2026/09/the-hunger-games-sunrise-on-the-reaping-1280x853.jpg"
+      "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+      "desc": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on ...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/927f/live/24790470-e740-11f1-99b6-a35a62fa4264.png"
     },
     {
-      "title": "All Delta Flights Through Atlanta Are Delayed",
-      "link": "https://gizmodo.com/all-delta-flights-through-atlanta-are-delayed-2000843658",
-      "desc": "The single-airline hiccup comes shortly after a historic four-hour grounding of all flights.",
-      "img": "https://gizmodo.com/app/uploads/2025/07/delta-flight-2025-1280x853.jpg"
+      "title": "Ukraine shares video of strikes on Russian ships off Libya",
+      "link": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss",
+      "desc": "President Zelensky said a Russia warship was sunk, with a Russian cargo ship also hit.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cc6/live/7a950f50-e738-11f1-99b6-a35a62fa4264.jpg"
     },
     {
-      "title": "Adapting ‘Sunrise on the Reaping’ Was a Secret Years In the Making",
-      "link": "https://gizmodo.com/adapting-sunrise-on-the-reaping-was-a-secret-years-in-the-making-2000843550",
-      "desc": "Even as a book, 'Sunrise on the Reaping' was a big deal, so keeping it and its movie under wraps req...",
-      "img": "https://gizmodo.com/app/uploads/2026/10/hunger-games-sunrise-on-the-reaping-joseph-zada-main-1280x853.jpg"
+      "title": "Police investigate unknown substance that caused Manchester's Co-op Live evacuation",
+      "link": "https://www.bbc.co.uk/news/articles/c9e851dn8516o?at_medium=RSS&at_campaign=rss",
+      "desc": "People describe a \"horrible smell\" and hearing screaming as they were evacuated from the Don Toliver...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a992/live/9f0fe980-e70c-11f1-99a1-253766e7ad8b.jpg"
     },
     {
-      "title": "Super El Niño Fails to Spur Action as COP31 Ends in Disaster",
-      "link": "https://gizmodo.com/super-el-nino-fails-to-spur-action-as-cop31-ends-in-disaster-2000843655",
-      "desc": "Just because you can now feel climate change when you step outside, that doesn't mean climate politi...",
-      "img": "https://gizmodo.com/app/uploads/2026/10/El-nino-waves-beach-1280x853.jpg"
+      "title": "Watch: What we know about Co-op Live 'major incident'",
+      "link": "https://www.bbc.co.uk/news/videos/cmn50yy0ypy3o?at_medium=RSS&at_campaign=rss",
+      "desc": "Thousands evacuated from concert in Manchester after an 'unknown substance' was released into the cr...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26cb/live/f6ec4460-e738-11f1-a094-5fdc692f3e33.png"
     },
     {
-      "title": "Aaron Pierre Is Ready For Whatever His DC Future Holds",
-      "link": "https://gizmodo.com/aaron-pierre-is-ready-for-whatever-his-dc-future-holds-2000843523",
-      "desc": "The 'Lanterns' star addresses the recent DC shakeup and where John Stewart could end up because of i...",
-      "img": "https://gizmodo.com/app/uploads/2026/10/Lanterns-Ep-8-Aaron-Pierre-1280x853.jpg"
+      "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+      "link": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
+      "desc": "The report says there are signs of possible contamination across almost all of Gaza as a result of I...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/810a/live/c0542f80-e73d-11f1-99a1-253766e7ad8b.jpg"
     },
     {
-      "title": "Anker Solix S5000 Review: The Little Big Battery to Beat",
-      "link": "https://gizmodo.com/anker-solix-s5000-review-2000838055",
-      "desc": "A great 5kWh battery if you don’t need super high-watt output.",
-      "img": "https://gizmodo.com/app/uploads/2026/11/Anker-Solix-S5000-1280x853.jpg"
+      "title": "Tyson Fury reveals schizophrenia diagnosis",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/c6y80n3dn15yo?at_medium=RSS&at_campaign=rss",
+      "desc": "Tyson Fury describes hearing voices in his head when he suffered a breakdown in 2015, and was also d...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7f7/live/4c6eae80-e709-11f1-b584-c942e4bef845.jpg"
     }
   ]
 }
