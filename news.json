@@ -115,9 +115,21 @@
   ],
   "crypto": [
     {
+      "title": "Billionaire Bill Ackman warns Fed will make a rate ‘mistake’ in December",
+      "link": "https://cointelegraph.com/markets/billionaire-bill-ackman-warns-fed-rate-hikes-could-trigger-recession?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Markets and economists widely expect the US Federal Reserve to raise interest rates by 25 basis poin...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8341FZ3Y20X594GP00EB6TG/hi-what-the-feds-rate-cut-means-for-crypto-markets-2.jpg"
+    },
+    {
+      "title": "Half of wallets on Trump’s dinner list got tokens from non-US exchanges",
+      "link": "https://cointelegraph.com/news/half-wallets-trumps-dinner-list-got-tokens-from-non-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Public Citizen traced 66 of 130 qualifying wallets to exchanges that restrict US users, raising ques...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M82Y4PMA2YN6DTA00JY4GVH4/hi-crypto-charts-101-how-to-read-cryptocurrency-charts-trump.jpg"
+    },
+    {
       "title": "Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest",
       "link": "https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Bitcoin rebounded sharply from its new cycle low, but is $55,110 really the bottom? Ledger investiga...",
+      "desc": "Bitcoin rebounds sharply from its new cycle low, but is $55,111 really the bottom? Ledger investigat...",
       "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M82HY5BRFTHNBV47HXBFNCPV/nov-23.jpg"
     },
     {
@@ -137,18 +149,6 @@
       "link": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Kraken said all orders were processed correctly and found no evidence of a security breach or compro...",
       "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M819JW0D1CC9W3NZY32KQ4A0/hi-kraken2-1.jpg"
-    },
-    {
-      "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
-      "link": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Cyber reported unexpected minting of CYBER tokens on Solana, followed by tokens moving out of its Et...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8127PW0MX9AKGQ6Y4GQ51JX/hand-laptop-coin.png"
-    },
-    {
-      "title": "Chainflip confirms $12M hack, offers attacker 10% bounty",
-      "link": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Chainflip offered the attacker a 10% bounty to return 90% of the stolen funds by Nov. 23, promising ...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M80VMG116PQ22VH13YJ5ANN8/hacky-hack-2.png"
     }
   ],
   "various": [
