@@ -39,6 +39,12 @@
   ],
   "movies": [
     {
+      "title": "James Gunn's DC Exit Has People Asking About Keanu Reeves And Constantine Again (& I Don’t Hate It)",
+      "link": "https://www.cinemablend.com/movies/james-gunn-dc-exit-has-people-asking-about-keanu-reeves-constantine-sequel",
+      "desc": "Does this mean Constantine could be coming back soon?",
+      "img": "https://cdn.mos.cms.futurecdn.net/iJTcpHEKtmfmPjoTLzqGf9-1920-80.jpg"
+    },
+    {
       "title": "I Knew There Was Secrecy On The Odyssey. John Leguizamo’s Story About Landing The Script Is WILD",
       "link": "https://www.cinemablend.com/movies/i-knew-there-was-secrecy-on-the-odyssey-john-leguizamos-story-about-landing-the-script-is-wild",
       "desc": "James Bond clearly hasn't met Christopher Nolan.",
@@ -67,15 +73,27 @@
       "link": "https://www.cinemablend.com/movies/people-crediting-britney-spears-black-lace-comeback-mkenna-grace-catherine-zeta-jones",
       "desc": "I must confess, I do believe this.",
       "img": "https://cdn.mos.cms.futurecdn.net/9HmY9iaDt9L7J44ZiRkaS8-1920-80.jpg"
-    },
-    {
-      "title": "Amazon’s Jeff Bezos Just Said The Quiet Part Out Loud About Robert Pattinson Playing 007",
-      "link": "https://www.cinemablend.com/movies/amazon-jeff-bezos-said-quiet-part-out-loud-robert-pattinson-playing-007",
-      "desc": "Many of us were thinking the same thing",
-      "img": "https://cdn.mos.cms.futurecdn.net/Gxibxv3HShXiXr7mZv6C44-1920-80.jpg"
     }
   ],
   "tech": [
+    {
+      "title": "Gamer hijacks plane in GTA 6 using just mind control and eye tracking",
+      "link": "https://www.tomshardware.com/peripherals/wearable-tech/gamer-hijacks-plane-in-gta-6-using-just-mind-control-and-eye-tracking-xbox-controller-mapped-to-read-brain-signals-using-eeg",
+      "desc": "Perri Karyal programmed an EEG device to read her brainwaves and translate it to actions on her Xbox...",
+      "img": "https://cdn.mos.cms.futurecdn.net/xUcCzzDo6nbgtV5YZkJsRC-1920-80.png"
+    },
+    {
+      "title": "Enthusiast gets GTA V running on a 2007 Radeon with just 64MB of VRAM",
+      "link": "https://www.tomshardware.com/video-games/pc-gaming/enthusiast-gets-gta-v-running-on-a-2007-radeon-with-just-64mb-of-vram-config-edits-windows-8-and-an-overclock-lift-it-from-1-fps-to-20-fps-but-most-cars-stop-rendering",
+      "desc": "Budget-Builds Official ran GTA V on a 2007 ATI Radeon HD 2350 with 64MB of DDR2 VRAM at 13 to 20 FPS...",
+      "img": "https://cdn.mos.cms.futurecdn.net/ZXzjJjNmQJ8n7qfRxMHy8C-1920-80.jpg"
+    },
+    {
+      "title": "Sharge's Disk Pro 2 USB hub and actively cooled M.2 enclosure drops to its lowest-ever price",
+      "link": "https://www.tomshardware.com/pc-components/sharges-disk-pro-2-usb-hub-and-actively-cooled-m-2-enclosure-drops-to-its-lowest-ever-price-one-of-my-favorite-products-of-2026-now-starts-at-just-usd66",
+      "desc": "Sharge's see-through hub with the ports you need and up to 8TB of storage is now on sale for $66.51 ...",
+      "img": "https://cdn.mos.cms.futurecdn.net/RVyixEpGbgbawvorRhb5ZD-1920-80.jpg"
+    },
     {
       "title": "Grab a TP-Link tri-band Wi-Fi 7 router for less than $90",
       "link": "https://www.tomshardware.com/networking/routers/grab-a-speedy-tp-link-tri-band-wi-fi-7-router-for-less-than-usd90-archer-be9500-router-is-55-percent-off-sports-10-gbe-wan-and-two-2-5-gbe-lan-ports",
@@ -93,38 +111,20 @@
       "link": "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-returns-to-applause-from-employees-at-nvidia-hq-some-employees-reportedly-disgruntled-by-return-saying-this-is-the-worst-outcome",
       "desc": "Jensen Huang returned to the office after being reinstated to CEO to cheers, according to videos spr...",
       "img": "https://cdn.mos.cms.futurecdn.net/sDEMAVk3qrauvEM3EtLfHJ-1920-80.jpg"
-    },
-    {
-      "title": "Grab this $1199 Asus Prime RTX 5070 Ti for a 1440p or 4K gaming upgrade",
-      "link": "https://www.tomshardware.com/pc-components/gpus/grab-this-usd1199-asus-prime-rtx-5070-ti-for-a-1440p-or-4k-gaming-upgrade-best-buy-deal-gets-you-into-high-end-blackwell-for-hundreds-less",
-      "desc": "RTX 5070 Ti graphics cards have been selling for close to twice their MSRP of late, but you can this...",
-      "img": "https://cdn.mos.cms.futurecdn.net/ao3GmxbwW985ZbSU7t42PN-1920-80.jpg"
-    },
-    {
-      "title": "Electric Intel Core Ultra 7 270K Plus deal knocks it down to just $232",
-      "link": "https://www.tomshardware.com/pc-components/cpus/electric-intel-core-ultra-7-270k-plus-deal-knocks-it-down-to-just-usd232-25-percent-discount-marks-a-new-all-time-low-for-arrow-lake-refresh",
-      "desc": "The Intel Core Ultra 7 270K Plus is back in stock at Amazon for an all-time low price of just $232, ...",
-      "img": "https://cdn.mos.cms.futurecdn.net/V8CgCrnL94gRnbVt2XUGzG-1920-80.jpg"
-    },
-    {
-      "title": "Stock up on storage with 4TB T-Force G50 SSD at just $0.10 per GB",
-      "link": "https://www.tomshardware.com/pc-components/ssds/stock-up-on-storage-with-4tb-t-force-g50-ssd-at-just-usd0-10-per-gb-entry-level-pcie-4-0-drive-offers-decent-performance-and-lots-of-capacity",
-      "desc": "Team Group has an excellent deal on its 4TB T-Force G50 Evo, knocking the price down to just $0.10 p...",
-      "img": "https://cdn.mos.cms.futurecdn.net/7vi8fGZE2sAnyGMjSDWP4d-1920-80.jpg"
     }
   ],
   "crypto": [
     {
-      "title": "Ethereum Foundation doubles protocol security team ahead of overhaul",
-      "link": "https://cointelegraph.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The foundation said its next upgrade will be harder than the Merge, and the required pace of develop...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M85DS27NQE002XJJS1QRWYQV/hi-eth-dragon-fire.jpg"
+      "title": "Bitcoin dips back under $60K as gold seals worst 60-day loss since 1980s",
+      "link": "https://cointelegraph.com/markets/bitcoin-dips-60k-gold-worst-60-day-loss-1980s?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Bitcoin continued to threaten the loss of $60,000 support as gold attempted to bounce from a 60-day ...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M86BHJKQHXMF4CD02MKJ6YRP/hi-what-is-the-stock-to-flow-ratio-of-bitcoin-960x640.webp"
     },
     {
-      "title": "CFTC staff say exchanges can count Bitcoin toward operating reserves",
-      "link": "https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The staff guidance allows Bitcoin, Ether and payment stablecoins to count towards operating reserves...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M85B9CDHGAHS6MHGSVMX0BWZ/hi-report-suggests-women-underrepresented-on-memecoin-market-structure-cftc.jpg"
+      "title": "Bitcoin ETFs keep bleeding as BlackRock’s IBIT shares gain nearly 5%",
+      "link": "https://cointelegraph.com/markets/bitcoin-etfs-bleed-ibit-shares-gain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "BlackRock’s IBIT shares gained 4.85% on Monday despite continued Bitcoin ETF withdrawals that pushed...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3PB1SXVHKJ0HQNAKV23AYKN/hi-blackrocks-bitcoin-etf-how-it-works-benefits-and-opportunities-1.jpg"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -133,60 +133,60 @@
       "img": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
     },
     {
-      "title": "US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack",
-      "link": "https://cointelegraph.com/news/us-seeks-11b-crypto-stolen-north-korea-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "US prosecutors are seeking control of stolen USDC, while Elliptic says hackers have moved $247 milli...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M852ASST1D3G389ZE09VJZTA/hi-how-binance-plans-to-bring-tokenized-us-stocks-1.png"
+      "title": "Why 42 Macro says it’s waiting to buy the Bitcoin dip",
+      "link": "https://cointelegraph.com/markets/why-42-macro-says-its-waiting-to-buy-the-bitcoin-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The independent macro research company warns the Bitcoin sell-off may not have yet run its course.",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M85YYTJRN4ETCCWEDBRCEMFH/hi-bitcoin-forecast-what-will-be-the-price-of-bitcoin-in-2020-according-to-experts.jpg"
     },
     {
-      "title": "Kalshi secures temporary win in New York gambling law dispute",
-      "link": "https://cointelegraph.com/news/kalshi-temporary-win-new-york-gambling-law-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The ruling allows Kalshi to continue operating as its legal battle with New York over sports-related...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M84YTSSZCSXXMQBKZMNS9T51/hi-when-prediction-markets-go-wrong-who-decides-what-counts-as-the-truth-2.jpg"
+      "title": "Google wants to make you the star of your own AI slop movies",
+      "link": "https://cointelegraph.com/news/google-wants-make-you-star-your-own-ai-slop-movies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Viewers could find their AI-doppelgangers inserted into the crowd during the Cricket World Cup, or t...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M85RH0KQ622Q81DNQTWRWR22/ai-google.jpg"
     },
     {
-      "title": "BTCS offloads $44M in ETH to reduce DeFi debt amid market downturn",
-      "link": "https://cointelegraph.com/news/btcs-offloads-44m-eth-reduce-defi-debt-market-downturn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "BTCS sold more than half its Ether holdings to reduce leverage following the market sell-off, while ...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M84VFSZP83BETXS7WKZ3GZEZ/hi-risk-vs-reward-investing-in-ethereum.png"
+      "title": "Ethereum Foundation doubles protocol security team ahead of overhaul",
+      "link": "https://cointelegraph.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The foundation said its next upgrade will be harder than the Merge, and the required pace of develop...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M85DS27NQE002XJJS1QRWYQV/hi-eth-dragon-fire.jpg"
     }
   ],
   "various": [
     {
-      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
-      "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
-      "desc": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jen...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a66/live/7c413f70-e78a-11f1-a5c2-c57ab9df3111.jpg"
+      "title": "Cheers and applause as Jensen Huang returns to Nvidia office",
+      "link": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
+      "desc": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's retur...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd69/live/495b9350-e7d3-11f1-99b6-a35a62fa4264.jpg"
     },
     {
-      "title": "Benefits review to suggest quicker payment for some disabled people",
+      "title": "Pip benefits review to suggest quicker payment for some disabled people",
       "link": "https://www.bbc.co.uk/news/articles/cvx2xjed2r3ro?at_medium=RSS&at_campaign=rss",
       "desc": "The Timms review will recommend those with severe conditions will not need to be reassessed to recei...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bc4/live/776e1e70-e788-11f1-9baa-c1f9a8f8c840.jpg"
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b31/live/c83edc60-e7d1-11f1-99a1-253766e7ad8b.jpg"
     },
     {
-      "title": "Chris Mason: Can Burnham turn volume down on EU debate?",
-      "link": "https://www.bbc.co.uk/news/articles/c6pw47jyyz5no?at_medium=RSS&at_campaign=rss",
-      "desc": "The BBC's Chris Mason analyses what the EU conversation means for Labour and the PM.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d52f/live/4268b250-e79f-11f1-b8f0-1fdd88d7e7ad.jpg"
+      "title": "Afghan women with UK university offers 'heartbroken' after visas stopped",
+      "link": "https://www.bbc.co.uk/news/articles/c6vg25e1v17wo?at_medium=RSS&at_campaign=rss",
+      "desc": "In March this year, the UK Home Office announced an \"emergency visa brake\" on study visas for applic...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c60/live/8e8eebb0-e77f-11f1-8707-dd4660fa8d9d.jpg"
     },
     {
-      "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
-      "link": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
-      "desc": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, w...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/363b/live/dab0da20-e771-11f1-99a1-253766e7ad8b.jpg"
+      "title": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
+      "link": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o?at_medium=RSS&at_campaign=rss",
+      "desc": "The publisher of an essay on coercive control apologises for \"an unfortunate and inappropriate commu...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1cd/live/0fff68f0-e776-11f1-a8a9-d7c9e8a923b4.jpg"
     },
     {
-      "title": "'Life is not infinite': Catherine talks about 'mortality' in new documentary clip",
-      "link": "https://www.bbc.co.uk/news/videos/c920x1534e31o?at_medium=RSS&at_campaign=rss",
-      "desc": "The Princess of Wales talks about her cancer journey in a new clip from the upcoming BBC documentary...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3824/live/e32c6f10-e786-11f1-99a1-253766e7ad8b.jpg"
+      "title": "BBC secret filming shows dog breeder selling sick puppies for £2k each",
+      "link": "https://www.bbc.co.uk/news/articles/c8d36d43y8po?at_medium=RSS&at_campaign=rss",
+      "desc": "The breeder's rating was downgraded but he continued to advertise as five-star, investigation finds.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbbd/live/db7cd3b0-e7d4-11f1-939f-471cde339c0e.jpg"
     },
     {
-      "title": "Why I don't always tell potential employers I'm dyslexic",
-      "link": "https://www.bbc.co.uk/news/articles/c6rmgjynynero?at_medium=RSS&at_campaign=rss",
-      "desc": "Many dyslexic people say it harms their confidence, a report about experiences in the workplace sugg...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49d8/live/1c75ed80-e770-11f1-99a1-253766e7ad8b.jpg"
+      "title": "Zoe Kleinman: My week with Meta's AI agent Muse ahead of its UK launch",
+      "link": "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o?at_medium=RSS&at_campaign=rss",
+      "desc": "Meta wants Muse to do for AI what WhatsApp did for messaging - here's what the BBC's technology edit...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/806c/live/2d26fe50-e7f5-11f1-99a1-253766e7ad8b.jpg"
     }
   ]
 }
