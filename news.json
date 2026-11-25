@@ -39,43 +39,55 @@
   ],
   "movies": [
     {
-      "title": "I Don't Think Enough People Talk About What A Masterpiece From The '90s 12 Monkeys Is",
-      "link": "https://www.cinemablend.com/movies/dont-think-enough-people-talk-about-what-masterpiece-from-90s-12-monkeys-brad-pitt-bruce-willis",
-      "desc": "Pulp Fiction is great and all, but what about 12 Monkeys?!",
-      "img": "https://cdn.mos.cms.futurecdn.net/VtDPDxEyn5qU9mTBwD8vAX-1920-80.jpg"
+      "title": "Twilight Fans Have Been Talking About That James Bond Scene. There’s Even More To It Than We Thought",
+      "link": "https://www.cinemablend.com/movies/twilight-fans-robert-pattinson-james-bond-scene-more-than-we-thought-catherine-hardwicke",
+      "desc": "Before he was 007, he was Cullen. Edward Cullen.",
+      "img": "https://cdn.mos.cms.futurecdn.net/6VrGbkFbMSmJXGRWVfaBb5-1920-80.png"
     },
     {
-      "title": "Disney Really Needed A Hit With Hexed. The First Reviews Have Me Concerned",
-      "link": "https://www.cinemablend.com/movies/disney-needed-hit-hexed-first-reviews-concerned",
-      "desc": "Critics aren't bewitched by this one.",
-      "img": "https://cdn.mos.cms.futurecdn.net/doBJ2DLGTfUnQGnSaZqatD-1920-80.png"
+      "title": "After The Last Jedi Backlash, Would Rian Johnson Return To Star Wars? Someone Asked Him",
+      "link": "https://www.cinemablend.com/movies/after-the-last-jedi-backlash-would-rian-johnson-return-star-wars",
+      "desc": "I personally loved The Last Jedi.",
+      "img": "https://cdn.mos.cms.futurecdn.net/HsfYG9CTEnRipWXpZNPxab-1920-80.jpg"
     },
     {
-      "title": "One Thing Jennifer Lopez Won’t Do With Her Romances Moving Forward: ‘I’ve Learned Lessons’",
-      "link": "https://www.cinemablend.com/movies/one-thing-jennifer-lopez-wont-do-romances-moving-forward",
-      "desc": "JLo's romantic life has made headlines for decades.",
-      "img": "https://cdn.mos.cms.futurecdn.net/hQJAUbeAEU6yfbgEfDftak-1920-80.jpg"
+      "title": "What Happened To Harrison Ford’s Deckard After Blade Runner 2049? I Asked 2099’s EP For Her Take",
+      "link": "https://www.cinemablend.com/streaming-news/what-happened-harrison-ford-deckard-after-blade-runner-2049-response-2099-ep",
+      "desc": "I can't be the only one who's been wondering, right?",
+      "img": "https://cdn.mos.cms.futurecdn.net/jrngSngQpHNTYTf62cv3Q3-1920-80.jpg"
     },
     {
-      "title": "I Wanted More Of Maya Hawke’s Wiress At The End Of Sunrise On The Reaping. She Has Another POV",
-      "link": "https://www.cinemablend.com/movies/i-wanted-more-maya-hawkes-wiress-end-of-sunrise-on-the-reaping-she-has-another-pov",
-      "desc": "The Stranger Thing star spoke to CinemaBlend about her ending.",
-      "img": "https://cdn.mos.cms.futurecdn.net/KjNA3U8mj82Q4hNoSNAdMM-1920-80.jpg"
+      "title": "Ben Stiller And Skyler Gisondo Starred In Night At The Museum Together. Focker In-Law Was A Full-Circle Moment",
+      "link": "https://www.cinemablend.com/movies/ben-stiller-skyler-gisondo-night-at-the-museum-together-focker-in-law-full-circle-moment",
+      "desc": "They're meant to be fictional father and son.",
+      "img": "https://cdn.mos.cms.futurecdn.net/WkYxyV5rRyNaBw85qWajzj-1920-80.jpg"
     },
     {
-      "title": "Charlie Cox Wanted To Audition For James Bond. Amazon’s Response Was Pretty Mean-Spirited",
-      "link": "https://www.cinemablend.com/movies/charlie-cox-wanted-to-audition-james-bond-amazon-response-mean-spirited",
-      "desc": "There was at least one actor in Hollywood who didn't get a chance to audition for a Bond role.",
-      "img": "https://cdn.mos.cms.futurecdn.net/Ne7xHLkdtJ4y9PGqCiWfQb-1920-80.jpg"
+      "title": "Anthony Mackie’s Dodging Questions About Doomsday Spoilers, But I’m Obsessed With His New Marvel Catchphrase",
+      "link": "https://www.cinemablend.com/movies/anthony-mackie-drops-marvel-catchphrase-dodging-avengers-doomsday-spoiler-questions",
+      "desc": "Captain America has found a new favorite phrase.",
+      "img": "https://cdn.mos.cms.futurecdn.net/8Yp2YKf6QnCN8ohrugDq9e-1920-80.jpg"
     },
     {
-      "title": "I Wondered Why Marvel Dropped Those Four Avengers: Doomsday Teasers So Early. Joe Russo Explained",
-      "link": "https://www.cinemablend.com/movies/why-marvel-dropped-four-avengers-doomsday-teasers-early-joe-russo-explained",
-      "desc": "Those clips came surprisingly early.",
-      "img": "https://cdn.mos.cms.futurecdn.net/wi3TCGRRTSQ4LoyhZDhU89-1920-80.jpg"
+      "title": "I Get Why Red Rising Fans Want Joseph Zada To Play A Certain Gold, But Wait A Second",
+      "link": "https://www.cinemablend.com/movies/red-rising-fans-want-joseph-zada-movie-cast-character-golds",
+      "desc": "The Hunger Games star should obviously play a Gold... but which one?",
+      "img": "https://cdn.mos.cms.futurecdn.net/CDnbFrsnswQCxic77k8rxQ-1920-80.jpg"
     }
   ],
   "tech": [
+    {
+      "title": "US DOJ touts \"largest-ever\" crackdown on scammers across the globe as it seizes 14,000 devices and $17 billion in illicit funds",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/us-doj-touts-largest-ever-crackdown-on-scammers-across-the-globe-as-it-seizes-14-000-devices-and-usd17-billion-in-illicit-funds-operation-results-in-800-defendants-and-frees-2-200-forced-laborers",
+      "desc": "The U.S. Department of Justice has announced that the largest anti-scam push in its history has resu...",
+      "img": "https://cdn.mos.cms.futurecdn.net/iNhiQPvhodMPdeZqQC78aX-1920-80.jpg"
+    },
+    {
+      "title": "Best Black Friday gaming laptop PC deals 2026",
+      "link": "https://www.tomshardware.com/laptops/gaming-laptops/best-gaming-laptop-deals-dell-msi-alienware-rog",
+      "desc": "Here are the best Black Friday gaming laptop deals. We're constantly updating this list with the bes...",
+      "img": "https://cdn.mos.cms.futurecdn.net/aiCE4SUBa5i2RfFxXdKRNU-1920-80.jpg"
+    },
     {
       "title": "Frontier AI employees alarmed that unseen Open AI and Anthropic models are too powerful to release, report claims",
       "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/frontier-ai-employees-alarmed-that-unseen-open-ai-and-anthropic-models-are-too-powerful-to-release-report-claims-worry-spreads-that-executives-are-out-of-touch-with-severity-of-risks-will-choose-profit-over-safety",
@@ -99,21 +111,33 @@
       "link": "https://www.tomshardware.com/pc-components/ram/these-are-the-four-cheapest-32gb-ddr5-memory-kits-weve-found-save-up-to-usd110-on-kits-available-from-patriot-team-group-and-v-color-up-to-ddr5-6400",
       "desc": "DDR5 prices are still high, but we found four DDR5 kits that are the cheapest options available righ...",
       "img": "https://cdn.mos.cms.futurecdn.net/n75sAsMdD4VcBHkWdg9v2j-1920-80.jpg"
-    },
-    {
-      "title": "RTX 5090-equipped Asus ROG Strix SCAR 16 laptop is $350 off",
-      "link": "https://www.tomshardware.com/pc-components/rtx-5090-equipped-asus-rog-strix-scar-16-laptop-is-usd350-off-snag-a-great-deal-on-a-ridiculously-powerful-2025-model-16-inch-gaming-laptop-with-32gb-of-ram-and-core-ultra-9-275hx-processor-for-only-usd4-149",
-      "desc": "Newegg has the Asus ROG Strix SCAR 16 with an RTX 5090 at $4,149, a $350 discount and one of the low...",
-      "img": "https://cdn.mos.cms.futurecdn.net/paYdFcbNCwHVUFnUbT4u48-1920-80.png"
-    },
-    {
-      "title": "Anycubic's Black Friday 3D Printers sale slashes up to $350 off a brand new printer",
-      "link": "https://www.tomshardware.com/3d-printing/anycubics-black-friday-3d-printers-sale-slashes-up-to-usd350-off-a-brand-new-printer-massive-discounts-available-on-the-most-popular-models",
-      "desc": "Anycubic's range of 3D printers sees large discounts in the Amazon Prime Big Deal Days sale",
-      "img": "https://cdn.mos.cms.futurecdn.net/LQiHKy3Y2GvWSf8LV4sVP9-1920-80.jpg"
     }
   ],
   "crypto": [
+    {
+      "title": "CleanSpark weighs selling more Bitcoin than it mines to de-risk books",
+      "link": "https://cointelegraph.com/news/cleanspark-weighs-selling-more-bitcoin-than-it-mines-to-de-risk-books?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The Bitcoin miner sold 2,102 BTC while it produced just 1,708 BTC in the September quarter.",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M885KKJ586HHXXT0SHDZ35QT/hi-ai-is-now-paying-bitcoin-miners-more-than-mining-cleanspark-2.jpg"
+    },
+    {
+      "title": "Hackers breach CIA intelligence network in latest US cyberattack",
+      "link": "https://cointelegraph.com/news/hackers-breach-cia-intelligence-network-in-latest-us-cyberattack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The reported breach follows cyber incidents involving the FBI, Department of Homeland Security and D...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M87XQMEWNSBKEFPD9X7V49QK/hacker-stealing-spying.jpg"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impac...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
+    },
+    {
+      "title": "Europol follows $28.5M crypto trail in streaming piracy crackdown",
+      "link": "https://cointelegraph.com/news/europol-crypto-trail-streaming-piracy-crackdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Authorities from 11 countries worked with Binance, Coinbase and Chainalysis to trace financial trans...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M87NDASB12J5RE5T6ERAE76K/detective-coin-2.png"
+    },
     {
       "title": "Utah moves to dismiss criminal charges against Kalshi after trading halt",
       "link": "https://cointelegraph.com/news/utah-moves-to-dismiss-criminal-charges-against-kalshi-after-trading-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -125,68 +149,44 @@
       "link": "https://cointelegraph.com/news/bitcoin-selloff-weak-demand-forced-liquidations-21shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The crypto asset manager warned that Bitcoin’s downturn could persist amid weak investor demand, whi...",
       "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M51V1P8ZQ063ADC4P2T050NT/market-red-graph-falling-danger-stones-bitcoin-4.jpg"
-    },
-    {
-      "title": "Coldcard reveals how Bitcoin wallet flaw went undetected for over 5 years",
-      "link": "https://cointelegraph.com/news/coldcard-how-security-reviews-missed-bitcoin-wallet-flaw-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Coldcard maker Coinkite explained why years of security checks failed to catch the flaw and said it ...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M87AWRBC8FGN1Y9J8122FYZF/thief-bitcoin-1280x854.webp"
-    },
-    {
-      "title": "CFTC sets new prediction market rules as more firms seek US entry",
-      "link": "https://cointelegraph.com/news/cftc-new-prediction-market-rules-firms-seek-us-entry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The US regulator has approved permanent reporting rules for certain event contracts as more companie...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2TJB7047S01XKJY4FWVJGEK/judge-hammer-regulation-cftc-2.jpg"
-    },
-    {
-      "title": "BlackRock launches tokenized money market fund accepting stablecoins in Hong Kong",
-      "link": "https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-fund-stablecoins-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The tokenized fund launched with approximately $100 million in assets, with Standard Chartered and A...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M875NJM2XF6AM2XW3HR7BBSV/hi-usdt-vs-usdc-whats-the-difference-hong-kong.png"
-    },
-    {
-      "title": "Bitcoin slides amid US tariff nerves as Anthropic falls below IPO price",
-      "link": "https://cointelegraph.com/markets/bitcoin-slides-us-tariff-nerves-anthropic-falls-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Bitcoin gave up gains above $60,000 as tariff concerns weighed on US stocks and Anthropic shares hit...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M875FNTK5A5N7SWKXH8E8RC9/article-covers-143614-the-bitcoin-bottom-is-not-in-btc-traders-set-price-targets-in-low-40k-range-1280x853.webp"
     }
   ],
   "various": [
     {
-      "title": "Disability benefit review calls for closer link with claimant costs",
-      "link": "https://www.bbc.co.uk/news/articles/cm4gn6gn9057o?at_medium=RSS&at_campaign=rss",
-      "desc": "A government-commissioned report calls for a \"rebalancing\" of the amount paid to different claimants...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8836/live/971a11c0-e828-11f1-8d9d-c156c75bcdb5.jpg"
+      "title": "Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel",
+      "link": "https://www.bbc.co.uk/news/articles/c6808k8dxvgko?at_medium=RSS&at_campaign=rss",
+      "desc": "The prime minister says a Hillsborough-style independent panel will examine the health legacy of Bri...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe2e/live/12d46260-e85c-11f1-8f9c-6751d17fed73.jpg"
     },
     {
-      "title": "Two arrested on suspicion of burglary at Prince and Princess of Wales's Norfolk home",
-      "link": "https://www.bbc.co.uk/news/articles/cr9d7qdg24vno?at_medium=RSS&at_campaign=rss",
-      "desc": "The break-in took place at the family's country retreat in Norfolk, on the Sandringham Estate.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ecc/live/c4219c10-e80a-11f1-a094-5fdc692f3e33.jpg"
+      "title": "Nuclear test veterans speak to BBC about search for justice",
+      "link": "https://www.bbc.co.uk/news/videos/c6jrel8e50w9o?at_medium=RSS&at_campaign=rss",
+      "desc": "Andy Burnham says veterans will get 'the full truth' as he confirmed plans for an investigation into...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9613/live/a98c6d20-e856-11f1-9b85-e50d1e9de678.jpg"
     },
     {
-      "title": "US attorney general dodges questions about Nvidia investigation",
-      "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-      "desc": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's invol...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png"
+      "title": "Anthony Zurcher: Trump's Nvidia intervention ties his political fortunes to the AI boom",
+      "link": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
+      "desc": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e638/live/844e1780-e864-11f1-99a1-253766e7ad8b.jpg"
     },
     {
-      "title": "Faisal Islam: Fears over the AI boom haven't gone away",
-      "link": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
-      "desc": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ec8/live/8b0c59c0-e831-11f1-917e-35f1674fb52c.jpg"
+      "title": "Third of young Brits have never had sex, but many are sexting and watching porn",
+      "link": "https://www.bbc.co.uk/news/articles/cw0737zzn50mo?at_medium=RSS&at_campaign=rss",
+      "desc": "More young people in Britain have never had sex, but many are sexting and watching porn.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc18/live/8aec72e0-deb3-11f1-8fb5-a771a656a227.jpg"
     },
     {
-      "title": "Substance released at Manchester concert could be linked to robberies, police say",
-      "link": "https://www.bbc.co.uk/news/articles/cqrmgvnzwrm3o?at_medium=RSS&at_campaign=rss",
-      "desc": "Police are investigating a possible link between the Co-op Live evacuation and reported robberies.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/887f/live/11589370-e83e-11f1-917e-35f1674fb52c.png"
+      "title": "Thomas Markle indicted in US for possessing child sex abuse images",
+      "link": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
+      "desc": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Lo...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a486/live/58170a20-e862-11f1-a094-5fdc692f3e33.png"
     },
     {
-      "title": "Businesses supporting Ukraine told to 'act now' to protect against Russian sabotage",
-      "link": "https://www.bbc.co.uk/news/articles/ckpdw4d0z2dwo?at_medium=RSS&at_campaign=rss",
-      "desc": "An alert issued on Tuesday warns of an increased risk of sabotage attacks such as arson and threats ...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fad6/live/34023470-e830-11f1-99b6-a35a62fa4264.jpg"
+      "title": "Households braced for soaring energy bills with new price cap to be announced",
+      "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+      "desc": "Domestic gas prices will rise significantly in January under regulator Ofgem's new price cap.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ca0/live/03fac650-e7fb-11f1-ab60-79086b6495b8.jpg"
     }
   ]
 }
