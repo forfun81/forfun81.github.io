@@ -1,6 +1,12 @@
 {
   "games": [
     {
+      "title": "The Witcher 4 Wants To Be The GTA 6 Of The Witcher Franchise",
+      "link": "https://www.gamespot.com/articles/the-witcher-4-wants-to-be-the-gta-6-of-the-witcher-franchise/",
+      "desc": "There's been a massive gap between new entries in The Witcher series, and for The Witcher 4, develop...",
+      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/The-Witcher-4.jpg?w=300"
+    },
+    {
       "title": "Call Of Duty’s 19-Year Sales Streak Continues",
       "link": "https://www.gamespot.com/articles/call-of-dutys-19-year-sales-streak-continues/",
       "desc": "Circana has released its latest monthly sales report for the US video game industry, and in terms of...",
@@ -29,15 +35,15 @@
       "link": "https://www.gamespot.com/articles/witcher-4-has-fewer-people-working-on-it-than-it-did-3-months-ago-but-just-barely/",
       "desc": "As part of CD Projekt's latest earnings report, the Polish developer revealed new information about ...",
       "img": "https://www.gamespot.com/wp-content/uploads/2026/11/W4.png?w=300"
-    },
-    {
-      "title": "GTA 6 Is Giving Pornhub A Hard Time",
-      "link": "https://www.gamespot.com/articles/gta-6-is-giving-pornhub-a-hard-time/",
-      "desc": "Not even porn is immune to the GTA 6 effect, as it's just one of several forms of entertainment that...",
-      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-launch-screens-27.jpg?w=300"
     }
   ],
   "movies": [
+    {
+      "title": "Channing Tatum Wants To Set The Record Straight On His Avengers: Doomsday Accent",
+      "link": "https://www.cinemablend.com/movies/channing-tatum-set-record-straight-avengers-doomsday-accent",
+      "desc": "Gambit is back following his debut in Deadpool & Wolverine.",
+      "img": "https://cdn.mos.cms.futurecdn.net/P2RXkLrp8oUSjTm52KR2T6-1920-80.jpg"
+    },
     {
       "title": "Twilight Fans Have Been Talking About That James Bond Scene. There’s Even More To It Than We Thought",
       "link": "https://www.cinemablend.com/movies/twilight-fans-robert-pattinson-james-bond-scene-more-than-we-thought-catherine-hardwicke",
@@ -67,65 +73,47 @@
       "link": "https://www.cinemablend.com/movies/anthony-mackie-drops-marvel-catchphrase-dodging-avengers-doomsday-spoiler-questions",
       "desc": "Captain America has found a new favorite phrase.",
       "img": "https://cdn.mos.cms.futurecdn.net/8Yp2YKf6QnCN8ohrugDq9e-1920-80.jpg"
-    },
-    {
-      "title": "I Get Why Red Rising Fans Want Joseph Zada To Play A Certain Gold, But Wait A Second",
-      "link": "https://www.cinemablend.com/movies/red-rising-fans-want-joseph-zada-movie-cast-character-golds",
-      "desc": "The Hunger Games star should obviously play a Gold... but which one?",
-      "img": "https://cdn.mos.cms.futurecdn.net/CDnbFrsnswQCxic77k8rxQ-1920-80.jpg"
     }
   ],
   "tech": [
     {
-      "title": "US DOJ touts \"largest-ever\" crackdown on scammers across the globe as it seizes 14,000 devices and $17 billion in illicit funds",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/us-doj-touts-largest-ever-crackdown-on-scammers-across-the-globe-as-it-seizes-14-000-devices-and-usd17-billion-in-illicit-funds-operation-results-in-800-defendants-and-frees-2-200-forced-laborers",
-      "desc": "The U.S. Department of Justice has announced that the largest anti-scam push in its history has resu...",
-      "img": "https://cdn.mos.cms.futurecdn.net/iNhiQPvhodMPdeZqQC78aX-1920-80.jpg"
+      "title": "Resourceful PC owner repurposes CPU watercooler with dead pump as standalone LCD hardware monitor, vibecodes new software for module",
+      "link": "https://www.tomshardware.com/pc-components/liquid-cooling/resourceful-pc-owner-repurposes-cpu-watercooler-with-dead-pump-as-standalone-lcd-hardware-monitor-vibecodes-new-software-for-module-nzxt-krakens-lcd-and-controller-board-combined-with-3d-printed-stand-for-second-chance-at-life",
+      "desc": "The Redditor salvaged the LCD and controller board, 3D-printed a stand, and used AI to develop a cus...",
+      "img": "https://cdn.mos.cms.futurecdn.net/PhywGimNE7gbWBVp7vRDoj-1920-80.jpg"
     },
     {
-      "title": "Best Black Friday gaming laptop PC deals 2026",
-      "link": "https://www.tomshardware.com/laptops/gaming-laptops/best-gaming-laptop-deals-dell-msi-alienware-rog",
-      "desc": "Here are the best Black Friday gaming laptop deals. We're constantly updating this list with the bes...",
-      "img": "https://cdn.mos.cms.futurecdn.net/aiCE4SUBa5i2RfFxXdKRNU-1920-80.jpg"
+      "title": "Deep clean your PC in seconds with cordless duster deals from $19",
+      "link": "https://www.tomshardware.com/peripherals/deep-clean-your-pc-in-seconds-with-cordless-air-duster-deals-from-usd19-on-black-friday-save-hundreds-on-canned-air-with-unlimited-high-rpm-dusting-power",
+      "desc": "Black Friday 2026 is the perfect time to pick up an air blower to clean grime and dust from your PC ...",
+      "img": "https://cdn.mos.cms.futurecdn.net/XqSr2HVpJS99JzhHZfjtPf-1920-80.jpg"
     },
     {
-      "title": "Frontier AI employees alarmed that unseen Open AI and Anthropic models are too powerful to release, report claims",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/frontier-ai-employees-alarmed-that-unseen-open-ai-and-anthropic-models-are-too-powerful-to-release-report-claims-worry-spreads-that-executives-are-out-of-touch-with-severity-of-risks-will-choose-profit-over-safety",
-      "desc": "Researchers are still looking for ways to contain and control unreleased models, but one source said...",
-      "img": "https://cdn.mos.cms.futurecdn.net/5w7naGL4af3ah9JvkvZsVR-1920-80.png"
+      "title": "Buying single sticks of DDR5 memory can save you more than buying a kit",
+      "link": "https://www.tomshardware.com/pc-components/ddr5/buying-single-sticks-of-ddr5-memory-can-save-you-more-than-buying-a-kit-16gb-kits-are-less-than-half-the-price-of-2-x-16gb-at-amazon-and-newegg",
+      "desc": "It is cheaper to buy a single stick of RAM twice in some cases on Black Friday.",
+      "img": "https://cdn.mos.cms.futurecdn.net/qhLpuNkQALKv38i7QGPAqb-1920-80.jpg"
     },
     {
-      "title": "512GB MacBook Neo drops to $699 — comes with Touch ID, but only in pink",
-      "link": "https://www.tomshardware.com/laptops/macbooks/512gb-macbook-neo-drops-to-usd699-comes-with-touch-id-but-only-in-pink",
-      "desc": "Apple's MacBook Neo with 512GB of storage and Touch ID is $699 on Amazon.",
-      "img": "https://cdn.mos.cms.futurecdn.net/kH4igqKSVcu3DjKZdupbFY-1920-80.jpg"
+      "title": "The best Black Friday VPN deals 2026, save up to 88%",
+      "link": "https://www.tomshardware.com/software/vpn/the-best-vpn-deals-2026",
+      "desc": "The best Black Friday VPN subscription deals to keep you safe online for less.",
+      "img": "https://cdn.mos.cms.futurecdn.net/nYFobev3Mi39srr8cuu8HF-1920-80.jpg"
     },
     {
-      "title": "TP-Link's Archer 770 tri-band Wi-Fi 7 router is $120 off",
-      "link": "https://www.tomshardware.com/networking/routers/tp-links-archer-be770-tri-band-wi-fi-7-router-is-usd120-off-10-gbps-lan-ports-and-blazing-fast-wireless-speeds-for-usd280",
-      "desc": "TP-Link Archer BE770 tri-band Wi-Fi 7 router falls to a low $280",
-      "img": "https://cdn.mos.cms.futurecdn.net/azVkseF5DhXF5sKhZU3zin-1920-80.jpg"
+      "title": "Husband of Jensen Huang’s mistress has much more significant Chinese intelligence connections than her, report claims",
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/husband-of-jensen-huangs-mistress-has-much-more-significant-chinese-intelligence-connections-than-her-report-claims-us-officials-warn-he-was-asset-with-ministry-of-state-security-connections",
+      "desc": "The husband of alleged Chinese spy Alice Huang, the former Megaspeed employee who was involved in an...",
+      "img": "https://cdn.mos.cms.futurecdn.net/YtB9RGwrLiZvKMoFdZYGtD-1920-80.jpg"
     },
     {
-      "title": "These are the four cheapest 32GB DDR5 memory kits we’ve found",
-      "link": "https://www.tomshardware.com/pc-components/ram/these-are-the-four-cheapest-32gb-ddr5-memory-kits-weve-found-save-up-to-usd110-on-kits-available-from-patriot-team-group-and-v-color-up-to-ddr5-6400",
-      "desc": "DDR5 prices are still high, but we found four DDR5 kits that are the cheapest options available righ...",
-      "img": "https://cdn.mos.cms.futurecdn.net/n75sAsMdD4VcBHkWdg9v2j-1920-80.jpg"
+      "title": "China's memory giants have a record year as Huawei ships HBM without a named source",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/the-state-of-chinas-memory-industry-in-2026-cxmt-and-ymtc-are-booming-but-hbm-remains-a-headache",
+      "desc": "China's memory output comes from CXMT and YMTC, a few smaller fabs, and Chinese Samsung and SK hynix...",
+      "img": "https://cdn.mos.cms.futurecdn.net/7SWAfftEfs6jSUPjkcem2P-1920-80.jpg"
     }
   ],
   "crypto": [
-    {
-      "title": "CleanSpark weighs selling more Bitcoin than it mines to de-risk books",
-      "link": "https://cointelegraph.com/news/cleanspark-weighs-selling-more-bitcoin-than-it-mines-to-de-risk-books?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The Bitcoin miner sold 2,102 BTC while it produced just 1,708 BTC in the September quarter.",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M885KKJ586HHXXT0SHDZ35QT/hi-ai-is-now-paying-bitcoin-miners-more-than-mining-cleanspark-2.jpg"
-    },
-    {
-      "title": "Hackers breach CIA intelligence network in latest US cyberattack",
-      "link": "https://cointelegraph.com/news/hackers-breach-cia-intelligence-network-in-latest-us-cyberattack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The reported breach follows cyber incidents involving the FBI, Department of Homeland Security and D...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M87XQMEWNSBKEFPD9X7V49QK/hacker-stealing-spying.jpg"
-    },
     {
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -133,60 +121,72 @@
       "img": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
     },
     {
-      "title": "Europol follows $28.5M crypto trail in streaming piracy crackdown",
-      "link": "https://cointelegraph.com/news/europol-crypto-trail-streaming-piracy-crackdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Authorities from 11 countries worked with Binance, Coinbase and Chainalysis to trace financial trans...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M87NDASB12J5RE5T6ERAE76K/detective-coin-2.png"
+      "title": "Ukraine passes bill to legalize crypto and tax profits at 23%",
+      "link": "https://cointelegraph.com/news/ukraine-passes-bill-crypto-regulation-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Ukraine’s parliament passed a crypto regulation bill after three years of legislative work, with the...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8992X91RDVP095WKH0ZV4TH/u11111.png"
     },
     {
-      "title": "Utah moves to dismiss criminal charges against Kalshi after trading halt",
-      "link": "https://cointelegraph.com/news/utah-moves-to-dismiss-criminal-charges-against-kalshi-after-trading-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Utah’s attorney general warned that the criminal charges could be refiled if Kalshi resumes operatio...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M87J6N3Z9XVM655E8KKXZ6HP/court-vs-kalshi.png"
+      "title": "Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization",
+      "link": "https://cointelegraph.com/news/sbi-smfg-solana-global-stablecoin-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "SBI Solana Global plans to develop stablecoin payment infrastructure, explore AI agent micropayments...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M896PHE1PD4MWC6ATP71JDFZ/sol-jjapan.png"
     },
     {
-      "title": "Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares",
-      "link": "https://cointelegraph.com/news/bitcoin-selloff-weak-demand-forced-liquidations-21shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The crypto asset manager warned that Bitcoin’s downturn could persist amid weak investor demand, whi...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M51V1P8ZQ063ADC4P2T050NT/market-red-graph-falling-danger-stones-bitcoin-4.jpg"
+      "title": "Hong Kong launches tokenized debt platform with 24-hour settlement",
+      "link": "https://cointelegraph.com/news/hong-kong-central-bank-platform-tokenized-debt-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The HKMA’s new platform supports settlement in multiple currencies and handles debt issuance, intere...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M489R6N7E1AB2YW1Y7Q9J3JB/hi-how-hong-kong-is-turning-tokenized-bonds-into-real-market-infrastructure-1.jpg"
+    },
+    {
+      "title": "Bitcoin ETFs near $5B in record monthly outflows amid AI stock rout",
+      "link": "https://cointelegraph.com/markets/bitcoin-etfs-near-record-5-billion-monthly-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "US spot Bitcoin ETFs have recorded $4.94 billion in November net outflows, exceeding the previous mo...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M892VEWZNVC10NYBA407X6BQ/111111111.png"
+    },
+    {
+      "title": "Bitcoin price may fall below $53K if bear-market history repeats",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-bear-market-history-repeats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Bitcoin price downside targets focused on the $53,200 realized price as research saw pointed to bear...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M893T0SM6CVYNXZQE3SFECS5/hi-crypto-layoffs-mount-as-exchanges-continue-to-be-ravaged-by-the-prevailing-bear-market-bitcoin-1-960x640.webp"
     }
   ],
   "various": [
     {
-      "title": "Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel",
-      "link": "https://www.bbc.co.uk/news/articles/c6808k8dxvgko?at_medium=RSS&at_campaign=rss",
-      "desc": "The prime minister says a Hillsborough-style independent panel will examine the health legacy of Bri...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe2e/live/12d46260-e85c-11f1-8f9c-6751d17fed73.jpg"
+      "title": "Energy bills to rise by 26% from January after gas prices surge",
+      "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+      "desc": "A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb60/live/6bdfdbb0-e8ba-11f1-99b6-a35a62fa4264.jpg"
     },
     {
-      "title": "Nuclear test veterans speak to BBC about search for justice",
-      "link": "https://www.bbc.co.uk/news/videos/c6jrel8e50w9o?at_medium=RSS&at_campaign=rss",
-      "desc": "Andy Burnham says veterans will get 'the full truth' as he confirmed plans for an investigation into...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9613/live/a98c6d20-e856-11f1-9b85-e50d1e9de678.jpg"
+      "title": "Two men charged with trying to steal cufflinks and clock from Royal home",
+      "link": "https://www.bbc.co.uk/news/articles/cx5y1987dyp6o?at_medium=RSS&at_campaign=rss",
+      "desc": "The court hears the items from the Sandringham estate are of an unknown value.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ecc/live/c4219c10-e80a-11f1-a094-5fdc692f3e33.jpg"
     },
     {
-      "title": "Anthony Zurcher: Trump's Nvidia intervention ties his political fortunes to the AI boom",
-      "link": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
-      "desc": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e638/live/844e1780-e864-11f1-99a1-253766e7ad8b.jpg"
+      "title": "Raheem Sterling given suspended jail sentence for dangerous driving and nitrous oxide possession",
+      "link": "https://www.bbc.co.uk/news/articles/cv8e04ll9dd3o?at_medium=RSS&at_campaign=rss",
+      "desc": "Raheem Sterling was sentenced to 12 months imprisonment, suspended for 18 months, on Wednesday.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd65/live/f14720b0-e8d3-11f1-a3b9-79c60ec9ab33.jpg"
+    },
+    {
+      "title": "Hundreds complain about I'm A Celebrity after Mariella Frostrup called AJ Odudu 'aggressive'",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly5v11q194o?at_medium=RSS&at_campaign=rss",
+      "desc": "More than 800 viewers complain to regulator Ofcom after a row between AJ Odudu and Mariella Frostrup...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4af/live/82a22580-e8c2-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "title": "My family died in Ukraine and my mum blamed Zelensky's troops - the truth is complicated",
+      "link": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
+      "desc": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c61f/live/78592c20-e8c4-11f1-99b6-a35a62fa4264.jpg"
     },
     {
       "title": "Third of young Brits have never had sex, but many are sexting and watching porn",
       "link": "https://www.bbc.co.uk/news/articles/cw0737zzn50mo?at_medium=RSS&at_campaign=rss",
       "desc": "More young people in Britain have never had sex, but many are sexting and watching porn.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc18/live/8aec72e0-deb3-11f1-8fb5-a771a656a227.jpg"
-    },
-    {
-      "title": "Thomas Markle indicted in US for possessing child sex abuse images",
-      "link": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
-      "desc": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Lo...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a486/live/58170a20-e862-11f1-a094-5fdc692f3e33.png"
-    },
-    {
-      "title": "Households braced for soaring energy bills with new price cap to be announced",
-      "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
-      "desc": "Domestic gas prices will rise significantly in January under regulator Ofgem's new price cap.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ca0/live/03fac650-e7fb-11f1-ab60-79086b6495b8.jpg"
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c04/live/270d0cc0-e8b4-11f1-99a1-253766e7ad8b.jpg"
     }
   ]
 }
