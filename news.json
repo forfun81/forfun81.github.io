@@ -1,6 +1,12 @@
 {
   "games": [
     {
+      "title": "GTA 6’s Furry Rescue Mission Is A Little Weird, But The Rewards Are Worth It",
+      "link": "https://www.gamespot.com/articles/gta-6-furry-rescue-mission-is-a-little-weird-but-the-rewards-are-worth-it/",
+      "desc": "No matter what you do in GTA 6, it pales in comparison to being a Furry in that game. Anyone looking...",
+      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-Fox-2.jpg?w=300"
+    },
+    {
       "title": "Mario, Pikachu, And Other Gaming Icon Balloons Won’t Be Flying This Thanksgiving",
       "link": "https://www.gamespot.com/articles/mario-pikachu-and-other-gaming-icon-balloons-wont-be-flying-this-thanksgiving/",
       "desc": "New York City is no stranger to bad weather, be it blazing-hot summers, snow-packed winters, or fier...",
@@ -29,15 +35,15 @@
       "link": "https://www.gamespot.com/articles/why-gta-6-doesnt-let-you-replay-missions-it-felt-alien-and-disconnected/",
       "desc": "One of the first things people noticed with Grand Theft Auto 6 is that you cannot replay missions, a...",
       "img": "https://www.gamespot.com/wp-content/uploads/2026/11/Lucia_Caminos_13_242d72.jpg?w=300"
-    },
-    {
-      "title": "Diablo 4 Is Making Helltides A Hell Of A Lot Easier",
-      "link": "https://www.gamespot.com/articles/diablo-4-is-making-helltides-a-hell-of-a-lot-easier/",
-      "desc": "One of Diablo 4's oldest endgame activities, Helltides, is getting a major refresh for Season 16.\n\n\n...",
-      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/Diablo-4-Season-16-Helltide-Changes.jpg?w=300"
     }
   ],
   "movies": [
+    {
+      "title": "Robert Pattinson Is Already The Most Interesting Batman, And That's A Good Thing For James Bond",
+      "link": "https://www.cinemablend.com/movies/robert-pattinson-already-most-interesting-batman-thats-good-thing-james-bond",
+      "desc": "From Harrry Potter to Twilight to indies to Batman to Bond. Whoo, what a journey!",
+      "img": "https://cdn.mos.cms.futurecdn.net/eLmqm32HrfTjGDdwDjw4mP-1920-80.jpg"
+    },
     {
       "title": "Tim Allen Loves Improvising As Buzz Lightyear, But The Toy Story Animators Hate To See Him Coming",
       "link": "https://www.cinemablend.com/movies/tim-allen-loves-improvising-buzz-lightyear-toy-story-animators-hate-to-see-him-coming",
@@ -67,70 +73,52 @@
       "link": "https://www.cinemablend.com/movies/alexandra-daddario-wear-corsets-hershey-fantastic",
       "desc": "They helped make some very sweet looks.",
       "img": "https://cdn.mos.cms.futurecdn.net/NSjaw975isGu4NsxNaafD4-1920-80.jpg"
-    },
-    {
-      "title": "I’ve Wondered Why X-Men Vets Halle Berry And Anna Paquin Aren’t In Doomsday. The Russos Weigh In",
-      "link": "https://www.cinemablend.com/movies/russo-brothers-explain-x-men-vets-halle-berry-anna-paquin-absence-doomsday",
-      "desc": "It's hard not to think about these missing X-Men alums.",
-      "img": "https://cdn.mos.cms.futurecdn.net/nmiJ9mx5mWW2WVFFmz6FqZ-1920-80.jpg"
     }
   ],
   "tech": [
     {
-      "title": "Get an RTX 5060 prebuilt for just $750 in deal that seems too good to be true",
-      "link": "https://www.tomshardware.com/desktops/gaming-pcs/get-an-rtx-5060-prebuilt-for-just-usd750-in-deal-that-seems-too-good-to-be-true-deep-usd650-discount-on-gaming-pc-offers-core-i5-14400f-16gb-ddr4-and-a-1tb-ssd",
-      "desc": "Walmart has an exceptional deal on an RTX 5060-powered gaming desktop, which is on sale for just $75...",
-      "img": "https://cdn.mos.cms.futurecdn.net/VzJVi9zGqjqiYhWmeKVHPG-1920-80.jpg"
+      "title": "New delidding tool helps you bake your CPU in the oven to remove heatspreader",
+      "link": "https://www.tomshardware.com/pc-components/cooling/new-delidding-tool-helps-you-bake-your-cpu-in-the-oven-to-remove-heatspreader-delid-heat-mate-complements-delid-die-mate-reducing-mechanical-stress-on-the-cpu",
+      "desc": "Thermal Grizzly just released a CNC-machined CPU delidding tool designed to be placed in an oven aft...",
+      "img": "https://cdn.mos.cms.futurecdn.net/WcZdaLvkZNZ5yCZw3YraBo-1920-80.jpg"
     },
     {
-      "title": "Get 2TB of PCIe 5.0 storage for less than $300 in stellar Crucial P510 sale",
-      "link": "https://www.tomshardware.com/pc-components/ssds/get-2tb-of-pcie-5-0-storage-for-less-than-usd300-in-stellar-crucial-p510-sale-drive-is-available-for-just-usd294-99-less-than-some-1tb-alternatives",
-      "desc": "Snag 2TB of PCIe 5.0 storage for just $294.99 with a deal on the Crucial P510 SSD over at Adorama.",
-      "img": "https://cdn.mos.cms.futurecdn.net/FoFXUu2LwvmzpRb2cfASF4-1920-80.jpg"
+      "title": "Best Black Friday RAM deals 2026",
+      "link": "https://www.tomshardware.com/pc-components/ram/best-ram-memory-deals-ddr5-ddr4-2026",
+      "desc": "We're rounding up the best Black Friday RAM deals from retailers across the U.S. here.",
+      "img": "https://cdn.mos.cms.futurecdn.net/usEaEkdJt4o9maSY9rwxNW-1920-80.jpg"
     },
     {
-      "title": "These are the best Wi-Fi 7 mesh routers from Asus, TP-Link, Eero, Netgear, and MSI that I found on Black Friday",
-      "link": "https://www.tomshardware.com/networking/routers/these-are-the-best-wi-fi-7-mesh-routers-from-asus-tp-link-eero-netgear-and-msi-that-i-found-on-black-friday",
-      "desc": "Black Friday means great deals on Wi-Fi 7 routers from your favorite manufacturers.",
-      "img": "https://cdn.mos.cms.futurecdn.net/pSKF6r6gC6ML2MScQtQzhU-1920-80.jpg"
+      "title": "Ukraine downs Russian jet-drone with cheap high-powered laser for the first time",
+      "link": "https://www.tomshardware.com/tech-industry/drones/ukraine-downs-russian-jet-drone-with-cheap-high-powered-laser-for-the-first-time-super-fast-shahed-knocked-out-by-a-4-kilowatt-test-system",
+      "desc": "Ukraine has shot down a Russian jet-powered Shahed drone using an air defense laser for the first ti...",
+      "img": "https://cdn.mos.cms.futurecdn.net/nJR7ommFqeMLe557vRkri-1920-80.jpg"
     },
     {
-      "title": "Razer China partners up with Durex for a limited-edition kit of mousepad and condoms",
-      "link": "https://www.tomshardware.com/peripherals/razer-china-partners-up-with-durex-for-a-limited-edition-kit-with-a-mousepad-and-condoms-long-lasting-battle-armor-meets-heavy-armored-beetle",
-      "desc": "Razer China partners up with Durex for a limited-edition kit of mousepad and condoms — Long-Lasting ...",
-      "img": "https://cdn.mos.cms.futurecdn.net/LvzzCmtJd89Gi5SbhDaP6o-1920-80.png"
+      "title": "Best Black Friday Wi-Fi router deals 2026",
+      "link": "https://www.tomshardware.com/networking/routers/best-wi-fi-router-deals-2026",
+      "desc": "Save big with one of these excellent Wi-Fi router Black Friday deals. We're constantly updating this...",
+      "img": "https://cdn.mos.cms.futurecdn.net/3A5uF6VGh8xbmVBwg7QuGC-1920-80.jpg"
     },
     {
-      "title": "Best USB charger and power bank deals 2026",
-      "link": "https://www.tomshardware.com/peripherals/usb/best-usb-charger-and-power-bank-deals-for-black-friday-2026-from-tiny-single-port-smartphone-chargers-to-large-power-banks-for-laptops-weve-found-the-best-deals",
-      "desc": "From single-port 15W chargers to 25K mAh 220W power banks, we found some of the best deals to keep y...",
-      "img": "https://cdn.mos.cms.futurecdn.net/q8yzJroxxfh5XVQoHLgebN-1920-80.jpg"
+      "title": "Get an RTX 5060 gaming PC with DDR5 for just $1,141",
+      "link": "https://www.tomshardware.com/desktops/gaming-pcs/get-an-rtx-5060-gaming-pc-with-ddr5-for-just-usd1-141-intel-core-i5-14400f-build-is-one-of-the-most-solid-budget-options-weve-seen",
+      "desc": "Another great entry level PC in the Amazon Black Friday sale.",
+      "img": "https://cdn.mos.cms.futurecdn.net/WPPY6sJNhG44W7XqU9Gkb8-1920-80.jpg"
     },
     {
-      "title": "Save up to 36% on a some of the best PC speakers we've reviewed",
-      "link": "https://www.tomshardware.com/speakers/save-up-to-36-percent-on-a-some-of-the-best-pc-speakers-weve-reviewed-deals-starting-at-just-usd26-from-audioengine-creative-edifier-and-more",
-      "desc": "Some of the best PC speakers we've tested are on sale for Black Friday, including options from Audio...",
-      "img": "https://cdn.mos.cms.futurecdn.net/2VuqdkYEo4eHVEPiVCE6CK-1920-80.jpg"
+      "title": "Solo developer vibe codes a gallery hosting 36 classic GPU demos",
+      "link": "https://www.tomshardware.com/video-games/retro-gaming/solo-developer-vibe-codes-a-gallery-hosting-36-classic-gpu-demos-preservation-effort-includes-3dfx-voodoo-showcases-from-1997-nvidia-bubble-and-more",
+      "desc": "A solo developer known as arkits has created an online gallery to view classic 3D graphics demos liv...",
+      "img": "https://cdn.mos.cms.futurecdn.net/RFis5f5faDsjup7Ws7gFb9-1920-80.jpg"
     }
   ],
   "crypto": [
     {
-      "title": "1Password hacker stole customer names and emails, but vaults safe",
-      "link": "https://cointelegraph.com/news/1password-hacker-stole-customer-names-and-emails-but-vaults-safe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The password manager, which is used by millions of people to store their login credentials, said cus...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8B2A5CXPJFN62QBYJ6SNW9V/hi-what-is-a-seed-phrase-and-why-is-it-important.jpg"
-    },
-    {
-      "title": "Senate Democrats urge SEC to scrap crypto, tokenized stock exemptions",
-      "link": "https://cointelegraph.com/news/senate-democrats-urge-sec-to-scrap-crypto-tokenized-stock-exemptions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "US Senators Elizabeth Warren and Chris Van Hollen, among others, have taken aim at two recent SEC ef...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8AYBSWPYBQEZSFKNS3QMFEP/hi-fungible-tokens-turn-monopoly-money-into-cryptocurrency-sec.jpg"
-    },
-    {
-      "title": "AI labs likely sitting on cryptography ‘bombshells,’ computer scientist says",
-      "link": "https://cointelegraph.com/news/ai-labs-likely-sitting-on-cryptography-bombshells-computer-scientist-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "AI is driving a massive wave of mathematical breakthroughs which could have implications for cryptog...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8AQMMS0BSMYA1QTZ20HG364/hi-aicpac.jpg"
+      "title": "Nasdaq exec pushes for common EU rules on tokenized securities",
+      "link": "https://cointelegraph.com/news/nasdaq-exec-eu-wide-legal-framework-tokenized-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Nasdaq’s Roland Chai backed exploring common EU rules for tokenized securities and said its Swedish ...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8C09F24P5KHBWTW0KT3PDYS/hi-ericx-launches-spot-market2.jpg"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -139,54 +127,66 @@
       "img": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
     },
     {
-      "title": "Switzerland clears 57 jurisdictions for crypto tax data sharing",
-      "link": "https://cointelegraph.com/news/switzerland-clears-57-jurisdictions-crypto-tax-data-sharing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The move paves the way for Switzerland to exchange crypto tax data with foreign authorities starting...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8A4536P99DZ11ZD4K1M4RQA/hi-how-to-file-crypto-taxes-in-the-us.png"
+      "title": "7 bizarre things crypto whales spent a fortune on",
+      "link": "https://cointelegraph.com/magazine/7-bizarre-things-crypto-whales-spent-a-fortune-on?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The crypto rich have spent their fortunes on everything from dinosaur skeletons to rotting fruit, wi...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8AJF5HX1DMMV7AVXD5FM0BD/transformed-surreal-scene.png"
     },
     {
-      "title": "Braiins warns of Bitcoin mining attacks affecting over 1,000 sites",
-      "link": "https://cointelegraph.com/news/braiins-warns-bitcoin-mining-attacks-affecting-1000-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Bitcoin mining pool operator Braiins warned that attackers are exploiting unsecured connections to h...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8A6MMEPRZNERDMM8DPPCV1R/hi-hacker-launders-nearly-all-money-in-stolen-funds.jpg"
+      "title": "Vitalik Buterin calls for verifiable chips as hardware wallet threats evolve",
+      "link": "https://cointelegraph.com/news/vitalik-buterin-verifiable-chips-hardware-wallet-threats-evolve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Buterin warned that future attacks could use lookalike chips with hidden malicious functions, making...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8BRYP0VPBJMFGRFC0AZM22T/vitalik-buerin-on-chips.png"
+    },
+    {
+      "title": "Standard Chartered’s Zodia Custody suffers data breach",
+      "link": "https://cointelegraph.com/news/standard-chartered-zodia-suffers-data-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Zodia Custody’s CEO said the breach exposed names and email addresses of some clients and employees ...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8BSHNWM38YRHP144TN1QGFW/hi-bithumb-hack-what-is-known2-1.jpg"
+    },
+    {
+      "title": "Bitcoin price eyes $61K as Talos warns of thin Thanksgiving liquidity",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-talos-warns-thin-thanksgiving-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Bitcoin joined US stock futures in a modest relief rally as Talos questioned crypto demand and the b...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8BQ97HCB2ACESRYJR5JD6PP/article-covers-233023-bitcoin-bounces-seven-day-high-can-btc-break-95k-thanksgiving-960x640.webp"
     }
   ],
   "various": [
     {
-      "title": "The Pentagon Reportedly Had a Weird Plan to Make Nvidia Rehire Jensen Huang",
-      "link": "https://gizmodo.com/the-pentagon-reportedly-had-a-weird-plan-to-make-nvidia-rehire-jensen-huang-2000845732",
-      "desc": "It’s not clear how the harebrained scheme involving the Defense Production Act would have worked.",
-      "img": "https://gizmodo.com/app/uploads/2026/10/HuangTrump-1280x853.jpg"
+      "title": "The Pop Culture We’re Thankful for Getting Us Through 2026",
+      "link": "https://gizmodo.com/the-pop-culture-were-thankful-for-getting-us-through-2026-2000844682",
+      "desc": "From 'Widow's Bay' and 'Reacher' to the Criterion Channel and 'GTA,' here's the pop culture io9 is t...",
+      "img": "https://gizmodo.com/app/uploads/2026/11/Thankful-2026-1280x853.jpg"
     },
     {
-      "title": "Denny’s Wants Everyone to Know It’s ‘Proud’ of Jensen Huang",
-      "link": "https://gizmodo.com/dennys-wants-everyone-to-know-its-proud-of-jensen-huang-2000845700",
-      "desc": "The restaurant chain has long been part of the Nvidia legend.",
-      "img": "https://gizmodo.com/app/uploads/2026/11/dennys-jensen-huang-1280x812.jpg"
+      "title": "Matt Wille’s 10 Favorite Gifts for Readers",
+      "link": "https://gizmodo.com/matt-wille-favorite-gifts-favorite-for-readers-2000842630",
+      "desc": "From e-readers to book lights and reading gadgets you've never even thought of.",
+      "img": "https://gizmodo.com/app/uploads/2026/11/Matt-1-1280x853.jpg"
     },
     {
-      "title": "Stablecoin Giant Tether Reportedly Sought a 20% Cut to Return Stolen Crypto",
-      "link": "https://gizmodo.com/stablecoin-giant-tether-reportedly-sought-a-20-cut-to-return-stolen-crypto-2000845607",
-      "desc": "Getting stolen stablecoins frozen is only half the battle.",
-      "img": "https://gizmodo.com/app/uploads/2026/11/tether-hack-1280x853.jpg"
+      "title": "Archaeologists Find Rare Evidence of Ancient Egyptians’ Ritual Battle Against Apophis",
+      "link": "https://gizmodo.com/archaeologists-find-rare-evidence-of-ancient-egyptians-ritual-battle-against-apophis-2000845825",
+      "desc": "Around 40 papyrus fragments were found in a trash pile, offering rare evidence of an ancient curse r...",
+      "img": "https://gizmodo.com/app/uploads/2026/11/ancient_egyptian_curse-1280x853.jpg"
     },
     {
-      "title": "Anthropic CEO: My ‘I Don’t Believe We Should Surrender Human Free Will to AI Systems’ T-Shirt Has People Asking a Lot of Questions Already Answered by My Shirt",
-      "link": "https://gizmodo.com/anthropic-ceo-my-i-dont-believe-we-should-surrender-human-free-will-to-ai-systems-t-shirt-has-people-asking-a-lot-of-questions-already-answered-by-my-shirt-2000845542",
-      "desc": "The vibes are getting increasingly apocalyptic in Silicon Valley, and the people building the machin...",
-      "img": "https://gizmodo.com/app/uploads/2026/11/anthropic-dario-1280x854.jpg"
+      "title": "AI Companies Have Found a New Way to Buy Your Data: Bankruptcy Court",
+      "link": "https://gizmodo.com/ai-companies-have-found-a-new-way-to-buy-your-data-bankruptcy-court-2000839314",
+      "desc": "The good news is unions can help. At least until lawmakers catch up.",
+      "img": "https://gizmodo.com/app/uploads/2026/11/Access-Control-Spirit-Google-1-1280x853.jpg"
     },
     {
-      "title": "Character.ai Wants to Sell Millions of User Chats to the Highest Bidder",
-      "link": "https://gizmodo.com/character-ai-wants-to-sell-millions-of-user-chats-to-the-highest-bidder-2000845664",
-      "desc": "A coalition of 42 attorneys general is trying to block the sale of millions of private conversations...",
-      "img": "https://gizmodo.com/app/uploads/2026/11/CharacterAI-1280x853.jpg"
+      "title": "What Will It Take to Pull Enough CO2 From the Sky to Reverse Global Warming?",
+      "link": "https://gizmodo.com/what-will-it-take-to-pull-enough-co2-from-the-sky-to-reverse-global-warming-2000844169",
+      "desc": "Scientists say the world needs CDR to avoid the worst impacts of climate change. The industry isn't ...",
+      "img": "https://gizmodo.com/app/uploads/2026/11/smoke-stacks-2-1280x853.jpg"
     },
     {
-      "title": "Over a Dozen Studies Said AI Can Read Your Blood Type From a Fingerprint. Then Someone Checked the Data",
-      "link": "https://gizmodo.com/over-a-dozen-studies-said-ai-can-read-your-blood-type-from-a-fingerprint-then-someone-checked-the-data-2000845667",
-      "desc": "Two researchers are calling for the retraction of over a dozen papers that claim AI tools can predic...",
-      "img": "https://gizmodo.com/app/uploads/2026/11/fingerprints-on-file-forensics-1280x853.jpg"
+      "title": "Letterboxd Is Selling Out. Meet the Letterboxd for the Entire Human Experience",
+      "link": "https://gizmodo.com/letterboxd-is-selling-out-meet-the-letterboxd-for-the-entire-human-experience-2000835137",
+      "desc": "Solid 3.5* for now, may revise if they boot the racists.",
+      "img": "https://gizmodo.com/app/uploads/2026/11/letterboxd-app-1280x853.jpg"
     }
   ]
 }
