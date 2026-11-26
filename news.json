@@ -1,6 +1,18 @@
 {
   "games": [
     {
+      "title": "Rockstar Games Has A GTA 6 Hit On Its Hands, But Its Union Vote Is A Loss",
+      "link": "https://www.gamespot.com/articles/rockstar-games-has-a-gta-6-hit-on-its-hands-but-its-union-vote-is-a-loss/",
+      "desc": "Roughly 75% of Rockstar Games staff in the UK have voted against a formal recognition agreement with...",
+      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-launch-screens-7-4.jpg?w=300"
+    },
+    {
+      "title": "Help Out Some Bumbling Penguins With This Week’s Epic Games Store Freebie",
+      "link": "https://www.gamespot.com/articles/free-games-epic-games-store/1100-6476419/",
+      "desc": "The Epic Games Store continues to give away a free game each week, and this week's offering is anoth...",
+      "img": "https://www.gamespot.com/wp-content/uploads/2026/06/Bread-and-Fred.jpg?w=300"
+    },
+    {
       "title": "GTA 6’s Furry Rescue Mission Is A Little Weird, But The Rewards Are Worth It",
       "link": "https://www.gamespot.com/articles/gta-6-furry-rescue-mission-is-a-little-weird-but-the-rewards-are-worth-it/",
       "desc": "No matter what you do in GTA 6, it pales in comparison to being a Furry in that game. Anyone looking...",
@@ -23,102 +35,90 @@
       "link": "https://www.gamespot.com/articles/diablo-4s-most-nostalgic-season-is-becoming-mostly-permanent/",
       "desc": "Diablo 4 is gearing up for the arrival of Season 16, but it won't be leaving its popular previous se...",
       "img": "https://www.gamespot.com/wp-content/uploads/2026/11/Diablo-4-Hells-Legacy-Season-Becoming-Permanent.jpg?w=300"
-    },
-    {
-      "title": "Another Live-Service Game Is Going Extinct, And This One Has Dinosaurs",
-      "link": "https://www.gamespot.com/articles/another-live-service-game-is-going-extinct-and-this-one-has-dinosaurs/",
-      "desc": "Capcom has had a big year, but amid the hits comes news that its Overwatch-with-dinosaurs game, Exop...",
-      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/Exoprimal.jpg?w=300"
-    },
-    {
-      "title": "Why GTA 6 Doesn’t Let You Replay Missions–It Felt “Alien And Disconnected”",
-      "link": "https://www.gamespot.com/articles/why-gta-6-doesnt-let-you-replay-missions-it-felt-alien-and-disconnected/",
-      "desc": "One of the first things people noticed with Grand Theft Auto 6 is that you cannot replay missions, a...",
-      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/Lucia_Caminos_13_242d72.jpg?w=300"
     }
   ],
   "movies": [
+    {
+      "title": "Olivia Colman’s Carrying Around A Wicker Penis (And I Wonder If Alexander Skarsgård Knows)",
+      "link": "https://www.cinemablend.com/movies/olivia-colman--wicker-vibrator-alexander-skarsgard-questions-oscars-buzz",
+      "desc": "Didn't have that on my 2026 bingo card. At all.",
+      "img": "https://cdn.mos.cms.futurecdn.net/zWfiNp7qhbeUf3WPfoiiYA-1920-80.jpg"
+    },
+    {
+      "title": "After Seeing Focker-In-Law, I Needed To Know Who Could Play Ariana Grande's Parents",
+      "link": "https://www.cinemablend.com/movies/after-focker-in-law-needed-know-who-play-ariana-grande-parents",
+      "desc": "I need to meet the Jones family.",
+      "img": "https://cdn.mos.cms.futurecdn.net/xjJuoTi8FED7t6RozAoKSk-1920-80.jpg"
+    },
+    {
+      "title": "I Love The Emperor's New Groove, But David Spade Has Some Blunt Thoughts About Disney",
+      "link": "https://www.cinemablend.com/movies/i-love-the-emperors-new-groove-pay-david-spade-blunt-thoughts-disney-",
+      "desc": "You threw off my groove!",
+      "img": "https://cdn.mos.cms.futurecdn.net/MCkAhRX6GDz6jngAWvXWr7-1920-80.png"
+    },
+    {
+      "title": "Ariana Grande Reunited With Wicked’s Bowen Yang To Talk Backlash To The ‘Petal’ Video",
+      "link": "https://www.cinemablend.com/movies/ariana-grande-reunited-wicked-bowen-yang-talk-backlash-petal-video",
+      "desc": "Ariana Grande stepped away from the public after discourse about her appearance.",
+      "img": "https://cdn.mos.cms.futurecdn.net/ZcxKi5PVpdsjhWSyTkhHo4-1920-80.jpg"
+    },
+    {
+      "title": "We Tracked Down The Hugh Jackman Interview About Avengers And X-Men Uniting (After Kevin Feige Brought It Up)",
+      "link": "https://www.cinemablend.com/movies/we-tracked-down-hugh-jackman-avengers-x-men-uniting-comments-kevin-feige-interview",
+      "desc": "The two teams are finally teaming up for Avengers: Doomsday.",
+      "img": "https://cdn.mos.cms.futurecdn.net/4C3TRusGGVL4vtRaQYS3uK-1920-80.jpg"
+    },
     {
       "title": "Robert Pattinson Is Already The Most Interesting Batman, And That's A Good Thing For James Bond",
       "link": "https://www.cinemablend.com/movies/robert-pattinson-already-most-interesting-batman-thats-good-thing-james-bond",
       "desc": "From Harrry Potter to Twilight to indies to Batman to Bond. Whoo, what a journey!",
       "img": "https://cdn.mos.cms.futurecdn.net/eLmqm32HrfTjGDdwDjw4mP-1920-80.jpg"
-    },
-    {
-      "title": "Tim Allen Loves Improvising As Buzz Lightyear, But The Toy Story Animators Hate To See Him Coming",
-      "link": "https://www.cinemablend.com/movies/tim-allen-loves-improvising-buzz-lightyear-toy-story-animators-hate-to-see-him-coming",
-      "desc": "No sign of improvising anywhere",
-      "img": "https://cdn.mos.cms.futurecdn.net/Q6dMxDhfeyXExLXndDi2pW-1920-80.jpg"
-    },
-    {
-      "title": "Paper Tiger Ending Explained, Including What James Gray Told Us About Those Final Scenes",
-      "link": "https://www.cinemablend.com/movies/paper-tiger-ending-final-scenes-james-gray-told-us",
-      "desc": "What happened and what it means for Irwin's family.",
-      "img": "https://cdn.mos.cms.futurecdn.net/fH5aK4QabeC7JEMZ5uH9e8-1920-80.jpg"
-    },
-    {
-      "title": "6 Of The Comfiest Comfort Movies Of All Time Are Streaming In The Same Place",
-      "link": "https://www.cinemablend.com/movies/comiest-comfort-movies-all-streaming-same-place",
-      "desc": "Grab a blanket and some hot chocolate!",
-      "img": "https://cdn.mos.cms.futurecdn.net/qXM7LQPPvQ8SyTAK7hRHWF-1920-80.jpg"
-    },
-    {
-      "title": "Gwyneth Paltrow Is Amazing In Marty Supreme, But She Didn’t Know If Hollywood Would Want Her Back",
-      "link": "https://www.cinemablend.com/movies/gwyneth-paltrow-talks-marty-supreme-uncertainties-about-hollywood-wanting-her-back",
-      "desc": "Is Hollywood embracing Gwyneth Paltrow's return to acting?",
-      "img": "https://cdn.mos.cms.futurecdn.net/RJb3cdmZFyrqUvkkf8PnMc-1920-80.jpg"
-    },
-    {
-      "title": "Alexandra Daddario Had To Wear Lots Of Corsets In Hershey, But It Was ‘Fantastic’",
-      "link": "https://www.cinemablend.com/movies/alexandra-daddario-wear-corsets-hershey-fantastic",
-      "desc": "They helped make some very sweet looks.",
-      "img": "https://cdn.mos.cms.futurecdn.net/NSjaw975isGu4NsxNaafD4-1920-80.jpg"
     }
   ],
   "tech": [
     {
-      "title": "New delidding tool helps you bake your CPU in the oven to remove heatspreader",
-      "link": "https://www.tomshardware.com/pc-components/cooling/new-delidding-tool-helps-you-bake-your-cpu-in-the-oven-to-remove-heatspreader-delid-heat-mate-complements-delid-die-mate-reducing-mechanical-stress-on-the-cpu",
-      "desc": "Thermal Grizzly just released a CNC-machined CPU delidding tool designed to be placed in an oven aft...",
-      "img": "https://cdn.mos.cms.futurecdn.net/WcZdaLvkZNZ5yCZw3YraBo-1920-80.jpg"
+      "title": "Denny’s touts renewed support for Nvidia CEO Jensen Huang following reinstatement",
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/dennys-touts-renewed-support-for-nvidia-ceo-jensen-huang-following-reinstatement-says-some-things-you-just-dont-take-off-the-menu",
+      "desc": "Denny's, the diner where Jensen Huang came up with the idea for Nvidia, has posted a 200-word statem...",
+      "img": "https://cdn.mos.cms.futurecdn.net/aZJHGMtqjVa6sqKsQJuGBB-1920-80.jpg"
     },
     {
-      "title": "Best Black Friday RAM deals 2026",
-      "link": "https://www.tomshardware.com/pc-components/ram/best-ram-memory-deals-ddr5-ddr4-2026",
-      "desc": "We're rounding up the best Black Friday RAM deals from retailers across the U.S. here.",
-      "img": "https://cdn.mos.cms.futurecdn.net/usEaEkdJt4o9maSY9rwxNW-1920-80.jpg"
+      "title": "Black Friday is the perfect time to pick up a new 3D Printer",
+      "link": "https://www.tomshardware.com/gift-guides-seasonal-sales/black-friday-is-the-perfect-time-to-pick-up-a-new-3d-printer-these-are-the-best-deals-weve-spotted-so-far",
+      "desc": "Black Friday is the perfect time to find an amazing deal on a new 3D printer. Check out our favorite...",
+      "img": "https://cdn.mos.cms.futurecdn.net/gtA4L8AgreNnEb9XFRicAP-1920-80.jpg"
     },
     {
-      "title": "Ukraine downs Russian jet-drone with cheap high-powered laser for the first time",
-      "link": "https://www.tomshardware.com/tech-industry/drones/ukraine-downs-russian-jet-drone-with-cheap-high-powered-laser-for-the-first-time-super-fast-shahed-knocked-out-by-a-4-kilowatt-test-system",
-      "desc": "Ukraine has shot down a Russian jet-powered Shahed drone using an air defense laser for the first ti...",
-      "img": "https://cdn.mos.cms.futurecdn.net/nJR7ommFqeMLe557vRkri-1920-80.jpg"
+      "title": "The best Black Friday soldering iron deals for hobbyists and makers right now",
+      "link": "https://www.tomshardware.com/gift-guides-seasonal-sales/the-best-black-friday-soldering-iron-deals-for-hobbyists-and-makers-right-now-limited-time-sale-discounts-on-digital-irons-premium-solder-and-heat-proof-accessories",
+      "desc": "Grab a new soldiering iron or accessories during this Black Friday sales week, with the best recomme...",
+      "img": "https://cdn.mos.cms.futurecdn.net/GDyN7qC6MfiwUMBSHpMjB5-1920-80.png"
     },
     {
-      "title": "Best Black Friday Wi-Fi router deals 2026",
-      "link": "https://www.tomshardware.com/networking/routers/best-wi-fi-router-deals-2026",
-      "desc": "Save big with one of these excellent Wi-Fi router Black Friday deals. We're constantly updating this...",
-      "img": "https://cdn.mos.cms.futurecdn.net/3A5uF6VGh8xbmVBwg7QuGC-1920-80.jpg"
+      "title": "Two Californian Nvidia AI chip customers are really Chinese-owned",
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/two-californian-nvidia-ai-chip-customers-are-really-chinese-owned-companies-used-as-workaround-for-government-export-controls",
+      "desc": "Nvidia sells its advanced AI chips to two Californian companies with links to Chinese parent compani...",
+      "img": "https://cdn.mos.cms.futurecdn.net/TVYovaCvDrBoMvxiTPWqLL-1920-80.png"
     },
     {
-      "title": "Get an RTX 5060 gaming PC with DDR5 for just $1,141",
-      "link": "https://www.tomshardware.com/desktops/gaming-pcs/get-an-rtx-5060-gaming-pc-with-ddr5-for-just-usd1-141-intel-core-i5-14400f-build-is-one-of-the-most-solid-budget-options-weve-seen",
-      "desc": "Another great entry level PC in the Amazon Black Friday sale.",
-      "img": "https://cdn.mos.cms.futurecdn.net/WPPY6sJNhG44W7XqU9Gkb8-1920-80.jpg"
+      "title": "Essential 3D printer maintenance tool deals for Black Friday — save up to 30% on precision tools, lights, snips, and more",
+      "link": "https://www.tomshardware.com/gift-guides-seasonal-sales/essential-3d-printer-maintenance-tool-deals-for-black-friday-save-up-to-30-percent-on-precision-tools-lights-snips-and-more",
+      "desc": "For the best 3D print results, there are always a few favorite tools to have on hand.",
+      "img": "https://cdn.mos.cms.futurecdn.net/RX4pMDu9we8B2mHkiEBxM5-1920-80.jpg"
     },
     {
-      "title": "Solo developer vibe codes a gallery hosting 36 classic GPU demos",
-      "link": "https://www.tomshardware.com/video-games/retro-gaming/solo-developer-vibe-codes-a-gallery-hosting-36-classic-gpu-demos-preservation-effort-includes-3dfx-voodoo-showcases-from-1997-nvidia-bubble-and-more",
-      "desc": "A solo developer known as arkits has created an online gallery to view classic 3D graphics demos liv...",
-      "img": "https://cdn.mos.cms.futurecdn.net/RFis5f5faDsjup7Ws7gFb9-1920-80.jpg"
+      "title": "Credit rating agency puts Nvidia on notice for possible downgrade",
+      "link": "https://www.tomshardware.com/tech-industry/credit-rating-agency-puts-nvidia-on-notice-for-possible-downgrade-s-and-p-global-ratings-says-board-members-may-have-compromised-their-independence",
+      "desc": "S&P Global Ratings says that it could lower Nvidia's credit rating because of various risks that it ...",
+      "img": "https://cdn.mos.cms.futurecdn.net/V58pCYCTU9ChhLRLiLHMe5-1920-80.jpg"
     }
   ],
   "crypto": [
     {
-      "title": "Nasdaq exec pushes for common EU rules on tokenized securities",
-      "link": "https://cointelegraph.com/news/nasdaq-exec-eu-wide-legal-framework-tokenized-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Nasdaq’s Roland Chai backed exploring common EU rules for tokenized securities and said its Swedish ...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8C09F24P5KHBWTW0KT3PDYS/hi-ericx-launches-spot-market2.jpg"
+      "title": "‘Very racist’ Netflix SBF series, BitMart’s $319M shortfall: Asia Express",
+      "link": "https://cointelegraph.com/magazine/very-racist-netflix-sbf-series-bitmarts-319m-shortfall-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Netflix’s The Altruist has been slammed for its ‘very racist’ portrayal of CZ. BitMart reportedly ha...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3WVGY0BWCZXBWJ212RM1CMX/magazineasia-expresshighway.jpg"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -127,66 +127,66 @@
       "img": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
     },
     {
-      "title": "7 bizarre things crypto whales spent a fortune on",
-      "link": "https://cointelegraph.com/magazine/7-bizarre-things-crypto-whales-spent-a-fortune-on?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The crypto rich have spent their fortunes on everything from dinosaur skeletons to rotting fruit, wi...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8AJF5HX1DMMV7AVXD5FM0BD/transformed-surreal-scene.png"
+      "title": "BNB Chain details new layer-1 for trading, private finance and AI",
+      "link": "https://cointelegraph.com/news/bnb-chain-details-new-layer-1-trading-private-finance-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The proposed network will operate alongside BNB Smart Chain and retain BNB as its native token, with...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8CNTJ5QY7JX07X77DZB8QA2/hi-malaysian-gvnt-backed-coin-1st-coin-to-fund-political-campaigns3.png"
     },
     {
-      "title": "Vitalik Buterin calls for verifiable chips as hardware wallet threats evolve",
-      "link": "https://cointelegraph.com/news/vitalik-buterin-verifiable-chips-hardware-wallet-threats-evolve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Buterin warned that future attacks could use lookalike chips with hidden malicious functions, making...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8BRYP0VPBJMFGRFC0AZM22T/vitalik-buerin-on-chips.png"
+      "title": "Binance completes withdrawal recovery four weeks after $6.3B hack",
+      "link": "https://cointelegraph.com/news/binance-completes-withdrawal-recovery-four-weeks-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The announcement concludes a phased withdrawal recovery that began on Nov. 1, when Binance restored ...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8CRF7Q3J730C588BDSC03H1/hi-why-has-central-bank-of-brazil-included-crypto-assets-in-trade-balance-new-2.png"
     },
     {
-      "title": "Standard Chartered’s Zodia Custody suffers data breach",
-      "link": "https://cointelegraph.com/news/standard-chartered-zodia-suffers-data-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Zodia Custody’s CEO said the breach exposed names and email addresses of some clients and employees ...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8BSHNWM38YRHP144TN1QGFW/hi-bithumb-hack-what-is-known2-1.jpg"
+      "title": "UK is ‘getting it wrong’ on DeFi regulation, says Coinbase",
+      "link": "https://cointelegraph.com/news/uk-wrong-defi-regulation-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Coinbase and Stand With Crypto argue that the FCA’s proposed DeFi rules could leave UK users without...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8CJBJZM1MK2FZDDPQ6PK8RE/token-character-pushing-gavel.png"
     },
     {
-      "title": "Bitcoin price eyes $61K as Talos warns of thin Thanksgiving liquidity",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-talos-warns-thin-thanksgiving-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Bitcoin joined US stock futures in a modest relief rally as Talos questioned crypto demand and the b...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8BQ97HCB2ACESRYJR5JD6PP/article-covers-233023-bitcoin-bounces-seven-day-high-can-btc-break-95k-thanksgiving-960x640.webp"
+      "title": "Japan weighs tighter oversight of DeFi, self-custodial wallets",
+      "link": "https://cointelegraph.com/news/japan-tighter-oversight-defi-self-custodial-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Japan’s financial regulator is exploring measures to curb illicit finance risks, including potential...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8CFDEDS67MYHD143YMVQP6X/g20-discuss-crypto-in-japan-desk-table-meeting-hand-paper-people-eth.png"
     }
   ],
   "various": [
     {
-      "title": "The Pop Culture We’re Thankful for Getting Us Through 2026",
-      "link": "https://gizmodo.com/the-pop-culture-were-thankful-for-getting-us-through-2026-2000844682",
-      "desc": "From 'Widow's Bay' and 'Reacher' to the Criterion Channel and 'GTA,' here's the pop culture io9 is t...",
-      "img": "https://gizmodo.com/app/uploads/2026/11/Thankful-2026-1280x853.jpg"
+      "title": "Huntingdon train attacker found guilty of all 14 counts of attempted murder",
+      "link": "https://www.bbc.co.uk/news/articles/ck053j37yr9lo?at_medium=RSS&at_campaign=rss",
+      "desc": "Anthony Williams, 33, is convicted of 10 attacks on a train and four in Peterborough and London.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f30d/live/2c751280-e9ad-11f1-99a1-253766e7ad8b.jpg"
     },
     {
-      "title": "Matt Wille’s 10 Favorite Gifts for Readers",
-      "link": "https://gizmodo.com/matt-wille-favorite-gifts-favorite-for-readers-2000842630",
-      "desc": "From e-readers to book lights and reading gadgets you've never even thought of.",
-      "img": "https://gizmodo.com/app/uploads/2026/11/Matt-1-1280x853.jpg"
+      "title": "Knifeman told doctor his psychosis drugs weren't working days before Huntingdon attack",
+      "link": "https://www.bbc.co.uk/news/articles/ck62p4pzg4qyo?at_medium=RSS&at_campaign=rss",
+      "desc": "Now his trial has concluded over the LNER train attack, we can report Anthony Williams' long history...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e16b/live/d66be2a0-e9d0-11f1-99b6-a35a62fa4264.jpg"
     },
     {
-      "title": "Archaeologists Find Rare Evidence of Ancient Egyptians’ Ritual Battle Against Apophis",
-      "link": "https://gizmodo.com/archaeologists-find-rare-evidence-of-ancient-egyptians-ritual-battle-against-apophis-2000845825",
-      "desc": "Around 40 papyrus fragments were found in a trash pile, offering rare evidence of an ancient curse r...",
-      "img": "https://gizmodo.com/app/uploads/2026/11/ancient_egyptian_curse-1280x853.jpg"
+      "title": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
+      "link": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss",
+      "desc": "The Ukrainian president tells the BBC that Russia's Vladimir Putin should not be treated as a friend...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5957/live/94851140-e9e4-11f1-ab41-f1f84c0c758a.jpg"
     },
     {
-      "title": "AI Companies Have Found a New Way to Buy Your Data: Bankruptcy Court",
-      "link": "https://gizmodo.com/ai-companies-have-found-a-new-way-to-buy-your-data-bankruptcy-court-2000839314",
-      "desc": "The good news is unions can help. At least until lawmakers catch up.",
-      "img": "https://gizmodo.com/app/uploads/2026/11/Access-Control-Spirit-Google-1-1280x853.jpg"
+      "title": "UK net migration at lowest level since 1997 as asylum claims also fall",
+      "link": "https://www.bbc.co.uk/news/articles/cq36gj12n0l3o?at_medium=RSS&at_campaign=rss",
+      "desc": "Net migration figures of 77,000 in the year to the end of June mark the lowest this century outside ...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc65/live/28a10870-e99f-11f1-b880-15b494ba858d.jpg"
     },
     {
-      "title": "What Will It Take to Pull Enough CO2 From the Sky to Reverse Global Warming?",
-      "link": "https://gizmodo.com/what-will-it-take-to-pull-enough-co2-from-the-sky-to-reverse-global-warming-2000844169",
-      "desc": "Scientists say the world needs CDR to avoid the worst impacts of climate change. The industry isn't ...",
-      "img": "https://gizmodo.com/app/uploads/2026/11/smoke-stacks-2-1280x853.jpg"
+      "title": "Drug rape husband says wife 'would have been terrified', court hears",
+      "link": "https://www.bbc.co.uk/news/articles/ck053epz2ppmo?at_medium=RSS&at_campaign=rss",
+      "desc": "The husband has told a jury that his wife \"would never agree to do any of this\".",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ae0/live/75260700-e9a8-11f1-9b5c-f3f25f51795d.png"
     },
     {
-      "title": "Letterboxd Is Selling Out. Meet the Letterboxd for the Entire Human Experience",
-      "link": "https://gizmodo.com/letterboxd-is-selling-out-meet-the-letterboxd-for-the-entire-human-experience-2000835137",
-      "desc": "Solid 3.5* for now, may revise if they boot the racists.",
-      "img": "https://gizmodo.com/app/uploads/2026/11/letterboxd-app-1280x853.jpg"
+      "title": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
+      "link": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo?at_medium=RSS&at_campaign=rss",
+      "desc": "The city marks a year since a huge blaze tore through seven apartment blocks, killing 168 people.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c9/live/268edc00-e978-11f1-99b6-a35a62fa4264.jpg"
     }
   ]
 }
