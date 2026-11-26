@@ -1,6 +1,12 @@
 {
   "games": [
     {
+      "title": "Mario, Pikachu, And Other Gaming Icon Balloons Won’t Be Flying This Thanksgiving",
+      "link": "https://www.gamespot.com/articles/mario-pikachu-and-other-gaming-icon-balloons-wont-be-flying-this-thanksgiving/",
+      "desc": "New York City is no stranger to bad weather, be it blazing-hot summers, snow-packed winters, or fier...",
+      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/GettyImages-2248749755.jpg?w=300"
+    },
+    {
       "title": "Three Years After His Death, EA Is Using AI To Bring Back A Famed Commentator In FC 27",
       "link": "https://www.gamespot.com/articles/three-years-after-his-death-ea-is-using-ai-to-bring-back-a-famed-commentator-in-fc-27/",
       "desc": "EA Sports FC 27 is adding an AI-generated commentator for the first time in the series' history, wit...",
@@ -29,15 +35,15 @@
       "link": "https://www.gamespot.com/articles/diablo-4-is-making-helltides-a-hell-of-a-lot-easier/",
       "desc": "One of Diablo 4's oldest endgame activities, Helltides, is getting a major refresh for Season 16.\n\n\n...",
       "img": "https://www.gamespot.com/wp-content/uploads/2026/11/Diablo-4-Season-16-Helltide-Changes.jpg?w=300"
-    },
-    {
-      "title": "GTA 6’s Mandy Actor Reacts To The Online “Weirdos”",
-      "link": "https://www.gamespot.com/articles/gta-6s-mandy-actor-reacts-to-the-online-weirdos/",
-      "desc": "One of the most talked-about characters in GTA 6 outside of Jason and Lucia has been Mandy, a woman ...",
-      "img": "https://www.gamespot.com/wp-content/uploads/2026/11/ec6c97eed96cae40fa93ac3c509f671e-1.jpg?w=300"
     }
   ],
   "movies": [
+    {
+      "title": "Tim Allen Loves Improvising As Buzz Lightyear, But The Toy Story Animators Hate To See Him Coming",
+      "link": "https://www.cinemablend.com/movies/tim-allen-loves-improvising-buzz-lightyear-toy-story-animators-hate-to-see-him-coming",
+      "desc": "No sign of improvising anywhere",
+      "img": "https://cdn.mos.cms.futurecdn.net/Q6dMxDhfeyXExLXndDi2pW-1920-80.jpg"
+    },
     {
       "title": "Paper Tiger Ending Explained, Including What James Gray Told Us About Those Final Scenes",
       "link": "https://www.cinemablend.com/movies/paper-tiger-ending-final-scenes-james-gray-told-us",
@@ -67,15 +73,15 @@
       "link": "https://www.cinemablend.com/movies/russo-brothers-explain-x-men-vets-halle-berry-anna-paquin-absence-doomsday",
       "desc": "It's hard not to think about these missing X-Men alums.",
       "img": "https://cdn.mos.cms.futurecdn.net/nmiJ9mx5mWW2WVFFmz6FqZ-1920-80.jpg"
-    },
-    {
-      "title": "Jennifer Lopez’s Kid Asked About Her Pants-Free Lifestyle, And She Had The Most Vegas Response",
-      "link": "https://www.cinemablend.com/movies/jennifer-lopez-kid-asked-pants-free-lifestyle-she-had-most-vegas-response",
-      "desc": "Jenny from the Block has to wear revealing costumes sometimes.",
-      "img": "https://cdn.mos.cms.futurecdn.net/yrYycQwYMmD54XYzKWLfic-1920-80.jpg"
     }
   ],
   "tech": [
+    {
+      "title": "Get an RTX 5060 prebuilt for just $750 in deal that seems too good to be true",
+      "link": "https://www.tomshardware.com/desktops/gaming-pcs/get-an-rtx-5060-prebuilt-for-just-usd750-in-deal-that-seems-too-good-to-be-true-deep-usd650-discount-on-gaming-pc-offers-core-i5-14400f-16gb-ddr4-and-a-1tb-ssd",
+      "desc": "Walmart has an exceptional deal on an RTX 5060-powered gaming desktop, which is on sale for just $75...",
+      "img": "https://cdn.mos.cms.futurecdn.net/VzJVi9zGqjqiYhWmeKVHPG-1920-80.jpg"
+    },
     {
       "title": "Get 2TB of PCIe 5.0 storage for less than $300 in stellar Crucial P510 sale",
       "link": "https://www.tomshardware.com/pc-components/ssds/get-2tb-of-pcie-5-0-storage-for-less-than-usd300-in-stellar-crucial-p510-sale-drive-is-available-for-just-usd294-99-less-than-some-1tb-alternatives",
@@ -105,15 +111,27 @@
       "link": "https://www.tomshardware.com/speakers/save-up-to-36-percent-on-a-some-of-the-best-pc-speakers-weve-reviewed-deals-starting-at-just-usd26-from-audioengine-creative-edifier-and-more",
       "desc": "Some of the best PC speakers we've tested are on sale for Black Friday, including options from Audio...",
       "img": "https://cdn.mos.cms.futurecdn.net/2VuqdkYEo4eHVEPiVCE6CK-1920-80.jpg"
-    },
-    {
-      "title": "RAM price tracking 2026",
-      "link": "https://www.tomshardware.com/gift-guides-seasonal-sales/the-lowest-priced-ram-in-2026-price-tracking-on-ddr5-and-ddr4-memory-of-all-capacities",
-      "desc": "Check the best prices on DDR5 and DDR4 memory kits of different capacities.",
-      "img": "https://cdn.mos.cms.futurecdn.net/3VUDhTYYDLmHbVLRhcwPz4-1920-80.png"
     }
   ],
   "crypto": [
+    {
+      "title": "1Password hacker stole customer names and emails, but vaults safe",
+      "link": "https://cointelegraph.com/news/1password-hacker-stole-customer-names-and-emails-but-vaults-safe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The password manager, which is used by millions of people to store their login credentials, said cus...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8B2A5CXPJFN62QBYJ6SNW9V/hi-what-is-a-seed-phrase-and-why-is-it-important.jpg"
+    },
+    {
+      "title": "Senate Democrats urge SEC to scrap crypto, tokenized stock exemptions",
+      "link": "https://cointelegraph.com/news/senate-democrats-urge-sec-to-scrap-crypto-tokenized-stock-exemptions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "US Senators Elizabeth Warren and Chris Van Hollen, among others, have taken aim at two recent SEC ef...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8AYBSWPYBQEZSFKNS3QMFEP/hi-fungible-tokens-turn-monopoly-money-into-cryptocurrency-sec.jpg"
+    },
+    {
+      "title": "AI labs likely sitting on cryptography ‘bombshells,’ computer scientist says",
+      "link": "https://cointelegraph.com/news/ai-labs-likely-sitting-on-cryptography-bombshells-computer-scientist-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "AI is driving a massive wave of mathematical breakthroughs which could have implications for cryptog...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8AQMMS0BSMYA1QTZ20HG364/hi-aicpac.jpg"
+    },
     {
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -131,62 +149,44 @@
       "link": "https://cointelegraph.com/news/braiins-warns-bitcoin-mining-attacks-affecting-1000-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Bitcoin mining pool operator Braiins warned that attackers are exploiting unsecured connections to h...",
       "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8A6MMEPRZNERDMM8DPPCV1R/hi-hacker-launders-nearly-all-money-in-stolen-funds.jpg"
-    },
-    {
-      "title": "Why ECB collateral eligibility could boost demand for tokenized bonds",
-      "link": "https://cointelegraph.com/news/why-ecb-collateral-eligibility-could-boost-demand-tokenized-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Past ECB decisions offer clues to the value of using bonds as collateral, while US derivatives excha...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M89SGJ98DS23Q9G7WEFX07KJ/lift-rise-rising-digital-euro-man-up.jpg"
-    },
-    {
-      "title": "Ethereum Foundation backs Keccak-256 to counter quantum, AI threats",
-      "link": "https://cointelegraph.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Ethlabs co-founder Julian Ma told Cointelegraph that AI poses a more immediate threat as Ethereum pr...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M89SXA51G4YCM0WZSF0YF9C3/ethereum-characters-in-line.png"
-    },
-    {
-      "title": "US inflation rises to 3.8% ahead of December Fed meeting, clouding crypto outlook",
-      "link": "https://cointelegraph.com/news/us-inflation-rises-december-fed-meeting-clouding-crypto-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "US core inflation rose more than expected in October as markets anticipate a December interest rate ...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M89S8XMNYBMPKRXCHB0PC12Q/make-bitcoin-great-again2-3.png"
     }
   ],
   "various": [
     {
-      "title": "Poundland collapses putting 11,000 jobs at risk",
-      "link": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
-      "desc": "The discount chain has fallen into administration after its owners failed to find a buyer.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c5c/live/1c109380-e906-11f1-99b6-a35a62fa4264.jpg"
+      "title": "The Pentagon Reportedly Had a Weird Plan to Make Nvidia Rehire Jensen Huang",
+      "link": "https://gizmodo.com/the-pentagon-reportedly-had-a-weird-plan-to-make-nvidia-rehire-jensen-huang-2000845732",
+      "desc": "It’s not clear how the harebrained scheme involving the Defense Production Act would have worked.",
+      "img": "https://gizmodo.com/app/uploads/2026/10/HuangTrump-1280x853.jpg"
     },
     {
-      "title": "Why has Poundland collapsed and what happens next?",
-      "link": "https://www.bbc.co.uk/news/videos/ckregn0gq2ydo?at_medium=RSS&at_campaign=rss",
-      "desc": "The retail chain has collapsed just one year after being bought for £1 by an American firm.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc81/live/3c9523e0-e8f3-11f1-a094-5fdc692f3e33.jpg"
+      "title": "Denny’s Wants Everyone to Know It’s ‘Proud’ of Jensen Huang",
+      "link": "https://gizmodo.com/dennys-wants-everyone-to-know-its-proud-of-jensen-huang-2000845700",
+      "desc": "The restaurant chain has long been part of the Nvidia legend.",
+      "img": "https://gizmodo.com/app/uploads/2026/11/dennys-jensen-huang-1280x812.jpg"
     },
     {
-      "title": "US announces new tariff proposals on EU, China, and other trade partners",
-      "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-      "desc": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91fc/live/6d9c5c50-e908-11f1-99b6-a35a62fa4264.jpg"
+      "title": "Stablecoin Giant Tether Reportedly Sought a 20% Cut to Return Stolen Crypto",
+      "link": "https://gizmodo.com/stablecoin-giant-tether-reportedly-sought-a-20-cut-to-return-stolen-crypto-2000845607",
+      "desc": "Getting stolen stablecoins frozen is only half the battle.",
+      "img": "https://gizmodo.com/app/uploads/2026/11/tether-hack-1280x853.jpg"
     },
     {
-      "title": "Wife drugged and raped by husband asked police if she was to blame, mass sexual offence trial hears",
-      "link": "https://www.bbc.co.uk/news/articles/c38x0vd2yyx5o?at_medium=RSS&at_campaign=rss",
-      "desc": "The woman told a court suggestions she was 'pretending to be asleep' were 'absolute rubbish'.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fc0/live/25576350-e8fd-11f1-a094-5fdc692f3e33.jpg"
+      "title": "Anthropic CEO: My ‘I Don’t Believe We Should Surrender Human Free Will to AI Systems’ T-Shirt Has People Asking a Lot of Questions Already Answered by My Shirt",
+      "link": "https://gizmodo.com/anthropic-ceo-my-i-dont-believe-we-should-surrender-human-free-will-to-ai-systems-t-shirt-has-people-asking-a-lot-of-questions-already-answered-by-my-shirt-2000845542",
+      "desc": "The vibes are getting increasingly apocalyptic in Silicon Valley, and the people building the machin...",
+      "img": "https://gizmodo.com/app/uploads/2026/11/anthropic-dario-1280x854.jpg"
     },
     {
-      "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
-      "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
-      "desc": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian cap...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d4b/live/5e57daf0-e91f-11f1-9108-c5b270b0703d.jpg"
+      "title": "Character.ai Wants to Sell Millions of User Chats to the Highest Bidder",
+      "link": "https://gizmodo.com/character-ai-wants-to-sell-millions-of-user-chats-to-the-highest-bidder-2000845664",
+      "desc": "A coalition of 42 attorneys general is trying to block the sale of millions of private conversations...",
+      "img": "https://gizmodo.com/app/uploads/2026/11/CharacterAI-1280x853.jpg"
     },
     {
-      "title": "Duran Duran guitarist Andy Taylor dies aged 65",
-      "link": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
-      "desc": "The musician, who co-wrote some of the band's biggest hits, had been treated for prostate cancer.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf5e/live/c090fb90-e918-11f1-8383-53f283141713.jpg"
+      "title": "Over a Dozen Studies Said AI Can Read Your Blood Type From a Fingerprint. Then Someone Checked the Data",
+      "link": "https://gizmodo.com/over-a-dozen-studies-said-ai-can-read-your-blood-type-from-a-fingerprint-then-someone-checked-the-data-2000845667",
+      "desc": "Two researchers are calling for the retraction of over a dozen papers that claim AI tools can predic...",
+      "img": "https://gizmodo.com/app/uploads/2026/11/fingerprints-on-file-forensics-1280x853.jpg"
     }
   ]
 }
