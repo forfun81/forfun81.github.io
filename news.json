@@ -39,6 +39,12 @@
   ],
   "movies": [
     {
+      "title": "Elf Is A Holiday Classic Now, But One Star Admits It Was ‘Risky’ Business At The Time",
+      "link": "https://www.cinemablend.com/movies/elf-holiday-classic-now-andy-richter-jon-favreau-admits-risky-business-movie-release",
+      "desc": "It's hard to imagine Christmas without Buddy the Elf, but Hollywood wasn't convinced the movie would...",
+      "img": "https://cdn.mos.cms.futurecdn.net/FTLTWRfc7S6DwB9THeKd5T-1920-80.jpg"
+    },
+    {
       "title": "Olivia Colman’s Carrying Around A Wicker Penis (And I Wonder If Alexander Skarsgård Knows)",
       "link": "https://www.cinemablend.com/movies/olivia-colman--wicker-vibrator-alexander-skarsgard-questions-oscars-buzz",
       "desc": "Didn't have that on my 2026 bingo card. At all.",
@@ -67,12 +73,6 @@
       "link": "https://www.cinemablend.com/movies/we-tracked-down-hugh-jackman-avengers-x-men-uniting-comments-kevin-feige-interview",
       "desc": "The two teams are finally teaming up for Avengers: Doomsday.",
       "img": "https://cdn.mos.cms.futurecdn.net/4C3TRusGGVL4vtRaQYS3uK-1920-80.jpg"
-    },
-    {
-      "title": "Robert Pattinson Is Already The Most Interesting Batman, And That's A Good Thing For James Bond",
-      "link": "https://www.cinemablend.com/movies/robert-pattinson-already-most-interesting-batman-thats-good-thing-james-bond",
-      "desc": "From Harrry Potter to Twilight to indies to Batman to Bond. Whoo, what a journey!",
-      "img": "https://cdn.mos.cms.futurecdn.net/eLmqm32HrfTjGDdwDjw4mP-1920-80.jpg"
     }
   ],
   "tech": [
@@ -115,54 +115,48 @@
   ],
   "crypto": [
     {
-      "title": "‘Very racist’ Netflix SBF series, BitMart’s $319M shortfall: Asia Express",
-      "link": "https://cointelegraph.com/magazine/very-racist-netflix-sbf-series-bitmarts-319m-shortfall-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Netflix’s The Altruist has been slammed for its ‘very racist’ portrayal of CZ. BitMart reportedly ha...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3WVGY0BWCZXBWJ212RM1CMX/magazineasia-expresshighway.jpg"
-    },
-    {
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impac...",
       "img": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
     },
     {
-      "title": "BNB Chain details new layer-1 for trading, private finance and AI",
-      "link": "https://cointelegraph.com/news/bnb-chain-details-new-layer-1-trading-private-finance-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The proposed network will operate alongside BNB Smart Chain and retain BNB as its native token, with...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8CNTJ5QY7JX07X77DZB8QA2/hi-malaysian-gvnt-backed-coin-1st-coin-to-fund-political-campaigns3.png"
+      "title": "Japan’s crypto security group taps SEAL to speed up hack response",
+      "link": "https://cointelegraph.com/news/japans-crypto-security-group-taps-seal-to-speed-up-hack-response?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The partnership comes weeks after a third-party data breach exposed hundreds of thousands of custome...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8DPYBXC89VZD6RYR0TH6TY2/hi-sponsored-of-nexo-2.jpg"
     },
     {
-      "title": "Binance completes withdrawal recovery four weeks after $6.3B hack",
-      "link": "https://cointelegraph.com/news/binance-completes-withdrawal-recovery-four-weeks-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The announcement concludes a phased withdrawal recovery that began on Nov. 1, when Binance restored ...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8CRF7Q3J730C588BDSC03H1/hi-why-has-central-bank-of-brazil-included-crypto-assets-in-trade-balance-new-2.png"
+      "title": "Ethereum devs set Glamsterdam’s Hoodi rollout for mid-December after delays",
+      "link": "https://cointelegraph.com/news/ethereum-devs-set-glamsterdams-hoodi-rollout-for-mid-december-after-delays?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Glamsterdam’s Hoodi upgrade was delayed in October after concerns that changes to gas pricing could ...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8DMV6XD4JQ4P64E80XE8AV9/ethereum-1.jpg"
     },
     {
-      "title": "UK is ‘getting it wrong’ on DeFi regulation, says Coinbase",
-      "link": "https://cointelegraph.com/news/uk-wrong-defi-regulation-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Coinbase and Stand With Crypto argue that the FCA’s proposed DeFi rules could leave UK users without...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8CJBJZM1MK2FZDDPQ6PK8RE/token-character-pushing-gavel.png"
+      "title": "AI is driving a flood of crypto bug reports. Now it’s helping sort them",
+      "link": "https://cointelegraph.com/news/ai-driving-flood-of-crypto-bug-reports-now-helping-sort-them?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Bug bounty platform HackerOne said it’s increasing its triage throughput with AI agents after a reco...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8DAK96980JS6A0KGTGC3X0A/hi-can-chatgpt-really-predict-the-next-crypto-market-crash.jpg"
     },
     {
-      "title": "Japan weighs tighter oversight of DeFi, self-custodial wallets",
-      "link": "https://cointelegraph.com/news/japan-tighter-oversight-defi-self-custodial-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Japan’s financial regulator is exploring measures to curb illicit finance risks, including potential...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8CFDEDS67MYHD143YMVQP6X/g20-discuss-crypto-in-japan-desk-table-meeting-hand-paper-people-eth.png"
+      "title": "Privacy coins face diverging fortunes as KuCoin moves to drop Monero",
+      "link": "https://cointelegraph.com/news/privacy-coins-kucoin-drop-monero-grayscale-zcash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "As KuCoin joins exchanges dropping Monero ahead of new EU restrictions, Grayscale argues that Zcash’...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8CWT0VSVGTZXTJSC0TTYCYY/red-graphs-removed.png"
+    },
+    {
+      "title": "‘Very racist’ Netflix SBF series, BitMart’s $319M shortfall: Asia Express",
+      "link": "https://cointelegraph.com/magazine/very-racist-netflix-sbf-series-bitmarts-319m-shortfall-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Netflix’s The Altruist has been slammed for its ‘very racist’ portrayal of CZ. BitMart reportedly ha...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3WVGY0BWCZXBWJ212RM1CMX/magazineasia-expresshighway.jpg"
     }
   ],
   "various": [
     {
-      "title": "Huntingdon train attacker found guilty of all 14 counts of attempted murder",
-      "link": "https://www.bbc.co.uk/news/articles/ck053j37yr9lo?at_medium=RSS&at_campaign=rss",
-      "desc": "Anthony Williams, 33, is convicted of 10 attacks on a train and four in Peterborough and London.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f30d/live/2c751280-e9ad-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-      "title": "Knifeman told doctor his psychosis drugs weren't working days before Huntingdon attack",
-      "link": "https://www.bbc.co.uk/news/articles/ck62p4pzg4qyo?at_medium=RSS&at_campaign=rss",
-      "desc": "Now his trial has concluded over the LNER train attack, we can report Anthony Williams' long history...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e16b/live/d66be2a0-e9d0-11f1-99b6-a35a62fa4264.jpg"
+      "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+      "desc": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20f7/live/d0e75f10-e9e6-11f1-ab41-f1f84c0c758a.jpg"
     },
     {
       "title": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
@@ -171,22 +165,28 @@
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5957/live/94851140-e9e4-11f1-ab41-f1f84c0c758a.jpg"
     },
     {
-      "title": "UK net migration at lowest level since 1997 as asylum claims also fall",
-      "link": "https://www.bbc.co.uk/news/articles/cq36gj12n0l3o?at_medium=RSS&at_campaign=rss",
-      "desc": "Net migration figures of 77,000 in the year to the end of June mark the lowest this century outside ...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc65/live/28a10870-e99f-11f1-b880-15b494ba858d.jpg"
+      "title": "'I wouldn't be here today without you': Student's praise for man who stopped train attacker",
+      "link": "https://www.bbc.co.uk/news/articles/ck792lq4xrero?at_medium=RSS&at_campaign=rss",
+      "desc": "Astrid credits Stephen Crean with saving her life during the Huntingdon train attack last year.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1da3/live/80abce10-ea12-11f1-8868-df2967876f4c.jpg"
     },
     {
-      "title": "Drug rape husband says wife 'would have been terrified', court hears",
-      "link": "https://www.bbc.co.uk/news/articles/ck053epz2ppmo?at_medium=RSS&at_campaign=rss",
-      "desc": "The husband has told a jury that his wife \"would never agree to do any of this\".",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ae0/live/75260700-e9a8-11f1-9b5c-f3f25f51795d.png"
+      "title": "UK to pay 'participation' fee to deliver EU deals",
+      "link": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss",
+      "desc": "Details of the contribution towards EU running costs have been revealed in new legal documents.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e264/live/8e58c180-e9e5-11f1-ab41-f1f84c0c758a.png"
     },
     {
-      "title": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
-      "link": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo?at_medium=RSS&at_campaign=rss",
-      "desc": "The city marks a year since a huge blaze tore through seven apartment blocks, killing 168 people.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c9/live/268edc00-e978-11f1-99b6-a35a62fa4264.jpg"
+      "title": "Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss",
+      "desc": "Evidence from a British police officer helped convict Ali Kololo over a 2011 attack in the Kenyan re...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cfa/live/2eeecd70-e99f-11f1-b880-15b494ba858d.jpg"
+    },
+    {
+      "title": "Leaders clash in final Spain election debate as housing dominates run-in",
+      "link": "https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o?at_medium=RSS&at_campaign=rss",
+      "desc": "The struggle many face in buying a home has been the biggest issue of a bitter campaign.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbeb/live/e3607330-e9fe-11f1-976c-6d185a1abdb9.jpg"
     }
   ]
 }
