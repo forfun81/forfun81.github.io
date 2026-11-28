@@ -39,6 +39,30 @@
   ],
   "movies": [
     {
+      "title": "What’s It Really Like Directing A James Bond Movie? Denis Villeneuve’s Take Is Stressing Me Out",
+      "link": "https://www.cinemablend.com/movies/denis-villeneuve-shares-stressful-take-directing-james-bond-movie",
+      "desc": "This is leaving me as shaken as a martini.",
+      "img": "https://cdn.mos.cms.futurecdn.net/BbRLpz6XjUay6HvqtCdsca-1920-80.jpg"
+    },
+    {
+      "title": "Ever Wondered Why Robert Pattinson Isn't Batman Bulky? His Take Is Not What I Expected",
+      "link": "https://www.cinemablend.com/movies/why-robert-pattinson-isnt-batman-bulky-his-take-not-what-i-expected",
+      "desc": "If you can believe it, Robert Pattinson put a ridiculous amount of work into getting Batman-ready.",
+      "img": "https://cdn.mos.cms.futurecdn.net/eLmqm32HrfTjGDdwDjw4mP-1920-80.jpg"
+    },
+    {
+      "title": "I Just Realized Hollywood Has Spent Hundreds Of Millions Trying To Get Matt Damon Home In Movies",
+      "link": "https://www.cinemablend.com/movies/i-just-realized-hollywood-has-spent-hundreds-of-millions-trying-to-get-matt-damon-home-in-movies",
+      "desc": "Forget frequent-flyer miles. Somebody needs to buy this man a lifetime travel pass.",
+      "img": "https://cdn.mos.cms.futurecdn.net/3nAFwaWuRBGQakLCBnoQHN-1920-80.jpg"
+    },
+    {
+      "title": "Much Has Already Been Said About Taxi Driver...I'm Here To Say Why It Still Matters In 2026",
+      "link": "https://www.cinemablend.com/movies/much-has-already-been-said-about-taxi-driver-here-say-some-more-robert-deniro-martin-scorsese",
+      "desc": "\"Here is a man who would not take it anymore.\"",
+      "img": "https://cdn.mos.cms.futurecdn.net/nThXAb79SFPfQG5GUWoknB-1920-80.jpg"
+    },
+    {
       "title": "Olaf 'Dying' In The Middle Of A Theme Park Group Performance Is Bringing Me Even More Joy",
       "link": "https://www.cinemablend.com/theme-parks/olaf-dying-middle-theme-park-group-performance-bringing-me-even-more-joy-disneyland-paris",
       "desc": "Another day, another Olaf robot malfunction.",
@@ -49,82 +73,70 @@
       "link": "https://www.cinemablend.com/movies/people-milo-manheim-flak-not-admitting-tangled-flynn-casting-sooner-but-wait",
       "desc": "Don't get the frying pans out over this.",
       "img": "https://cdn.mos.cms.futurecdn.net/cJt9dSNRXjZnNuC8jYwuCR-1920-80.jpg"
-    },
-    {
-      "title": "Jumanji’s Cast Celebrated Thanksgiving With A Video Of Kevin Hart (Hilariously) Throwing A Temper Tantrum",
-      "link": "https://www.cinemablend.com/movies/jumanji-cast-celebrated-thanksgiving-video-kevin-hart-temper-tantrum",
-      "desc": "This is what Thanksgiving is all about.",
-      "img": "https://cdn.mos.cms.futurecdn.net/rnxoXFeTwu4ox6mpfdtxgB-1920-80.jpg"
-    },
-    {
-      "title": "Dunesday Has Denis Villeneuve ‘Praying’ For Dune: Part 3's Success, But What Do The Numbers Say?",
-      "link": "https://www.cinemablend.com/movies/dunesday-denis-villeneuve-praying-dune-part-3-box-office-success-avengers-doomsday-numbers-say",
-      "desc": "\"It was impossible to move.\"",
-      "img": "https://cdn.mos.cms.futurecdn.net/GMV9rj8twVEZRprvJqknLY-1920-80.png"
-    },
-    {
-      "title": "Now That The Elizabeth Holmes Doc Is Streaming, The Directors’ Original Plea Is As Important As Ever",
-      "link": "https://www.cinemablend.com/streaming-news/now-that-elizabeth-holmes-doc-streaming-directors-original-plea-important-ever-you-can-see-everything-lance-oppenheim-nathan-fielder",
-      "desc": "The spoilers are out there, but keep them secret if you can!",
-      "img": "https://cdn.mos.cms.futurecdn.net/sqzfxsujMqvvk4hhRWjdhM-1920-80.jpg"
-    },
-    {
-      "title": "David Fincher Is Known For An Insane Number Of Takes. The Sweet Way Brad Pitt Dealt With It On Cliff Booth",
-      "link": "https://www.cinemablend.com/movies/david-fincher-known-insane-number-takes-brad-pitt-dealt-cliff-booth-carla-gugino-interview",
-      "desc": "It wasn't his first rodeo.",
-      "img": "https://cdn.mos.cms.futurecdn.net/4hWH9DpP6ye6A4hUFFnPY8-1920-80.jpg"
     }
   ],
   "tech": [
     {
-      "title": "Best Black Friday Gaming laptop deals live",
-      "link": "https://www.tomshardware.com/live/news/best-black-friday-gaming-laptop-deals-day-two",
-      "desc": "The best Black Friday gaming laptops still live this weekend.",
-      "img": "https://cdn.mos.cms.futurecdn.net/z2MqCdto7KgoKJyoVxTnd7-1920-80.jpg"
+      "title": "Banned Nvidia Blackwell AI racks surface in China — data center tied to $14M loan and alleged spy Alice Huang",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/banned-nvidia-blackwell-ai-racks-surface-in-china-data-center-tied-to-usd14m-loan-and-alleged-spy-alice-huang",
+      "desc": "Nvidia's Blackwell AI chips were installed in a Chinese data center linked to Alice Huang, a suspect...",
+      "img": "https://cdn.mos.cms.futurecdn.net/iaLn9eep6ryDrWj6V9zkb9-1920-80.jpg"
     },
     {
-      "title": "Best Black Friday Gaming PC Deals live",
-      "link": "https://www.tomshardware.com/live/news/black-friday-gaming-pc-deals-2026-day-two",
-      "desc": "All the best Black Friday gaming PC deals you can still buy this weekend.",
-      "img": "https://cdn.mos.cms.futurecdn.net/GKwRPyL8LPL5icneBGNJk8-1920-80.jpg"
+      "title": "$120 wearable LED pin acts as a 'watermark for humans' to fight deepfakes",
+      "link": "https://www.tomshardware.com/peripherals/wearable-tech/usd120-wearable-led-pin-acts-as-a-watermark-for-humans-to-fight-deepfakes-esp32-s3-powered-protector-flashes-secret-time-synced-light-codes-every-second",
+      "desc": "The Protector, a wearable ESP32-S3-powered pin packed with an LED matrix, is designed to be a 'water...",
+      "img": "https://cdn.mos.cms.futurecdn.net/rLAwqmWTGm64TiTcuyy2rW-1920-80.jpg"
     },
     {
-      "title": "Best Black Friday 2026 tech deals live",
-      "link": "https://www.tomshardware.com/live/news/black-friday-2026-day-four",
-      "desc": "All the best Black Friday deals for tech and PC hardware you can still buy this weekend.",
-      "img": "https://cdn.mos.cms.futurecdn.net/fiYgAHsdh2PhyCmgVXUNQf-1920-80.jpg"
+      "title": "We built the best all-around DIY PC we could from Cyber Monday deals, and it's pretty sweet",
+      "link": "https://www.tomshardware.com/pc-components/we-built-the-best-all-around-diy-pc-we-could-from-cyber-monday-deals-and-its-pretty-sweet-get-core-ultra-7-270k-plus-cpu-power-and-rx-9070-xt-gaming-prowess-for-less-than-usd2500-this-black-friday-weekend",
+      "desc": "PC parts are more expensive than ever, but we dug through the best Cyber Monday deals around to buil...",
+      "img": "https://cdn.mos.cms.futurecdn.net/nGhkLfsxxcLiYTAXHTapZ5-1920-80.jpg"
     },
     {
-      "title": "This Lenovo LOQ notebook with Arc B390 graphics is just $799 this Black Friday",
-      "link": "https://www.tomshardware.com/laptops/gaming-laptops/this-lenovo-loq-notebook-with-arc-b390-graphics-is-just-usd799-this-black-friday-get-a-gaming-ready-panther-lake-laptop-for-a-super-low-price",
-      "desc": "Good cheap gaming notebooks are hard to find this Black Friday, but Lenovo's LOQ laptop with Arc B39...",
-      "img": "https://cdn.mos.cms.futurecdn.net/DWXvQ5EP2jtrJmx7E7KcGc-1920-80.jpg"
+      "title": "Caveman repurposes old mining rig for local AI, pools 72GB VRAM across mismatched GPUs",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/caveman-repurposes-old-mining-rig-for-local-ai-pools-72gb-vram-across-mismatched-gpus-pcie-x1-slot-hits-just-10-percent-load-while-running-a-120b-model",
+      "desc": "Caveman employs mining rig for local AI, finds a PCIe x1 slot is more than enough — link only 10% bu...",
+      "img": "https://cdn.mos.cms.futurecdn.net/kqVBuGYgUcKMkyHTYZKSNC-1920-80.jpg"
     },
     {
-      "title": "Get a perfect Alienware 4K OLED 32\" display with RGB subpixels for $150 off",
-      "link": "https://www.tomshardware.com/pc-components/get-a-perfect-alienware-4k-oled-32-display-with-rgb-subpixels-for-usd150-off-165-hz-refresh-rate-1000-nits-hdr-and-dolby-vision-support-with-the-aw3226q",
-      "desc": "Get a perfect Alienware AW3226Q 4K OLED 32\" display with RGB subpixels for $549.99, or $150 off — 16...",
-      "img": "https://cdn.mos.cms.futurecdn.net/g6ubwcbMykCdbvHRjXHQUB-1920-80.jpg"
+      "title": "Save $400 on this RTX 5070 Ti gaming laptop",
+      "link": "https://www.tomshardware.com/pc-components/save-usd400-on-this-rtx-5070-ti-gaming-laptop-msi-vector-16-hx-ai-with-intel-core-ultra-7-and-16gb-ddr5-ram-drops-to-usd1-599",
+      "desc": "You'll get 20% off on this RTX 5070 Ti gaming laptop from Newegg if you act quickly.",
+      "img": "https://cdn.mos.cms.futurecdn.net/yRfAmVtqMYsM8fMzuAh7yT-1920-80.jpg"
     },
     {
-      "title": "SanDisk’s lightning-fast Optimus GX Pro 8100 2TB NVMe SSD is 21% off and $0.18 cents per GB",
-      "link": "https://www.tomshardware.com/pc-components/sandisks-lightning-fast-optimus-gx-pro-8100-2tb-nvme-ssd-is-21-percent-off-and-usd0-18-cents-per-gb-usd349-for-a-pcie-5-0-m-2-ssd-is-about-as-good-as-it-gets-for-black-friday",
-      "desc": "2TB SanDisk Optimus GX Pro 8100 PCIe 5.0 SSD is down to an all-time low of $349, making it one of th...",
-      "img": "https://cdn.mos.cms.futurecdn.net/pMTcuo7Q4bxL3GCEcpu3Yf-1920-80.png"
+      "title": "FCC approves Elon Musk’s 1-million-satellite 'Starmind' orbital data center plan",
+      "link": "https://www.tomshardware.com/tech-industry/space/fcc-approves-elon-musks-1-million-satellite-starmind-orbital-data-center-plan-first-747-sized-compute-unit-due-by-2033-despite-kessler-syndrome-fears",
+      "desc": "The approval requires SpaceX to launch its first satellite by 2033 and complete the constellation by...",
+      "img": "https://cdn.mos.cms.futurecdn.net/SixcqdypU9u8pydsTqaoJc-1920-80.jpg"
     }
   ],
   "crypto": [
-    {
-      "title": "Binance receives in-principle approval, plans Asia hub in Bhutan",
-      "link": "https://cointelegraph.com/news/binance-receives-in-principle-approval-plans-asia-hub-in-bhutan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The agreement is a milestone in Binance’s effort to expand its presence in Bhutan since launching a ...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8GHPP2BJM5QSYM4XB8W5TP3/hi-gate-bhutan2.jpg"
-    },
     {
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impac...",
       "img": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
+    },
+    {
+      "title": "Justin Sun calls for Trump family-linked WLFI token to be delisted",
+      "link": "https://cointelegraph.com/news/justin-sun-calls-for-trump-family-linked-wlfi-token-to-be-delisted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Sun also urged exchanges to issue warnings, restrict deposits and require disclosure of where funds ...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8H5C1A6GBRN04YFGTX7SKRM/justin-sun-vs-trump.jpg"
+    },
+    {
+      "title": "ASEAN+3 agrees on initiative to explore crypto payments cooperation",
+      "link": "https://cointelegraph.com/news/asean3-agrees-on-initiative-to-explore-crypto-payments-cooperation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "A working group will examine enhancing connectivity between domestic digital payment networks and br...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8GV9V8Z9EXF3YR2PA2TVEJA/hi-crypto-paymentscoin.jpg"
+    },
+    {
+      "title": "Binance plans Asia hub in Bhutan, receives preliminary approval",
+      "link": "https://cointelegraph.com/news/binance-receives-in-principle-approval-plans-asia-hub-in-bhutan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The agreement is a milestone in Binance’s effort to expand its presence in Bhutan since launching a ...",
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8GHPP2BJM5QSYM4XB8W5TP3/hi-gate-bhutan2.jpg"
     },
     {
       "title": "Franklin Templeton makes room for HYPE in crypto index ETF",
@@ -137,56 +149,44 @@
       "link": "https://cointelegraph.com/markets/bitcoin-whales-pile-btc-despite-shrinking-profit-cushion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "CryptoQuant data shows Bitcoin whales are breaking with historical fourth-quarter selling patterns d...",
       "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8EZRZTWET1C6FPBGDJZHHK2/diamond-encased-bitcoins.png"
-    },
-    {
-      "title": "China sets March 2027 rollout for blockchain identity regulations",
-      "link": "https://cointelegraph.com/news/china-march-2027-rollout-blockchain-identity-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "China has issued new regulations governing blockchain-based digital identities, setting rules for cr...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8EVTBT6HP6DPAEHWFE95N9V/stronger-china-flag-overlay.jpeg"
-    },
-    {
-      "title": "Bitcoin price drops below $59K as Anthropic joins tech stock rebound",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-below-59k-anthropic-tech-stock-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Bitcoin price volatility returned at the Wall Street open as BTC/USD dropped to local lows of $58,70...",
-      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8ESH2B3W3M02NVS1RNS6AQH/crypto-bitcoin-btc-price-960x640-960x640.webp"
     }
   ],
   "various": [
     {
-      "title": "Pensions and benefits services still down after 'cyber incident'",
-      "link": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
-      "desc": "The UK's former chief technology officer says the Department for Work and Pensions may have been hit...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ac8/live/f4dc2df0-eafa-11f1-83de-2b6b9d423090.jpg"
+      "title": "Argentina's bid to stop Falklands oil drilling rejected",
+      "link": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
+      "desc": "A joint venture between UK-Israeli companies is set to start exploring for oil and gas, but Argentin...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1615/live/b6e6bd30-eb1d-11f1-8743-3f686b14075c.jpg"
     },
     {
-      "title": "Catherine's emotional cancer documentary strips away the stiff upper lip",
-      "link": "https://www.bbc.co.uk/news/articles/c6zxvy9j0wpjo?at_medium=RSS&at_campaign=rss",
-      "desc": "The Princess of Wales has made a documentary, Heal, describing her cancer experience in her own word...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/daa6/live/05399b00-ea84-11f1-99a1-253766e7ad8b.jpg"
+      "title": "Burnham's No 10 influencer row shows reach matters - but so does scrutiny",
+      "link": "https://www.bbc.co.uk/news/articles/c6074pyreg2eo?at_medium=RSS&at_campaign=rss",
+      "desc": "Prime ministers have always chased audiences - but does the backlash over Max Balegde’s video show B...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf95/live/94958660-ea70-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "title": "Woman, 21, dies in Staffordshire crash following police pursuit",
+      "link": "https://www.bbc.co.uk/news/articles/ckwy9rde8gyqo?at_medium=RSS&at_campaign=rss",
+      "desc": "Two forces are being investigated after Friday's late night crash on Rugeley Road in Hednesford.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba67/live/c22de780-eb2d-11f1-8c00-ff7035d56586.jpg"
+    },
+    {
+      "title": "Swinney insists Scotland's NHS is safe despite hospital scandal",
+      "link": "https://www.bbc.co.uk/news/articles/c6p3ev43lkk3o?at_medium=RSS&at_campaign=rss",
+      "desc": "The first minister urged people to attend medical appointments after a leaked report highlighted avo...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f59/live/5bfce680-eb39-11f1-b514-bbaea63b50f5.jpg"
     },
     {
       "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
       "link": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
       "desc": "The Israeli military says it targeted \"Hamas terrorists\" in the strike which has been condemned by t...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b215/live/7a8dcfc0-eacf-11f1-b107-c5fb3c6f82eb.jpg"
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f48/live/c26c94a0-eb21-11f1-99a1-253766e7ad8b.jpg"
     },
     {
-      "title": "Pharmacies get new powers to swap prescriptions during shortages",
-      "link": "https://www.bbc.co.uk/news/articles/cw5y1pelzm8ro?at_medium=RSS&at_campaign=rss",
-      "desc": "If a medicine is out of stock, staff can offer the same drug in a different strength or form, like a...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d4d/live/7569eb90-ea5d-11f1-89b9-f318b11567ea.jpg"
-    },
-    {
-      "title": "Set time aside for children to read for pleasure, schools to be told",
-      "link": "https://www.bbc.co.uk/news/articles/c65y1vp4ndqjo?at_medium=RSS&at_campaign=rss",
-      "desc": "The government says its new cirriculum hopes to reverse declining literacy rates and combat \"mindles...",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/135c/live/334e1f80-eac9-11f1-b4f7-a59fcb94e161.jpg"
-    },
-    {
-      "title": "Charity founded in Captain Tom's name bids to be struck off",
-      "link": "https://www.bbc.co.uk/news/articles/c6jeqyqzy1y7o?at_medium=RSS&at_campaign=rss",
-      "desc": "The charity is now known as the 1189808 Foundation, having dropped the late fundraiser's name.",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7337/live/caba0040-a77e-11ef-a968-c7efee733ac0.jpg"
+      "title": "'I don't know what I'd do without it': Is this the end for Poundland?",
+      "link": "https://www.bbc.co.uk/news/articles/c65y1l9j7j9ko?at_medium=RSS&at_campaign=rss",
+      "desc": "With baskets loaded full of bargains, shoppers at the much-loved chain tell the BBC the high street ...",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f327/live/896fe430-eb18-11f1-99b6-a35a62fa4264.jpg"
     }
   ]
 }
